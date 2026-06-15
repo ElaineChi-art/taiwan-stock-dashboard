@@ -8,6 +8,8 @@ WATCHLIST = [
     {"ticker": "2330.TW", "name": "台積電"},
     {"ticker": "2317.TW", "name": "鴻海"},
     {"ticker": "2454.TW", "name": "聯發科"},
+    {"ticker": "BTC-USD", "name": "比特幣"},
+    {"ticker": "ETH-USD", "name": "以太幣"},
 ]
 
 # 模型參數

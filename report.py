@@ -56,7 +56,7 @@ def build_html(date_str, rows, generated_at):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>台股每日 AI 儀表板 · {date_str}</title>
+<title>台股＋加密貨幣 每日 AI 儀表板 · {date_str}</title>
 <style>
   :root {{ color-scheme: light dark; }}
   * {{ box-sizing: border-box; }}
@@ -91,7 +91,7 @@ def build_html(date_str, rows, generated_at):
 </head>
 <body>
 <header>
-  <h1>📊 台股每日 AI 儀表板</h1>
+  <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新</p>
 </header>
 <p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。</p>
