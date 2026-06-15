@@ -1,0 +1,41 @@
+name: Daily stock dashboard
+
+on:
+  schedule:
+    # 每個工作日 09:00 UTC（= 台灣時間 17:00，收盤後）自動執行
+    - cron: "0 9 * * 1-5"
+  workflow_dispatch:        # 也可在 GitHub 網頁上手動按一下執行
+
+permissions:
+  contents: write           # 允許把更新後的 docs/ 推回 repo
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily pipeline
+        run: python daily_run.py
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs reports
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: 每日自動更新儀表板 $(date -u +%Y-%m-%d)"
+            git push
+          fi
