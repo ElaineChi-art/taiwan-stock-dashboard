@@ -52,7 +52,9 @@ def run():
                 os.path.join(ASSETS, f"{ticker}.png"),
                 chart_days=config.CHART_DAYS)
 
-            news = news_sentiment.analyze(name, config.NEWS_LIMIT)
+            market = item.get("market", "tw")
+            nquery = item.get("query_en", name) if market == "us" else name
+            news = news_sentiment.analyze(nquery, config.NEWS_LIMIT, market=market)
 
             row.update({
                 "last_close": result["last_close"],

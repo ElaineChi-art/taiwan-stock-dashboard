@@ -5,8 +5,8 @@
     "market": "tw",
     "binance": "",
     "last_close": 105.25,
-    "predicted": 104.50902557373047,
-    "pct_change": -0.7040137066693883,
+    "predicted": 104.92759704589844,
+    "pct_change": -0.30632109653355105,
     "news": {
       "count": 12,
       "score": 0.083,
@@ -37,8 +37,8 @@
     "market": "tw",
     "binance": "",
     "last_close": 2375.0,
-    "predicted": 2313.869384765625,
-    "pct_change": -2.5739206414473683,
+    "predicted": 2311.79931640625,
+    "pct_change": -2.661081414473684,
     "news": {
       "count": 12,
       "score": 0.0,
@@ -53,11 +53,11 @@
           "score": 0
         },
         {
-          "title": "面板級封裝競爭白熱化 台積電布局PLP供應鏈對決三星 - DIGITIMES",
+          "title": "不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市",
           "score": 0
         },
         {
-          "title": "不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市",
+          "title": "台積電等大案帶動 今年前5月對外投資大增133% - 中央社 CNA",
           "score": 0
         }
       ]
@@ -69,8 +69,8 @@
     "market": "tw",
     "binance": "",
     "last_close": 267.5,
-    "predicted": 260.6229553222656,
-    "pct_change": -2.5708578234521027,
+    "predicted": 266.2506103515625,
+    "pct_change": -0.46706155081775697,
     "news": {
       "count": 12,
       "score": 0.0,
@@ -101,8 +101,8 @@
     "market": "tw",
     "binance": "",
     "last_close": 4470.0,
-    "predicted": 4636.005859375,
-    "pct_change": 3.7137776146532437,
+    "predicted": 4305.234375,
+    "pct_change": -3.686031879194631,
     "news": {
       "count": 12,
       "score": 0.167,
@@ -133,27 +133,27 @@
     "market": "us",
     "binance": "",
     "last_close": 212.4499969482422,
-    "predicted": 203.21124267578125,
-    "pct_change": -4.348672348868857,
+    "predicted": 206.91236877441406,
+    "pct_change": -2.606556014767664,
     "news": {
       "count": 12,
       "score": 0.0,
       "label": "中性 ⚪",
       "samples": [
         {
-          "title": "輝達發債 籌資200億美元 五年來首見 - 經濟日報",
+          "title": "Nvidia Joins AI Debt Boom With Bond Sale Targeting $20 Billion - Bloomberg",
           "score": 0
         },
         {
-          "title": "SpaceX將與輝達聯手打造太空算力？馬斯克喊話黃仁勳：合作升級！ - news.cnyes.com",
+          "title": "Here are Monday's biggest analyst calls: Nvidia, Micron, Ferrari, Rocket Lab, DataDog & more - CNBC",
           "score": 0
         },
         {
-          "title": "輝達、Google率先導入800V HVDC提前上陣不只台達電這2台廠商機發酵- 日報 - 工商時報",
+          "title": "Nvidia Is Selling Debt for the First Time in Five Years. Why the Stock Is Jumping. - Barron's",
           "score": 0
         },
         {
-          "title": "蘇元和觀點》輝達、台積電背後最不能缺的其實是這塊玻纖布| 財經 - Newtalk新聞",
+          "title": "Nvidia’s Share of AI Inference Chip Market Appears to Be Rising - The Information",
           "score": 0
         }
       ]
@@ -165,27 +165,27 @@
     "market": "us",
     "binance": "",
     "last_close": 411.1499938964844,
-    "predicted": 397.384521484375,
-    "pct_change": -3.3480414973750725,
+    "predicted": 395.949462890625,
+    "pct_change": -3.697076792292602,
     "news": {
       "count": 12,
       "score": 0.0,
       "label": "中性 ⚪",
       "samples": [
         {
-          "title": "群聯×阿波羅×Tesla 企業強韌電網落地 - 經濟日報",
+          "title": "Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters",
           "score": 0
         },
         {
-          "title": "特斯拉 FSD 登台有譜！交通部確認落地免修法，特斯拉正式送件並完成測試和認證即可上路 - Yahoo - 汽機車",
+          "title": "Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh - Electrek",
           "score": 0
         },
         {
-          "title": "比人類駕駛要安全 3.5 倍，特斯拉公開首份歐洲 FSD 安全報告 - Yahoo - 汽機車",
+          "title": "We Have New Tesla Cybercab Specs Before You're Supposed to See Them Thanks to EPA Documents - Car and Driver",
           "score": 0
         },
         {
-          "title": "特斯拉遭爆用美化數據 誤導歐洲爭取自動駕駛批准 | 民視新聞網 - LINE TODAY",
+          "title": "What is the Tesla Cybercab and what’s it doing on Orlando’s streets? - WKMG",
           "score": 0
         }
       ]
@@ -197,28 +197,28 @@
     "market": "us",
     "binance": "",
     "last_close": 547.260009765625,
-    "predicted": 514.3341674804688,
-    "pct_change": -6.0164897302211795,
+    "predicted": 511.7196960449219,
+    "pct_change": -6.494228170613814,
     "news": {
       "count": 12,
-      "score": -0.083,
-      "label": "中性 ⚪",
+      "score": 0.333,
+      "label": "偏多 🟢",
       "samples": [
         {
-          "title": "AI訂單在手美超微宣布70億美元增資盤後股價重挫- 國際 - 工商時報",
-          "score": -1
+          "title": "AMD Stock Soars. It’s Buying MEXT to Fight Memory Shortage. - Barron's",
+          "score": 1
         },
         {
-          "title": "超微欽點EFB封裝第二供應路徑 台載板三雄卡位CoWoS外新戰局 - DIGITIMES",
-          "score": 0
+          "title": "AMD stock rallies after MEXT acquisition; targets AI memory bottleneck - Seeking Alpha",
+          "score": 1
         },
         {
-          "title": "超微高層：AI需求增速超越供應能力 電力與晶片供應鏈全面吃緊 - DIGITIMES",
-          "score": 0
+          "title": "AMD Stock Gets a Major Upgrade From Citi - TradingView",
+          "score": 1
         },
         {
-          "title": "＜財經週報-AI伺服器頂尖對決＞超微、輝達新架構齊聚台積電 點燃AI超級算力 - 自由財經",
-          "score": 0
+          "title": "Nvidia vs AMD: The Better AI Stock Is A Better Buy This June - Yahoo Finance",
+          "score": 1
         }
       ]
     }
@@ -228,28 +228,28 @@
     "name": "比特幣",
     "market": "crypto",
     "binance": "BTCUSDT",
-    "last_close": 66617.421875,
-    "predicted": 65116.921875,
-    "pct_change": -2.252413794721022,
+    "last_close": 66482.6328125,
+    "predicted": 64384.9140625,
+    "pct_change": -3.155288323066515,
     "news": {
       "count": 12,
-      "score": -0.083,
-      "label": "中性 ⚪",
+      "score": 0.167,
+      "label": "偏多 🟢",
       "samples": [
         {
           "title": "美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com",
           "score": 1
         },
         {
-          "title": "川普宣布伊朗和平協議底定 油價大跌金價軟比特幣飆近6.5萬美元 - Yahoo股市",
-          "score": -1
+          "title": "比特幣還有近1倍漲幅？各大金融目標最高喊17萬美元關鍵利多曝光- 日報 - 工商時報",
+          "score": 1
         },
         {
-          "title": "比特幣挖礦難度暴降 10%！寫下今年次大跌幅，幣價重挫引爆「礦工關機潮」 - news.cnyes.com",
-          "score": -1
+          "title": "比特幣這輪底部遠高於歷史上熊市？Galaxy拋出「平靜頂部」論點 - 動區動趨",
+          "score": 0
         },
         {
-          "title": "比特幣強勢衝破 6.7 萬美元、以太坊站上 $1800！全網 24 小時爆倉近 6 億美元、11 萬人遭清算 - 動區動趨",
+          "title": "美伊停火協議提振市場信心 比特幣強勢收復6.5萬美元大關 至近兩周高點 - Yahoo股市",
           "score": 0
         }
       ]
@@ -260,9 +260,9 @@
     "name": "以太幣",
     "market": "crypto",
     "binance": "ETHUSDT",
-    "last_close": 1820.7099609375,
-    "predicted": 1754.61181640625,
-    "pct_change": -3.630350025504088,
+    "last_close": 1815.0999755859375,
+    "predicted": 1746.8114013671875,
+    "pct_change": -3.762248644001308,
     "news": {
       "count": 12,
       "score": 0.333,

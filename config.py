@@ -11,9 +11,9 @@ WATCHLIST = [
     {"ticker": "2330.TW", "name": "台積電",     "market": "tw"},
     {"ticker": "2317.TW", "name": "鴻海",       "market": "tw"},
     {"ticker": "2454.TW", "name": "聯發科",     "market": "tw"},
-    {"ticker": "NVDA",    "name": "輝達",       "market": "us"},
-    {"ticker": "TSLA",    "name": "特斯拉",     "market": "us"},
-    {"ticker": "AMD",     "name": "超微",       "market": "us"},
+    {"ticker": "NVDA",    "name": "輝達",       "market": "us", "query_en": "NVIDIA"},
+    {"ticker": "TSLA",    "name": "特斯拉",     "market": "us", "query_en": "Tesla"},
+    {"ticker": "AMD",     "name": "超微",       "market": "us", "query_en": "AMD stock"},
     {"ticker": "BTC-USD", "name": "比特幣",     "market": "crypto", "binance": "BTCUSDT"},
     {"ticker": "ETH-USD", "name": "以太幣",     "market": "crypto", "binance": "ETHUSDT"},
 ]
