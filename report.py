@@ -4,57 +4,114 @@ import html
 import json
 
 
-def _tradingview(rows):
-    """用 rows 的 tv 代碼產生 TradingView 即時元件：跑馬燈 + 大型互動 K 線圖。"""
-    syms = [r for r in rows if r.get("tv")]
+_LIVE_JS = r"""
+const SYMBOLS = /*SYMBOLS*/;
+const fmt = n => (Math.abs(n) >= 100 ? n.toLocaleString('en-US',{maximumFractionDigits:2})
+                                     : n.toFixed(2));
+const chartEl = document.getElementById('livechart');
+const chart = LightweightCharts.createChart(chartEl, {
+  autoSize: true,
+  layout: { background:{ color:'#161922' }, textColor:'#c3cad6' },
+  grid: { vertLines:{ color:'#222733' }, horzLines:{ color:'#222733' } },
+  rightPriceScale: { borderColor:'#2a2f3a' },
+  timeScale: { borderColor:'#2a2f3a', timeVisible:true, secondsVisible:false },
+  crosshair: { mode: 0 }
+});
+let series = null, timer = null, current = null;
+
+function clearSeries(){
+  if (series){ chart.removeSeries(series); series = null; }
+  if (timer){ clearInterval(timer); timer = null; }
+}
+async function fetchCrypto(b){
+  const r = await fetch(`https://api.binance.com/api/v3/klines?symbol=${b}&interval=1m&limit=240`);
+  const d = await r.json();
+  return d.map(k => ({ time:k[0]/1000+28800, open:+k[1], high:+k[2], low:+k[3], close:+k[4] }));
+}
+async function fetchTW(url){
+  const r = await fetch(url + `?t=${Date.now()}`);
+  if (!r.ok) throw new Error('no-data');
+  const j = await r.json();
+  return { points:(j.points||[]).map(p => ({ time:p[0], value:p[1] })), updated:j.updated };
+}
+async function load(sym){
+  clearSeries();
+  current = sym;
+  const meta = document.getElementById('livemeta');
+  try {
+    if (sym.type === 'crypto'){
+      series = chart.addCandlestickSeries({ upColor:'#ff5c5c', downColor:'#36d399',
+        borderVisible:false, wickUpColor:'#ff5c5c', wickDownColor:'#36d399' });
+      series.setData(await fetchCrypto(sym.binance));
+      meta.textContent = '來源：Binance · 真即時（每 15 秒更新）';
+      timer = setInterval(async () => { if (current!==sym) return;
+        try { series.setData(await fetchCrypto(sym.binance)); } catch(e){} }, 15000);
+    } else {
+      series = chart.addAreaSeries({ lineColor:'#4aa3ff',
+        topColor:'rgba(74,163,255,.35)', bottomColor:'rgba(74,163,255,0)' });
+      const { points, updated } = await fetchTW(sym.url);
+      if (!points.length) throw new Error('empty');
+      series.setData(points);
+      meta.textContent = '來源：台股盤中 5 分 K · 約延遲 15 分（資料時間 ' + (updated||'') + '）';
+      timer = setInterval(async () => { if (current!==sym) return;
+        try { const t = await fetchTW(sym.url); if (t.points.length) series.setData(t.points); } catch(e){} }, 60000);
+    }
+    chart.timeScale().fitContent();
+  } catch(e){
+    meta.textContent = '⚠️ 此標的盤中資料準備中（台股僅在交易時段 09:00–13:30 更新）。';
+  }
+  document.querySelectorAll('.symbtn').forEach(b => b.classList.toggle('on', b.dataset.key === sym.key));
+}
+async function updateQuotes(){
+  for (const s of SYMBOLS){
+    try {
+      let last, pct;
+      if (s.type === 'crypto'){
+        const j = await (await fetch(`https://api.binance.com/api/v3/ticker/24hr?symbol=${s.binance}`)).json();
+        last = +j.lastPrice; pct = +j.priceChangePercent;
+      } else {
+        const r = await fetch(s.url + `?t=${Date.now()}`); if (!r.ok) continue;
+        const j = await r.json(); const p = j.points||[]; if (!p.length) continue;
+        last = p[p.length-1][1]; pct = (last - p[0][1]) / p[0][1] * 100;
+      }
+      const pe = document.getElementById('qp_'+s.key), ce = document.getElementById('qc_'+s.key);
+      if (pe) pe.textContent = fmt(last);
+      if (ce){ ce.textContent = (pct>=0?'+':'') + pct.toFixed(2) + '%'; ce.className = 'qc ' + (pct>=0?'up':'down'); }
+    } catch(e){}
+  }
+}
+document.getElementById('symbtns').innerHTML = SYMBOLS.map(s =>
+  `<button class="symbtn" data-key="${s.key}"><span class="qn">${s.name}</span>` +
+  `<span class="qp" id="qp_${s.key}">—</span><span class="qc" id="qc_${s.key}"></span></button>`).join('');
+document.querySelectorAll('.symbtn').forEach(b =>
+  b.addEventListener('click', () => load(SYMBOLS.find(x => x.key === b.dataset.key))));
+if (SYMBOLS.length){ load(SYMBOLS[0]); updateQuotes(); setInterval(updateQuotes, 15000); }
+"""
+
+
+def _live_charts(rows):
+    """自建即時圖：加密貨幣抓 Binance（真即時）、台股讀自家 docs/data JSON（約延遲15分）。"""
+    syms = []
+    for r in rows:
+        tv = r.get("tv", "")
+        if tv.startswith("BINANCE:"):
+            syms.append({"key": r["ticker"], "name": r["name"],
+                         "type": "crypto", "binance": tv.split(":", 1)[1]})
+        elif r["ticker"].upper().endswith((".TW", ".TWO")):
+            syms.append({"key": r["ticker"], "name": r["name"],
+                         "type": "tw", "url": f"data/{r['ticker']}.json"})
     if not syms:
-        return "", ""
-
-    # 1) 頂部跑馬燈（即時報價滾動）
-    tape_cfg = {
-        "symbols": [{"proName": r["tv"], "title": r["name"]} for r in syms],
-        "showSymbolLogo": True,
-        "isTransparent": True,
-        "displayMode": "adaptive",
-        "colorTheme": "dark",
-        "locale": "zh_TW",
-    }
-    tape = f"""
-    <div class="tradingview-widget-container">
-      <div class="tradingview-widget-container__widget"></div>
-      <script type="text/javascript"
-        src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
-      {json.dumps(tape_cfg, ensure_ascii=False)}
-      </script>
-    </div>"""
-
-    # 2) 大型即時互動圖（可切換標的、縮放、加技術指標）
-    chart_cfg = {
-        "autosize": True,
-        "symbol": syms[1]["tv"] if len(syms) > 1 else syms[0]["tv"],
-        "interval": "D",
-        "timezone": "Asia/Taipei",
-        "theme": "dark",
-        "style": "1",
-        "locale": "zh_TW",
-        "withdateranges": True,
-        "allow_symbol_change": True,
-        "details": True,
-        "watchlist": [r["tv"] for r in syms],
-        "support_host": "https://www.tradingview.com",
-    }
-    chart = f"""
+        return ""
+    js = _LIVE_JS.replace("/*SYMBOLS*/", json.dumps(syms, ensure_ascii=False))
+    return f"""
     <section class="live">
-      <h2 class="sec">🔴 即時行情（自動連動市場 · 可切換標的）</h2>
-      <div class="tradingview-widget-container" style="height:520px;width:100%">
-        <div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div>
-        <script type="text/javascript"
-          src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-        {json.dumps(chart_cfg, ensure_ascii=False)}
-        </script>
-      </div>
-    </section>"""
-    return tape, chart
+      <h2 class="sec">🔴 即時行情（加密貨幣真即時 · 台股約延遲 15 分 · 自動更新）</h2>
+      <div class="symbtns" id="symbtns"></div>
+      <div id="livechart"></div>
+      <p class="muted" id="livemeta" style="margin-top:8px">載入中…</p>
+    </section>
+    <script src="https://unpkg.com/lightweight-charts@4.2.0/dist/lightweight-charts.standalone.production.js"></script>
+    <script>{js}</script>"""
 
 
 def _signal(pct):
@@ -105,7 +162,7 @@ def build_html(date_str, rows, generated_at):
         </div>""")
 
     cards_html = "\n".join(cards)
-    tape_html, chart_html = _tradingview(rows)
+    live_html = _live_charts(rows)
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -144,6 +201,16 @@ def build_html(date_str, rows, generated_at):
   .disc {{ max-width:1200px; margin:0 auto; padding:0 20px; color:#8a93a3; font-size:12px; }}
   .live {{ max-width:1200px; margin:8px auto 0; padding:0 20px; }}
   .sec {{ font-size:16px; margin:18px 0 10px; }}
+  .symbtns {{ display:flex; flex-wrap:wrap; gap:8px; margin-bottom:10px; }}
+  .symbtn {{ background:#161922; border:1px solid #262b36; border-radius:10px;
+            padding:8px 12px; color:#e6e6e6; cursor:pointer; display:flex;
+            flex-direction:column; align-items:flex-start; min-width:96px; }}
+  .symbtn.on {{ border-color:#4aa3ff; box-shadow:inset 0 0 0 1px #4aa3ff; }}
+  .symbtn .qn {{ font-size:12px; color:#9aa4b2; }}
+  .symbtn .qp {{ font-size:15px; font-weight:600; }}
+  .symbtn .qc {{ font-size:12px; }}
+  #livechart {{ height:480px; width:100%; border:1px solid #262b36;
+               border-radius:12px; overflow:hidden; background:#161922; }}
 </style>
 </head>
 <body>
@@ -151,9 +218,8 @@ def build_html(date_str, rows, generated_at):
   <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新</p>
 </header>
-{tape_html}
-<p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。即時行情由 TradingView 提供（加密貨幣即時、台股可能延遲約 15 分鐘）。</p>
-{chart_html}
+<p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。即時圖：加密貨幣為 Binance 即時資料；台股為盤中 5 分 K、約延遲 15 分鐘（免費資料上限）。</p>
+{live_html}
 <div class="live"><h2 class="sec">🤖 AI 每日預測 + 新聞情緒</h2></div>
 <div class="grid">
 {cards_html}

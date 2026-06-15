@@ -37,5 +37,6 @@ jobs:
             echo "No changes to commit."
           else
             git commit -m "chore: 每日自動更新儀表板 $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash origin main || true
             git push
           fi

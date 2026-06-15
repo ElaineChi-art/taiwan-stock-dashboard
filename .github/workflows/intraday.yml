@@ -1,0 +1,45 @@
+name: Intraday TW prices
+
+on:
+  schedule:
+    # 台股盤中（台灣 09:00–14:xx = UTC 01:00–06:xx）每 15 分鐘抓一次
+    - cron: "*/15 1-6 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 避免多個盤中任務同時推送打架
+concurrency:
+  group: intraday
+  cancel-in-progress: false
+
+jobs:
+  intraday:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install (light deps only)
+        run: pip install yfinance pandas
+
+      - name: Fetch intraday TW prices
+        run: python intraday.py
+
+      - name: Commit intraday data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "data: 盤中更新 $(date -u +%H:%M) UTC"
+            git pull --rebase --autostash origin main || true
+            git push
+          fi
