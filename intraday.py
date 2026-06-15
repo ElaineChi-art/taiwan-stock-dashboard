@@ -13,15 +13,14 @@ import config
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "docs", "data")
-TW_OFFSET = 8 * 3600  # 把時間軸顯示成台北時間用
-
-
-def is_tw(item):
-    return item["ticker"].upper().endswith((".TW", ".TWO"))
 
 
 def fetch_intraday(ticker):
-    """回傳最後一個交易日的 [[顯示用epoch秒, 收盤價], ...]。"""
+    """回傳最後一個交易日的 [[顯示用epoch秒, 收盤價], ...]。
+
+    顯示用 epoch = 真實UTC + 該市場當地時區偏移，讓時間軸呈現當地盤中時間
+    （台股 09:00–13:30、美股 09:30–16:00）。
+    """
     import yfinance as yf
     df = yf.download(ticker, period="5d", interval="5m",
                      progress=False, auto_adjust=False)
@@ -38,8 +37,8 @@ def fetch_intraday(ticker):
     s = s[[ts.date() == last_day for ts in s.index]]
     pts = []
     for ts, val in s.items():
-        # ts 是 +08:00 時區；轉成顯示用 epoch（讓時間軸呈現台北時間）
-        epoch = int(ts.timestamp()) + TW_OFFSET
+        off = ts.utcoffset().total_seconds() if ts.utcoffset() else 0
+        epoch = int(ts.timestamp()) + int(off)
         pts.append([epoch, round(float(val), 2)])
     return pts
 
@@ -48,8 +47,8 @@ def run():
     os.makedirs(DATA, exist_ok=True)
     now = datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
     for item in config.WATCHLIST:
-        if not is_tw(item):
-            continue
+        if item.get("market") == "crypto":
+            continue  # 加密貨幣由前端直連 Binance，不需後端資料
         ticker, name = item["ticker"], item["name"]
         try:
             pts = fetch_intraday(ticker)

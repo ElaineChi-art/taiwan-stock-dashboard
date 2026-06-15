@@ -2,10 +2,11 @@
   {
     "ticker": "0050.TW",
     "name": "元大台灣50",
-    "tv": "TWSE:0050",
+    "market": "tw",
+    "binance": "",
     "last_close": 105.25,
-    "predicted": 105.96351623535156,
-    "pct_change": 0.677925164229513,
+    "predicted": 104.50902557373047,
+    "pct_change": -0.7040137066693883,
     "news": {
       "count": 12,
       "score": 0.083,
@@ -33,10 +34,11 @@
   {
     "ticker": "2330.TW",
     "name": "台積電",
-    "tv": "TWSE:2330",
+    "market": "tw",
+    "binance": "",
     "last_close": 2375.0,
-    "predicted": 2242.791748046875,
-    "pct_change": -5.566663240131579,
+    "predicted": 2313.869384765625,
+    "pct_change": -2.5739206414473683,
     "news": {
       "count": 12,
       "score": 0.0,
@@ -51,11 +53,11 @@
           "score": 0
         },
         {
-          "title": "不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市",
+          "title": "面板級封裝競爭白熱化 台積電布局PLP供應鏈對決三星 - DIGITIMES",
           "score": 0
         },
         {
-          "title": "台積電等大案帶動 今年前5月對外投資大增133% - 中央社 CNA",
+          "title": "不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市",
           "score": 0
         }
       ]
@@ -64,10 +66,11 @@
   {
     "ticker": "2317.TW",
     "name": "鴻海",
-    "tv": "TWSE:2317",
+    "market": "tw",
+    "binance": "",
     "last_close": 267.5,
-    "predicted": 264.5671691894531,
-    "pct_change": -1.0963853497371496,
+    "predicted": 260.6229553222656,
+    "pct_change": -2.5708578234521027,
     "news": {
       "count": 12,
       "score": 0.0,
@@ -78,15 +81,15 @@
           "score": -1
         },
         {
+          "title": "2317 鴻海 - 今天漲停潮之後，要先把股票分成三種- 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
           "title": "鴻海衝上300元又下跌，現在還能進場？年領股息150萬老手：買在乏人問津時 - 商周財富網",
           "score": -1
         },
         {
           "title": "鴻海營收／5月8,594億元 續創歷年同期新高 - 經濟日報",
-          "score": 1
-        },
-        {
-          "title": "預言iPhone單季要組5400萬支！大摩點名「3台廠」開利多趴 需求火熱燒進高階市場 - Yahoo股市",
           "score": 1
         }
       ]
@@ -95,10 +98,11 @@
   {
     "ticker": "2454.TW",
     "name": "聯發科",
-    "tv": "TWSE:2454",
+    "market": "tw",
+    "binance": "",
     "last_close": 4470.0,
-    "predicted": 4779.28466796875,
-    "pct_change": 6.919120088786354,
+    "predicted": 4636.005859375,
+    "pct_change": 3.7137776146532437,
     "news": {
       "count": 12,
       "score": 0.167,
@@ -124,21 +128,114 @@
     }
   },
   {
-    "ticker": "BTC-USD",
-    "name": "比特幣",
-    "tv": "BINANCE:BTCUSDT",
-    "last_close": 66524.078125,
-    "predicted": 65049.6640625,
-    "pct_change": -2.216361510082933,
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 212.4499969482422,
+    "predicted": 203.21124267578125,
+    "pct_change": -4.348672348868857,
     "news": {
       "count": 12,
-      "score": 0.167,
-      "label": "偏多 🟢",
+      "score": 0.0,
+      "label": "中性 ⚪",
       "samples": [
         {
-          "title": "比特幣還有近1倍漲幅？各大金融目標最高喊17萬美元關鍵利多曝光- 日報 - 工商時報",
-          "score": 1
+          "title": "輝達發債 籌資200億美元 五年來首見 - 經濟日報",
+          "score": 0
         },
+        {
+          "title": "SpaceX將與輝達聯手打造太空算力？馬斯克喊話黃仁勳：合作升級！ - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "輝達、Google率先導入800V HVDC提前上陣不只台達電這2台廠商機發酵- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "蘇元和觀點》輝達、台積電背後最不能缺的其實是這塊玻纖布| 財經 - Newtalk新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 411.1499938964844,
+    "predicted": 397.384521484375,
+    "pct_change": -3.3480414973750725,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "群聯×阿波羅×Tesla 企業強韌電網落地 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "特斯拉 FSD 登台有譜！交通部確認落地免修法，特斯拉正式送件並完成測試和認證即可上路 - Yahoo - 汽機車",
+          "score": 0
+        },
+        {
+          "title": "比人類駕駛要安全 3.5 倍，特斯拉公開首份歐洲 FSD 安全報告 - Yahoo - 汽機車",
+          "score": 0
+        },
+        {
+          "title": "特斯拉遭爆用美化數據 誤導歐洲爭取自動駕駛批准 | 民視新聞網 - LINE TODAY",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 547.260009765625,
+    "predicted": 514.3341674804688,
+    "pct_change": -6.0164897302211795,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AI訂單在手美超微宣布70億美元增資盤後股價重挫- 國際 - 工商時報",
+          "score": -1
+        },
+        {
+          "title": "超微欽點EFB封裝第二供應路徑 台載板三雄卡位CoWoS外新戰局 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "超微高層：AI需求增速超越供應能力 電力與晶片供應鏈全面吃緊 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "＜財經週報-AI伺服器頂尖對決＞超微、輝達新架構齊聚台積電 點燃AI超級算力 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 66617.421875,
+    "predicted": 65116.921875,
+    "pct_change": -2.252413794721022,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
         {
           "title": "美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com",
           "score": 1
@@ -148,8 +245,12 @@
           "score": -1
         },
         {
-          "title": "Strategy 砸 1 億美元再加碼 1,587 枚比特幣！總持倉直逼 85 萬枚、耗資突破 640 億鎂 - 動區動趨",
-          "score": 1
+          "title": "比特幣挖礦難度暴降 10%！寫下今年次大跌幅，幣價重挫引爆「礦工關機潮」 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "比特幣強勢衝破 6.7 萬美元、以太坊站上 $1800！全網 24 小時爆倉近 6 億美元、11 萬人遭清算 - 動區動趨",
+          "score": 0
         }
       ]
     }
@@ -157,13 +258,14 @@
   {
     "ticker": "ETH-USD",
     "name": "以太幣",
-    "tv": "BINANCE:ETHUSDT",
-    "last_close": 1822.47998046875,
-    "predicted": 1787.028564453125,
-    "pct_change": -1.9452293795022506,
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1820.7099609375,
+    "predicted": 1754.61181640625,
+    "pct_change": -3.630350025504088,
     "news": {
       "count": 12,
-      "score": 0.417,
+      "score": 0.333,
       "label": "偏多 🟢",
       "samples": [
         {
@@ -179,7 +281,7 @@
           "score": 1
         },
         {
-          "title": "加密貨幣今日：為什麼比特幣、以太坊和瑞波幣上漲？ - FXStreet",
+          "title": "AI 、代幣化催生 50 倍上漲空間！Tom Lee 喊：以太幣會飆到 25 萬美元 - 區塊客",
           "score": 1
         }
       ]

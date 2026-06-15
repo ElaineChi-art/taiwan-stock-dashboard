@@ -52,13 +52,13 @@ async function load(sym){
       const { points, updated } = await fetchTW(sym.url);
       if (!points.length) throw new Error('empty');
       series.setData(points);
-      meta.textContent = '來源：台股盤中 5 分 K · 約延遲 15 分（資料時間 ' + (updated||'') + '）';
+      meta.textContent = '來源：盤中 5 分 K · 約延遲 15 分（資料時間 ' + (updated||'') + '）';
       timer = setInterval(async () => { if (current!==sym) return;
         try { const t = await fetchTW(sym.url); if (t.points.length) series.setData(t.points); } catch(e){} }, 60000);
     }
     chart.timeScale().fitContent();
   } catch(e){
-    meta.textContent = '⚠️ 此標的盤中資料準備中（台股僅在交易時段 09:00–13:30 更新）。';
+    meta.textContent = '⚠️ 此標的盤中資料準備中（僅在該市場交易時段更新）。';
   }
   document.querySelectorAll('.symbtn').forEach(b => b.classList.toggle('on', b.dataset.key === sym.key));
 }
@@ -76,7 +76,9 @@ async function updateQuotes(){
       }
       const pe = document.getElementById('qp_'+s.key), ce = document.getElementById('qc_'+s.key);
       if (pe) pe.textContent = fmt(last);
-      if (ce){ ce.textContent = (pct>=0?'+':'') + pct.toFixed(2) + '%'; ce.className = 'qc ' + (pct>=0?'up':'down'); }
+      // 美股(inv) 綠漲紅跌；台股/加密貨幣 紅漲綠跌
+      const isRed = s.inv ? (pct < 0) : (pct >= 0);
+      if (ce){ ce.textContent = (pct>=0?'+':'') + pct.toFixed(2) + '%'; ce.className = 'qc ' + (isRed?'up':'down'); }
     } catch(e){}
   }
 }
@@ -93,13 +95,13 @@ def _live_charts(rows):
     """自建即時圖：加密貨幣抓 Binance（真即時）、台股讀自家 docs/data JSON（約延遲15分）。"""
     syms = []
     for r in rows:
-        tv = r.get("tv", "")
-        if tv.startswith("BINANCE:"):
+        m = r.get("market", "tw")
+        if m == "crypto":
             syms.append({"key": r["ticker"], "name": r["name"],
-                         "type": "crypto", "binance": tv.split(":", 1)[1]})
-        elif r["ticker"].upper().endswith((".TW", ".TWO")):
-            syms.append({"key": r["ticker"], "name": r["name"],
-                         "type": "tw", "url": f"data/{r['ticker']}.json"})
+                         "type": "crypto", "binance": r.get("binance", "")})
+        else:
+            syms.append({"key": r["ticker"], "name": r["name"], "type": "stock",
+                         "url": f"data/{r['ticker']}.json", "inv": m == "us"})
     if not syms:
         return ""
     js = _LIVE_JS.replace("/*SYMBOLS*/", json.dumps(syms, ensure_ascii=False))
@@ -137,7 +139,13 @@ def build_html(date_str, rows, generated_at):
             continue
 
         pct = r["pct_change"]
-        cls = "up" if pct > 0 else ("down" if pct < 0 else "flat")
+        inv = r.get("market") == "us"  # 美股綠漲紅跌
+        if pct > 0:
+            cls = "down" if inv else "up"
+        elif pct < 0:
+            cls = "up" if inv else "down"
+        else:
+            cls = "flat"
         news = r["news"]
         samples = "".join(
             f'<li class="s{("p" if s["score"]>0 else ("n" if s["score"]<0 else "z"))}">'

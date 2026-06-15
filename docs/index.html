@@ -51,7 +51,7 @@
 <body>
 <header>
   <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
-  <p>資料日期：2026-06-16　·　產生時間：2026-06-16 04:28　·　每日自動更新</p>
+  <p>資料日期：2026-06-16　·　產生時間：2026-06-16 04:41　·　每日自動更新</p>
 </header>
 <p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。即時圖：加密貨幣為 Binance 即時資料；台股為盤中 5 分 K、約延遲 15 分鐘（免費資料上限）。</p>
 
@@ -63,7 +63,7 @@
     </section>
     <script src="https://unpkg.com/lightweight-charts@4.2.0/dist/lightweight-charts.standalone.production.js"></script>
     <script>
-const SYMBOLS = [{"key": "0050.TW", "name": "元大台灣50", "type": "tw", "url": "data/0050.TW.json"}, {"key": "2330.TW", "name": "台積電", "type": "tw", "url": "data/2330.TW.json"}, {"key": "2317.TW", "name": "鴻海", "type": "tw", "url": "data/2317.TW.json"}, {"key": "2454.TW", "name": "聯發科", "type": "tw", "url": "data/2454.TW.json"}, {"key": "BTC-USD", "name": "比特幣", "type": "crypto", "binance": "BTCUSDT"}, {"key": "ETH-USD", "name": "以太幣", "type": "crypto", "binance": "ETHUSDT"}];
+const SYMBOLS = [{"key": "0050.TW", "name": "元大台灣50", "type": "stock", "url": "data/0050.TW.json", "inv": false}, {"key": "2330.TW", "name": "台積電", "type": "stock", "url": "data/2330.TW.json", "inv": false}, {"key": "2317.TW", "name": "鴻海", "type": "stock", "url": "data/2317.TW.json", "inv": false}, {"key": "2454.TW", "name": "聯發科", "type": "stock", "url": "data/2454.TW.json", "inv": false}, {"key": "NVDA", "name": "輝達", "type": "stock", "url": "data/NVDA.json", "inv": true}, {"key": "TSLA", "name": "特斯拉", "type": "stock", "url": "data/TSLA.json", "inv": true}, {"key": "AMD", "name": "超微", "type": "stock", "url": "data/AMD.json", "inv": true}, {"key": "BTC-USD", "name": "比特幣", "type": "crypto", "binance": "BTCUSDT"}, {"key": "ETH-USD", "name": "以太幣", "type": "crypto", "binance": "ETHUSDT"}];
 const fmt = n => (Math.abs(n) >= 100 ? n.toLocaleString('en-US',{maximumFractionDigits:2})
                                      : n.toFixed(2));
 const chartEl = document.getElementById('livechart');
@@ -110,13 +110,13 @@ async function load(sym){
       const { points, updated } = await fetchTW(sym.url);
       if (!points.length) throw new Error('empty');
       series.setData(points);
-      meta.textContent = '來源：台股盤中 5 分 K · 約延遲 15 分（資料時間 ' + (updated||'') + '）';
+      meta.textContent = '來源：盤中 5 分 K · 約延遲 15 分（資料時間 ' + (updated||'') + '）';
       timer = setInterval(async () => { if (current!==sym) return;
         try { const t = await fetchTW(sym.url); if (t.points.length) series.setData(t.points); } catch(e){} }, 60000);
     }
     chart.timeScale().fitContent();
   } catch(e){
-    meta.textContent = '⚠️ 此標的盤中資料準備中（台股僅在交易時段 09:00–13:30 更新）。';
+    meta.textContent = '⚠️ 此標的盤中資料準備中（僅在該市場交易時段更新）。';
   }
   document.querySelectorAll('.symbtn').forEach(b => b.classList.toggle('on', b.dataset.key === sym.key));
 }
@@ -134,7 +134,9 @@ async function updateQuotes(){
       }
       const pe = document.getElementById('qp_'+s.key), ce = document.getElementById('qc_'+s.key);
       if (pe) pe.textContent = fmt(last);
-      if (ce){ ce.textContent = (pct>=0?'+':'') + pct.toFixed(2) + '%'; ce.className = 'qc ' + (pct>=0?'up':'down'); }
+      // 美股(inv) 綠漲紅跌；台股/加密貨幣 紅漲綠跌
+      const isRed = s.inv ? (pct < 0) : (pct >= 0);
+      if (ce){ ce.textContent = (pct>=0?'+':'') + pct.toFixed(2) + '%'; ce.className = 'qc ' + (isRed?'up':'down'); }
     } catch(e){}
   }
 }
@@ -152,9 +154,9 @@ if (SYMBOLS.length){ load(SYMBOLS[0]); updateQuotes(); setInterval(updateQuotes,
           <h2>元大台灣50 <span class="tk">0050.TW</span></h2>
           <div class="nums">
             <div><span class="lab">最新收盤</span><b>105.25</b></div>
-            <div><span class="lab">明日預測</span><b class="up">105.96</b></div>
-            <div><span class="lab">預測變動</span><b class="up">+0.68%</b></div>
-            <div><span class="lab">訊號</span><b>📈 偏多</b></div>
+            <div><span class="lab">明日預測</span><b class="down">104.51</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-0.70%</b></div>
+            <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/0050.TW.png" alt="chart" loading="lazy">
           <div class="news">
@@ -168,15 +170,15 @@ if (SYMBOLS.length){ load(SYMBOLS[0]); updateQuotes(); setInterval(updateQuotes,
           <h2>台積電 <span class="tk">2330.TW</span></h2>
           <div class="nums">
             <div><span class="lab">最新收盤</span><b>2375.00</b></div>
-            <div><span class="lab">明日預測</span><b class="down">2242.79</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-5.57%</b></div>
+            <div><span class="lab">明日預測</span><b class="down">2313.87</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-2.57%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/2330.TW.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
             <span class="muted">（12 則，分數 +0.00）</span>
-            <ul><li class="sz">台積電全球大遷徒動搖台灣「矽盾」神話？日媒一語戳破殘酷現實 - 自由財經</li><li class="sz">台積電衝先進封裝揪伴擴產 今年 CoWoS 產能缺口有望收斂至一成 | 產業熱點 | 產業 - 經濟日報</li><li class="sz">不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市</li><li class="sz">台積電等大案帶動 今年前5月對外投資大增133% - 中央社 CNA</li></ul>
+            <ul><li class="sz">台積電全球大遷徒動搖台灣「矽盾」神話？日媒一語戳破殘酷現實 - 自由財經</li><li class="sz">台積電衝先進封裝揪伴擴產 今年 CoWoS 產能缺口有望收斂至一成 | 產業熱點 | 產業 - 經濟日報</li><li class="sz">面板級封裝競爭白熱化 台積電布局PLP供應鏈對決三星 - DIGITIMES</li><li class="sz">不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市</li></ul>
           </div>
         </div>
 
@@ -184,15 +186,15 @@ if (SYMBOLS.length){ load(SYMBOLS[0]); updateQuotes(); setInterval(updateQuotes,
           <h2>鴻海 <span class="tk">2317.TW</span></h2>
           <div class="nums">
             <div><span class="lab">最新收盤</span><b>267.50</b></div>
-            <div><span class="lab">明日預測</span><b class="down">264.57</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-1.10%</b></div>
+            <div><span class="lab">明日預測</span><b class="down">260.62</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-2.57%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/2317.TW.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
             <span class="muted">（12 則，分數 +0.00）</span>
-            <ul><li class="sn">鴻海百萬股東注意！配息微幅下修至7.17元 - 自由財經</li><li class="sn">鴻海衝上300元又下跌，現在還能進場？年領股息150萬老手：買在乏人問津時 - 商周財富網</li><li class="sp">鴻海營收／5月8,594億元 續創歷年同期新高 - 經濟日報</li><li class="sp">預言iPhone單季要組5400萬支！大摩點名「3台廠」開利多趴 需求火熱燒進高階市場 - Yahoo股市</li></ul>
+            <ul><li class="sn">鴻海百萬股東注意！配息微幅下修至7.17元 - 自由財經</li><li class="sp">2317 鴻海 - 今天漲停潮之後，要先把股票分成三種- 股市爆料同學會 - CMoney</li><li class="sn">鴻海衝上300元又下跌，現在還能進場？年領股息150萬老手：買在乏人問津時 - 商周財富網</li><li class="sp">鴻海營收／5月8,594億元 續創歷年同期新高 - 經濟日報</li></ul>
           </div>
         </div>
 
@@ -200,8 +202,8 @@ if (SYMBOLS.length){ load(SYMBOLS[0]); updateQuotes(); setInterval(updateQuotes,
           <h2>聯發科 <span class="tk">2454.TW</span></h2>
           <div class="nums">
             <div><span class="lab">最新收盤</span><b>4470.00</b></div>
-            <div><span class="lab">明日預測</span><b class="up">4779.28</b></div>
-            <div><span class="lab">預測變動</span><b class="up">+6.92%</b></div>
+            <div><span class="lab">明日預測</span><b class="up">4636.01</b></div>
+            <div><span class="lab">預測變動</span><b class="up">+3.71%</b></div>
             <div><span class="lab">訊號</span><b>📈 偏多</b></div>
           </div>
           <img src="assets/2454.TW.png" alt="chart" loading="lazy">
@@ -213,34 +215,82 @@ if (SYMBOLS.length){ load(SYMBOLS[0]); updateQuotes(); setInterval(updateQuotes,
         </div>
 
         <div class="card">
+          <h2>輝達 <span class="tk">NVDA</span></h2>
+          <div class="nums">
+            <div><span class="lab">最新收盤</span><b>212.45</b></div>
+            <div><span class="lab">明日預測</span><b class="up">203.21</b></div>
+            <div><span class="lab">預測變動</span><b class="up">-4.35%</b></div>
+            <div><span class="lab">訊號</span><b>📉 偏空</b></div>
+          </div>
+          <img src="assets/NVDA.png" alt="chart" loading="lazy">
+          <div class="news">
+            <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
+            <span class="muted">（12 則，分數 +0.00）</span>
+            <ul><li class="sz">輝達發債 籌資200億美元 五年來首見 - 經濟日報</li><li class="sz">SpaceX將與輝達聯手打造太空算力？馬斯克喊話黃仁勳：合作升級！ - news.cnyes.com</li><li class="sz">輝達、Google率先導入800V HVDC提前上陣不只台達電這2台廠商機發酵- 日報 - 工商時報</li><li class="sz">蘇元和觀點》輝達、台積電背後最不能缺的其實是這塊玻纖布| 財經 - Newtalk新聞</li></ul>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>特斯拉 <span class="tk">TSLA</span></h2>
+          <div class="nums">
+            <div><span class="lab">最新收盤</span><b>411.15</b></div>
+            <div><span class="lab">明日預測</span><b class="up">397.38</b></div>
+            <div><span class="lab">預測變動</span><b class="up">-3.35%</b></div>
+            <div><span class="lab">訊號</span><b>📉 偏空</b></div>
+          </div>
+          <img src="assets/TSLA.png" alt="chart" loading="lazy">
+          <div class="news">
+            <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
+            <span class="muted">（12 則，分數 +0.00）</span>
+            <ul><li class="sz">群聯×阿波羅×Tesla 企業強韌電網落地 - 經濟日報</li><li class="sz">特斯拉 FSD 登台有譜！交通部確認落地免修法，特斯拉正式送件並完成測試和認證即可上路 - Yahoo - 汽機車</li><li class="sz">比人類駕駛要安全 3.5 倍，特斯拉公開首份歐洲 FSD 安全報告 - Yahoo - 汽機車</li><li class="sz">特斯拉遭爆用美化數據 誤導歐洲爭取自動駕駛批准 | 民視新聞網 - LINE TODAY</li></ul>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>超微 <span class="tk">AMD</span></h2>
+          <div class="nums">
+            <div><span class="lab">最新收盤</span><b>547.26</b></div>
+            <div><span class="lab">明日預測</span><b class="up">514.33</b></div>
+            <div><span class="lab">預測變動</span><b class="up">-6.02%</b></div>
+            <div><span class="lab">訊號</span><b>📉 偏空</b></div>
+          </div>
+          <img src="assets/AMD.png" alt="chart" loading="lazy">
+          <div class="news">
+            <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
+            <span class="muted">（12 則，分數 -0.08）</span>
+            <ul><li class="sn">AI訂單在手美超微宣布70億美元增資盤後股價重挫- 國際 - 工商時報</li><li class="sz">超微欽點EFB封裝第二供應路徑 台載板三雄卡位CoWoS外新戰局 - DIGITIMES</li><li class="sz">超微高層：AI需求增速超越供應能力 電力與晶片供應鏈全面吃緊 - DIGITIMES</li><li class="sz">＜財經週報-AI伺服器頂尖對決＞超微、輝達新架構齊聚台積電 點燃AI超級算力 - 自由財經</li></ul>
+          </div>
+        </div>
+
+        <div class="card">
           <h2>比特幣 <span class="tk">BTC-USD</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>66524.08</b></div>
-            <div><span class="lab">明日預測</span><b class="down">65049.66</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-2.22%</b></div>
+            <div><span class="lab">最新收盤</span><b>66617.42</b></div>
+            <div><span class="lab">明日預測</span><b class="down">65116.92</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-2.25%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/BTC-USD.png" alt="chart" loading="lazy">
           <div class="news">
-            <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
-            <span class="muted">（12 則，分數 +0.17）</span>
-            <ul><li class="sp">比特幣還有近1倍漲幅？各大金融目標最高喊17萬美元關鍵利多曝光- 日報 - 工商時報</li><li class="sp">美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com</li><li class="sn">川普宣布伊朗和平協議底定 油價大跌金價軟比特幣飆近6.5萬美元 - Yahoo股市</li><li class="sp">Strategy 砸 1 億美元再加碼 1,587 枚比特幣！總持倉直逼 85 萬枚、耗資突破 640 億鎂 - 動區動趨</li></ul>
+            <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
+            <span class="muted">（12 則，分數 -0.08）</span>
+            <ul><li class="sp">美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com</li><li class="sn">川普宣布伊朗和平協議底定 油價大跌金價軟比特幣飆近6.5萬美元 - Yahoo股市</li><li class="sn">比特幣挖礦難度暴降 10%！寫下今年次大跌幅，幣價重挫引爆「礦工關機潮」 - news.cnyes.com</li><li class="sz">比特幣強勢衝破 6.7 萬美元、以太坊站上 $1800！全網 24 小時爆倉近 6 億美元、11 萬人遭清算 - 動區動趨</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>以太幣 <span class="tk">ETH-USD</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>1822.48</b></div>
-            <div><span class="lab">明日預測</span><b class="down">1787.03</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-1.95%</b></div>
+            <div><span class="lab">最新收盤</span><b>1820.71</b></div>
+            <div><span class="lab">明日預測</span><b class="down">1754.61</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-3.63%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/ETH-USD.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
-            <span class="muted">（12 則，分數 +0.42）</span>
-            <ul><li class="sp">「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com</li><li class="sp">基本面強勁！渣打看多以太幣：今年底上看 4 千美元、 2030 年飆到 4 萬美元 - 區塊客</li><li class="sp">2天7次清算後繼續衝 麻吉大哥加碼押注ETH上漲 網驚：太瘋狂 - 自由財經</li><li class="sp">加密貨幣今日：為什麼比特幣、以太坊和瑞波幣上漲？ - FXStreet</li></ul>
+            <span class="muted">（12 則，分數 +0.33）</span>
+            <ul><li class="sp">「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com</li><li class="sp">基本面強勁！渣打看多以太幣：今年底上看 4 千美元、 2030 年飆到 4 萬美元 - 區塊客</li><li class="sp">2天7次清算後繼續衝 麻吉大哥加碼押注ETH上漲 網驚：太瘋狂 - 自由財經</li><li class="sp">AI 、代幣化催生 50 倍上漲空間！Tom Lee 喊：以太幣會飆到 25 萬美元 - 區塊客</li></ul>
           </div>
         </div>
 </div>

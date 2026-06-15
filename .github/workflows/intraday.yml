@@ -2,8 +2,10 @@ name: Intraday TW prices
 
 on:
   schedule:
-    # 台股盤中（台灣 09:00–14:xx = UTC 01:00–06:xx）每 15 分鐘抓一次
+    # 台股盤中（台灣 09:00–14:xx = UTC 01:00–06:xx）每 15 分鐘
     - cron: "*/15 1-6 * * 1-5"
+    # 美股盤中（美東 09:30–16:00 = UTC 13:30–21:xx，含日光節約）每 15 分鐘
+    - cron: "*/15 13-21 * * 1-5"
   workflow_dispatch:
 
 permissions:
