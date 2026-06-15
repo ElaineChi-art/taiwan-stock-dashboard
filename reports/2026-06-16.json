@@ -2,9 +2,10 @@
   {
     "ticker": "0050.TW",
     "name": "元大台灣50",
+    "tv": "TWSE:0050",
     "last_close": 105.25,
-    "predicted": 104.64517211914062,
-    "pct_change": -0.5746583191062945,
+    "predicted": 105.96351623535156,
+    "pct_change": 0.677925164229513,
     "news": {
       "count": 12,
       "score": 0.083,
@@ -23,7 +24,7 @@
           "score": 0
         },
         {
-          "title": "0050 又跌破百元要追嗎？元大投信劉宗聖：主動選股越買越像 0050 - TechNews 科技新報",
+          "title": "高含積量不等於高報酬！市值型ETF績效一表看 00905超車0050和大盤表現最抗震 - news.cnyes.com",
           "score": 0
         }
       ]
@@ -32,9 +33,10 @@
   {
     "ticker": "2330.TW",
     "name": "台積電",
+    "tv": "TWSE:2330",
     "last_close": 2375.0,
-    "predicted": 2313.97216796875,
-    "pct_change": -2.5695929276315788,
+    "predicted": 2242.791748046875,
+    "pct_change": -5.566663240131579,
     "news": {
       "count": 12,
       "score": 0.0,
@@ -62,9 +64,10 @@
   {
     "ticker": "2317.TW",
     "name": "鴻海",
+    "tv": "TWSE:2317",
     "last_close": 267.5,
-    "predicted": 256.6803894042969,
-    "pct_change": -4.044714241384346,
+    "predicted": 264.5671691894531,
+    "pct_change": -1.0963853497371496,
     "news": {
       "count": 12,
       "score": 0.0,
@@ -92,9 +95,10 @@
   {
     "ticker": "2454.TW",
     "name": "聯發科",
+    "tv": "TWSE:2454",
     "last_close": 4470.0,
-    "predicted": 4811.46533203125,
-    "pct_change": 7.63904545931208,
+    "predicted": 4779.28466796875,
+    "pct_change": 6.919120088786354,
     "news": {
       "count": 12,
       "score": 0.167,
@@ -122,16 +126,21 @@
   {
     "ticker": "BTC-USD",
     "name": "比特幣",
-    "last_close": 66620.5234375,
-    "predicted": 65080.4921875,
-    "pct_change": -2.3116468777745034,
+    "tv": "BINANCE:BTCUSDT",
+    "last_close": 66524.078125,
+    "predicted": 65049.6640625,
+    "pct_change": -2.216361510082933,
     "news": {
       "count": 12,
-      "score": 0.0,
-      "label": "中性 ⚪",
+      "score": 0.167,
+      "label": "偏多 🟢",
       "samples": [
         {
           "title": "比特幣還有近1倍漲幅？各大金融目標最高喊17萬美元關鍵利多曝光- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com",
           "score": 1
         },
         {
@@ -139,12 +148,8 @@
           "score": -1
         },
         {
-          "title": "美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com",
+          "title": "Strategy 砸 1 億美元再加碼 1,587 枚比特幣！總持倉直逼 85 萬枚、耗資突破 640 億鎂 - 動區動趨",
           "score": 1
-        },
-        {
-          "title": "比特幣挖礦難度暴降 10%！寫下今年次大跌幅，幣價重挫引爆「礦工關機潮」 - news.cnyes.com",
-          "score": -1
         }
       ]
     }
@@ -152,9 +157,10 @@
   {
     "ticker": "ETH-USD",
     "name": "以太幣",
-    "last_close": 1823.68994140625,
-    "predicted": 1739.444091796875,
-    "pct_change": -4.619527020279166,
+    "tv": "BINANCE:ETHUSDT",
+    "last_close": 1822.47998046875,
+    "predicted": 1787.028564453125,
+    "pct_change": -1.9452293795022506,
     "news": {
       "count": 12,
       "score": 0.417,

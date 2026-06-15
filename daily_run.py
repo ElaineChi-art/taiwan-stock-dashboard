@@ -35,7 +35,7 @@ def run():
     for item in config.WATCHLIST:
         ticker, name = item["ticker"], item["name"]
         print(f"==> 處理 {name} ({ticker})")
-        row = {"ticker": ticker, "name": name}
+        row = {"ticker": ticker, "name": name, "tv": item.get("tv", "")}
         try:
             close = stock_model.fetch_close(ticker, config.HISTORY_PERIOD)
             if close is None or len(close) == 0:

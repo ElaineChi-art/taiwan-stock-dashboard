@@ -1,6 +1,60 @@
 # -*- coding: utf-8 -*-
 """把每日結果組成一個 HTML 儀表板（給 GitHub Pages 用）。"""
 import html
+import json
+
+
+def _tradingview(rows):
+    """用 rows 的 tv 代碼產生 TradingView 即時元件：跑馬燈 + 大型互動 K 線圖。"""
+    syms = [r for r in rows if r.get("tv")]
+    if not syms:
+        return "", ""
+
+    # 1) 頂部跑馬燈（即時報價滾動）
+    tape_cfg = {
+        "symbols": [{"proName": r["tv"], "title": r["name"]} for r in syms],
+        "showSymbolLogo": True,
+        "isTransparent": True,
+        "displayMode": "adaptive",
+        "colorTheme": "dark",
+        "locale": "zh_TW",
+    }
+    tape = f"""
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <script type="text/javascript"
+        src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+      {json.dumps(tape_cfg, ensure_ascii=False)}
+      </script>
+    </div>"""
+
+    # 2) 大型即時互動圖（可切換標的、縮放、加技術指標）
+    chart_cfg = {
+        "autosize": True,
+        "symbol": syms[1]["tv"] if len(syms) > 1 else syms[0]["tv"],
+        "interval": "D",
+        "timezone": "Asia/Taipei",
+        "theme": "dark",
+        "style": "1",
+        "locale": "zh_TW",
+        "withdateranges": True,
+        "allow_symbol_change": True,
+        "details": True,
+        "watchlist": [r["tv"] for r in syms],
+        "support_host": "https://www.tradingview.com",
+    }
+    chart = f"""
+    <section class="live">
+      <h2 class="sec">🔴 即時行情（自動連動市場 · 可切換標的）</h2>
+      <div class="tradingview-widget-container" style="height:520px;width:100%">
+        <div class="tradingview-widget-container__widget" style="height:100%;width:100%"></div>
+        <script type="text/javascript"
+          src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+        {json.dumps(chart_cfg, ensure_ascii=False)}
+        </script>
+      </div>
+    </section>"""
+    return tape, chart
 
 
 def _signal(pct):
@@ -51,6 +105,7 @@ def build_html(date_str, rows, generated_at):
         </div>""")
 
     cards_html = "\n".join(cards)
+    tape_html, chart_html = _tradingview(rows)
     return f"""<!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
@@ -87,6 +142,8 @@ def build_html(date_str, rows, generated_at):
   .warn {{ color:#f0b429; }}
   footer {{ text-align:center; color:#6b7280; font-size:12px; padding:24px; }}
   .disc {{ max-width:1200px; margin:0 auto; padding:0 20px; color:#8a93a3; font-size:12px; }}
+  .live {{ max-width:1200px; margin:8px auto 0; padding:0 20px; }}
+  .sec {{ font-size:16px; margin:18px 0 10px; }}
 </style>
 </head>
 <body>
@@ -94,7 +151,10 @@ def build_html(date_str, rows, generated_at):
   <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新</p>
 </header>
-<p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。</p>
+{tape_html}
+<p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。即時行情由 TradingView 提供（加密貨幣即時、台股可能延遲約 15 分鐘）。</p>
+{chart_html}
+<div class="live"><h2 class="sec">🤖 AI 每日預測 + 新聞情緒</h2></div>
 <div class="grid">
 {cards_html}
 </div>
