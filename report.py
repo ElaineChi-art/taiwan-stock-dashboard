@@ -106,7 +106,7 @@ def _live_charts(rows):
         return ""
     js = _LIVE_JS.replace("/*SYMBOLS*/", json.dumps(syms, ensure_ascii=False))
     return f"""
-    <section class="live">
+    <section class="live" id="live">
       <h2 class="sec">🔴 即時行情（加密貨幣真即時 · 台股約延遲 15 分 · 自動更新）</h2>
       <div class="symbtns" id="symbtns"></div>
       <div id="livechart"></div>
@@ -186,6 +186,27 @@ def build_html(date_str, rows, generated_at):
               padding:7px 16px; border-radius:8px; }}
   .topnav a:hover {{ background:#161922; color:#e6e6e6; }}
   .topnav a.active {{ background:#1f2e3a; color:#7fb5ff; }}
+  html {{ scroll-behavior:smooth; }}
+  #live, #ai {{ scroll-margin-top:60px; }}
+  .toc-trigger {{ position:fixed; left:0; top:50%; transform:translateY(-50%); z-index:40;
+                 background:#161922; border:1px solid #2a3140; border-left:none;
+                 border-radius:0 12px 12px 0; padding:16px 7px; cursor:pointer; color:#9aa4b2;
+                 writing-mode:vertical-rl; letter-spacing:3px; font-size:12px; font-weight:600;
+                 transition:.25s; box-shadow:4px 0 16px rgba(0,0,0,.3); }}
+  .toc-trigger:hover {{ color:#fff; background:#1f2937; }}
+  .toc-trigger .th {{ writing-mode:horizontal-tb; font-size:14px; }}
+  .toc {{ position:fixed; left:0; top:48px; height:calc(100vh - 48px); width:240px; z-index:41;
+         background:rgba(17,20,27,.96); backdrop-filter:blur(12px); border-right:1px solid #2a3140;
+         padding:16px 14px; overflow:auto; transform:translateX(-100%);
+         transition:transform .32s cubic-bezier(.4,0,.2,1); box-shadow:10px 0 40px rgba(0,0,0,.5); }}
+  .toc-trigger:hover + .toc, .toc:hover {{ transform:translateX(0); }}
+  .toctitle {{ font-size:12px; color:#7c8696; margin-bottom:10px; font-weight:600; letter-spacing:1px; }}
+  .toc a {{ display:flex; align-items:center; gap:9px; color:#c3cad6; text-decoration:none;
+           font-size:13.5px; padding:9px 10px; border-radius:9px; transition:.16s; }}
+  .toc a:hover {{ background:#1f2937; color:#fff; transform:translateX(3px); }}
+  .toc .d {{ width:8px; height:8px; border-radius:50%; flex:none; }}
+  .toc .d.crypto {{ background:#ff9ecb; }}
+  .toc .d.ai {{ background:#7fb5ff; }}
   body {{ font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
          margin: 0; background:#0f1115; color:#e6e6e6; }}
   header {{ padding:24px 20px; background:#161922; border-bottom:1px solid #262b36; }}
@@ -232,13 +253,18 @@ def build_html(date_str, rows, generated_at):
   <a class="active" href="https://elainechi-art.github.io/taiwan-stock-dashboard/">📈 股市儀表板</a>
   <a href="https://elainechi-art.github.io/research-radar/">📡 研究雷達</a>
 </nav>
+<div class="toc-trigger" aria-hidden="true"><span class="th">☰</span><span class="tl">目錄</span></div>
+<aside class="toc"><div class="toctitle">目錄</div>
+  <a href="#live"><span class="d crypto"></span>🔴 即時行情</a>
+  <a href="#ai"><span class="d ai"></span>🤖 AI 每日預測 + 新聞情緒</a>
+</aside>
 <header>
   <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新</p>
 </header>
 <p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。即時圖：加密貨幣為 Binance 即時資料；台股為盤中 5 分 K、約延遲 15 分鐘（免費資料上限）。</p>
 {live_html}
-<div class="live"><h2 class="sec">🤖 AI 每日預測 + 新聞情緒</h2></div>
+<div class="live" id="ai"><h2 class="sec">🤖 AI 每日預測 + 新聞情緒</h2></div>
 <div class="grid">
 {cards_html}
 </div>

@@ -4,29 +4,29 @@
     "name": "元大台灣50",
     "market": "tw",
     "binance": "",
-    "last_close": 105.9000015258789,
-    "predicted": 102.41735076904297,
-    "pct_change": -3.2886220081733217,
+    "last_close": 105.25,
+    "predicted": 104.92759704589844,
+    "pct_change": -0.30632109653355105,
     "news": {
       "count": 12,
-      "score": 0.333,
-      "label": "偏多 🟢",
+      "score": 0.083,
+      "label": "中性 ⚪",
       "samples": [
         {
           "title": "0050 元大台灣50 - 近3年大賺488%，為何我勸你別把0050正2當核心持股- 股市爆料同學會 - CMoney",
           "score": 1
         },
         {
-          "title": "5月股市大漲 ETF定期定額狂飆、0050跑第一 - 自由財經",
-          "score": 1
+          "title": "投資人逢低搶反彈 0050和正2的6月迄今申購量近1700億 - UDN",
+          "score": 0
         },
         {
-          "title": "0050飆破百元還能入場？專家示警：要賺大錢就別買 - Yahoo股市",
-          "score": 1
+          "title": "美伊停戰台股飆千點！外資大買官股調節-財經焦點情報站 - CMoney投資網誌",
+          "score": 0
         },
         {
-          "title": "投資人棄高股息 ETF！紅包年終壓0050 2月定期定額戶數突破80萬人創高 - 經濟日報",
-          "score": 1
+          "title": "高含積量不等於高報酬！市值型ETF績效一表看 00905超車0050和大盤表現最抗震 - news.cnyes.com",
+          "score": 0
         }
       ]
     }
@@ -36,28 +36,28 @@
     "name": "台積電",
     "market": "tw",
     "binance": "",
-    "last_close": 2400.0,
-    "predicted": 2387.244140625,
-    "pct_change": -0.531494140625,
+    "last_close": 2375.0,
+    "predicted": 2311.79931640625,
+    "pct_change": -2.661081414473684,
     "news": {
       "count": 12,
       "score": 0.0,
       "label": "中性 ⚪",
       "samples": [
         {
-          "title": "外媒點名！台積電恐被它取代 - 東森新聞",
+          "title": "台積電全球大遷徒動搖台灣「矽盾」神話？日媒一語戳破殘酷現實 - 自由財經",
           "score": 0
         },
         {
-          "title": "韓媒曝台積電 PLP 最快 2027 年量產，台灣業界質疑時程太早，仍以 CoPoS 為首要重點 - TechNews 科技新報",
+          "title": "台積電衝先進封裝揪伴擴產 今年 CoWoS 產能缺口有望收斂至一成 | 產業熱點 | 產業 - 經濟日報",
           "score": 0
         },
         {
-          "title": "台積電拚面板封裝 原料、零組件、設備廠等入列 相關類股喊衝 - 經濟日報",
+          "title": "不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市",
           "score": 0
         },
         {
-          "title": "韓媒：台積電面板級封裝PLP晶片明年量產 與三星競爭領先地位 - Yahoo股市",
+          "title": "台積電等大案帶動 今年前5月對外投資大增133% - 中央社 CNA",
           "score": 0
         }
       ]
@@ -68,29 +68,29 @@
     "name": "鴻海",
     "market": "tw",
     "binance": "",
-    "last_close": 269.0,
-    "predicted": 260.0862731933594,
-    "pct_change": -3.3136530879704926,
+    "last_close": 267.5,
+    "predicted": 266.2506103515625,
+    "pct_change": -0.46706155081775697,
     "news": {
       "count": 12,
       "score": 0.0,
       "label": "中性 ⚪",
       "samples": [
         {
-          "title": "鴻海於河內舉辦綠色能源論壇 構築越南綠色供應鏈韌性 - 經濟日報",
-          "score": 0
+          "title": "鴻海百萬股東注意！配息微幅下修至7.17元 - 自由財經",
+          "score": -1
         },
         {
-          "title": "鴻海、廣達能量匯聚 助攻國內新創AI眼鏡 - 自由財經",
-          "score": 0
+          "title": "2317 鴻海 - 今天漲停潮之後，要先把股票分成三種- 股市爆料同學會 - CMoney",
+          "score": 1
         },
         {
-          "title": "蘋果摺疊機要來了！大摩預測Q3狂產5400萬支iPhone 台積電、鴻海成最大贏家 - Yahoo股市",
-          "score": 0
+          "title": "鴻海衝上300元又下跌，現在還能進場？年領股息150萬老手：買在乏人問津時 - 商周財富網",
+          "score": -1
         },
         {
-          "title": "鴻海合作法商施耐德布局次世代AI資料中心| 產經 - 中央社 CNA",
-          "score": 0
+          "title": "鴻海營收／5月8,594億元 續創歷年同期新高 - 經濟日報",
+          "score": 1
         }
       ]
     }
@@ -100,29 +100,29 @@
     "name": "聯發科",
     "market": "tw",
     "binance": "",
-    "last_close": 4560.0,
-    "predicted": 4785.005859375,
-    "pct_change": 4.93433902138158,
+    "last_close": 4470.0,
+    "predicted": 4305.234375,
+    "pct_change": -3.686031879194631,
     "news": {
       "count": 12,
-      "score": 0.083,
-      "label": "中性 ⚪",
+      "score": 0.167,
+      "label": "偏多 🟢",
       "samples": [
         {
-          "title": "〈台股開盤〉台股早盤大漲300點後翻黑 聯發科、鴻海撐盤 國巨一度觸及千元 - news.cnyes.com",
+          "title": "早盤快訊》大盤噴發千點別亂追！聯發科、國巨領頭強攻，「這幾檔」卻重挫逾10% | 下班經濟學 | 財經 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "台股寫第8大漲點！台積電、聯發科領攻 國巨飆新高被動元件19檔漲停 - 民報",
           "score": 1
         },
         {
-          "title": "Google 新藍圖進擊超級 AI 聯發科、鴻海、廣達等扮要角 - 經濟日報",
-          "score": 0
+          "title": "博通大客戶傳轉單，市場盯上聯發科！AI ASIC成台灣IC設計廠下一階段成長主軸 - 數位時代",
+          "score": 1
         },
         {
-          "title": "尾盤爆大單原因曝光！台積電、聯發科被神祕資金硬拉「明天將迎歷史級軋空行情？」外資拋售慘業名單竟然有它們- 上市櫃 - 旺得富理財網",
-          "score": 0
-        },
-        {
-          "title": "AI布局升級 郭明錤曝聯發科瞄準Google TPU、切入馬斯克供應鏈 - 民報",
-          "score": 0
+          "title": "聯發科狂漲175元！台積電開高50元、權值股紅通通 台股早盤大漲1269點重返45000關卡 - Yahoo股市",
+          "score": 1
         }
       ]
     }
@@ -132,28 +132,28 @@
     "name": "輝達",
     "market": "us",
     "binance": "",
-    "last_close": 205.19000244140625,
-    "predicted": 201.5186767578125,
-    "pct_change": -1.7892322432434924,
+    "last_close": 212.4499969482422,
+    "predicted": 206.91236877441406,
+    "pct_change": -2.606556014767664,
     "news": {
       "count": 12,
-      "score": 0.25,
-      "label": "偏多 🟢",
+      "score": 0.0,
+      "label": "中性 ⚪",
       "samples": [
         {
-          "title": "Nvidia's Huang pledges AI will boost manufacturing jobs. A test will come in Texas - WRAL",
-          "score": 1
+          "title": "Nvidia Joins AI Debt Boom With Bond Sale Targeting $20 Billion - Bloomberg",
+          "score": 0
         },
         {
-          "title": "Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners - Investor's Business Daily",
-          "score": 1
+          "title": "Here are Monday's biggest analyst calls: Nvidia, Micron, Ferrari, Rocket Lab, DataDog & more - CNBC",
+          "score": 0
         },
         {
-          "title": "AMD Jumps 8% to a Record High, NVIDIA Climbs 4%, Intel Rises 3% in a Risk-On Chip Surge - 24/7 Wall St.",
-          "score": 1
+          "title": "Nvidia Is Selling Debt for the First Time in Five Years. Why the Stock Is Jumping. - Barron's",
+          "score": 0
         },
         {
-          "title": "Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom - CNBC",
+          "title": "Nvidia’s Share of AI Inference Chip Market Appears to Be Rising - The Information",
           "score": 0
         }
       ]
@@ -164,9 +164,9 @@
     "name": "特斯拉",
     "market": "us",
     "binance": "",
-    "last_close": 406.42999267578125,
-    "predicted": 389.9599304199219,
-    "pct_change": -4.052373730449054,
+    "last_close": 411.1499938964844,
+    "predicted": 395.949462890625,
+    "pct_change": -3.697076792292602,
     "news": {
       "count": 12,
       "score": 0.0,
@@ -185,7 +185,7 @@
           "score": 0
         },
         {
-          "title": "Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range - InsideEVs",
+          "title": "What is the Tesla Cybercab and what’s it doing on Orlando’s streets? - WKMG",
           "score": 0
         }
       ]
@@ -196,12 +196,12 @@
     "name": "超微",
     "market": "us",
     "binance": "",
-    "last_close": 511.57000732421875,
-    "predicted": 474.88751220703125,
-    "pct_change": -7.1705718849813564,
+    "last_close": 547.260009765625,
+    "predicted": 511.7196960449219,
+    "pct_change": -6.494228170613814,
     "news": {
       "count": 12,
-      "score": 0.583,
+      "score": 0.333,
       "label": "偏多 🟢",
       "samples": [
         {
@@ -209,15 +209,15 @@
           "score": 1
         },
         {
-          "title": "Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now? - Yahoo Finance",
+          "title": "AMD stock rallies after MEXT acquisition; targets AI memory bottleneck - Seeking Alpha",
           "score": 1
         },
         {
-          "title": "Rackspace Technology stock surges 30% on AMD AI compute deal By Investing.com - Investing.com Nigeria",
+          "title": "AMD Stock Gets a Major Upgrade From Citi - TradingView",
           "score": 1
         },
         {
-          "title": "Citi Calls AMD a Rising Force in the GPU Market, Upgrades Shares to Buy - Yahoo Finance",
+          "title": "Nvidia vs AMD: The Better AI Stock Is A Better Buy This June - Yahoo Finance",
           "score": 1
         }
       ]
@@ -228,16 +228,16 @@
     "name": "比特幣",
     "market": "crypto",
     "binance": "BTCUSDT",
-    "last_close": 66005.890625,
-    "predicted": 66385.8203125,
-    "pct_change": 0.5755996683061194,
+    "last_close": 66482.6328125,
+    "predicted": 64384.9140625,
+    "pct_change": -3.155288323066515,
     "news": {
       "count": 12,
       "score": 0.167,
       "label": "偏多 🟢",
       "samples": [
         {
-          "title": "美伊敲定協議 比特幣應聲上漲 但沃什聯準會首秀會扼殺漲勢嗎？ - news.cnyes.com",
+          "title": "美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com",
           "score": 1
         },
         {
@@ -249,7 +249,7 @@
           "score": 0
         },
         {
-          "title": "貝萊德推出比特幣溢價收益ETF 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+          "title": "美伊停火協議提振市場信心 比特幣強勢收復6.5萬美元大關 至近兩周高點 - Yahoo股市",
           "score": 0
         }
       ]
@@ -260,28 +260,28 @@
     "name": "以太幣",
     "market": "crypto",
     "binance": "ETHUSDT",
-    "last_close": 1800.9599609375,
-    "predicted": 1774.074462890625,
-    "pct_change": -1.49284263004268,
+    "last_close": 1815.0999755859375,
+    "predicted": 1746.8114013671875,
+    "pct_change": -3.762248644001308,
     "news": {
       "count": 12,
-      "score": 0.167,
+      "score": 0.333,
       "label": "偏多 🟢",
       "samples": [
-        {
-          "title": "Bitmine 增持 7.6 萬枚以太幣！Tom Lee 看好「加密之春」初綻 - 區塊客",
-          "score": 1
-        },
-        {
-          "title": "以太幣(ETHUSD)6月16日下跌1.28%：鏈上與市場情緒怎麼看？ - TradingKey",
-          "score": -1
-        },
         {
           "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
           "score": 1
         },
         {
+          "title": "基本面強勁！渣打看多以太幣：今年底上看 4 千美元、 2030 年飆到 4 萬美元 - 區塊客",
+          "score": 1
+        },
+        {
           "title": "2天7次清算後繼續衝 麻吉大哥加碼押注ETH上漲 網驚：太瘋狂 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "AI 、代幣化催生 50 倍上漲空間！Tom Lee 喊：以太幣會飆到 25 萬美元 - 區塊客",
           "score": 1
         }
       ]

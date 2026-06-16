@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>台股＋加密貨幣 每日 AI 儀表板 · 2026-06-16</title>
+<title>台股＋加密貨幣 每日 AI 儀表板 · 2026-06-17</title>
 <style>
   :root { color-scheme: light dark; }
   * { box-sizing: border-box; }
@@ -13,6 +13,27 @@
               padding:7px 16px; border-radius:8px; }
   .topnav a:hover { background:#161922; color:#e6e6e6; }
   .topnav a.active { background:#1f2e3a; color:#7fb5ff; }
+  html { scroll-behavior:smooth; }
+  #live, #ai { scroll-margin-top:60px; }
+  .toc-trigger { position:fixed; left:0; top:50%; transform:translateY(-50%); z-index:40;
+                 background:#161922; border:1px solid #2a3140; border-left:none;
+                 border-radius:0 12px 12px 0; padding:16px 7px; cursor:pointer; color:#9aa4b2;
+                 writing-mode:vertical-rl; letter-spacing:3px; font-size:12px; font-weight:600;
+                 transition:.25s; box-shadow:4px 0 16px rgba(0,0,0,.3); }
+  .toc-trigger:hover { color:#fff; background:#1f2937; }
+  .toc-trigger .th { writing-mode:horizontal-tb; font-size:14px; }
+  .toc { position:fixed; left:0; top:48px; height:calc(100vh - 48px); width:240px; z-index:41;
+         background:rgba(17,20,27,.96); backdrop-filter:blur(12px); border-right:1px solid #2a3140;
+         padding:16px 14px; overflow:auto; transform:translateX(-100%);
+         transition:transform .32s cubic-bezier(.4,0,.2,1); box-shadow:10px 0 40px rgba(0,0,0,.5); }
+  .toc-trigger:hover + .toc, .toc:hover { transform:translateX(0); }
+  .toctitle { font-size:12px; color:#7c8696; margin-bottom:10px; font-weight:600; letter-spacing:1px; }
+  .toc a { display:flex; align-items:center; gap:9px; color:#c3cad6; text-decoration:none;
+           font-size:13.5px; padding:9px 10px; border-radius:9px; transition:.16s; }
+  .toc a:hover { background:#1f2937; color:#fff; transform:translateX(3px); }
+  .toc .d { width:8px; height:8px; border-radius:50%; flex:none; }
+  .toc .d.crypto { background:#ff9ecb; }
+  .toc .d.ai { background:#7fb5ff; }
   body { font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
          margin: 0; background:#0f1115; color:#e6e6e6; }
   header { padding:24px 20px; background:#161922; border-bottom:1px solid #262b36; }
@@ -59,13 +80,18 @@
   <a class="active" href="https://elainechi-art.github.io/taiwan-stock-dashboard/">📈 股市儀表板</a>
   <a href="https://elainechi-art.github.io/research-radar/">📡 研究雷達</a>
 </nav>
+<div class="toc-trigger" aria-hidden="true"><span class="th">☰</span><span class="tl">目錄</span></div>
+<aside class="toc"><div class="toctitle">目錄</div>
+  <a href="#live"><span class="d crypto"></span>🔴 即時行情</a>
+  <a href="#ai"><span class="d ai"></span>🤖 AI 每日預測 + 新聞情緒</a>
+</aside>
 <header>
   <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
-  <p>資料日期：2026-06-16　·　產生時間：2026-06-16 13:27　·　每日自動更新</p>
+  <p>資料日期：2026-06-17　·　產生時間：2026-06-17 00:24　·　每日自動更新</p>
 </header>
 <p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。即時圖：加密貨幣為 Binance 即時資料；台股為盤中 5 分 K、約延遲 15 分鐘（免費資料上限）。</p>
 
-    <section class="live">
+    <section class="live" id="live">
       <h2 class="sec">🔴 即時行情（加密貨幣真即時 · 台股約延遲 15 分 · 自動更新）</h2>
       <div class="symbtns" id="symbtns"></div>
       <div id="livechart"></div>
@@ -157,150 +183,150 @@ document.querySelectorAll('.symbtn').forEach(b =>
   b.addEventListener('click', () => load(SYMBOLS.find(x => x.key === b.dataset.key))));
 if (SYMBOLS.length){ load(SYMBOLS[0]); updateQuotes(); setInterval(updateQuotes, 15000); }
 </script>
-<div class="live"><h2 class="sec">🤖 AI 每日預測 + 新聞情緒</h2></div>
+<div class="live" id="ai"><h2 class="sec">🤖 AI 每日預測 + 新聞情緒</h2></div>
 <div class="grid">
 
         <div class="card">
           <h2>元大台灣50 <span class="tk">0050.TW</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>105.90</b></div>
-            <div><span class="lab">明日預測</span><b class="down">102.42</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-3.29%</b></div>
+            <div><span class="lab">最新收盤</span><b>105.25</b></div>
+            <div><span class="lab">明日預測</span><b class="down">104.93</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-0.31%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/0050.TW.png" alt="chart" loading="lazy">
           <div class="news">
-            <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
-            <span class="muted">（12 則，分數 +0.33）</span>
-            <ul><li class="sp">0050 元大台灣50 - 近3年大賺488%，為何我勸你別把0050正2當核心持股- 股市爆料同學會 - CMoney</li><li class="sp">5月股市大漲 ETF定期定額狂飆、0050跑第一 - 自由財經</li><li class="sp">0050飆破百元還能入場？專家示警：要賺大錢就別買 - Yahoo股市</li><li class="sp">投資人棄高股息 ETF！紅包年終壓0050 2月定期定額戶數突破80萬人創高 - 經濟日報</li></ul>
+            <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
+            <span class="muted">（12 則，分數 +0.08）</span>
+            <ul><li class="sp">0050 元大台灣50 - 近3年大賺488%，為何我勸你別把0050正2當核心持股- 股市爆料同學會 - CMoney</li><li class="sz">投資人逢低搶反彈 0050和正2的6月迄今申購量近1700億 - UDN</li><li class="sz">美伊停戰台股飆千點！外資大買官股調節-財經焦點情報站 - CMoney投資網誌</li><li class="sz">高含積量不等於高報酬！市值型ETF績效一表看 00905超車0050和大盤表現最抗震 - news.cnyes.com</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>台積電 <span class="tk">2330.TW</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>2400.00</b></div>
-            <div><span class="lab">明日預測</span><b class="down">2387.24</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-0.53%</b></div>
+            <div><span class="lab">最新收盤</span><b>2375.00</b></div>
+            <div><span class="lab">明日預測</span><b class="down">2311.80</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-2.66%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/2330.TW.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
             <span class="muted">（12 則，分數 +0.00）</span>
-            <ul><li class="sz">外媒點名！台積電恐被它取代 - 東森新聞</li><li class="sz">韓媒曝台積電 PLP 最快 2027 年量產，台灣業界質疑時程太早，仍以 CoPoS 為首要重點 - TechNews 科技新報</li><li class="sz">台積電拚面板封裝 原料、零組件、設備廠等入列 相關類股喊衝 - 經濟日報</li><li class="sz">韓媒：台積電面板級封裝PLP晶片明年量產 與三星競爭領先地位 - Yahoo股市</li></ul>
+            <ul><li class="sz">台積電全球大遷徒動搖台灣「矽盾」神話？日媒一語戳破殘酷現實 - 自由財經</li><li class="sz">台積電衝先進封裝揪伴擴產 今年 CoWoS 產能缺口有望收斂至一成 | 產業熱點 | 產業 - 經濟日報</li><li class="sz">不只台積電！外媒點名「3檔王者」潛力驚人 長抱有機會笑到最後 - Yahoo股市</li><li class="sz">台積電等大案帶動 今年前5月對外投資大增133% - 中央社 CNA</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>鴻海 <span class="tk">2317.TW</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>269.00</b></div>
-            <div><span class="lab">明日預測</span><b class="down">260.09</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-3.31%</b></div>
+            <div><span class="lab">最新收盤</span><b>267.50</b></div>
+            <div><span class="lab">明日預測</span><b class="down">266.25</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-0.47%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/2317.TW.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
             <span class="muted">（12 則，分數 +0.00）</span>
-            <ul><li class="sz">鴻海於河內舉辦綠色能源論壇 構築越南綠色供應鏈韌性 - 經濟日報</li><li class="sz">鴻海、廣達能量匯聚 助攻國內新創AI眼鏡 - 自由財經</li><li class="sz">蘋果摺疊機要來了！大摩預測Q3狂產5400萬支iPhone 台積電、鴻海成最大贏家 - Yahoo股市</li><li class="sz">鴻海合作法商施耐德布局次世代AI資料中心| 產經 - 中央社 CNA</li></ul>
+            <ul><li class="sn">鴻海百萬股東注意！配息微幅下修至7.17元 - 自由財經</li><li class="sp">2317 鴻海 - 今天漲停潮之後，要先把股票分成三種- 股市爆料同學會 - CMoney</li><li class="sn">鴻海衝上300元又下跌，現在還能進場？年領股息150萬老手：買在乏人問津時 - 商周財富網</li><li class="sp">鴻海營收／5月8,594億元 續創歷年同期新高 - 經濟日報</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>聯發科 <span class="tk">2454.TW</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>4560.00</b></div>
-            <div><span class="lab">明日預測</span><b class="up">4785.01</b></div>
-            <div><span class="lab">預測變動</span><b class="up">+4.93%</b></div>
-            <div><span class="lab">訊號</span><b>📈 偏多</b></div>
+            <div><span class="lab">最新收盤</span><b>4470.00</b></div>
+            <div><span class="lab">明日預測</span><b class="down">4305.23</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-3.69%</b></div>
+            <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/2454.TW.png" alt="chart" loading="lazy">
           <div class="news">
-            <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
-            <span class="muted">（12 則，分數 +0.08）</span>
-            <ul><li class="sp">〈台股開盤〉台股早盤大漲300點後翻黑 聯發科、鴻海撐盤 國巨一度觸及千元 - news.cnyes.com</li><li class="sz">Google 新藍圖進擊超級 AI 聯發科、鴻海、廣達等扮要角 - 經濟日報</li><li class="sz">尾盤爆大單原因曝光！台積電、聯發科被神祕資金硬拉「明天將迎歷史級軋空行情？」外資拋售慘業名單竟然有它們- 上市櫃 - 旺得富理財網</li><li class="sz">AI布局升級 郭明錤曝聯發科瞄準Google TPU、切入馬斯克供應鏈 - 民報</li></ul>
+            <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
+            <span class="muted">（12 則，分數 +0.17）</span>
+            <ul><li class="sn">早盤快訊》大盤噴發千點別亂追！聯發科、國巨領頭強攻，「這幾檔」卻重挫逾10% | 下班經濟學 | 財經 - 風傳媒</li><li class="sp">台股寫第8大漲點！台積電、聯發科領攻 國巨飆新高被動元件19檔漲停 - 民報</li><li class="sp">博通大客戶傳轉單，市場盯上聯發科！AI ASIC成台灣IC設計廠下一階段成長主軸 - 數位時代</li><li class="sp">聯發科狂漲175元！台積電開高50元、權值股紅通通 台股早盤大漲1269點重返45000關卡 - Yahoo股市</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>輝達 <span class="tk">NVDA</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>205.19</b></div>
-            <div><span class="lab">明日預測</span><b class="up">201.52</b></div>
-            <div><span class="lab">預測變動</span><b class="up">-1.79%</b></div>
+            <div><span class="lab">最新收盤</span><b>212.45</b></div>
+            <div><span class="lab">明日預測</span><b class="up">206.91</b></div>
+            <div><span class="lab">預測變動</span><b class="up">-2.61%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/NVDA.png" alt="chart" loading="lazy">
           <div class="news">
-            <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
-            <span class="muted">（12 則，分數 +0.25）</span>
-            <ul><li class="sp">Nvidia&#x27;s Huang pledges AI will boost manufacturing jobs. A test will come in Texas - WRAL</li><li class="sp">Dow Jones Futures: Trump, Iran Deal Spark Stock Market Surge; Nvidia, Micron, Sandisk SpaceX Are Big Winners - Investor&#x27;s Business Daily</li><li class="sp">AMD Jumps 8% to a Record High, NVIDIA Climbs 4%, Intel Rises 3% in a Risk-On Chip Surge - 24/7 Wall St.</li><li class="sz">Nvidia plans to raise at least $20 billion in its first debt sale since start of AI boom - CNBC</li></ul>
+            <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
+            <span class="muted">（12 則，分數 +0.00）</span>
+            <ul><li class="sz">Nvidia Joins AI Debt Boom With Bond Sale Targeting $20 Billion - Bloomberg</li><li class="sz">Here are Monday&#x27;s biggest analyst calls: Nvidia, Micron, Ferrari, Rocket Lab, DataDog &amp; more - CNBC</li><li class="sz">Nvidia Is Selling Debt for the First Time in Five Years. Why the Stock Is Jumping. - Barron&#x27;s</li><li class="sz">Nvidia’s Share of AI Inference Chip Market Appears to Be Rising - The Information</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>特斯拉 <span class="tk">TSLA</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>406.43</b></div>
-            <div><span class="lab">明日預測</span><b class="up">389.96</b></div>
-            <div><span class="lab">預測變動</span><b class="up">-4.05%</b></div>
+            <div><span class="lab">最新收盤</span><b>411.15</b></div>
+            <div><span class="lab">明日預測</span><b class="up">395.95</b></div>
+            <div><span class="lab">預測變動</span><b class="up">-3.70%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/TSLA.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>中性 ⚪</b>
             <span class="muted">（12 則，分數 +0.00）</span>
-            <ul><li class="sz">Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters</li><li class="sz">Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh - Electrek</li><li class="sz">We Have New Tesla Cybercab Specs Before You&#x27;re Supposed to See Them Thanks to EPA Documents - Car and Driver</li><li class="sz">Full Tesla Cybercab Specs: EPA Documents Confirm Battery Size, Weight, Power, And Preliminary Range - InsideEVs</li></ul>
+            <ul><li class="sz">Exclusive: Tesla presented misleading ‘Full Self-Driving’ safety data to European regulators - Reuters</li><li class="sz">Tesla Cybercab full specs revealed: 3,113 lbs, 219 HP, 48 kWh - Electrek</li><li class="sz">We Have New Tesla Cybercab Specs Before You&#x27;re Supposed to See Them Thanks to EPA Documents - Car and Driver</li><li class="sz">What is the Tesla Cybercab and what’s it doing on Orlando’s streets? - WKMG</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>超微 <span class="tk">AMD</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>511.57</b></div>
-            <div><span class="lab">明日預測</span><b class="up">474.89</b></div>
-            <div><span class="lab">預測變動</span><b class="up">-7.17%</b></div>
+            <div><span class="lab">最新收盤</span><b>547.26</b></div>
+            <div><span class="lab">明日預測</span><b class="up">511.72</b></div>
+            <div><span class="lab">預測變動</span><b class="up">-6.49%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/AMD.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
-            <span class="muted">（12 則，分數 +0.58）</span>
-            <ul><li class="sp">AMD Stock Soars. It’s Buying MEXT to Fight Memory Shortage. - Barron&#x27;s</li><li class="sp">Is Advanced Micro Devices, Inc. (AMD) A Good Stock To Buy Now? - Yahoo Finance</li><li class="sp">Rackspace Technology stock surges 30% on AMD AI compute deal By Investing.com - Investing.com Nigeria</li><li class="sp">Citi Calls AMD a Rising Force in the GPU Market, Upgrades Shares to Buy - Yahoo Finance</li></ul>
+            <span class="muted">（12 則，分數 +0.33）</span>
+            <ul><li class="sp">AMD Stock Soars. It’s Buying MEXT to Fight Memory Shortage. - Barron&#x27;s</li><li class="sp">AMD stock rallies after MEXT acquisition; targets AI memory bottleneck - Seeking Alpha</li><li class="sp">AMD Stock Gets a Major Upgrade From Citi - TradingView</li><li class="sp">Nvidia vs AMD: The Better AI Stock Is A Better Buy This June - Yahoo Finance</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>比特幣 <span class="tk">BTC-USD</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>66005.89</b></div>
-            <div><span class="lab">明日預測</span><b class="up">66385.82</b></div>
-            <div><span class="lab">預測變動</span><b class="up">+0.58%</b></div>
-            <div><span class="lab">訊號</span><b>📈 偏多</b></div>
+            <div><span class="lab">最新收盤</span><b>66482.63</b></div>
+            <div><span class="lab">明日預測</span><b class="down">64384.91</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-3.16%</b></div>
+            <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/BTC-USD.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
             <span class="muted">（12 則，分數 +0.17）</span>
-            <ul><li class="sp">美伊敲定協議 比特幣應聲上漲 但沃什聯準會首秀會扼殺漲勢嗎？ - news.cnyes.com</li><li class="sp">比特幣還有近1倍漲幅？各大金融目標最高喊17萬美元關鍵利多曝光- 日報 - 工商時報</li><li class="sz">比特幣這輪底部遠高於歷史上熊市？Galaxy拋出「平靜頂部」論點 - 動區動趨</li><li class="sz">貝萊德推出比特幣溢價收益ETF 作者 Investing.com - Investing.com 香港 - 股市報價&amp; 財經新聞</li></ul>
+            <ul><li class="sp">美銀點名美伊和平協議「6大」受惠資產！消費股、比特幣、黃金全上榜 - news.cnyes.com</li><li class="sp">比特幣還有近1倍漲幅？各大金融目標最高喊17萬美元關鍵利多曝光- 日報 - 工商時報</li><li class="sz">比特幣這輪底部遠高於歷史上熊市？Galaxy拋出「平靜頂部」論點 - 動區動趨</li><li class="sz">美伊停火協議提振市場信心 比特幣強勢收復6.5萬美元大關 至近兩周高點 - Yahoo股市</li></ul>
           </div>
         </div>
 
         <div class="card">
           <h2>以太幣 <span class="tk">ETH-USD</span></h2>
           <div class="nums">
-            <div><span class="lab">最新收盤</span><b>1800.96</b></div>
-            <div><span class="lab">明日預測</span><b class="down">1774.07</b></div>
-            <div><span class="lab">預測變動</span><b class="down">-1.49%</b></div>
+            <div><span class="lab">最新收盤</span><b>1815.10</b></div>
+            <div><span class="lab">明日預測</span><b class="down">1746.81</b></div>
+            <div><span class="lab">預測變動</span><b class="down">-3.76%</b></div>
             <div><span class="lab">訊號</span><b>📉 偏空</b></div>
           </div>
           <img src="assets/ETH-USD.png" alt="chart" loading="lazy">
           <div class="news">
             <span class="lab">新聞情緒</span> <b>偏多 🟢</b>
-            <span class="muted">（12 則，分數 +0.17）</span>
-            <ul><li class="sp">Bitmine 增持 7.6 萬枚以太幣！Tom Lee 看好「加密之春」初綻 - 區塊客</li><li class="sn">以太幣(ETHUSD)6月16日下跌1.28%：鏈上與市場情緒怎麼看？ - TradingKey</li><li class="sp">「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com</li><li class="sp">2天7次清算後繼續衝 麻吉大哥加碼押注ETH上漲 網驚：太瘋狂 - 自由財經</li></ul>
+            <span class="muted">（12 則，分數 +0.33）</span>
+            <ul><li class="sp">「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com</li><li class="sp">基本面強勁！渣打看多以太幣：今年底上看 4 千美元、 2030 年飆到 4 萬美元 - 區塊客</li><li class="sp">2天7次清算後繼續衝 麻吉大哥加碼押注ETH上漲 網驚：太瘋狂 - 自由財經</li><li class="sp">AI 、代幣化催生 50 倍上漲空間！Tom Lee 喊：以太幣會飆到 25 萬美元 - 區塊客</li></ul>
           </div>
         </div>
 </div>
