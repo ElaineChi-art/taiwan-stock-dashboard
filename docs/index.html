@@ -7,6 +7,12 @@
 <style>
   :root { color-scheme: light dark; }
   * { box-sizing: border-box; }
+  .topnav { display:flex; gap:6px; background:#0b0d12; padding:8px 16px;
+            border-bottom:1px solid #262b36; position:sticky; top:0; z-index:10; }
+  .topnav a { color:#9aa4b2; text-decoration:none; font-size:14px; font-weight:600;
+              padding:7px 16px; border-radius:8px; }
+  .topnav a:hover { background:#161922; color:#e6e6e6; }
+  .topnav a.active { background:#1f2e3a; color:#7fb5ff; }
   body { font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
          margin: 0; background:#0f1115; color:#e6e6e6; }
   header { padding:24px 20px; background:#161922; border-bottom:1px solid #262b36; }
@@ -49,9 +55,13 @@
 </style>
 </head>
 <body>
+<nav class="topnav">
+  <a class="active" href="https://elainechi-art.github.io/taiwan-stock-dashboard/">📈 股市儀表板</a>
+  <a href="https://elainechi-art.github.io/research-radar/">📡 研究雷達</a>
+</nav>
 <header>
   <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
-  <p>資料日期：2026-06-16　·　產生時間：2026-06-16 04:50　·　每日自動更新</p>
+  <p>資料日期：2026-06-16　·　產生時間：2026-06-16 15:21　·　每日自動更新</p>
 </header>
 <p class="disc">⚠️ 本頁為機器學習教學/實驗用途，預測僅供參考，<b>不構成任何投資建議</b>。即時圖：加密貨幣為 Binance 即時資料；台股為盤中 5 分 K、約延遲 15 分鐘（免費資料上限）。</p>
 

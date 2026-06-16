@@ -180,6 +180,12 @@ def build_html(date_str, rows, generated_at):
 <style>
   :root {{ color-scheme: light dark; }}
   * {{ box-sizing: border-box; }}
+  .topnav {{ display:flex; gap:6px; background:#0b0d12; padding:8px 16px;
+            border-bottom:1px solid #262b36; position:sticky; top:0; z-index:10; }}
+  .topnav a {{ color:#9aa4b2; text-decoration:none; font-size:14px; font-weight:600;
+              padding:7px 16px; border-radius:8px; }}
+  .topnav a:hover {{ background:#161922; color:#e6e6e6; }}
+  .topnav a.active {{ background:#1f2e3a; color:#7fb5ff; }}
   body {{ font-family: -apple-system, "PingFang TC", "Microsoft JhengHei", sans-serif;
          margin: 0; background:#0f1115; color:#e6e6e6; }}
   header {{ padding:24px 20px; background:#161922; border-bottom:1px solid #262b36; }}
@@ -222,6 +228,10 @@ def build_html(date_str, rows, generated_at):
 </style>
 </head>
 <body>
+<nav class="topnav">
+  <a class="active" href="https://elainechi-art.github.io/taiwan-stock-dashboard/">📈 股市儀表板</a>
+  <a href="https://elainechi-art.github.io/research-radar/">📡 研究雷達</a>
+</nav>
 <header>
   <h1>📊 台股＋加密貨幣 每日 AI 儀表板</h1>
   <p>資料日期：{date_str}　·　產生時間：{generated_at}　·　每日自動更新</p>
