@@ -250,8 +250,10 @@ def build_html(date_str, rows, generated_at):
 </head>
 <body>
 <nav class="topnav">
+  <a href="https://elainechi-art.github.io/">🏠 首頁</a>
   <a class="active" href="https://elainechi-art.github.io/taiwan-stock-dashboard/">📈 股市儀表板</a>
   <a href="https://elainechi-art.github.io/research-radar/">📡 研究雷達</a>
+  <a href="https://elainechi-art.github.io/judicial/">📚 司法官・律師複習</a>
 </nav>
 <div class="toc-trigger" aria-hidden="true"><span class="th">☰</span><span class="tl">目錄</span></div>
 <aside class="toc"><div class="toctitle">目錄</div>
