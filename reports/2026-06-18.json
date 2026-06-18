@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 107.30000305175781,
+    "predicted": 108.66493225097656,
+    "pct_change": 1.2720681830366354,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "百萬股民鬆一口氣！「兩大重量級ETF」僅花3日填息達陣 00403A爆近74萬張天量攻新高價 - FTNN 新聞網",
+          "score": 1
+        },
+        {
+          "title": "0050換股推一把！台積電尾盤爆2.4萬張大量 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "台灣50指數成分股調整盤後生效牽動ETF資金位移| 證券 - 中央社 CNA",
+          "score": 0
+        },
+        {
+          "title": "台股尾盤爆量甩尾？ 富時指數今調整 重點整理一次看 - 東森電視",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2410.0,
+    "predicted": 2390.873779296875,
+    "pct_change": -0.7936191163122407,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電鉅額交易再創歷史新高 多頭仙人指路 | 市場焦點 | 證券 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台股史上最高收盤！漲587點至46465　台積電漲25元至2410 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "台積電擴大美國封測結盟 破天荒揭露與業界二哥艾克爾簽十年協議 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "台積電全球大遷徒動搖台灣「矽盾」神話？日媒一語戳破殘酷現實 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 268.5,
+    "predicted": 262.6101379394531,
+    "pct_change": -2.1936171547660615,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海(2317)、廣達(2382)、緯創(3231)...跟著老AI衝下一波？台股創新高卻暗藏2大隱憂：9檔避風好股出列 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "【Follow法人】外資爆買中鋼近32萬張居首 反手提款老AI鴻海緯創逾百億元 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "VivaTech台灣展AI力 鴻海設館首秀 - 中央社 CNA",
+          "score": 0
+        },
+        {
+          "title": "[U-EV]鴻海進軍歐洲更明朗化、設立生產基地？波蘭總理指出將於2026年秋季前完成電動車合作案會談 - U-CAR新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4390.0,
+    "predicted": 5964.75537109375,
+    "pct_change": 35.871420753843964,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股挑戰新高前...內外資悄悄布局哪些股？南亞科、華邦電、聯發科等17檔名單一次看- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "持股聯發科、聯電！「這檔」高股息ETF穩坐績效冠軍　年化配息率突破10% - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "第二座護國神山呼之欲出！ASIC商機大爆發，聯發科、創意、世芯如何改寫全球晶片版圖？ - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "郭明錤：聯發科升級AI業務策略 初期鎖定谷歌TPU與馬斯克L10機架 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 204.64999389648438,
+    "predicted": 205.7411651611328,
+    "pct_change": 0.5331890042471106,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia’s Huang pledges AI will boost manufacturing jobs. A test will come in Texas - AP News",
+          "score": 1
+        },
+        {
+          "title": "Nvidia-backed optics vendor to boost wafer output by 4x to meet AI interconnect demand - The Register",
+          "score": 1
+        },
+        {
+          "title": "Nvidia reveals AI robots that taught themselves to install GPUs into motherboards — video shows robot ‘solve high-precision tasks like… installing GPUs all by itself’ - Tom's Hardware",
+          "score": 1
+        },
+        {
+          "title": "US awards $500 million to Nvidia-backed SandboxAQ for finding new chipmaking materials - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 396.3800048828125,
+    "predicted": 388.9927062988281,
+    "pct_change": -1.8636910270406772,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "TCSO responds to fatal crash on SH-130, Tesla Road ramp - KXAN Austin",
+          "score": -1
+        },
+        {
+          "title": "Elon Musk’s Next Move May Be a Mega-Merger of SpaceX and Tesla - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "US senators ask for review of Tesla's 'Full Self-Driving' safety data, citing Reuters report - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Musk Swaps 300 Million Tesla Options for Shares He Can Vote - WSJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 512.47998046875,
+    "predicted": 524.0027465820312,
+    "pct_change": 2.248432436861577,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Intel Tumbles 7% Despite BoA Double Upgrade, AMD Slides 6% as AI Infrastructure Deal Can’t Stop Profit-Taking - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Jumps 8% to a Record High, NVIDIA Climbs 4%, Intel Rises 3% in a Risk-On Chip Surge - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "RXT Stock Surges To 4-Year Highs — Wall Street Highlights Multi-Industry Growth Potential After AMD Deal - Stocktwits",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Soars. It’s Buying MEXT to Fight Memory Shortage. - Barron's",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64076.48046875,
+    "predicted": 65643.5703125,
+    "pct_change": 2.445655304857556,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Fed鷹派訊號重擊幣市！麻吉大哥槓桿部位受創 累計虧損逾25億元 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "比特幣疲弱的暗傷 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "下一輪牛市不再瘋狂！Bitwise 投資長：比特幣漲勢將「更慢、更穩」 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "比特幣的剋星——美元指數正處在重大突破的邊緣 - 富途牛牛",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1749.18994140625,
+    "predicted": 1791.3248291015625,
+    "pct_change": 2.408822889836562,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Fed鷹派訊號重擊幣市！麻吉大哥槓桿部位受創 累計虧損逾25億元 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "6月17今日分析：多空雙殺!比特幣、以太坊漲不動？為何龍蝦、WLD、UNI爆拉!DOGE、AAVE、PENDLE - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "比特幣衝67300鎂、以太坊漲 4.6%！血洗空軍「10.7 萬人爆倉 $4.89 億」 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
