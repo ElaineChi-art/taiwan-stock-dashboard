@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 107.30000305175781,
+    "predicted": 107.6697998046875,
+    "pct_change": 0.344638156954488,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "入列0050成分股！「PCB大廠」迎連6漲27.29%創高 投信狂砸192億元連6日爆買 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "0050、00919、00981A都上榜！今年來規模增加前十強台股ETF出爐 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "台灣50指數成分股調整盤後生效牽動ETF資金位移| 證券 - 中央社 CNA",
+          "score": 0
+        },
+        {
+          "title": "定期定額破百萬戶！不是台積電 台灣最夯投資標的是它 - 三立新聞網SETN.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2410.0,
+    "predicted": 2364.878173828125,
+    "pct_change": -1.8722749448910787,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "集邦：台積電加速推CoPoS 這幾家台廠受惠 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "女大生「出清台積電」救家！全賣在「這金額」崩潰了 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "晶片太燙會翹！ 台積電改用「玻璃心」 這幾家默默在吃大補丸 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "台積電結合台日供應鏈發表玻璃基板封裝成果，給韓國對手強大威脅 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 268.5,
+    "predicted": 269.4779052734375,
+    "pct_change": 0.3642105301443203,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海(2317)、廣達(2382)、緯創(3231)...跟著老AI衝下一波？台股創新高卻暗藏2大隱憂：9檔避風好股出列 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "南亞、群創猛飆漲停！鴻海、廣達、南亞科收高助攻 台股驚奇收紅漲68點 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "Apple Watch第1季出貨亮眼供應商鴻海受惠| 上市電子| 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "【Follow法人】外資爆買中鋼近32萬張居首 反手提款老AI鴻海緯創逾百億元 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4390.0,
+    "predicted": 5032.6171875,
+    "pct_change": 14.63820472665148,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "持股聯發科、聯電！「這檔」高股息ETF穩坐績效冠軍　年化配息率突破10% - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "AI PC換機潮來了？技嘉、華碩、聯發科...一表看14檔受惠股：這2檔悄出現「大戶增散戶減」跡象 - 財訊",
+          "score": 1
+        },
+        {
+          "title": "老牌科技股迎第二春大閱兵！大立光、聯發科、友達、群創…誰已經拿到跨界新門票？ - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "第二座護國神山呼之欲出！ASIC商機大爆發，聯發科、創意、世芯如何改寫全球晶片版圖？ - 今周刊",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 204.64999389648438,
+    "predicted": 208.74588012695312,
+    "pct_change": 2.0014103848644735,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Stock Gains as the Chip Maker Looks to Growth Outside the U.S. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Amazon in Talks to Sell Custom AI Chips in Bid to Undercut Nvidia - Bloomberg.com",
+          "score": 0
+        },
+        {
+          "title": "Amazon May Start Selling Its Custom AI Chips to Outside Companies. Should Nvidia Investors Be Worried? - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 396.3800048828125,
+    "predicted": 400.36285400390625,
+    "pct_change": 1.004805760136982,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Cathie Wood’s ARK sells Roku stock, buys Tesla and Snowflake - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "Have You Bought a Tesla Recently? We Want to Hear From You. - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "EXCLUSIVE: Sweden may oppose Tesla's supervised self-driving tech in Europe over speeding concerns - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Tesla teases new FSD features — but it’s still not the self-driving promised - Electrek",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 512.47998046875,
+    "predicted": 490.6852722167969,
+    "pct_change": -4.2527921250734835,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "One Warning Signal AMD Investors Can't Miss - The Motley Fool",
+          "score": -1
+        },
+        {
+          "title": "UP 280% YTD, Will AMD’s Rally Continue? - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, continues SRTA sell-off - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Rallies Despite TSME Ryzen Complaints - TipRanks",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 62443.94140625,
+    "predicted": 64449.296875,
+    "pct_change": 3.211449219234077,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣優先股 STRC、SATA 重挫！Strive CEO 急滅火：是槓桿清算，不是信用惡化 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "Arthur Hayes清倉看空比特幣：AI已抽乾流動性，BTC難破十萬 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "市值飆 2.75 兆美元！克魯曼狠酸 SpaceX ：根本迷因股、下場如比特幣 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "XRP現貨ETF逆勢吸金254.5萬美元 比特幣卻隨聯準會下挫 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1684.6700439453125,
+    "predicted": 1758.9990234375,
+    "pct_change": 4.412079371822697,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Fed鷹派訊號重擊幣市！麻吉大哥槓桿部位受創 累計虧損逾25億元 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "6月17今日分析：多空雙殺!比特幣、以太坊漲不動？為何龍蝦、WLD、UNI爆拉!DOGE、AAVE、PENDLE - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)6月19日突然下跌1.24%：市場行情在交易什麼？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - Yahoo股市",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
