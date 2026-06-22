@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 111.1500015258789,
+    "predicted": 110.21550750732422,
+    "pct_change": -0.8407503425333831,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050、0056、台積電、金融股…小學老師滿手11檔績優股，專家點出致命傷：2招換股，這檔主動ETF賺暴漲240%噴發股 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "0050破110元…清流君酸爆賣股躲下跌派「在忙什麼？」網：太神啦、躺著贏 - UDN",
+          "score": -1
+        },
+        {
+          "title": "今日最夯 ETF／台股再飆新高 00631L 大漲逾7% - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "3000萬0050質押再買1500萬正二？他曝槓桿配置 內行人曝真相：先借得到再說吧 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2510.0,
+    "predicted": 2410.908935546875,
+    "pct_change": -3.947851173431275,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電ADR大漲7％ 今攻2,500元有望？外資3面向力挺創高行情 直言「評價偏低」 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "李鴻源示警 我們不能只有台積電 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "台股盤中大漲1400點近逼48000點 台積電創2510元新天價 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "台積電一張送小孩要繳稅了！律師：股價衝上2510元超過免稅額| 稅務法務| 產經 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 268.5,
+    "predicted": 258.08538818359375,
+    "pct_change": -3.8788125945647116,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "狂賺2個股本！鴻海劉揚偉靠「4字管理密碼」 外資砸錢驚爆戴維斯雙擊 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "鴻海第二成長曲線成形 全光 CPO 交換機櫃傳提前出貨輝達 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "鴻海(2317)、廣達(2382)、緯創(3231)...跟著老AI衝下一波？台股創新高卻暗藏2大隱憂：9檔避風好股出列 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "PTT喊「鴻海無腦多」直指400元！他120元抱到現在 網不領情：不如買0050 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4465.0,
+    "predicted": 6112.02685546875,
+    "pct_change": 36.887499562569985,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科正式發出漲價信 供給吃緊產品料優先調整 - DIGITIMES",
+          "score": 1
+        },
+        {
+          "title": "複製國巨(2327)三個月漲400%奇蹟？聯發科(2454)、創意(3443)、世芯-KY(3661)....台股老手點名「下半年17檔大黑馬股」：被動元件噴完換它 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "IC 設計業搶搭光通訊商機 聯發科率領達發、元澄一起衝 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "漲風吹到IC設計聯發科、瑞昱齊調價- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 210.35699462890625,
+    "predicted": 207.77532958984375,
+    "pct_change": -1.2272779631677337,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Stock Rises But It Still Lags Intel - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Groq Raises $650 Million to Help Startup Pivot After Nvidia Deal - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "SpaceX's shift to neocloud biz benefits Nvidia, Intel; prompts Buy rating for Credo: GF - Seeking Alpha",
+          "score": 1
+        },
+        {
+          "title": "Open-source Vulkan driver NVK gains experimental DLSS support — bringing Nvidia’s upscaling tech to Linux via imported CUDA binaries - Tom's Hardware",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 409.5799865722656,
+    "predicted": 403.6133117675781,
+    "pct_change": -1.456778895527101,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Used Tesla Model X Is The Only Electric Three-Row Family Hauler You Can Buy Under $20,000, But Here's A Reality Check - Jalopnik",
+          "score": 1
+        },
+        {
+          "title": "Should You Buy Tesla Stock Before July 2? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Tesla Driver Using Autopilot Crashes Into Home in Texas and Kills a Woman, Officials Say - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "Did Elon Musk Just Hint a SpaceX-Tesla Merger Is Imminent? - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 544.5900268554688,
+    "predicted": 558.5836791992188,
+    "pct_change": 2.5695755804694236,
+    "news": {
+      "count": 12,
+      "score": 0.5,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Stock Rises But It Still Lags Intel - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Buy, Hold, or Sell: AMD Rested Near All-Time Highs as Kevin Warsh Opened His First Fed Meeting. Is AMD Stock a Buy at $507? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Is Advanced Micro Devices (AMD) One of the Top 10 Dividend Stocks to Buy According to Reddit? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Better Buy: AMD vs. Intel After Intel's Monster Run - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64976.12890625,
+    "predicted": 64741.55078125,
+    "pct_change": -0.3610220075413513,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "狂賺1200萬 Claude AI幫助男子取回遺忘11年的5顆比特幣 #AI 模型 (248737) - Cool3c",
+          "score": 1
+        },
+        {
+          "title": "2026年6月21日-6月22日區塊鏈24小時最新資訊鏈共識（鏈新聞） - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "摩根大通：比特幣挖礦網路「極度脆弱」！BTC 連 5 個月低於生產成本，上市礦企拋售超去年總和 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "曾精準預測歷史高點！分析師：比特幣驚現「看跌旗形」、恐下探 5.4 萬美元 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1757.030029296875,
+    "predicted": 1783.377685546875,
+    "pct_change": 1.4995563997585035,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Bitmine 上週再買 5.2 萬枚 ETH、總持倉突破 567 萬枚！Tom Lee 高呼：加密貨幣的春天剛開始 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "聯準會提議穩定幣「銀行級」監管 以太坊盤中跌近2% - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETHUSD)6月22日上漲1.08%：鏈上與市場情緒怎麼看？ - TradingKey",
+          "score": 1
+        },
+        {
+          "title": "HYPE ETF逆勢吸金3140萬美元 比特幣以太幣資金出走 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
