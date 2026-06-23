@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 110.0999984741211,
+    "predicted": 108.95902252197266,
+    "pct_change": -1.0363087810728926,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050破110元…清流君酸爆賣股躲下跌派「在忙什麼？」網：太神啦、躺著贏 - UDN",
+          "score": -1
+        },
+        {
+          "title": "0050、0056、台積電、金融股…小學老師滿手11檔績優股，專家點出致命傷：2招換股，這檔主動ETF賺暴漲240%噴發股 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "台股ETF受益人數終止創新高 週減8.6萬人 - rti.org.tw",
+          "score": 1
+        },
+        {
+          "title": "3000萬0050質押再買1500萬正二？他曝槓桿配置 內行人曝真相：先借得到再說吧 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2490.0,
+    "predicted": 2460.540283203125,
+    "pct_change": -1.183121156501004,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電在美股盤前跌5％ 外媒直曝阻力區 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台積電覓地擴先進封裝二選一 供應鏈看好這園區 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "中興電(1513)做什麼的？搶下台積電大單，訂單滿到2031年…今年EPS衝9.17元，最新目標價曝光 - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "這檔CPO首評就給620元！「台積電小金雞」法人推目標價、EPS一次看- 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 259.5,
+    "predicted": 264.3746643066406,
+    "pct_change": 1.8784833551601636,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "2317 鴻海 - 類股輪動修正，不是世界末日，鴻海的前景及業績沒有因下跌而改變- 股市爆料同學會 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "狂賺2個股本！鴻海劉揚偉靠「4字管理密碼」 外資砸錢驚爆戴維斯雙擊 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "【Follow法人】外資提款385億！砍台玻、鴻海共近7萬張 0050也入列 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "鴻海旗下 準時達拓展墨國物流管理 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4535.0,
+    "predicted": 6084.01416015625,
+    "pct_change": 34.15687232979603,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "複製國巨(2327)三個月漲400%奇蹟？聯發科(2454)、創意(3443)、世芯-KY(3661)....台股老手點名「下半年17檔大黑馬股」：被動元件噴完換它 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "扛不住通膨與成本壓力，聯發科通知客戶調漲晶片價格 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "聯發科漲價帶動 IC 設計風向 電源管理廠不排除跟進 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "【00981A】06/23 操作日報｜狠砍南茂近九成，資金轉向聯發科 - CMoney投資網誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 208.64999389648438,
+    "predicted": 210.0213623046875,
+    "pct_change": 0.6572578233016818,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunge; Amazon, Alphabet, Nvidia Sell Off - Investor's Business Daily",
+          "score": -1
+        },
+        {
+          "title": "Nvidia says AI's water challenge is largely solved - Axios",
+          "score": 0
+        },
+        {
+          "title": "Nvidia says its new data center design will fix AI’s water problem - Fortune",
+          "score": 0
+        },
+        {
+          "title": "Nvidia says its AI data center design runs hotter to use a lot less water - The Verge",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 405.04998779296875,
+    "predicted": 402.3003845214844,
+    "pct_change": -0.6788306022341535,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation - WSJ",
+          "score": -1
+        },
+        {
+          "title": "Tesla vehicles top list of most-made-in-America vehicles - Axios",
+          "score": 0
+        },
+        {
+          "title": "Tesla Notches Over Twofold Increase in European Monthly Sales - WSJ",
+          "score": 0
+        },
+        {
+          "title": "Tesla Regains Momentum in Europe - WSJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 551.6300048828125,
+    "predicted": 548.9290161132812,
+    "pct_change": -0.4896377545860734,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Intel Has a Warning for AMD Stock Investors - The Motley Fool",
+          "score": -1
+        },
+        {
+          "title": "Should You Buy AMD Stock Now or Wait for a Dip? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Better Buy: AMD vs. Intel After Intel's Monster Run - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Micron, AMD Lead Chip Stocks Rally On U.S.-Iran Deal - Investor's Business Daily",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 62435.98046875,
+    "predicted": 63960.9453125,
+    "pct_change": 2.4424455775356395,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣跌至6.2萬美元防線 晶片股重挫與地緣政治緊張引發拋售 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "Strategy 再買 520 枚比特幣！總持倉突破 84.7 萬枚，美元儲備達 14 億鎂 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣「跌破 6.2 萬鎂」血洗以太坊多軍！7.14 億爆倉、14.4 萬人慘出場，恐懼指數剩 23 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "國際｜比特幣之父中本聰身份之謎再起 坐擁706億美元比特幣？ - Yahoo 財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1658.18994140625,
+    "predicted": 1711.7115478515625,
+    "pct_change": 3.2277126467142114,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Bitmine 上週再買 5.2 萬枚 ETH、總持倉突破 567 萬枚！Tom Lee 高呼：加密貨幣的春天剛開始 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "推動以太坊下一階段成長！前 EF 研究員成立「Ethlabs」、獲 2 大儲備公司力挺 - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)6月23日下跌1.14%：原因揭秘 - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "HYPE ETF逆勢吸金3140萬美元 比特幣以太幣資金出走 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
