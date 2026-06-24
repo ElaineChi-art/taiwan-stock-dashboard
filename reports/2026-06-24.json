@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 107.1500015258789,
+    "predicted": 110.8908462524414,
+    "pct_change": 3.4912222802526136,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股殺千點靠ETF賺2倍抄底　「0050正2」爆64萬張史上次高量 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "台股大跌千點再掀抄底潮 00631L、0050成交量衝破200億元登冠、亞軍 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "台股回落千點就是要抄底！00631L、0050 成交金額雙雙衝破 200 億元 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "散戶打死不退！台股暴跌「正2教」信徒湧入 00631L成交量飆歷史次高 - 中時新聞網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2390.0,
+    "predicted": 2457.913330078125,
+    "pct_change": 2.841561927955021,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電 2 奈米報價喊漲！傳蘋果、NVIDIA 嫌太貴 考慮轉向三星「性價比」製程 - T客邦",
+          "score": 1
+        },
+        {
+          "title": "「不只3奈米」先進製程全喊漲？ 高燦鳴：台積電營收估增30% - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "美股大跌台股不妙！台積電ADR重挫近7% 費半崩逾千點| 財經 - Newtalk新聞",
+          "score": -1
+        },
+        {
+          "title": "台股收跌1057點史上第8慘　台積電萬張絕殺單跌百元至最低2390 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 256.0,
+    "predicted": 255.3954620361328,
+    "pct_change": -0.23614764213562012,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "狂賺2個股本！鴻海劉揚偉靠「4字管理密碼」 外資砸錢驚爆戴維斯雙擊 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "川普喊量子電腦加速 鴻海、廣達等台廠ODM有望受惠 - UDN",
+          "score": 1
+        },
+        {
+          "title": "聯發科、鴻海搶攻「銅轉光」誰能贏得這場機櫃戰爭？ - 天下雜誌",
+          "score": 0
+        },
+        {
+          "title": "鴻海與夏普簽署MOU布局策略新興產業 加速日本及全球市場發展 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4285.0,
+    "predicted": 5096.58935546875,
+    "pct_change": 18.940241667882145,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電資本布局策略受矚 傳聯發科擬結盟創意再拚ASIC - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "漲風吹到IC設計聯發科、瑞昱齊調價- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "AI通膨扛不住了！ 聯發科發函通知客戶漲價 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台股二哥出手了！　聯發科證實「對供應鏈發漲價通知」 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 200.0399932861328,
+    "predicted": 203.3858184814453,
+    "pct_change": 1.6725781381759521,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tech stocks tumble for a second day. Here's what's behind the selloff. - CBS News",
+          "score": -1
+        },
+        {
+          "title": "Prices of Nvidia’s Restricted AI Chips Surge on China’s Black Market Amid Export Crackdown (NVDA) - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia announces liquid cooling system that runs ‘hotter than a hot tub’ — promises to reduce electricity consumption and cut water use by up to 100%, but sustainability challenges remain - Tom's Hardware",
+          "score": -1
+        },
+        {
+          "title": "Nvidia Shareholder Meeting: 3 Key Takeaways and Supply Chain Trends to Watch - Moomoo",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 381.6099853515625,
+    "predicted": 386.2607116699219,
+    "pct_change": 1.2187119040071348,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla pushes back as fatal Texas crash reignites self-driving scrutiny - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Tesla leads Cars.com's American-Made Index again, even as EV sales slump - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Elon Musk’s trillionaire status at risk; oil price lowest since Iran war began – business live - The Guardian",
+          "score": 0
+        },
+        {
+          "title": "Tesla cofounder JB Straubel’s first pitch to Elon Musk failed. Then he turned his ‘hobby’ into a $1.3 trillion success - Fortune",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 519.8499755859375,
+    "predicted": 557.3677978515625,
+    "pct_change": 7.217047999922979,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Intel Has a Warning for AMD Stock Investors - The Motley Fool",
+          "score": -1
+        },
+        {
+          "title": "Should You Buy AMD Stock Now or Wait for a Dip? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Stock Could Be 15.5% Overvalued As AI Growth Questions Build - simplywall.st",
+          "score": 1
+        },
+        {
+          "title": "AMD and Intel Drop 5%, NVIDIA Slips 3% Amid Korean-Led Chip Selloff Bulls Say Is “Healthy” - Yahoo Finance",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 62657.1015625,
+    "predicted": 64111.63671875,
+    "pct_change": 2.321421067968029,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣暴大跌，現在還能買嗎？ - PChome Online 股市",
+          "score": -1
+        },
+        {
+          "title": "比特幣轉給老婆帳號「幾分鐘」就被認定贈與？韓國國稅廳被下令重查 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣帳面虧損 106 億美元！分析師警告：Strategy 應停止加碼、回補現金 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "符文復興：比特幣網絡流量達到兩年高點，交易量飆升至820,000以上 - 富途牛牛",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1667.0699462890625,
+    "predicted": 1699.246337890625,
+    "pct_change": 1.9301164701090026,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "以太坊基金會裁員二成 以太幣下跌加密市場震盪 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "Vitalik 證實以太坊基金會預算大砍 40%！以太坊將推「稻草地圖」第三代升級，最終效仿比特幣精簡化 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "以太坊不需要再來一次技術信仰 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
