@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 107.19999694824219,
+    "predicted": 110.05397033691406,
+    "pct_change": 2.662288684625446,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "0050賣了改買正2賺更快？理財達人示警：看似完美但先想清楚3件事- 基金 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "為何正2漲時多1倍、跌卻比0050多2倍以上？網曝真相：你買的是期貨 - UDN",
+          "score": -1
+        },
+        {
+          "title": "台股大跌千點再掀抄底潮 00631L、0050成交量衝破200億元登冠、亞軍 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "0050破110元…清流君酸爆賣股躲下跌派「在忙什麼？」網：太神啦、躺著贏 - UDN",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2390.0,
+    "predicted": 2434.30322265625,
+    "pct_change": 1.8536913245292885,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "這檔金融股漲贏台積電！手握2大印鈔機年噴73％ 網讚「賺10年利息」 法人上修配息EPS目標價- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "2330 台積電 - 韓星第一人！金俊秀3年前公開推薦台積電當時買1張爆賺184萬 - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "台積電覓地擴先進封裝二選一 供應鏈看好這園區 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電爆萬張鉅量穩收2390元！ 台股衝1.3兆巨量盪漲211點 - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 257.5,
+    "predicted": 255.9202117919922,
+    "pct_change": -0.6135099836923544,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "黃仁勳點名3台廠！　台積電、鴻海、緯創赴美卡位AI - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "Agility 拚美掛牌上市，鴻海先行布局續領投私募 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "鴻海、夏普簽署戰略合作MOU 強攻AI基建能源機器人 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "聯發科、鴻海搶攻「銅轉光」誰能贏得這場機櫃戰爭？ - 天下雜誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4310.0,
+    "predicted": 3862.307861328125,
+    "pct_change": -10.387288600275522,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科「火力全開」 瑞銀將目標價由5,500元上調至6,500元 法人圈最高 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "台積電資本布局策略受矚 傳聯發科擬結盟創意再拚ASIC - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "聯發科傳有意入股台積電旗下 ASIC 設計廠創意電子，強化 AI ASIC 佈局 - 鏈新聞 ABMedia",
+          "score": 0
+        },
+        {
+          "title": "市場傳聯發科欲入股創意 台積電回應了 - MSN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 199.0,
+    "predicted": 204.1864471435547,
+    "pct_change": 2.606254846007381,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Trending: OpenAI, Broadcom target Nvidia's AI chip dominance; Wendy's sees meme stock boost - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Stock Gains Even as AI Chip Competition Hots Up -- Barrons.com - 富途牛牛",
+          "score": 1
+        },
+        {
+          "title": "Nvidia, SpaceX Drive US High-Grade Bond Sales to a June Record - Bloomberg",
+          "score": 1
+        },
+        {
+          "title": "Micron is tech's new margin king as memory crisis pushes company past Nvidia and Meta - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 375.5299987792969,
+    "predicted": 398.828125,
+    "pct_change": 6.204065266805939,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Exclusive | Fatal Tesla Crash Into Texas Home Now Under Federal Safety Investigation - WSJ",
+          "score": -1
+        },
+        {
+          "title": "Elon Musk loses trillionaire status as SpaceX and Tesla stock drops - The Guardian",
+          "score": -1
+        },
+        {
+          "title": "View Photos of the 2027 Tesla Model Y L - Car and Driver",
+          "score": 0
+        },
+        {
+          "title": "Stretched Tesla Model Y Reportedly Coming to America to Fill the Gap Left by the Model X - Car and Driver",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 519.739990234375,
+    "predicted": 581.4472045898438,
+    "pct_change": 11.87270856869068,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Why AMD (AMD) Stock Is Trading Lower Today - TradingView",
+          "score": -1
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Stock Could Be 15.5% Overvalued As AI Growth Questions Build - simplywall.st",
+          "score": 1
+        },
+        {
+          "title": "Better Buy After the Chip Sell-Off: Nvidia or AMD? - The Globe and Mail",
+          "score": 1
+        },
+        {
+          "title": "AMD Named Current Company to Beat in Gartner® AI Vendor Race - AMD",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 61244.0,
+    "predicted": 62818.40234375,
+    "pct_change": 2.570704630249494,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣虧損持倉量達到歷史新高 1,083萬 BTC - 富途牛牛",
+          "score": 1
+        },
+        {
+          "title": "黃金、白銀和比特幣大跌，憤怒投資者可以怪罪凱文·華許 - 华尔街日报中文网",
+          "score": -1
+        },
+        {
+          "title": "比特幣一度跌破6萬美元關卡 專家分析一情況恐未見落底 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "比特幣衍生品發出恐慌信號。疲軟的核心PCE數據可能引發反彈。 - 富途牛牛",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1631.6400146484375,
+    "predicted": 1702.416748046875,
+    "pct_change": 4.3377664658271735,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "以太坊基金會裁員二成 以太幣下跌加密市場震盪 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "加密貨幣的反彈漲勢未能撼動持續存在的看跌衍生品信號 - 富途牛牛",
+          "score": 0
+        },
+        {
+          "title": "比特幣跌穿 6 萬鎂大關、以太坊失守 $1600！全網爆倉逾 6.5 億美元「近 14 萬人遭砍頭」 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
