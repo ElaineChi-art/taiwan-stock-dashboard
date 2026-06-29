@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 104.44999694824219,
+    "predicted": 109.22911071777344,
+    "pct_change": 4.575503981967017,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "投資人棄高股息 ETF！紅包年終壓0050 2月定期定額戶數突破80萬人創高 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "換股增刪共44檔！「這檔高息ETF」被外資看好進場6524張 再撒7億元買入00631L - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "0050正二真的穩賺？他憂買在高點被套牢 過來人現身說法：抱得住都會賺錢 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "新手捧120萬想買「這檔ETF」！內行揭1陋習示警了 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2370.0,
+    "predicted": 2412.338623046875,
+    "pct_change": 1.786439791007384,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股終場漲428點收44999點月線得而復失 台積電漲30元 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "台積電熊本設廠非僅區域分散 日本既有生態系成關鍵 - 財經新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "score": 0
+        },
+        {
+          "title": "1家公司能改變1座城市！韓媒從台灣找到答案 揭台積電驚人影響力 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "韓國也想複製成功模式！韓媒揭「台積電進駐熊本」背後真正關鍵 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 246.5,
+    "predicted": 248.57879638671875,
+    "pct_change": 0.8433251061739351,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海(2317)突破300元杜金龍竟「大膽賣掉一半」？轉進這檔賺更多！老AI過河拆橋？最新驚人目標價曝光！ - 優分析UAnalyze",
+          "score": 1
+        },
+        {
+          "title": "存股老手大買緯創的盤算？鴻海、崑鼎、神基..他年領155萬股息卻有一煩惱：明年躺領180萬更省稅 - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "鴻海 瞄準逾100天 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "最後買進日倒數！鴻海、金控雙雄配息真香專家急喊「除息秀有毒」原因曝光- 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3910.0,
+    "predicted": 2716.218505859375,
+    "pct_change": -30.531496013826725,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科ASIC商機再獲看好外資目標價顯升至1萬元- 新聞 - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "豪砸390萬買聯發科！蔡阿嘎聽某嘴「慘變反指標」　下秒跌停現虧2萬 - 鏡週刊Mirror Media",
+          "score": 0
+        },
+        {
+          "title": "外資喊瘋了！聯發科搭AI商機目標價直衝萬元「這檔」攜華邦電攻3D晶圓封裝奪「787億成交額」居冠 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "三大法人買賣超 – 外資買超(2409)友達、(2454)聯發科，投信買超(3189)景碩、(2344)華邦電，法人合計買超31.5億元 - sinotrade.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 192.52999877929688,
+    "predicted": 197.86817932128906,
+    "pct_change": 2.772648717518307,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Is NVIDIA (NVDA) the Best Fast Growth Stock to Buy as It Targets Fully Autonomous AI for Telecom Networks? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Palantir looks to boost commercialization of new software; teams with Nvidia on Nemotron (PLTR:NASDAQ) - Seeking Alpha",
+          "score": 1
+        },
+        {
+          "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, Tesla, Seagate, Warby Parker, AppLovin & more - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Palantir Stock Is Rising Again and This Nvidia Partnership Could Help the Recovery - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 379.7099914550781,
+    "predicted": 379.8224792480469,
+    "pct_change": 0.029624659740368712,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "US safety agency ends power steering probe into 376,000 Tesla EVs - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Middle East Tensions, Tesla Deliveries and Other Can't Miss Items this Week - Barchart",
+          "score": -1
+        },
+        {
+          "title": "Dow Jones Futures Rise On U.S.-Iran News, S&P 500 To Reclaim Key Level; Tesla, Jobs Report Loom. - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "TechCrunch Mobility: All eyes on Tesla FSD - TechCrunch",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 521.5800170898438,
+    "predicted": 554.3641967773438,
+    "pct_change": 6.285551327372425,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Cantor Fitzgerald raises AMD stock price target to $700 on compute momentum - Investing.com",
+          "score": 1
+        },
+        {
+          "title": "Is The Growth Baked Into Advanced Micro Devices Stock Believable? - Trefis",
+          "score": 1
+        },
+        {
+          "title": "UBS Raises PT on Advanced Micro Devices (AMD) - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD’s stock split history (& prospects) explained - thestreet.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 60139.0703125,
+    "predicted": 60083.6015625,
+    "pct_change": -0.09223413283871588,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "黃金、白銀、比特幣齊重挫！「這種交易」走到盡頭？ - 三立新聞網SETN.com",
+          "score": -1
+        },
+        {
+          "title": "AI吸金狂潮拉抬美元創逾一年新高 比特幣礦商急轉型 - 財經新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "score": 1
+        },
+        {
+          "title": "AI、SpaceX、比特幣槓桿交易反噬 科技股崩跌揭露投機市場真面目 - 世界新聞網",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破6萬美元，年內跌逾30%！ETF持續資金外流拖累季度表現 - Yahoo 財經",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1583.050048828125,
+    "predicted": 1626.0694580078125,
+    "pct_change": 2.7175015225534542,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "比特幣一度跌破6萬,ETH、DOGE、XRP和SOL在六月被嫌棄？ - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "資金告急？ 麻吉大哥虧本賣無聊猿NFT 補以太多單 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "麻吉大哥急了！虧本賣NFT籌資以太幣多單 向「他」喊話救市 - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
