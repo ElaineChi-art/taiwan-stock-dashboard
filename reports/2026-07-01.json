@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.3499984741211,
+    "predicted": 108.69257354736328,
+    "pct_change": -0.6012116469424547,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "獲利贏麻了！小資族曬0050半年成績單 眾人見「這亮點」全跪：清流 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "買正2「漲比0050多1倍、跌卻多2倍」？網一語道破真相：先去了解追蹤什麼 - FTNN 新聞網",
+          "score": -1
+        },
+        {
+          "title": "87歲阿公曬0050對帳單獲利翻倍 還開示孫女：別害怕、繼續買！然後快睡覺 - UDN",
+          "score": 1
+        },
+        {
+          "title": "快訊／323萬股民注意！0050配0.6元大縮水　7／21除息 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2505.0,
+    "predicted": 2388.937255859375,
+    "pct_change": -4.633243279066866,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股終場漲893點站上47000點 台積電漲95元收全日最高價2505元 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "台積電名次曝光！全球最賺錢企業榜單一次看 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "AI領漲美股！台積電ADR收高近5%　台指期夜盤漲649點 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "美股收盤》晶片股領漲！費半漲近4％ 台積電ADR飆近5％ - 自由財經",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 248.0,
+    "predicted": 242.630859375,
+    "pct_change": -2.164976058467742,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "棄息？鴻海最後一盤爆7,022張賣單收248元 外資也賣超逾2.2萬張 - UDN",
+          "score": 0
+        },
+        {
+          "title": "存股老手大買緯創的盤算？鴻海、崑鼎、神基..他年領155萬股息卻有一煩惱：明年躺領180萬更省稅 - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "焦點股》鴻海：AI新品量產爬坡 帶量止跌反彈 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "攜手軟銀...鴻海搶進日本主權AI！法人加碼Q3「隱藏版紅利」 最新目標價、EPS一次看- 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4335.0,
+    "predicted": 3363.525390625,
+    "pct_change": -22.410025591118803,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "快訊／聯發科飆漲停！　台股狂飆1613點史上盤中第4大 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "炎上風波下曬戰績！蔡阿嘎脫手聯發科「5天神操作狂賺46萬」　吐槽二伯：妳沒水準 - 鏡週刊Mirror Media",
+          "score": 1
+        },
+        {
+          "title": "買390萬被笑！蔡阿嘎「聯發科賺40萬」　作家曝關鍵：我只買1股 - ETtoday新聞雲",
+          "score": 1
+        },
+        {
+          "title": "聯發科ASIC商機再獲看好外資目標價顯升至1萬元- 新聞 - MoneyDJ",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 200.08999633789062,
+    "predicted": 197.7845916748047,
+    "pct_change": -1.152183869898631,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia built a nearly $5 trillion company by making people pay for their own lunch - Fortune",
+          "score": 0
+        },
+        {
+          "title": "Nvidia's culture of frugality extends all the way to the cafeteria - Business Insider",
+          "score": 0
+        },
+        {
+          "title": "AMD Nears $1 Trillion Mark Proving Nvidia’s Huang Wrong - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 420.6000061035156,
+    "predicted": 394.8595275878906,
+    "pct_change": -6.1199424969313725,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "New Tesla sales in Spain rise 5.6% year-on-year in June - Reuters",
+          "score": 1
+        },
+        {
+          "title": "TSLA Stock Trims Losses Overnight: Tesla Cybercab Starts Austin Tests Without ‘Steering Wheel Or Pedals’ - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Tesla driver charged with DUI, driving unreasonably fast after April crash in Newtown - News-Times",
+          "score": -1
+        },
+        {
+          "title": "Musk Is A Trillionaire Again: SpaceX And Tesla Boost Net Worth By $60 Billion - Forbes",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 580.9099731445312,
+    "predicted": 535.2509155273438,
+    "pct_change": -7.859919734211116,
+    "news": {
+      "count": 12,
+      "score": 0.5,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Why AMD Stock Could Hit $615: Inside Wells Fargo’s Latest AI Price Target Upgrade - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Record chip rally adds $2 trillion in combined value to Micron, Intel and AMD in second quarter - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD stock jumps, Circle plummets on stablecoin competition - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Shares Surge Over 7% to Record High. Morgan Stanley Expects Sixth-Generation CPU “Venice” Shipments to Fully Overtake Nvidia Vera - TradingKey",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 58571.921875,
+    "predicted": 59875.8515625,
+    "pct_change": 2.2262026680339315,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "美股開市前，美指期貨齊跌！比特幣跌至5.9萬美元， 黃金在8個月低位徘徊 - Yahoo 財經",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破5.8萬美元觸21個月新低 專家：技術面惡化最慘再崩跌30% - UDN",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破5.8萬美元，創近兩年新低！花旗下調目標價 - Mitrade",
+          "score": -1
+        },
+        {
+          "title": "比特幣暴跌失守 5.82 萬美元，單日爆倉 2.49 億「多頭遭血洗」 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1568.4300537109375,
+    "predicted": 1596.158203125,
+    "pct_change": 1.7678919980178354,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "花旗二度下修比特幣目標價至 8.2 萬鎂：ETF 淨流入假設歸零，資金轉進 AI - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "Bitmine 再買 2.7 萬枚以太幣！Tom Lee 曝幣市大跌真相：季底結帳賣壓出籠 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月1日上漲1.08%：鏈上與市場情緒怎麼看？ - TradingKey",
+          "score": 1
+        },
+        {
+          "title": "幣圈再添寒意！比特幣跌破6萬美元之後 花旗大砍比特幣與以太坊目標價 - 富途牛牛",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
