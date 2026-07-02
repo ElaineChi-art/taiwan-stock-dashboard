@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 108.80000305175781,
+    "predicted": 107.72494506835938,
+    "pct_change": -0.9881047364373843,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "投資人棄高股息 ETF！紅包年終壓0050 2月定期定額戶數突破80萬人創高 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "480萬股東領紅包！0050、0056配息出爐除息日、入帳日出來了- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "槓桿型ETF戰勝「瑤池金母」 調查：元大台灣50正2 成爆紅ETF榜首 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "0050 元大台灣50 - 📢【0050最新配息公告】 - 股市爆料同學會 - CMoney",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2465.0,
+    "predicted": 2422.082763671875,
+    "pct_change": -1.7410643540821502,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股跌274點收46744點 台積電挫40元 - Yahoo新聞",
+          "score": -1
+        },
+        {
+          "title": "台積電副總經理廖永豪8月退休 持股市值逾11億元 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "誰在狂買台積電？最後1分鐘豪砸160億分析師揭神祕買家布局- 財經 - 中時新聞網",
+          "score": 0
+        },
+        {
+          "title": "川普又點名台灣！稱台積電亞利桑那廠規模將擴大一倍 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 239.0,
+    "predicted": 244.75704956054688,
+    "pct_change": 2.4088073475091525,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Emmy時間》總統夢碎後鴻海也回不去：郭台銘的黃昏啟示錄 - 自由評論網",
+          "score": 0
+        },
+        {
+          "title": "鴻海除息秀洗三溫暖　郭台銘7／31爽領124億 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "2026鴻海科技獎頒獎典禮隆重登場 產官學醫領袖齊聚勉勵青年研究者 - 蕃新聞",
+          "score": 0
+        },
+        {
+          "title": "攜手軟銀...鴻海搶進日本主權AI！法人加碼Q3「隱藏版紅利」 最新目標價、EPS一次看- 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4345.0,
+    "predicted": 3911.0576171875,
+    "pct_change": -9.987166462888379,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "炎上風波下曬戰績！蔡阿嘎脫手聯發科「5天神操作狂賺46萬」　吐槽二伯：妳沒水準 - 鏡週刊Mirror Media",
+          "score": 1
+        },
+        {
+          "title": "買390萬被笑！蔡阿嘎「聯發科賺40萬」　作家曝關鍵：我只買1股 - ETtoday新聞雲",
+          "score": 1
+        },
+        {
+          "title": "AI ASIC 業務迎接顯著獲利成長，高盛大調聯發科目標價至 6,800 元 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "台股跌勢收斂聯發科台達電翻紅撐盤| 證券 - 中央社 CNA",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 197.5800018310547,
+    "predicted": 199.25775146484375,
+    "pct_change": 0.8491495182916644,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia Says It Will Take a Cut of Some Customers’ Cloud Revenues - The Information",
+          "score": -1
+        },
+        {
+          "title": "Nvidia built a nearly $5 trillion company by making people pay for their own lunch - Fortune",
+          "score": 0
+        },
+        {
+          "title": "Singapore seizes $42m mansion over Nvidia chip smuggling - BBC",
+          "score": 0
+        },
+        {
+          "title": "This fund manager bought Nvidia and SK Hynix and sold software before others. His simple message on AI: ‘Follow the money.’ - MarketWatch",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 425.29998779296875,
+    "predicted": 406.430419921875,
+    "pct_change": -4.4367666147875,
+    "news": {
+      "count": 12,
+      "score": -0.417,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla’s Electric Semi Has Its First Fatal Crash - Forbes",
+          "score": -1
+        },
+        {
+          "title": "Married couple killed in first known fatal Tesla Semi crash - Yahoo",
+          "score": -1
+        },
+        {
+          "title": "Tesla Semi involved in first fatal crash, killing 2 in Nevada - Electrek",
+          "score": -1
+        },
+        {
+          "title": "Inside a deadly Tesla Autopilot failure, and the missing crash data that revealed what happened - Business Insider",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 540.8800048828125,
+    "predicted": 521.7279663085938,
+    "pct_change": -3.5409034168989564,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Falls From Record High. It Won’t Join the $1 Trillion Club Just Yet. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Micron, Intel, AMD stock surge Q2 2026 AI chip rally - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Intel Drops 7%, AMD Slides 5%, Taiwan Semiconductor Falls 6% as BoA Flags \"Bubble Risk\" - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "What Was AMD Stock Really Saying Before Its AI Breakout? - Trefis",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 61226.01171875,
+    "predicted": 60322.49609375,
+    "pct_change": -1.4757055043049705,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "美國比特幣 ETF 6 月資金狂瀉 45 億美元，重挫幣價至 21 個月新低 - PChome Online 新聞",
+          "score": -1
+        },
+        {
+          "title": "花旗二度下修比特幣目標價至 8.2 萬鎂：ETF 淨流入假設歸零，資金轉進 AI - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "花旗大砍微策略 MSTR 目標價至 136 美元！下修 BTC 長線預期至 8 萬鎂，但仍力挺「買入」 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "CryptoQuant創辦人：比特幣下一輪拋物線大牛市需要機構加大配置力度 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1644.010009765625,
+    "predicted": 1639.1160888671875,
+    "pct_change": -0.29768194046064184,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Bitmine 再買 2.7 萬枚以太幣！Tom Lee 曝幣市大跌真相：季底結帳賣壓出籠 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "渣打喊 Morpho 2030 $60：30 倍上漲、超越 BTC/ETH - 鏈新聞 ABMedia",
+          "score": 1
+        },
+        {
+          "title": "花旗二度下修比特幣目標價至 8.2 萬鎂：ETF 淨流入假設歸零，資金轉進 AI - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月2日上漲1.08%：風險因素有哪些？ - TradingKey",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
