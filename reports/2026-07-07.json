@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.19999694824219,
+    "predicted": 107.5407943725586,
+    "pct_change": 1.2625211514552674,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "定期定額0050賺不到台股多頭行情？專家推這檔「低成本、績效更好」：撿便宜好時機| 張庭維 | 新聞 - 風傳媒",
+          "score": 1
+        },
+        {
+          "title": "這檔ETF一年飆漲200% 他憂長抱風險很大！眾人搖頭：怕賺到不想上班| 財經 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "0050配息0.6元 他看006208配息驚呆：選錯了？內行曝獲利真相 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "定期定額0050賺不到台股多頭行情？專家推這檔「低成本、績效更好」：撿便宜好時機 - Yahoo新聞",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2440.0,
+    "predicted": 2472.9951171875,
+    "pct_change": 1.3522589011270492,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AI 需求強勁引爆產能擴張，花旗與高盛雙雙調高台積電目標價 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "台積電：2030年半導體市場將突破1.5兆美元- 新聞 - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "台積電獲利可能下降？ 外媒曝未來前景 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電ADR勁揚台指期夜盤上漲 台股拚重返47000點 - 中央社 CNA",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 237.0,
+    "predicted": 240.31153869628906,
+    "pct_change": 1.3972737115143723,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "郭台銘密會女球友連日燒！鴻海股價一週跌逾5% 市值蒸發約2000億元 - 壹蘋新聞網",
+          "score": -1
+        },
+        {
+          "title": "鴻海6月營收8,218億、年增逾52％ 創同期新高- 產業 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "鴻海（2317）6月營收年增52％卻月減 網吵翻：到底是要噴還是回200？ - UDN",
+          "score": 0
+        },
+        {
+          "title": "預計2026下半年正式成立，Mitsubishi Fuso和鴻海集團宣布合作新公司「Fuso Bus」 - U-CAR新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4030.0,
+    "predicted": 4252.638671875,
+    "pct_change": 5.524532800868486,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "1圖懂》台股3000億元活水要來了！老手揭「第4法人」集結中：台積電、聯發科、鴻海...整個7月很難跌- 上市櫃 - 旺得富理財網",
+          "score": -1
+        },
+        {
+          "title": "00929砍台積電、聯發科！改抱老AI、電信三雄 股海老牛：科技成長與配息穩定找新平衡 - 蕃新聞",
+          "score": 1
+        },
+        {
+          "title": "聯發科、聯電、南亞科…台股除息秀接力登場，資金活水來了！還有記憶體股法說會，目標價3成空間可以追？ - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "台積電ADR勁揚點火、聯發科秒填息！台股開低走高續戰47K - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 195.5500030517578,
+    "predicted": 197.0665740966797,
+    "pct_change": 0.7755413046557058,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AI Leaders Nvidia, Palantir, and Meta Platforms Are Shaking Wall Street's Foundation With This $15.6 Billion Warning - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Nvidia vs. Palantir: Which Artificial Intelligence (AI) Stock Is the Better Buy Right Now? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Nvidia's next-gen AI rack system delayed to 2028 on manufacturing snags, SemiAnalysis says - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Nvidia GPU Debt Backstop Unleashes the AI Project Trinity: Capital, Offtake and Datacenters - SemiAnalysis",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 419.7699890136719,
+    "predicted": 414.8404235839844,
+    "pct_change": -1.1743491813863198,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla truck takes out light pole in Joplin crash - KOAM News Now",
+          "score": -1
+        },
+        {
+          "title": "Tesla Cybercab: mass-producing a car it can’t sell or drive itself - Electrek",
+          "score": 0
+        },
+        {
+          "title": "Are SpaceX and Tesla Hurtling Toward a Merger? - Bloomberg.com",
+          "score": 0
+        },
+        {
+          "title": "Tim Draper’s Elon Musk Playbook: SpaceX, Tesla and The $2 Trillion IPO - Forbes",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 552.0499877929688,
+    "predicted": 485.87664794921875,
+    "pct_change": -11.986838385469994,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Kratos Defense - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "Top Analyst strongly resets AMD stock price target - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "U.S. Stocks Move | BofA Says Semiconductor Sector's Decline Is Only a Temporary Adjustment; AMD (AMD.US) Rises Over 9% - Moomoo",
+          "score": 0
+        },
+        {
+          "title": "Micron Risks Falling Out of the Trillion-Dollar Club. AMD Stock Has a Clear Path to Joining. - Barchart.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 63289.26171875,
+    "predicted": 63510.6015625,
+    "pct_change": 0.34972732773153226,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "虧損逾3300萬美元仍不停手！麻吉大哥再加碼比特幣與HYPE幣多單 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "交易員美元看多情緒創十年新高 比特幣市場面臨宏觀逆風 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "Strategy 史上最大賣出比特幣！BTC 照樣站穩 6.3 萬美元 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "川普「比特幣儲備」卡關！白宮承認「還在喬」、兩大部會爭奪主導權 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1780.719970703125,
+    "predicted": 1803.5103759765625,
+    "pct_change": 1.2798421789159027,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月7日下跌1.22%：關注異動內因 - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "【財經縱覽】：美股三大指數收漲，道指創歷史新高！美元沖高回落，比特幣、以太幣六連漲！ - Mitrade",
+          "score": 1
+        },
+        {
+          "title": "以太坊基金會裁員二成 以太幣下跌加密市場震盪 - Yahoo股市",
+          "score": -1
+        }
+      ]
+    }
+  }
+]
