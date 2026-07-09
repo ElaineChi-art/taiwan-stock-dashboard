@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 105.80000305175781,
+    "predicted": 106.9229507446289,
+    "pct_change": 1.061387202722237,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "定期定額0050賺不到台股多頭行情？專家推這檔「低成本、績效更好」：撿便宜好時機| 張庭維 | 新聞 - 風傳媒",
+          "score": 1
+        },
+        {
+          "title": "存股族最愛！0050定期定額戶數突破120萬居冠- 理財 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "6月 ETF 定期定額熱 0050戶數突破120萬關、凱基台灣TOP50增幅近三成 - 聯合新聞網",
+          "score": 1
+        },
+        {
+          "title": "六月ETF定期定額》前二十大合計破290萬戶! 0050創120萬戶新高、月增11 萬戶 - MSN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2415.0,
+    "predicted": 2456.756591796875,
+    "pct_change": 1.7290514201604557,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電恐拉警報！美半導體業驚見「1危機」外媒示警了 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "輝達奪 CPU 大單 帶旺台積電先進製程業績持續熱轉 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "台積電 2 奈米再添 AI 大客戶？輝達 Rosa CPU 傳採用 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "高盛移除台積電好意外！外媒揭背後真正訊號：短期漲太多 - 三立新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 237.5,
+    "predicted": 236.09413146972656,
+    "pct_change": -0.591944644325658,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "當年鴻海搶親失敗，如今貝恩資本出清鎧俠持股預估獲利逾台幣 2 兆元 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "鴻海何時重回300元？大咖法人看好摺疊iPhone要來了卻因1疑慮調降目標價- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "鴻海(2317)6月營收年增52％卻月減可以買？最新目標價曝光！杜金龍大膽賣一半：群創、聯電...這3檔便當股更有肉 - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "AI機櫃出貨量暴衝100%！ 大摩點名鴻海、廣達、緯創 首選竟是「它」 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3925.0,
+    "predicted": 4356.9091796875,
+    "pct_change": 11.00405553343949,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "開盤／聯發科飆漲105元！AI巨頭瘋狂大反攻 台股漲375點 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "台股昨千點跳水免驚！陳龍抓出三大「假利空」 點名台積電、聯發科錯殺即買點| 台股雜談| 股市 - 聯合新聞網",
+          "score": -1
+        },
+        {
+          "title": "〈焦點股〉聯發科開盤大漲百元 秒填息好戲只撐上半場後翻黑 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "聯發科、欣興都可質押！ 他問「為何正二ETF不行」 網曝關鍵：券商比你還怕 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 204.1199951171875,
+    "predicted": 198.61048889160156,
+    "pct_change": -2.6991506747895375,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "China to Let AI Firms Buy Nvidia H200s, Information Says - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "China plans to let top AI firms buy limited Nvidia H200 chips, the Information reports - Reuters",
+          "score": 1
+        },
+        {
+          "title": "French competition authority's Nvidia probe nearing end - Reuters",
+          "score": -1
+        },
+        {
+          "title": "French competition authority’s Nvidia probe nearing end By Reuters - Investing.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 394.05999755859375,
+    "predicted": 405.12896728515625,
+    "pct_change": 2.808955437024949,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Stock Has ‘Immense’ AI Potential. Why You Shouldn’t Buy It. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Woman on scooter killed in crash with Tesla at State Road 16 and US-1 - firstcoastnews.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla Stock Sank 7% Despite Record Deliveries - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "The robotaxi law that could ban Tesla - The Verge",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 517.4099731445312,
+    "predicted": 518.5318603515625,
+    "pct_change": 0.2168275188460402,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Dips as Rival Nvidia (NVDA) Gains Another Customer for Its Vera AI CPUs - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Rises as Goldman Sees Big Earnings Coming - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Intel and Applied Materials Dive 10%, AMD Craters 8% as Samsung Earnings Trigger Chip Selloff - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Kratos Defense - Investing.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 62712.37890625,
+    "predicted": 63322.5546875,
+    "pct_change": 0.9729750200708605,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "一買就跌、一賣就噴！美創業家被比特幣虐慘：就算歸零也絕不下車 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "「賣了就噴！」被比特幣玩怕了 美創業家：這次歸零也不賣 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "幣圈反指標 Dave Portnoy：我一賣比特幣就噴！這次就算歸零也不賣了 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "量子電腦恐成比特幣新威脅 加密產業急佈局抗量子安全 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1743.27001953125,
+    "predicted": 1775.7042236328125,
+    "pct_change": 1.8605381689684408,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "比特幣、以太幣持穩，黃金下跌，因美伊緊張局勢再度升級 - 富途牛牛",
+          "score": -1
+        },
+        {
+          "title": "創新高！以太幣漲破3400美元　今年來漲幅達360％ - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "以太坊基金會裁員二成 以太幣下跌加密市場震盪 - Yahoo股市",
+          "score": -1
+        }
+      ]
+    }
+  }
+]
