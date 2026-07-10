@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 105.80000305175781,
+    "predicted": 108.85972595214844,
+    "pct_change": 2.891987535098459,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "第四法人撐盤！0050 定期定額突破 120 萬打造台股最強「護盤神山」 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "0050定期定額人數突破120萬續稱霸 規模逾2.2兆元費率降至0.07% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "沖到懷疑人生！ 少年股神改買這檔「大賺30%」 網讚：打不贏就加入 - 東森電視",
+          "score": 1
+        },
+        {
+          "title": "定期定額0050賺不到台股多頭行情？專家推這檔「低成本、績效更好」：撿便宜好時機| 張庭維 | 新聞 - 風傳媒",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2415.0,
+    "predicted": 2478.023681640625,
+    "pct_change": 2.6096762584109734,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電入列！分析師點名下一波股災「這3檔」必最先買進 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "7/16後股價要噴了？ 外媒點名「台積電」：投資首選 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "張忠謀95歲生日，魏哲家率台積電高層提前祝壽！夫人團現身神祕壽宴，出席名單揭密、藏世代傳承玄機 - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "颱風攪局！台積電6月營收延期發布專家：推薦「這時」再進場- 證券 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 237.5,
+    "predicted": 235.959716796875,
+    "pct_change": -0.6485402960526316,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "當年鴻海搶親失敗，如今貝恩資本出清鎧俠持股預估獲利逾台幣 2 兆元 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "鴻海何時重回300元？大咖法人看好摺疊iPhone要來了卻因1疑慮調降目標價- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "緯創(3231)股價15x元是送分題？存股老手賣一半鴻海換緯創，背後3個盤算：2027年目標賺1倍 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "鴻海旗下工業富聯 今年第2季淨利預計翻倍增長 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3925.0,
+    "predicted": 4380.90576171875,
+    "pct_change": 11.615433419585987,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股昨千點跳水免驚！陳龍抓出三大「假利空」 點名台積電、聯發科錯殺即買點| 台股雜談| 股市 - 聯合新聞網",
+          "score": -1
+        },
+        {
+          "title": "日月光噴3%、聯發科秒填息漲2%！台積電飆35元 台股開高漲399點逼47000點大關 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "聯發科營收／6月580.12億元 月增22.3%、年增2.8% 改寫今年單月新高 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "創意、聯發科、世芯...ASIC三劍客成「晶片淘金熱」中最閃耀的明星！ - Smart自學網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 202.77999877929688,
+    "predicted": 198.40628051757812,
+    "pct_change": -2.156878532423234,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia's $1 trillion rout: Do you buy or sell the stock here? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Game-changer? Why China is finally letting its AI firms buy the Nvidia H200 - South China Morning Post",
+          "score": 1
+        },
+        {
+          "title": "No One Can Afford to Buy Hardware, So Nvidia Made Trading Cards to Reminisce About the Good Times - Gizmodo",
+          "score": 1
+        },
+        {
+          "title": "French competition authority's Nvidia probe nearing end - Reuters",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 406.54998779296875,
+    "predicted": 402.95611572265625,
+    "pct_change": -0.8839926646714452,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Texas man charged with manslaughter in Tesla crash that killed woman - USA Today",
+          "score": -1
+        },
+        {
+          "title": "Tesla driver faces manslaughter charge after fatal crash - Yahoo Finance Singapore",
+          "score": -1
+        },
+        {
+          "title": "Tesla Stock Gets Stunning Price Target Hike From UBS on AI Boom - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Tesla—and Two More Stocks Wall Street Thinks Could Benefit From Their Links to Elon Musk’s SpaceX - Investopedia",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 546.719970703125,
+    "predicted": 519.3855590820312,
+    "pct_change": -4.999709739144802,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, adds to Meta Platforms position - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "ETFs focused on semiconductor stocks see big gains as Micron and AMD surge - MarketWatch",
+          "score": 1
+        },
+        {
+          "title": "Intel and Applied Materials Dive 10%, AMD Craters 8% as Samsung Earnings Trigger Chip Selloff - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "AMD Shares Soar After Landing Major AI Infrastructure Alliance - TradingView",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64419.01171875,
+    "predicted": 64149.75390625,
+    "pct_change": -0.4179788005372783,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "一買就跌、一賣就噴！美創業家被比特幣虐慘：就算歸零也絕不下車 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "比特幣反彈突破64,000美元！科技股領漲推動週線上揚 - Yahoo 財經",
+          "score": 1
+        },
+        {
+          "title": "幣圈反指標 Dave Portnoy：我一賣比特幣就噴！這次就算歸零也不賣了 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "「賣了就噴！」被比特幣玩怕了 美創業家：這次歸零也不賣 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1800.0699462890625,
+    "predicted": 1781.3345947265625,
+    "pct_change": -1.0408124196020214,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月10日上漲1.57%：風險因素有哪些？ - TradingKey",
+          "score": 1
+        },
+        {
+          "title": "推動以太坊下一階段成長！前 EF 研究員成立「Ethlabs」、獲 2 大儲備公司力挺 - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "Bitmine 又加碼掃貨！Tom Lee：《CLARITY 法案》是以太幣強勢關鍵 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
