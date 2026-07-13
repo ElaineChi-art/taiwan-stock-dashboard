@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.0,
+    "predicted": 112.42832946777344,
+    "pct_change": 6.064461762050413,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050換正2賺更快？理財達人曝「驚人數學題」：誤會這件事恐先行離場 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "台股高檔震盪00685L、0050股東增加萬人起跳| 存股族愛ETF | 股市 - 聯合新聞網",
+          "score": 0
+        },
+        {
+          "title": "存0050太慢了？他想換個股提高報酬率 網看法兩極：不如全買「這檔」放1年再看 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "定期定額不只愛台股！00988A今年來績效90% 6月暴增逾7000戶 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2440.0,
+    "predicted": 2475.624755859375,
+    "pct_change": 1.4600309778432377,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電 CoWoS 供不應求，封測台廠英特爾受惠訂單外溢 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "台積電領漲 台股早盤漲近千點站回46000點 - 中央社 CNA",
+          "score": 1
+        },
+        {
+          "title": "台積電6月營收4426億元創新高 Q2逼近財測高標 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "符合預期！台積電史上最強上半年 營收破2兆元「年增36％」 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 236.5,
+    "predicted": 235.15719604492188,
+    "pct_change": -0.5677817991873678,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "【iPhone 18漲價潮2】漲價受惠股點點名！專家揭台積電、大立光、鴻海等蘋概股誰最吃香 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "只能做不能說！ 不只鴻海連義美都投資 謝金河讚：下個兆元產業 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "GB系列機櫃全年出8萬台！鴻海、廣達、緯創目標價出爐 這檔最受青睞 - 三立新聞",
+          "score": 0
+        },
+        {
+          "title": "台股迎8,176億股息活水 鴻海預計發出逾千億元最多 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3825.0,
+    "predicted": 4150.72705078125,
+    "pct_change": 8.515739889705882,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "這檔股「8月崩跌劇本」拿定了？專家曝「歷史驚人巧合」示警 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "台股早盤漲近千點 大立光開盤漲停至4345元、聯發科上漲105元 - 聯合新聞網",
+          "score": 1
+        },
+        {
+          "title": "颱風假後台股補漲變補跌！開高走低留830點長上影線，聯發科跌破頸線多頭警報大響! - 玩股網",
+          "score": -1
+        },
+        {
+          "title": "聯發科上半年營收還比去年同期衰退 集團軍晶心科、意騰-KY年增率超過60％ - 信傳媒",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 210.9600067138672,
+    "predicted": 206.65614318847656,
+    "pct_change": -2.0401324366793907,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Amazon, Microsoft and Nvidia haven’t been this cheap for a decade. Is it time to buy? - The Telegraph",
+          "score": 1
+        },
+        {
+          "title": "NVIDA Vs. Tesla: Tesla Jumps as It Finally Fulfills Decade-Old Promise So Buy Nvidia Instead - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "I quit my job at Nvidia because I wanted work that felt more human. Financial security isn't the same as true fulfillment. - Business Insider",
+          "score": 0
+        },
+        {
+          "title": "Best Artificial Intelligence (AI) Stock: AMD, Nvidia, or Broadcom - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 407.760009765625,
+    "predicted": 401.5875549316406,
+    "pct_change": -1.5137469801249561,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla’s Profit Per Vehicle Has Been Dropping Significantly - CleanTechnica",
+          "score": 1
+        },
+        {
+          "title": "Tesla Faces Possible Robotaxi Ban In New Jersey, But It Gains Market Share In China - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Should You Buy Tesla, Inc. (TSLA)’s Shares? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla merger with SpaceX won’t save investors, top analyst says - thestreet.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 557.8900146484375,
+    "predicted": 561.0017700195312,
+    "pct_change": 0.5577721933336032,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Expert sets dates when AMD stock will drop to $335 - Finbold",
+          "score": -1
+        },
+        {
+          "title": "5-star analyst sends AMD stock investors a warning - Yahoo Finance Singapore",
+          "score": -1
+        },
+        {
+          "title": "Stifel Raises AMD Stock Price Target by 41%, Expects a Q2 ‘Beat-and-Raise’ - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "Advanced Micro Devices vs. Nvidia: What Revenue Growth Rates and Scale Reveal for Investors - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 63995.73828125,
+    "predicted": 64522.7734375,
+    "pct_change": 0.8235472711226072,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "沃什與CPI還沒登場，市場先慌了！KOSPI崩跌近10%，油價飆升、黃金比特幣齊跌 作者 FX168 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": -1
+        },
+        {
+          "title": "比特幣盤整突破關鍵阻力 以太幣走強市場主導地位受挑戰 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣在$63,800附近持穩，因戰爭引發的拋售衝擊一切資產，唯獨加密貨幣倖免 - Moomoo",
+          "score": -1
+        },
+        {
+          "title": "Galaxy 研究主管：比特幣長期持有者，四項關鍵指標全面創新高 - 動區動趨",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1810.43994140625,
+    "predicted": 1813.4290771484375,
+    "pct_change": 0.16510549031887267,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣盤整突破關鍵阻力 以太幣走強市場主導地位受挑戰 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣6.4萬美元盤整，以太坊衝1825創兩週新高！單日爆倉1.5億鎂 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣盤整突破關鍵阻力 以太幣走強市場主導地位受挑戰 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "「華爾街神算子」Tom Lee喊快買！「這一」加密貨幣有望上漲14870% - news.cnyes.com",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
