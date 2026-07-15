@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.30000305175781,
+    "predicted": 109.53158569335938,
+    "pct_change": 3.040058841793348,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050盤中跌破102元！散戶崩潰「昨天還在漲」內行猛揭超穩操作 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "不怕台股震盪！0050定期定額大爆發 6月狂吸126億元創新高 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "整理包／市值型 ETF 之爭！006208改走高配息拚贏0050？009816不配息報酬穩穩賺？誰更強、怎麼挑 重點一次看 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "薑是老的辣！國民ETF 0050定期定額扣款金額達126億創高 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2440.0,
+    "predicted": 2456.138671875,
+    "pct_change": 0.6614209784836065,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "光台積電賺沒用？ 四叉貓炒股4個月「30%⭢1.4%」：像一場好夢 - 東森電視",
+          "score": 1
+        },
+        {
+          "title": "美半導體上揚台積電ADR下跌法人：觀察台指期結算| 證券 - 中央社 CNA",
+          "score": -1
+        },
+        {
+          "title": "一日工程師？網傳邰智源「台積電證件」曝光　真相大反轉 - 鏡週刊Mirror Media",
+          "score": 0
+        },
+        {
+          "title": "台積電法說7/16登場！大摩揭「3種股價走勢」，建議投資人這樣做－經濟日報 - 商周",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 239.0,
+    "predicted": 239.79965209960938,
+    "pct_change": 0.3345824684558054,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海（2317）｜VR200遞延未撼主供地位，ASIC機櫃接棒2027獲利【豐學PRIME盤後精選】｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+          "score": 1
+        },
+        {
+          "title": "買3次賠3次免驚？鴻海314慘殺到230元專家曝「這價位」可上車了- 財經 - 中時新聞網",
+          "score": -1
+        },
+        {
+          "title": "鴻海集團砸2.89億元 強化人形機器人布局 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "鴻海加碼投資 Agility Robotics - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3740.0,
+    "predicted": 4001.895751953125,
+    "pct_change": 7.002560212650401,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台股大跌原因？狂殺逾1700點史上第6大，聯發科、國巨、環球晶…股海老手：無關基本面，中期支撐看這關卡 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "聯發科上半年營收還比去年同期衰退 集團軍晶心科、意騰-KY年增率超過60％ - 信傳媒",
+          "score": -1
+        },
+        {
+          "title": "盤後快訊》台股收跌642點！台積電、聯發科走弱，南亞科漲5.91%成交量衝12萬張| 下班經濟學| 財經 - Storm.mg",
+          "score": 0
+        },
+        {
+          "title": "盤中快訊》台股殺破4萬4！台積電、聯發科走弱，盤面還有這6檔逆勢亮燈 | 下班經濟學 | 財經 - Storm.mg",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 203.52999877929688,
+    "predicted": 202.32334899902344,
+    "pct_change": -0.5928608988898487,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Micron and Nvidia are powering a $700 billion chip profit boom: Chart of the Day - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia vs Cerebras: Which Is the Better Discount AI Buy Now? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Cybersecurity stocks surge thanks to IBM, and Nvidia climbs on more good China news - CNBC",
+          "score": 1
+        },
+        {
+          "title": "U.S. trade official says 'very few' Nvidia H200 AI chips have been shipped to China - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 394.760009765625,
+    "predicted": 404.3712463378906,
+    "pct_change": 2.434703702123212,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla moves to guarantee resale value for buyers after price cuts - Electrek",
+          "score": -1
+        },
+        {
+          "title": "Three Price Target Boosts Can’t Help Tesla Stock - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Tesla (TSLA) scores the best 2nd quarter ever, energy business spikes, announces Q2 2026 Earnings Call schedule - Tesla Oracle",
+          "score": 0
+        },
+        {
+          "title": "Victim identified after body found in trunk of Tesla in Merced County - ABC30 Fresno",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 534.3900146484375,
+    "predicted": 558.2064819335938,
+    "pct_change": 4.456757542676867,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Advanced Micro Devices, Inc. (AMD) Stock Surges as Goldman Sees Big Earnings Coming - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Jumps. Why This Analyst Sees 28% Upside. - Moomoo",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Jumps. Why This Analyst Sees 31% Upside. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Intel, AMD, and Applied Materials Drop 4% as SK Hynix Rout and Oil Spike Hit Chip Stocks - 24/7 Wall St.",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64612.0390625,
+    "predicted": 64882.6015625,
+    "pct_change": 0.41874935991151996,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美股開市前，阿斯麥升超4%！原油連升三日，比特幣反彈突破6.4萬美元 - Yahoo 財經",
+          "score": 1
+        },
+        {
+          "title": "比特幣最大利空是什麼？摩根大通：不是 Strategy 倒貨、而是「許可鏈」崛起 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破6萬美元大關 挖礦產量下滑引市場擔憂 - 財經新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "score": -1
+        },
+        {
+          "title": "比特幣突破6.4萬美元，單日近7萬人爆倉！通脹降溫提振幣圈 - Yahoo 財經",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1877.8699951171875,
+    "predicted": 1897.8009033203125,
+    "pct_change": 1.0613571895258502,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣盤整突破關鍵阻力 以太幣走強市場主導地位受挑戰 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣 (ETH) 持有量達 577 萬枚，加密資產及現金總持有額達 113 億美元 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "實時市場：比特幣和以太坊ETF資金流入，主要幣種漲幅最高達5% - Moomoo",
+          "score": 0
+        },
+        {
+          "title": "Bitmine 再買 2.7 萬枚以太幣！Tom Lee：用戶開始將 ETH 視為「貨幣」 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
