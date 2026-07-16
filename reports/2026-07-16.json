@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.4000015258789,
+    "predicted": 109.56865692138672,
+    "pct_change": 2.9780595395359306,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050盤中跌破102元！散戶崩潰「昨天還在漲」內行猛揭超穩操作 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "台積電、元大台灣50全民樂觀之際，外資期貨空單8萬口成常態，預示台股暗藏隱憂。 - 玩股網",
+          "score": 1
+        },
+        {
+          "title": "0050超狂！國人瘋掃 6月定期定額126億元新高 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "10萬元該買0050還是0056？網幾乎一面倒：年輕人先選「它」 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2470.0,
+    "predicted": 2462.523681640625,
+    "pct_change": -0.3026849538208502,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電法說變法會！ADR美股盤前重摔5%　拖累台指期夜盤大跌900點 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "台股有驚無險！台積電、鴻海挑大梁 指數震盪885點收跌6點 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "美媒：ASML擬調漲設備價格台積電拒買單| 國際 - 中央社 CNA",
+          "score": 1
+        },
+        {
+          "title": "美媒：「這天」過後 台積電股價可能迎來新一波上漲行情 - 自由財經",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 242.5,
+    "predicted": 241.6603546142578,
+    "pct_change": -0.34624551989368557,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台股有驚無險！台積電、鴻海挑大梁 指數震盪885點收跌6點 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "業績越好股價越跌？鴻海從314元殺到230元 專家喊「這價位」可上車了 - 三立新聞",
+          "score": -1
+        },
+        {
+          "title": "鴻海張慶瑞：量子時代將接棒半導體，台灣須搶占新供應鏈- 新聞 - MoneyDJ",
+          "score": 0
+        },
+        {
+          "title": "台灣量子人才危機！鴻海張慶瑞憂近200名人才無處收留 3成奔赴美中 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3700.0,
+    "predicted": 4132.8076171875,
+    "pct_change": 11.69750316722973,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台股大跌原因？狂殺逾1700點史上第6大，聯發科、國巨、環球晶…股海老手：無關基本面，中期支撐看這關卡 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "颱風假後台股補漲變補跌！開高走低留830點長上影線，聯發科跌破頸線多頭警報大響! - 玩股網",
+          "score": -1
+        },
+        {
+          "title": "台達電重摔3%、聯發科跌2%！台積電漲10元獨扛 台股開低重摔474點 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "聯發科Q2營收1521億元寫5季以來新高 飛越財測高標 - news.cnyes.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 212.5,
+    "predicted": 210.0355987548828,
+    "pct_change": -1.1597182329963234,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia Stock Could Still Soar 140% to Reach $500, Says Wall Street - Barchart.com",
+          "score": 1
+        },
+        {
+          "title": "Nvidia partners with Japan robotics firms on AI development - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Wednesday, July 15, 2026: Cramer says he likes this tech giant's stock over Nvidia - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Is NVIDIA’s Next Big Bet A Massive Pivot? - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 394.4599914550781,
+    "predicted": 401.41729736328125,
+    "pct_change": 1.7637545147580413,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "NTSB findings on fatal Tesla crash tell a very different story - Teslarati",
+          "score": -1
+        },
+        {
+          "title": "Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms - TechCrunch",
+          "score": -1
+        },
+        {
+          "title": "Tesla driver accelerated into house in fatal Texas crash, NTSB says - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Three Price Target Boosts Can’t Help Tesla Stock - Barron's",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 529.1400146484375,
+    "predicted": 556.349365234375,
+    "pct_change": 5.142183511488068,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock: Collect 14% While Setting A 50%-Off Buy Price - Trefis",
+          "score": 1
+        },
+        {
+          "title": "Micron Drops 8% on China Competition Fears, Dragging Intel, AMD, and Marvell - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "Prediction: AMD Stock Will Soar After Aug. 4. The Reason Is Hiding in Plain Sight - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64147.80078125,
+    "predicted": 64475.51171875,
+    "pct_change": 0.5108685465578546,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣跌破6萬美元大關 挖礦產量下滑引市場擔憂 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "150 美元「迷你礦機」中大獎！SOLO 礦工 8 小時挖出 3.1382 枚比特幣 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "沉睡 8 年半！「遠古巨鯨」突甦醒，轉出 5,908 枚比特幣引關注 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "雙重賣壓！長、短線持有者同步拋售，比特幣「反彈續航力」受考驗 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1886.4000244140625,
+    "predicted": 1908.6524658203125,
+    "pct_change": 1.1796247412137233,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣在觸及月度高點後回落至$64,000，空頭重新掌控市場 - 富途牛牛",
+          "score": 0
+        },
+        {
+          "title": "以太坊逼近2000美元關卡 比特幣衝破6.5萬美元引市場關注 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "Bitmine 再買 2.7 萬枚以太幣！Tom Lee：用戶開始將 ETH 視為「貨幣」 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣 (ETH) 持有量達 577 萬枚，加密資產及現金總持有額達 113 億美元 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
