@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 103.8499984741211,
+    "predicted": 104.0275650024414,
+    "pct_change": 0.1709836600186,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "大跌急著離場？回測0050上市23年數據：最強反彈全在股災時…離開市場終將兩頭空| 存股族愛ETF | 股市 - UDN",
+          "score": -1
+        },
+        {
+          "title": "近500萬人注意！0050、0056今最後上車日 年息最高破10％ - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "台股5年內衝10萬點？郭哲榮：不懂股票就買0050抱一輩子…勝過95％主動型ETF - UDN",
+          "score": 0
+        },
+        {
+          "title": "6月ETF定期定額新增扣款比一比 市值型、高股息榮登散戶首選 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2400.0,
+    "predicted": 2409.0615234375,
+    "pct_change": 0.3775634765625,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電入列！外媒點名看好「這5檔」今夏將跑贏大盤 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台股收盤漲592點　台積電翻黑跌10元至2400 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "台積電傳明年又要漲價10% 部分先進製程可能上調更多 公司：不評論 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "歡迎台積電加碼赴美　AIT處長谷立言：美台半導體投資非單向 - 鏡週刊Mirror Media",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 251.5,
+    "predicted": 240.79222106933594,
+    "pct_change": -4.257566175214339,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股勁揚助攻！鴻海豪配7.2元創上市以來新高 拚14天成功填息「股息這天入帳」 - FTNN 新聞",
+          "score": 1
+        },
+        {
+          "title": "鴻海、緯創法人力挺- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "鴻海拿下 SpaceX AI 伺服器訂單 下一步…瞄準太空資料中心 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "台鏈無人機系列4一和碩、鴻海跨界搶進軍工市場，迎全球大單卻驚見預算卡關…背後雙重隱憂曝光！ - 今周刊",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3850.0,
+    "predicted": 3874.7890625,
+    "pct_change": 0.6438717532467533,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Google 攻強力 AI 晶片 市場推測聯發科將受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "低軌衛星升空！「這檔」連2漲16.8%領聯發科、台光電等5檔漲停 奇鋐、國巨同揚6% - FTNN 新聞",
+          "score": 1
+        },
+        {
+          "title": "焦點股》聯發科：Google推出AI推論新晶片 有望再奪大單 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "輝達代理AI來了聯發科吃補- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 207.2899932861328,
+    "predicted": 205.4956817626953,
+    "pct_change": -0.8656045065140802,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Prediction: Nvidia Stock Will Jump Higher After August Earnings - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Wistron shares surge in Taiwan after opening of Texas AI superchip plant to supply Nvidia - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Nebius stock surges nearly 19% as Nvidia discloses significant stake in neocloud - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Nvidia details its next-generation Vera CPU for AI, setting up challenge to AMD and Intel - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 378.92999267578125,
+    "predicted": 374.75323486328125,
+    "pct_change": -1.1022505194181615,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Will SpaceX buy Tesla? Musk may soon offer clues on his plans - CNN",
+          "score": 1
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures slide with Alphabet, Tesla earnings on deck - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Silicon Valley developer accused of murder after investigators say Tesla reached 142 mph before fatal crash - Fox News",
+          "score": -1
+        },
+        {
+          "title": "Tesla shares poised for biggest earnings move in a year - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 544.4299926757812,
+    "predicted": 512.058349609375,
+    "pct_change": -5.945969821997702,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Rises on Vote of Confidence From a Big AI Chip Customer - Barron's",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Rallies Ahead of the Advancing AI 2026 Conference - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "Cathie Wood sells $11.7 million of tumbling semiconductor stock - thestreet.com",
+          "score": -1
+        },
+        {
+          "title": "AMD’s stock climbs, and a new Microsoft deal is only part of the reason - MarketWatch",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 66010.296875,
+    "predicted": 66052.46875,
+    "pct_change": 0.06388681311320038,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美國比特幣ETF資金回流 比特幣重返6.5萬美元關卡 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "比特幣ETF連兩週吸金，7,570萬美元進場但動能弱，花旗：機構需求仍沒回來 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣 ETF 恐重演黃金 ETF 劇本？彭博分析師：暴漲後恐陷入多年低潮 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "調查：美國持有比特幣人口首度超越黃金 數位資產普及度持續提升 - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1928.219970703125,
+    "predicted": 1906.70361328125,
+    "pct_change": -1.11586633002401,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Bitmine 以太幣持倉突破 577 萬枚！同步回購 550 萬股自家股票 - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "比特幣狂飆突破6.6萬美元關口，創一個多月以來最高紀錄 - TradingKey",
+          "score": 1
+        },
+        {
+          "title": "比特幣從一個月高點回落，因油價突破$85，通脹擔憂再度浮現 - 富途牛牛",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月20日下跌1.08%：原因揭秘 - TradingKey",
+          "score": -1
+        }
+      ]
+    }
+  }
+]
