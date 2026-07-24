@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 101.69999694824219,
+    "predicted": 104.26101684570312,
+    "pct_change": 2.518210397552232,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050換006208能多賺股利？他想「5張全賣轉倉」 網傻眼揭1盲點：不如買00929 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "0050 元大台灣50 - 回測0050 上市前10 年：沒有科技狂潮，它還能賺錢嗎- 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "台股再挫千點！8檔ETF爆量搶買00406A近一周漲4.3%奪冠 | 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "0050 元大台灣50 - 上市外資賣超一週以來排行- 股市爆料同學會 - CMoney",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2350.0,
+    "predicted": 2351.348388671875,
+    "pct_change": 0.057378241356382975,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "股災蒸發一間房頭期款！台積電(2330)、聯發科(2454)…股海老牛「3檔AI股越跌越買」：合理價、便宜價曝光 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "高通、特斯拉都在用 台積電N3製程產能滿載 訂單看到2027年！ - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "台積電之外還有它！外媒盛讚台灣「護國級」產業全球搶著要- 財經 - 中時新聞網",
+          "score": 0
+        },
+        {
+          "title": "台積電太香！外媒爆「這國」也招手 背後盤算全曝光 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 252.5,
+    "predicted": 248.9266815185547,
+    "pct_change": -1.4151756362159653,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "快訊／鴻海CPO研究新突破 成果發表 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "鴻海：突破矽光子技術瓶頸　加速AI算力更省電 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "鴻海研究院聯手陽明交大 成功研發「高容量矽光子發射器」技術 - UDN",
+          "score": 0
+        },
+        {
+          "title": "它不再純代工，7年營收增5成！鴻海劉揚偉：用「分而治之」解題 - 商周",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3750.0,
+    "predicted": 3867.404541015625,
+    "pct_change": 3.1307877604166667,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Google 攻強力 AI 晶片 市場推測聯發科將受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "聯發科股價4970→3240元、3天反彈25%現在能買？背後有輝達這大利多撐腰！同場加碼這9家也有料 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "ASIC成長率輾壓GPU！專家揭台廠「純新增訂單」供應鏈名單聯發科、緯穎、世芯…10檔入列2檔回合理水準- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "股災蒸發一間房頭期款！台積電(2330)、聯發科(2454)…股海老牛「3檔AI股越跌越買」：合理價、便宜價曝光 - 今周刊",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 208.75999450683594,
+    "predicted": 207.17550659179688,
+    "pct_change": -0.7589997876662992,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "NVIDIA Reportedly Raises GDDR6 and GDDR7 Memory Kit Prices for RTX GPUs - TechPowerUp",
+          "score": 1
+        },
+        {
+          "title": "Nvidia CEO to Washington: Don't fall for \"science fiction\" AI fear - Axios",
+          "score": -1
+        },
+        {
+          "title": "Amkor Technology surges 16% on $1.5B Nvidia deal - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia is sending GPUs to the moon - TechCrunch",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 319.69000244140625,
+    "predicted": 359.6070556640625,
+    "pct_change": 12.486175018867652,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla earnings send the stock lower. Here's what's spooking investors. - MarketWatch",
+          "score": -1
+        },
+        {
+          "title": "US auto safety regulator denies petition seeking Tesla door-release defect probe - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Google and Tesla shares plunge as AI spending rattles markets - BBC",
+          "score": -1
+        },
+        {
+          "title": "Tesla, Alphabet lose hundreds of billions in value in post-earnings stock plunge - CNBC",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 539.6900024414062,
+    "predicted": 524.9502563476562,
+    "pct_change": -2.7311504802889663,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Cerebras stock gains on AMD partnership - CNBC",
+          "score": 1
+        },
+        {
+          "title": "UBS raises AMD stock price target to $730 on server CPU outlook - Investing.com",
+          "score": 1
+        },
+        {
+          "title": "Jefferies raises AMD stock price target on AI momentum - Investing.com",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Could Surge 48% as Daniel Newman Calls It a 'Top Conviction'—Patrick Moorhead Sees $200 Billion - Benzinga",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64936.69140625,
+    "predicted": 65619.6171875,
+    "pct_change": 1.05167936102188,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣衝 65,800 美元刷新兩週新高！低波動率處於歷史「三次崩盤前」區間 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "美國監管法案前景不明 比特幣等加密貨幣普遍重挫 - 蕃新聞",
+          "score": -1
+        },
+        {
+          "title": "別再迷信 4 年週期！Grayscale 研究：比特幣可能已觸底、關鍵全看 Fed 臉色 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "MicroStrategy 改革比特幣持股報告 股東實握價值與風險透明化 - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1880.8699951171875,
+    "predicted": 1909.5406494140625,
+    "pct_change": 1.524329399230417,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Bitmine以太幣持倉突破577萬顆！靠質押每年賺2.47億鎂，同步回購股票 - 加密城市CryptoCity",
+          "score": 1
+        },
+        {
+          "title": "美國監管法案前景不明 比特幣等加密貨幣普遍重挫 - 商傳媒",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月22日上漲1.15%：風險因素有哪些？ - TradingKey",
+          "score": 1
+        },
+        {
+          "title": "熱門板塊速睇：美股盤中以太幣儲備概念走勢強勁，Bit Digital領升 - Moomoo",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
