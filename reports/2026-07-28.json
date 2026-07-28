@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 97.1500015258789,
+    "predicted": 105.03507232666016,
+    "pct_change": 8.116387727159035,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股狂瀉逾2千點！0050失守百元吸引爆量搶買 投資人數衝破344萬新高 - UDN",
+          "score": 1
+        },
+        {
+          "title": "假的！0050瘋傳分割　元大投信急澄清：今年沒辦理過 - 鏡週刊Mirror Media",
+          "score": 0
+        },
+        {
+          "title": "0050 元大台灣50 - 時間差不多囉👍 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】 盤中零股排行榜TOP 20｜0050 元大台灣50、2330 台積電、0056 元大高股息、009816 凱基台灣TOP50、00631L 元大台灣50正2(0728)｜豐雲學堂2026 年 07 月 - sinotrade.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2280.0,
+    "predicted": 2353.025390625,
+    "pct_change": 3.2028680098684212,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "焦點股》台積電：跳水重挫 市值一度蒸發逾2兆元 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台積電為何能一路領先？關鍵不只技術 還有台灣這項「快本事」 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "財報亮眼卻不買單！華爾街拋售台積電 外媒直指「真正原因」 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "《DJ Insight》聯準會決議前夕的資金緊縮：為何台積電股價成首波犧牲品？ - 台視全球資訊網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 238.0,
+    "predicted": 247.6422882080078,
+    "pct_change": 4.051381600003283,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "微軟擴大租算力 將進一步推升基建需求 鴻海、廣達等利多 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "鴻海為何拒救夏普龜山二廠？「鴻夏戀」10年關係生變| 亞太局勢 - 聯合報數位版",
+          "score": 0
+        },
+        {
+          "title": "鴻海子公司緊急護盤！工業富聯股價暴跌20％ 擬砸近百億台幣回購股份 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "台股史上第3慘！外資瘋砍鴻海、華邦電 最大苦主是「它」 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3315.0,
+    "predicted": 3868.470458984375,
+    "pct_change": 16.69594144749246,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台積電聯發科下挫 台股早盤跌逾500點失守43200點 - 中央社 CNA",
+          "score": -1
+        },
+        {
+          "title": "盤後快訊》台股大跌2030點！台積電跌70元、聯發科重挫近10%，逾百檔個股逼近跌停| 下班經濟學| 財經 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "史上第三大跌點！ 台股狂瀉2030點摜破四萬二、聯發科台達電慘跌停| 財經焦點 - 太報 TaiSounds",
+          "score": -1
+        },
+        {
+          "title": "台積電、聯發科、台達電不能買？分析師：不是看壞，而是太貴！ - Newtalk新聞",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 196.50999450683594,
+    "predicted": 200.48226928710938,
+    "pct_change": 2.021411068807116,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Taiwan Detains Nvidia Employee in China Chip Smuggling Probe - Bloomberg.com",
+          "score": -1
+        },
+        {
+          "title": "Taiwan Prosecutors Reportedly Detain Nvidia Staffer In China AI Chip Smuggling Probe - Forbes",
+          "score": -1
+        },
+        {
+          "title": "Taiwan detains Nvidia worker in chip smuggling probe: source familiar with case - Yahoo",
+          "score": -1
+        },
+        {
+          "title": "Nvidia, SpaceX, Microsoft launch AI safety initiative as OpenAI cyberattack fallout continues - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 309.2200012207031,
+    "predicted": 320.25634765625,
+    "pct_change": 3.5690920354371833,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Down 30% on the Year, Is Tesla Stock a Buy On This Latest Dip? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Is Tesla a Buy After Its Latest Earnings Report? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Musk’s SpaceX tumbles back to Earth, dragging Tesla stock down with it - The Washington Post",
+          "score": -1
+        },
+        {
+          "title": "Tesla and SpaceX Stocks Fall and Cathie Wood Buys More of Both - Barron's",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 494.95001220703125,
+    "predicted": 495.3770751953125,
+    "pct_change": 0.08628406460218754,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "How Lisa Su Has Positioned AMD to Be a Big AI Winner and Why the Stock Is a Buy - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "AMD Anticipates Robust Revenue Growth, Price Target Raised to $6 - GuruFocus",
+          "score": 1
+        },
+        {
+          "title": "Analysts Growing Bullish on AMD; AMUU May Be Worth a Trade - ETF Trends",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 63360.62890625,
+    "predicted": 65395.26171875,
+    "pct_change": 3.211194155775339,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣站回6.5萬美元、以太坊衝破1940「爆倉2.1億鎂」，恐懼指數回升30 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "美伊衝突暫停打擊致油價暴跌，比特幣隨之上漲 - 蕃新聞",
+          "score": 1
+        },
+        {
+          "title": "BitMEX、BitMart 關停背後：合規絞殺下的 CEX 淘汰賽 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "Hyperscale Data 比特幣儲備達到1,106 比特幣，價值約$7,170萬 - 富途牛牛",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1873.199951171875,
+    "predicted": 1908.66015625,
+    "pct_change": 1.893028293959813,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鏈上忙翻天、幣價跌不停！研究：ETH 、 SOL 、 AVAX「基本面與價格背離」 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "比特幣站回6.5萬美元、以太坊衝破1940「爆倉2.1億鎂」，恐懼指數回升30 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月28日下跌3.35%：原因找到了 - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "Thomas Lee 盛讚以太坊 L2 專案 Lighter 具顛覆性潛力 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
