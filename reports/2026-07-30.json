@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 93.5,
+    "predicted": 101.16445922851562,
+    "pct_change": 8.197282597342914,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "跌破4萬大買0050直上5萬點？陳嘉偉：做夢吧！台股死定了散戶不認輸| 存股族愛ETF | 股市 - udn.com",
+          "score": 0
+        },
+        {
+          "title": "盤中速報 - 元大台灣50正2(00631L)急拉3.97%報28.85元，成交50,605張 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "買進1100張0050「公開據點」！郭哲榮兌現台股破4萬點砸1億進場承諾 - udn.com",
+          "score": 0
+        },
+        {
+          "title": "0050跌到97元能買嗎，史上最大分割確定？網傳下月「1變X」 元大投信給答案了 | 李瑋萱 | 新聞 - 風傳媒",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2205.0,
+    "predicted": 2278.417236328125,
+    "pct_change": 3.329579878826531,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台股4萬點關卡得而復失、收盤下跌105點 台積電逆勢收2,205元 - udn.com",
+          "score": -1
+        },
+        {
+          "title": "晶片股大跌之際 方舟伍德大買台積電、加倉SpaceX - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "全球500大企業「AI導向」！台積電首擠進百名 緯創衝298名躍幅最大 - 台視新聞網",
+          "score": 0
+        },
+        {
+          "title": "財星全球 500 強，台積電首度躋身百大企業 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 229.5,
+    "predicted": 240.21514892578125,
+    "pct_change": 4.668910207312091,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "拆解鴻海獲利！靠併購把製造底氣煉成AI護城河，今年EPS上看「這數字」 - Smart自學網",
+          "score": 1
+        },
+        {
+          "title": "權證市場焦點－鴻海 出貨成長可期 - 中時新聞網",
+          "score": 1
+        },
+        {
+          "title": "2317 鴻海 - 廣達的釋股籌資被解讀成AI伺服器代工廠的利空！ - 股市爆料同學會 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "【Follow法人】外資殺紅眼！狠砍「老AI」鴻海廣達逾6萬張 提款台股483億元 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3235.0,
+    "predicted": 3646.7041015625,
+    "pct_change": 12.72655646251932,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "盤後快訊》台股大跌2030點！台積電跌70元、聯發科重挫近10%，逾百檔個股逼近跌停| 下班經濟學| 財經 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "最慘不是聯發科！「這1檔」6天重挫45%、穎崴價差720元 南電、台達電...32檔注意股曝光 - FTNN 新聞",
+          "score": -1
+        },
+        {
+          "title": "【即時新聞】聯發科(2454)營收逆勢超標！外資上修獲利預期，法說前夕還能追嗎？ - CMoney",
+          "score": 1
+        },
+        {
+          "title": "台股一度再崩逾千點失守4.1K！台積電、聯發科領跌 鴻海領金控股抗空 - udn.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 190.00999450683594,
+    "predicted": 196.66175842285156,
+    "pct_change": 3.50074422836548,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Nvidia partner ChipAgents raises $60 million to accelerate chip design with AI agents - Reuters",
+          "score": 1
+        },
+        {
+          "title": "Nvidia: Stop Worrying About Circular Financing and Embrace the Bank - Barron's",
+          "score": 0
+        },
+        {
+          "title": "Here are Wednesday's biggest analyst calls: Nvidia, SpaceX, AMD, Snowflake, Disney, Reddit, Broadcom & more - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 298.32000732421875,
+    "predicted": 308.6643371582031,
+    "pct_change": 3.4675280168996507,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Elon Musk Called Cybertruck Tesla’s ‘Best Product Ever,’ but Sales Are Now Tracking Lower Than Ford’s Edsel — the Biggest Car Flop in History - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Musk’s SpaceX tumbles back to Earth, dragging Tesla stock down with it - The Washington Post",
+          "score": -1
+        },
+        {
+          "title": "Suspect arrested after 13 Teslas vandalized with 'Nazi' and 'fascist' writings, Irvine police say - ABC7 Los Angeles",
+          "score": 0
+        },
+        {
+          "title": "Tesla Stock Suffered Its Worst Week Since 2022, Falling 18% as Investors Balked at Elon Musk's Robotaxi and AI Spending Plans - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 429.55999755859375,
+    "predicted": 464.2320861816406,
+    "pct_change": 8.071535715640621,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Advanced Micro Devices vs. BigBear.ai: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Core Scientific Stock Jumps on AMD Data-Center Deal - WSJ",
+          "score": 1
+        },
+        {
+          "title": "Intel Stock Is Up 124% This Year and AMD Is Up 100%: Is the NASDAQ Correction a Take-Profit Signal? - 24/7 Wall St.",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64477.66015625,
+    "predicted": 64306.53125,
+    "pct_change": -0.2654080589079999,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "獨家：Bitget Wallet推出Assetback計劃，返現以比特幣及黃金發放 - Yahoo 財經",
+          "score": 0
+        },
+        {
+          "title": "史上最淡 7 月！K33 研究：比特幣交易量急凍、衍生品市場同步降溫 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "09:01 UTC — 比特幣持穩於$64,000附近，因微軟的AI回報提振股市 - 富途牛牛",
+          "score": 0
+        },
+        {
+          "title": "比特幣衝破6.4 萬鎂、以太坊站上$1900！Fed 按兵不動引爆加密買盤| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1915.0,
+    "predicted": 1908.049072265625,
+    "pct_change": -0.3629727276436031,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "資金大撤退！以太坊 Layer 2 熱潮退燒、 TVL 暴跌創 2 年新低 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "鏈上忙翻天、幣價跌不停！研究：ETH 、 SOL 、 AVAX「基本面與價格背離」 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "鏈上忙翻天、幣價跌不停！研究：ETH 、 SOL 、 AVAX「基本面與價格背離」 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "比特幣衝破6.4 萬鎂、以太坊站上$1900！Fed 按兵不動引爆加密買盤| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
