@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 102.8499984741211,
+    "predicted": 101.24369812011719,
+    "pct_change": -1.5617893804909295,
+    "news": {
+      "count": 12,
+      "score": 0.5,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050「亮燈漲停」！崩跌後迎暴漲行情專家曝下一步：獲利落袋槓桿部位| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "台股強彈ETF也瘋狂！ 0050漲8%、正2狂噴15% 「這2檔」還衝漲停 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "0050跌到93.X元可以買？郭哲榮砸1億元掃1100張「台股今年上看5萬點」：曾靠0050年賺1151萬、3策略曝光 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "一億男哲哲賺爆惹！郭哲榮重押千張0050　帳面獲利一天賺1000萬 - 三立新聞網SETN.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2425.0,
+    "predicted": 2308.8525390625,
+    "pct_change": -4.789586018041237,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "連台積電都漲停了！台股狂飆逾3,200點改寫歷史紀錄 - UDN",
+          "score": 1
+        },
+        {
+          "title": "專家看好台積電3000元！　點名下一檔飆股 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "台積電ADR漲逾7% 傳研發類英特爾EMIB新先進封裝 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "〈美股早盤〉微軟財報送定心丸！主要指數開高 台積電ADR漲逾5% - news.cnyes.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 250.5,
+    "predicted": 238.77024841308594,
+    "pct_change": -4.682535563638348,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "拆解鴻海獲利！靠併購把製造底氣煉成AI護城河，今年EPS上看「這數字」 - smart.businessweekly.com.tw",
+          "score": 1
+        },
+        {
+          "title": "【Follow法人】外資殺紅眼！狠砍「老AI」鴻海廣達逾6萬張 提款台股483億元 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "三大法人買賣超 – 外資買超(2330)台積電、(2317)鴻海，投信買超(2330)台積電、(2308)台達電，法人合計買超846.76億元 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "鴻海亞灣超算啟用全台最大輝達HGX B300 AI集群營運| 產經 - 中央社 CNA",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3555.0,
+    "predicted": 3617.984375,
+    "pct_change": 1.7717123769338958,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科、高通出貨重挫逾25%！記憶體海嘯襲捲供應鏈 緊縮危機恐延續至2027 - 蕃新聞",
+          "score": -1
+        },
+        {
+          "title": "聯發科：第3季營收估持平至季增5%　智慧裝置平台成長 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "聯發科財報出爐！Q2每股賺15.28元 最大功臣是「它」 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "慧榮將與聯發科同台合作 FMS 2026聚焦新一代AI車用平台 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 195.0399932861328,
+    "predicted": 199.3252410888672,
+    "pct_change": 2.1971123616927715,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Morningstar says Nvidia is an 'undervalued' high-upside stock play - LinkedIn",
+          "score": 1
+        },
+        {
+          "title": "Nvidia's fastest graphics cards get US price increase at Best Buy, Amazon — Astral RTX 5080 now costs more than 5090's MSRP, flagship card now commands more than $4,300 - Tom's Hardware",
+          "score": 1
+        },
+        {
+          "title": "Nvidia’s Open Source Alliance Is Missing Some Key Names: OpenAI and Anthropic - WIRED",
+          "score": 0
+        },
+        {
+          "title": "Nvidia Stock Hasn’t Been This Cheap Since 2015—and It Just Keeps Getting Cheaper - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 308.8500061035156,
+    "predicted": 303.6470031738281,
+    "pct_change": -1.684637470249438,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Musk dismisses report of Tesla's potential China business sale - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off - Barron's",
+          "score": 0
+        },
+        {
+          "title": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger - WSJ",
+          "score": 0
+        },
+        {
+          "title": "There's a 74% Chance SpaceX and Tesla Will Merge by May 2027, According to Kalshi -- but 2 Negatives Don't Make a Positive on Wall Street - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 485.3900146484375,
+    "predicted": 490.36236572265625,
+    "pct_change": 1.024403247730625,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "MU, SKHY, NVDA, AMD, INTC Extend Rally Premarket, But Chip Stocks Still On Track For Worst Month Since 2002 - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Core Scientific Stock Jumps on AMD Data-Center Deal - WSJ",
+          "score": 1
+        },
+        {
+          "title": "NVDA, AMD, ORCL, MU And Other Stocks In Focus — Situational Awareness Reportedly Sells Bulk Of Public Portfolio To Citadel - TradingView",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 63890.7109375,
+    "predicted": 64321.05859375,
+    "pct_change": 0.6735684263569711,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "RGB 重申要建立「比特幣資產標準」，背景是 Tether 要把 USDT 原生發行在 Bitcoin 上 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "500 個冷錢包 25 分鐘全被掏空！Coldcard 漏洞釀 594 枚比特幣被盜 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "比特幣期貨壟斷加劇，小幣流動性枯竭 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 0
+        },
+        {
+          "title": "比特幣三年內市值上看2.5兆美元 專家分析背後邏輯 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1884.780029296875,
+    "predicted": 1886.333251953125,
+    "pct_change": 0.08240869661747403,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "以太坊11 週年成長簡史》從 0.31 美元 ICO 到 3 成 ETH 鎖進質押| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "鏈上忙翻天、幣價跌不停！研究：ETH 、 SOL 、 AVAX「基本面與價格背離」 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "資金大撤退！以太坊 Layer 2 熱潮退燒、 TVL 暴跌創 2 年新低 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETHUSD)7月31日下跌1.05%：關注異動內因 - tradingkey.com",
+          "score": -1
+        }
+      ]
+    }
+  }
+]
