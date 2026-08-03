@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 102.0,
+    "predicted": 100.62677764892578,
+    "pct_change": -1.346296422621783,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "股災沒在怕！0050投資人數突破350萬創高 領先台積電近50萬 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "外資轉賣超187億元 期貨淨空單首度突破9萬口 瞄準兩族群提款15萬張 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "退休存股怎配？理財作家曝「0050、0056取捨」一句話引網共鳴：正解 - 三立新聞",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】 盤中零股排行榜TOP 20｜0050 元大台灣50、2303 聯電、2330 台積電、00631L 元大台灣50正2、3231 緯創 - sinotrade.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2370.0,
+    "predicted": 2397.811279296875,
+    "pct_change": 1.1734717002900843,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電跌50元至2375　台股跌339點後翻紅震盪 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "勞動基金賺翻 6月大賺772億！台積電就是績效「發動機」 | 太報 - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "良率突破、訂單拉回自家！英特爾推進 18A 製程，為何短時間仍動搖不了台積電？ - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "大客戶積極追單下 台積電先進製程「雙喜臨門」 | 產業熱點 | 產業 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 253.0,
+    "predicted": 244.10366821289062,
+    "pct_change": -3.5163366747467886,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "IBM量子電腦爆發中！廣達、鴻海卡位第一梯隊 新商機全面引爆賺錢潮 - FTNN 新聞網",
+          "score": 1
+        },
+        {
+          "title": "IBM量子電腦爆發中！廣達、鴻海卡位第一梯隊 新商機全面引爆賺錢潮 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "拆解鴻海獲利！靠併購把製造底氣煉成AI護城河，今年EPS上看「這數字」 - Smart自學網",
+          "score": 1
+        },
+        {
+          "title": "勞退基金上半年最愛10檔股出爐！台積電占比下降 聯發科竄升打敗鴻海 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3910.0,
+    "predicted": 3897.9072265625,
+    "pct_change": -0.30927809303069054,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Google TPU 需求增 2028年上看1,500萬顆 聯發科、英業達等受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "新制勞退基金上半年大賺1.5兆 聯發科持股占比躍居亞軍擊敗鴻海 - 民報",
+          "score": 1
+        },
+        {
+          "title": "聯發科布局Google、Meta合作新契機AI晶片大藍圖曝光- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "8／3台股雷達｜聯發科、國巨、華邦電股價飆原因一次看- 證券 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 200.75,
+    "predicted": 195.58682250976562,
+    "pct_change": -2.5719439552848695,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "SMH (VanEck Semiconductor ETF) is still up ~75-83% over the past year, but it just dropped nearly 18% in the last month alone. What's driving the pullback: weak AI chip guidance from Broadcom, a memory chip price crunch, reports China is closing the gap o - LinkedIn",
+          "score": -1
+        },
+        {
+          "title": "While some tech giants cut jobs, Palo Alto Networks and Nvidia are hiring hundreds in Israel - calcalistech.com",
+          "score": -1
+        },
+        {
+          "title": "Oracle and Nvidia Shares Have Plunged Over the Past 3 Months. Is It Time to Cut These Tech Stocks Loose? - The Motley Fool",
+          "score": -1
+        },
+        {
+          "title": "AI is starting to rewrite the software that made Nvidia untouchable - Business Insider",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 311.2099914550781,
+    "predicted": 307.4042663574219,
+    "pct_change": -1.2228801137978857,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Federal Probe Targets Possible Defect in 1.2 Million of Tesla’s Most Popular Models - inc.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla in self-driving mode gets split in crash - KIRO 7 News Seattle",
+          "score": -1
+        },
+        {
+          "title": "Rear of Tesla driving in Full Self-Driving mode sheared off in Issaquah crash - KOMO",
+          "score": -1
+        },
+        {
+          "title": "Tesla Stock Goes For 3 Gains in a Row as It Shrugs Off Safety Inquiry - Barron's",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 476.1499938964844,
+    "predicted": 468.67437744140625,
+    "pct_change": -1.57001292678864,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Rally Stalls Ahead of Earnings as Options Predict a 12% Move - Benzinga",
+          "score": 1
+        },
+        {
+          "title": "AMD and Micron surge, Lam Research climbs 17% as chip stocks rip higher - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Dow Jones Futures Rise, Oil Prices Dive As Trump Shifts On Iran; SpaceX, AMD, Sandisk, Eli Lilly Earnings Loom - Investor's Business Daily",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 62550.41015625,
+    "predicted": 63174.859375,
+    "pct_change": 0.9983135477291597,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "日美聯手穩定日圓匯市 比特幣嚴防潛在拋售衝擊 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "美日伊重磅消息攪動全球市場！油價衝破90美元、美股震盪上漲，美元日元巨震、黃金與比特幣雙雙跳水作者FX168 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 1
+        },
+        {
+          "title": "對話達利歐：當下正處 AI 泡沫中，投資組合的 1% 是比特幣 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "6大頂級協議揭示：協議收入與代幣表現之間到底斷了哪根鏈 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1839.8699951171875,
+    "predicted": 1899.4561767578125,
+    "pct_change": 3.238608260298834,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣回神站穩6.3萬鎂、以太坊重返1872美元，爆倉1.48億鎂恐慌指數續回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC下跌，ETH盤整，XRP停滯 - FXStreet",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETHUSD)8月3日波動加劇：你應該了解這些資訊 - TradingKey",
+          "score": 0
+        },
+        {
+          "title": "「大怒神」再現！比特幣、以太幣「多空雙殺」清算 2.8 億美元 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
