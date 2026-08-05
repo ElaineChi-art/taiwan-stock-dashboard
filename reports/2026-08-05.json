@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 103.80000305175781,
+    "predicted": 100.99578857421875,
+    "pct_change": -2.7015552939249883,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "買0050還死等大跌？錯失成本更可怕…兩招破解恐懼與錨定陷阱 - udn",
+          "score": -1
+        },
+        {
+          "title": "存ETF比存股更旺 0050投資人數突破350萬人超越台積電 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "大盤大反彈 主動台新優勢成長(00987A)笑傲主動式ETF群雄 - 台灣好新聞",
+          "score": 1
+        },
+        {
+          "title": "7月台股大震盪！0050含息跌5.4%、正二竟暴跌14.8％…看懂「波動耗損」 - udn",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2405.0,
+    "predicted": 2355.505615234375,
+    "pct_change": -2.057978576533264,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "美股開盤大漲「費半勁揚逾5％」！台積電ADR跟著上攻 - finance.ettoday.net",
+          "score": 1
+        },
+        {
+          "title": "台積電漲價+GDDR7變貴南韓RTX 50顯卡8月喊漲- 新聞 - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "台積電ADR漲2.7% Wedbush：3奈米產能擴張可望提前達標 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "韓媒：台積電擴大AI晶片CoW封裝外包 以解決產能瓶頸 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 258.5,
+    "predicted": 250.16351318359375,
+    "pct_change": -3.2249465440643132,
+    "news": {
+      "count": 12,
+      "score": 0.583,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "突破傳統瓶頸！鴻海研究院聯手陽明交大研發34.132 Tbit/s 超大容量矽光子技術登全球光學界國際期刊《Optics Express》 - 鴻海科技集團",
+          "score": 1
+        },
+        {
+          "title": "鴻海7月營收9465億、年增54.19％ 創歷年同期新高、單月首破9000億 - 財訊",
+          "score": 1
+        },
+        {
+          "title": "鴻海營收首度衝破9000億！7月狂飆9465億元創紀錄 AI拉貨引爆新高 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "快訊 鴻海7月營收衝上9,465 億創歷史新高下半年營運旺季加溫 - 理財周刊",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4000.0,
+    "predicted": 3960.0107421875,
+    "pct_change": -0.9997314453124999,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "ASIC第三隻腳要起飛？聯發科獲多家本土投顧看好2027年大爆發EPS、目標價1表看- 上市櫃 - wantrich.chinatimes.com",
+          "score": 1
+        },
+        {
+          "title": "聯發科帶頭衝　IC設計族群5檔飆漲停 - finance.ettoday.net",
+          "score": 1
+        },
+        {
+          "title": "差一咪咪45K! 漲1250點 公股.政府基金重押台積電.聯發科 - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "不只台積電CoWoS！聯發科首證實導入英特爾EMIB-T AI ASIC雙路並進- 產業 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 211.94000244140625,
+    "predicted": 202.1999053955078,
+    "pct_change": -4.595686011936903,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Stock Gets a SpaceX Boost as Chip Rival Stumbles - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "AMD executives say the chip company has a key advantage over Nvidia: being more open - Business Insider",
+          "score": 0
+        },
+        {
+          "title": "Why Nvidia bankrolls its rivals - Axios",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 327.3500061035156,
+    "predicted": 314.0790710449219,
+    "pct_change": -4.054050652559686,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Stock Falls Along With SpaceX. Chinese Sales Aren’t Helping. - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Tesla's July China-made EV sales rise 37.8% y/y - Reuters",
+          "score": 1
+        },
+        {
+          "title": "How a Tesla Cybertruck Fared in a Crash Test With a Ford F-150 - Yahoo Autos",
+          "score": -1
+        },
+        {
+          "title": "Here's Why SpaceX Earnings Could Affect Tesla Stock - Investor's Business Daily",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 518.5800170898438,
+    "predicted": 486.2392578125,
+    "pct_change": -6.236406766854021,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD Earnings 'Were Good,' Says Analyst Even as Stock Sinks 9% After Hours: Wall Street Wanted a 'Blowout' Forecast - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "AMD earnings & guidance beat on data center surge, but stock falls after big runup - Investing.com",
+          "score": 1
+        },
+        {
+          "title": "AMD Beat on Revenue, Profit, and Guidance — So Why Did the Stock Drop 7%? - TradingKey",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64010.69921875,
+    "predicted": 64082.31640625,
+    "pct_change": 0.11188315137014143,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "American Bitcoin第二季營收6700萬美元 比特幣儲備逾8千枚創新高 - PChome Online 新聞",
+          "score": 1
+        },
+        {
+          "title": "量子威脅下金融與比特幣如何升級？XREX 黃耀文：區塊鏈靠共識、法幣靠權力結構 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "憂量子電腦破解比特幣！「華爾街狂人」宣告清倉賣幣、幣圈社群嗨翻天 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "美股狂飆創高、比特幣卻卡在 6.4 萬美元！荷姆茲海峽重啟能否帶動反彈？ - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1867.93994140625,
+    "predicted": 1873.90478515625,
+    "pct_change": 0.319327384022286,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣震盪「6.4萬」美元、以太坊站穩1862！爆倉逾2億鎂、恐慌指數回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "美股大漲比特幣無感？盤整6.3萬鎂、以太坊回落1851美元，爆倉2.4億鎂恐慌指數回落 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣回神站穩6.3萬鎂、以太坊重返1872美元，爆倉1.48億鎂恐慌指數續回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "富達展望 Q3：比特幣熊市僅走三分之二，以太坊和 Solana 深度虧損 - 動區動趨",
+          "score": -1
+        }
+      ]
+    }
+  }
+]
