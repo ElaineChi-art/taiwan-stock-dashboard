@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 103.30000305175781,
+    "predicted": 102.84672546386719,
+    "pct_change": -0.43879726476243486,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "買0050還死等大跌？錯失成本更可怕…兩招破解恐懼與錨定陷阱 - UDN",
+          "score": -1
+        },
+        {
+          "title": "正2血洗3成掀畢業潮！他逆勢砸221萬抄底70張台股狂飆1200點「單日爽賺14萬」網全跪了- 基金 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "外資8/5買超 第1是00631L(元大台灣50正2) 是看多明天台股? 這些訊息很重要 - n.yam.com",
+          "score": 1
+        },
+        {
+          "title": "0050遭遇市場修正還賺？莎莉曝一個月資產變化：回檔10％仍穩賺7萬 | 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2365.0,
+    "predicted": 2364.6328125,
+    "pct_change": -0.015525898520084567,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "國安基金史上最長護盤買8檔個股靠台積電賺77億最多| 產經 - 中央社 CNA",
+          "score": 1
+        },
+        {
+          "title": "國安基金第九次護盤標的揭曉！權王台積電買最多大賺77億 報酬率100% - UDN",
+          "score": 1
+        },
+        {
+          "title": "國安基金「第9次護盤名單」曝光 重押台積電等8檔個股獲利近百億 | 張庭維 | 新聞 - 風傳媒",
+          "score": 1
+        },
+        {
+          "title": "1圖秒懂》英特爾EMIB-T對決台積電CoWoS 專家戳破背後真相：良率9成騙很大- 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 264.5,
+    "predicted": 252.1549835205078,
+    "pct_change": -4.667303016821243,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "突破傳統瓶頸！鴻海研究院聯手陽明交大研發34.132 Tbit/s 超大容量矽光子技術登全球光學界國際期刊《Optics Express》 - 鴻海科技集團",
+          "score": 1
+        },
+        {
+          "title": "首度衝破9000億！鴻海7月營收9465億元 年增54% - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "【Follow法人】外資縮手買超20億元！連5日敲進鴻海逾12萬張 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "美股開盤上漲「個股漲跌互見」！鴻海ADR勁揚逾4％ - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3920.0,
+    "predicted": 3955.20068359375,
+    "pct_change": 0.8979766222895409,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "國安基金第9次護盤名單曝光 押台積電、聯發科等8檔獲利近百億 | 上報 - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "台股開盤跌逾300點！台積電下殺35元、聯發科由紅翻黑 這「光通訊大廠」攜15檔速衝漲停 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "聯發科漲勢佳，財報表現卻普通？艾蜜莉曝關鍵：看準AI產能，市場買的是未來 - Smart自學網",
+          "score": 0
+        },
+        {
+          "title": "買聯發科比台積電好？國巨能重返千元大關？杜金龍曝反彈訊號：優先布局這2檔 | 張庭維 | 新聞 - 風傳媒",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 219.22000122070312,
+    "predicted": 209.64938354492188,
+    "pct_change": -4.365759338786739,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Stock Is on the Rise, After Elon Musk Says SpaceX Will ‘Exclusively’ Buy Its Chips - Investopedia",
+          "score": 1
+        },
+        {
+          "title": "Nvidia stock rises after Musk says SpaceX will exclusively use company's chips - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia is quietly staffing a new AI safety team as it doubles down on open models - Business Insider",
+          "score": 0
+        },
+        {
+          "title": "Prediction: Nvidia CEO Jensen Huang Will Shock Wall Street on Aug. 26 - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 321.54998779296875,
+    "predicted": 311.7666931152344,
+    "pct_change": -3.0425423881631084,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "I asked ChatGPT if the Tesla share price could crash like SpaceX. Here’s what it said. - Yahoo Finance UK",
+          "score": -1
+        },
+        {
+          "title": "Musk Says These Tesla Products Will 'Dramatically' Increase Starlink Demand - Investor's Business Daily",
+          "score": 0
+        },
+        {
+          "title": "Tesla and SpaceX Are Secretly Merging—Not on Paper, But in AI Power - Barron's",
+          "score": 0
+        },
+        {
+          "title": "One Tesla Wipes Out Four Parked Cars at Sutter Health - independent.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 482.04998779296875,
+    "predicted": 479.6590270996094,
+    "pct_change": -0.4959984968169415,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings - CNBC",
+          "score": -1
+        },
+        {
+          "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+          "score": -1
+        },
+        {
+          "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally - 24/7 Wall St.",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64554.390625,
+    "predicted": 64438.65234375,
+    "pct_change": -0.1792880083437392,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "全球股市創新高比特幣卻停滯 Glassnode揭市場深層原因 - n.yam.com",
+          "score": 1
+        },
+        {
+          "title": "熊底到了？比特幣礦企 PowerCompute 以 307 BTC 再融資 1800 萬美元 - blocktempo.com",
+          "score": 0
+        },
+        {
+          "title": "熊市進入最後階段？CryptoQuant：比特幣、以太幣、 XRP 巨鯨持續吸籌 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "比特幣接近6.5萬美元！霍爾木茲海峽談判樂觀情緒提振市場 - Yahoo 財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1904.5799560546875,
+    "predicted": 1890.9632568359375,
+    "pct_change": -0.7149450027268383,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣震盪「6.4萬」美元、以太坊站穩1862！爆倉逾2億鎂、恐慌指數回升 - blocktempo.com",
+          "score": 1
+        },
+        {
+          "title": "美股大漲比特幣無感？盤整6.3萬鎂、以太坊回落1851美元，爆倉2.4億鎂恐慌指數回落 - blocktempo.com",
+          "score": 1
+        },
+        {
+          "title": "熊市進入最後階段？CryptoQuant：比特幣、以太幣、 XRP 巨鯨持續吸籌 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "比特幣回穩 6.4 萬、以太坊站上 1910！爆倉 2.5 億鎂、恐慌指數續回落 - blocktempo.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
