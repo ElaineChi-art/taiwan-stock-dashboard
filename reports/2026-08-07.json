@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 102.8499984741211,
+    "predicted": 101.84552001953125,
+    "pct_change": -0.9766441122919303,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "外資8/5買超 第1是00631L(元大台灣50正2) 是看多明天台股? 這些訊息很重要 - 理財周刊",
+          "score": 1
+        },
+        {
+          "title": "逢低加碼！台股急跌反吸金 ETF單月爆5500億 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "焦點股》元大台灣50正2：台股狂飆千點 爆量飆漲 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台股ETF規模7.5兆元創新高正二、市值、主動型皆獲青睞- 基金 - 旺得富理財網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2370.0,
+    "predicted": 2358.21826171875,
+    "pct_change": -0.49711975870253167,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電技術大突破！　次世代商機1台廠獨攬 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "台積電走揚 台股開高漲逾430點突破44800點 - cna.com.tw",
+          "score": 1
+        },
+        {
+          "title": "台積電擴大CoW委外日月光等OSAT 南韓設備商一同受惠 - DIGITIMES",
+          "score": 1
+        },
+        {
+          "title": "國安基金第九次護盤標的揭曉！權王台積電買最多大賺77億元 報酬率100% - 經濟日報",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 260.0,
+    "predicted": 256.4070739746094,
+    "pct_change": -1.3818946251502404,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股收跌214點 台積電跌40元、鴻海逆勢漲逾2% - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "突破傳統瓶頸！鴻海研究院聯手陽明交大研發34.132 Tbit/s 超大容量矽光子技術登全球光學界國際期刊《Optics Express》 - 鴻海科技集團",
+          "score": 1
+        },
+        {
+          "title": "律師涉搭鴻海順風車詐慈濟 郭台銘：買疫苗沒透過仲介 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "首度衝破9000億！鴻海7月營收9465億元 年增54% - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3900.0,
+    "predicted": 4084.35400390625,
+    "pct_change": 4.727025741185898,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "第九次國安基金護盤狠賺逾99億投入、賣出規模、採購清單一次看台積電、聯發科、台塑都上榜- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "高通、聯發科1H26手機AP出貨年減逾25% 紫光展銳靠低價優勢逆勢成長 - DIGITIMES",
+          "score": 1
+        },
+        {
+          "title": "記憶體漲價壓縮AP需求 聯發科AI ASIC成長動能來了 | Newtalk - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "英飛凌攜手聯發科完成未來車用智慧座艙 NOR Flash 解決方案認證 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 218.99000549316406,
+    "predicted": 210.28656005859375,
+    "pct_change": -3.9743573753378425,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia Stock Blows Gain, Ends 5-Day Winning Streak - barrons.com",
+          "score": 1
+        },
+        {
+          "title": "US Reviews China’s Offshore Nvidia Chip Access After AI Gains - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+          "score": -1
+        },
+        {
+          "title": "Nvidia Weighs Radical Idea: Less Rubin Ultra Chip Memory - The Information",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 319.5299987792969,
+    "predicted": 325.3274230957031,
+    "pct_change": 1.8143599469702996,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Waymo CEO explains why Tesla’s camera-only self-driving falls short - Electrek",
+          "score": -1
+        },
+        {
+          "title": "EVgo starts building Tesla Superchargers under license - Ars Technica",
+          "score": 0
+        },
+        {
+          "title": "Tesla Superchargers Are Coming To EVgo Stations - InsideEVs",
+          "score": 0
+        },
+        {
+          "title": "EVgo to Start Installing 500 kW V4 Tesla Superchargers - Not a Tesla App",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 489.2799987792969,
+    "predicted": 481.86529541015625,
+    "pct_change": -1.5154315295208358,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Lisa Su brushes off Musk's Nvidia commitment as AMD stock sinks after earnings - CNBC",
+          "score": -1
+        },
+        {
+          "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+          "score": -1
+        },
+        {
+          "title": "AMD’s Record Quarter Landed With A Margin Guide That Did Not Move - Trefis",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Tops Key Level As AMD Heads Into Earnings; Is Nvidia A Buy Now - Investor's Business Daily",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64801.62890625,
+    "predicted": 65058.171875,
+    "pct_change": 0.3958896914785068,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "買盤狂湧 20 億美元卻漲不動？分析師：比特幣衝破 6.5 萬美元才能翻盤 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "不丹王國關聯地址向Binance轉入434.86枚BTC - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "比特幣在64,000美元附近徘徊，靜待非農就業數據考驗 - hk.finance.yahoo.com",
+          "score": 0
+        },
+        {
+          "title": "CFTC 主席 Selig 投書：美國領導金融創新、點名 BTC 永續期貨 - 鏈新聞 ABMedia",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1912.280029296875,
+    "predicted": 1899.7327880859375,
+    "pct_change": -0.6561403674518834,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣震盪「6.4萬」美元、以太坊站穩1862！爆倉逾2億鎂、恐慌指數回升 - blocktempo.com",
+          "score": 1
+        },
+        {
+          "title": "美股大漲比特幣無感？盤整6.3萬鎂、以太坊回落1851美元，爆倉2.4億鎂恐慌指數回落 - blocktempo.com",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)8月6日突然下跌1.23%：市場行情在交易什麼？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "比特幣震盪微跌守6.4萬美元、以太坊力守1,900關，爆倉1.55億鎂續走低 - blocktempo.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
