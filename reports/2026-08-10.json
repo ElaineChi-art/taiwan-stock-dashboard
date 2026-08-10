@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 104.25,
+    "predicted": 104.65863800048828,
+    "pct_change": 0.3919788973508693,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "百萬股民超嗨！0050、0056今發股息 006208配發4.75元創新高也入袋了 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "0056配息1.35元創新高！持股42.3張、0050達112張預扣二代健保 - UDN",
+          "score": 1
+        },
+        {
+          "title": "0050 元大台灣50 - 在股海之中，本金少到底要怎麼賺到錢？ - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "0050賺1,200萬！台股狂拉5,800點重返4萬5…郭哲榮：行情從大型股擴散至電子股 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2380.0,
+    "predicted": 2336.425048828125,
+    "pct_change": -1.8308803013392858,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電7月營收4675億再創新高 網喊：相信魏哲家 年底換新家 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電退回400元時期低量！陳嘉偉看壞0050：台股今走勢極糟糕…恐無第二隻腳 - UDN",
+          "score": -1
+        },
+        {
+          "title": "龍潭居民回心轉意 台積電將建1.4奈米廠 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積傳要買友達中科兩座廠 並仿照「群創模式」 攜手攻先進封裝 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 264.5,
+    "predicted": 261.99786376953125,
+    "pct_change": -0.9459872326913988,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台指期夜盤突破45000點本週聚焦鴻海法說會大立光除息| 證券 - cna.com.tw",
+          "score": 1
+        },
+        {
+          "title": "AI伺服器需求旺！「這2檔代工大廠」單周被外資狂掃14.5萬張 鴻海法說前夕獲挹注158億元 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "鴻海、華碩、和碩 法說聚焦 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "（專訪）從對地通訊到AI原生網路 鴻海研究院低軌衛星四階段藍圖 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3960.0,
+    "predicted": 3990.981201171875,
+    "pct_change": 0.7823535649463383,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科7月營收一升一降8月需拚回5字頭、外資由賣轉連續2買超| 財經焦點 - 太報 TaiSounds",
+          "score": 1
+        },
+        {
+          "title": "聯發科7月營收484億元　月減16%但仍年增12% - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "複製輝達整機戰法搶攻 ASIC 晶片市占，聯發科為何與博通純晶片策略背道而馳？ - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "聯發科7月營收年增12.16％ 累積前7月營收轉為正成長 - 自由時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 223.9600067138672,
+    "predicted": 211.0237274169922,
+    "pct_change": -5.776155969401482,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX - SemiAnalysis",
+          "score": 1
+        },
+        {
+          "title": "Sovereign AI Infrastructure Market Till 2040 Now Available — Forecasts Growth from $24.8B to $301.6B, Profiles NVIDIA, Microsoft, AWS, and 15 Other Key Players - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Two variants of Nvidia's RTX Spark show up on Geekbench, revealing a cut-down 18-core model — Full 20-core beats most x86 mobile chips across multi-core and single-core tests - Tom's Hardware",
+          "score": 0
+        },
+        {
+          "title": "NVIDIA reveals details of DLSS 5 and confirms its exclusivity for RTX 50 series. - GameGPU",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 328.5799865722656,
+    "predicted": 321.486572265625,
+    "pct_change": -2.158808995227878,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "49ers coach injured in Tesla crash amid scrutiny of self-driving features - NewsNation",
+          "score": -1
+        },
+        {
+          "title": "49ers coach Kyle Shanahan says his Tesla was on autopilot before crash - The New York Times",
+          "score": -1
+        },
+        {
+          "title": "Kyle Shanahan says his Tesla was on autopilot before accident - NBC Sports",
+          "score": 0
+        },
+        {
+          "title": "SpaceX and Tesla choose Texas for AI chip manufacturing plant that will be world's largest building - Fox Business",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 483.3599853515625,
+    "predicted": 498.3770751953125,
+    "pct_change": 3.106812789401177,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Is AMD Stock a Buy on the Dip as AI Revenue Surges? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Why Did Nvidia Stock Jump After AMD Bought an AI Chip Startup? - Stocks Down Under",
+          "score": 1
+        },
+        {
+          "title": "Should You Buy Advanced Micro Devices (AMD) Stock After Its 12-Month Return of 200%? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock tumbles because of SpaceX - thestreet.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64983.55859375,
+    "predicted": 65608.9453125,
+    "pct_change": 0.9623768415941267,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Bitwise投資長看好比特幣長線走勢 估2035年價格上看130萬美元 - PChome Online 股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣今晨軟分叉！BIP-110 支持者跑少數鏈，主網已甩開 26 區塊 - blocktempo.com",
+          "score": 0
+        },
+        {
+          "title": "CryptoQuant CEO：芝加哥商品交易所上的對沖基金比特幣期貨持倉已轉為凈多頭 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "比特幣前景探究：市場一片沉寂，反轉信號會是什麼？ - 富途牛牛",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1917.5899658203125,
+    "predicted": 1972.029541015625,
+    "pct_change": 2.8389580757961554,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "前3名價格預測：比特幣、以太坊、瑞波幣 – BTC多頭增強，ETH瞄準突破，XRP反彈 - FXStreet",
+          "score": 1
+        },
+        {
+          "title": "加密貨幣產業「汰弱留強」：今年逾 100 項目倒閉，誰能熬過這波洗牌？ - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "熊市進入最後階段？CryptoQuant：比特幣、以太幣、 XRP 巨鯨持續吸籌 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "交易所以太幣庫存蒸發一成 價格卻仍悶在1,900美元附近 - Yellow.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
