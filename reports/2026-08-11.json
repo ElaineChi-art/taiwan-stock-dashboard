@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 104.5999984741211,
+    "predicted": 103.22869873046875,
+    "pct_change": -1.310994037912548,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "散戶首選！0050定期定額戶數突破124萬、再創歷史新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "7月台股大怒神 0050定期定額124萬戶續創新高 - UDN",
+          "score": 1
+        },
+        {
+          "title": "別把0050當高股息存！全年配息3.06元、殖利率僅2％ 楚狂人：買它是賺價差非現金流| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "0056配息1.35元創新高！持股42.3張、0050達112張預扣二代健保 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2395.0,
+    "predicted": 2422.484130859375,
+    "pct_change": 1.14756287513048,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電退回400元時期低量！陳嘉偉看壞0050：台股今走勢極糟糕…恐無第二隻腳 - UDN",
+          "score": -1
+        },
+        {
+          "title": "台積電7月營收4,675億 連三月攻頂 法人：單月將挑戰突破5,000億 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "連3月創新高！台積電7月營收達4,675.8億 Q3營收可望再創顛峰- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "直擊台積電廠房好震撼！外媒曝台灣「這城市」為何該關注 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 263.0,
+    "predicted": 261.1571044921875,
+    "pct_change": -0.7007207254039924,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海旗下工業富聯上半年淨利首次突破人民幣200億元 年增96% - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台指期夜盤突破45000點本週聚焦鴻海法說會大立光除息| 證券 - cna.com.tw",
+          "score": 1
+        },
+        {
+          "title": "AI錢潮瘋灌！鴻海7月營收站穩3千億大關獲小兒狂投逾7萬張居冠「這檔」單月營收首跨9千億、法說前夕吸買氣 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "EMS四雄法說連發鴻海、廣達等AI伺服器風向球往哪吹外界矚目- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4020.0,
+    "predicted": 4136.81494140625,
+    "pct_change": 2.9058443135883087,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科7月營收月減 非手機應用苦撐旺季不旺 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "複製輝達整機戰法搶攻 ASIC 晶片市占，聯發科為何與博通純晶片策略背道而馳？ - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "AI大基建持續擴張！創意、台積電、聯發科領軍 買進名單曝光 | Newtalk - LINE TODAY",
+          "score": 0
+        },
+        {
+          "title": "早盤快訊》台股跌0.41%、聯發科跌近2%！天瀚攻漲停、健鼎等多檔個股逆勢大漲| 下班經濟學| 財經 - 風傳媒",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 217.5500030517578,
+    "predicted": 215.58787536621094,
+    "pct_change": -0.9019203208561026,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Cathie Wood Ignores AI Panic — Buys More Nvidia, Sells This Gaming Stock Instead - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Is Nvidia Stock Still a Good Buy at $220? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Stock Market Limps On Dimming Optimism For U.S.-Iran Deal; Nvidia Sinks - Investor's Business Daily",
+          "score": -1
+        },
+        {
+          "title": "World in Brief: Death toll from Colombian quake rises; Nvidia looks to raise $500bn - The Economist",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 330.8800048828125,
+    "predicted": 324.7679443359375,
+    "pct_change": -1.8472136293154684,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla Stock Slips as Army of Fans Fails to Help It Claw Back Losses - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Tesla and SpaceX Committed $16.8 Billion to One Chip Plant. Tesla's Entire Annual Profit Is $3.8 Billion. - Currently.com",
+          "score": 1
+        },
+        {
+          "title": "49ers coach injured in Tesla crash amid scrutiny of self-driving features - newsnationnow.com",
+          "score": -1
+        },
+        {
+          "title": "Kyle Shanahan, returning after serious car crash, has new perspective on Tesla Autopilot and concussions - Fox News",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 469.55999755859375,
+    "predicted": 493.2077941894531,
+    "pct_change": 5.036160821580314,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+          "score": -1
+        },
+        {
+          "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock tumbles because of SpaceX - thestreet.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64215.0,
+    "predicted": 64796.28515625,
+    "pct_change": 0.9052170929689326,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "加密資產重創川普媒體 上半年狂賠3.6億美元持倉下滑 - 財經新聞 - PChome Online 新聞 - PChome Online新聞",
+          "score": -1
+        },
+        {
+          "title": "Bitwise投資長看好比特幣長線走勢 估2035年價格上看130萬美元 - PChome Online 股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣今晨軟分叉！BIP-110 支持者跑少數鏈，主網已甩開 26 區塊 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "再賣 1,690 顆比特幣！Strategy 永不賣幣神話破滅，背後藏了哪 3 大隱憂？ - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1881.699951171875,
+    "predicted": 1874.990966796875,
+    "pct_change": -0.3565384784551764,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "代幣化國庫券市場加速成長 以太坊穩佔逾四成市佔 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "BitMine 再度加碼 7,391 枚以太坊、總持倉飆至 580 萬枚！靠質押每年也能躺賺 2.5 億鎂 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣緊守6.5萬、以太坊站上1910！恐懼指數回升，美股創高助攻 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "BitMine上週增持7391枚ETH，總持有量升至5,805,238枚 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
