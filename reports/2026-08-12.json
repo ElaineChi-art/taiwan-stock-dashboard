@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 105.19999694824219,
+    "predicted": 104.77568054199219,
+    "pct_change": -0.4033426031930032,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "別把0050當高股息存！全年配息3.06元、殖利率僅2％ 楚狂人：買它是賺價差非現金流| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "台股市值型ETF發威！7檔近半年漲贏大盤　00923配息連3升稱王 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股排行榜TOP 20｜0050 元大台灣50、5904 寶雅*、6770 力積電、2317 鴻海、2344 華邦電 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "【ETF籌碼日報】官股大賣0050，外資、自營商買超00403A達26億 - cmnews.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2415.0,
+    "predicted": 2361.489990234375,
+    "pct_change": -2.2157353940217392,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "點名台積電還會再漲！「這時」市值翻倍 外媒曝值得投資關鍵原因 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "白話科技｜台積電傳研發「類EMIB」！和CoWoS-L差在哪？潛在受惠台廠一次看 - 數位時代",
+          "score": 1
+        },
+        {
+          "title": "台積電漲10元至2405　台股漲逾280點至45407 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "台積電副總：5.5 倍光罩 CoWoS 進入量產、ABF 載板成記憶體後關鍵瓶頸 - 鏈新聞 ABMedia",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 270.0,
+    "predicted": 265.1419372558594,
+    "pct_change": -1.799282497829861,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海法說1》獲利創高！上半年每股賺7.84元 年增25% - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "鴻海法說／第二季EPS達4.27元創同期新高，四大產品線全面優於預期，全年展望轉強勁成長｜股市話題 - sinotrade.com.tw",
+          "score": 1
+        },
+        {
+          "title": "鴻海全年維持強勁成長展望、能見度提高- 新聞 - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "鴻海財報／第2季獲利創同期新高、EPS 4.27元 全年業績將強勁成長 - 經濟日報",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4015.0,
+    "predicted": 4107.49560546875,
+    "pct_change": 2.3037510702054793,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科飆漲176%、川湖狂震2820元！「CCL大廠」股價連8噴88%遭盯上 18檔注意股名單曝 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "挪威主權基金也是國巨慘戶！半年報顯示台股持股市值暴增50.7% 聯發科躍升第二大、國巨急升至第五 - 理財周刊",
+          "score": 0
+        },
+        {
+          "title": "聯發科、瑞昱、奇景、義隆各擁光通訊商機 2027有望爆發 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "聯發科、國巨價量齊揚- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 217.5,
+    "predicted": 212.7183074951172,
+    "pct_change": -2.198479312589799,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Dow Jones AI Giants Nvidia, Amazon In Or Near Buy Zones; Avnet, Okta Are Stocks To Watch - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA RTX 50 Series Median Prices Jump Up to 41% in August, with MSRP Now a Distant Dream - TechPowerUp",
+          "score": 1
+        },
+        {
+          "title": "Nvidia’s Show of Financial Force Soothes Jittery Credit Markets - Bloomberg.com",
+          "score": 0
+        },
+        {
+          "title": "Nvidia’s great silicon showdown - The Economist",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 332.80999755859375,
+    "predicted": 332.28900146484375,
+    "pct_change": -0.1565446043003184,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla Headlights Are Illegally Bright, Recall Says - Forbes",
+          "score": -1
+        },
+        {
+          "title": "Tesla to recall over 20,000 US vehicles over excessively bright low-beam headlights - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Family suing BSO over Tesla chase that led to deadly crash - WPLG Local 10",
+          "score": -1
+        },
+        {
+          "title": "Tesla Has to Fix 20,000 Vehicles With Too-Bright Headlights It’s Known About Since 2024 - Gizmodo",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 474.32000732421875,
+    "predicted": 503.5628356933594,
+    "pct_change": 6.165210810757948,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Intel Falls 5% on Proposed $15B Share Sale as AMD, NVIDIA, Broadcom Hold Steady - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "Better Buy: AMD Stock or Intel Stock? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "AMD Shares Fall 8% as Elon Musk Commits to Nvidia Chips for SpaceX - WSJ",
+          "score": -1
+        },
+        {
+          "title": "AMD's revenue climbs 50% and data center sales doubled, but the stock is down - CNBC",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64047.890625,
+    "predicted": 64702.6484375,
+    "pct_change": 1.0222941085345072,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "知名交易員 Doctor Profit：比特幣 60 天只漲 0.18%，築底訊號第四次出現 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣今晨軟分叉！BIP-110 支持者跑少數鏈，主網已甩開 26 區塊 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣美國開盤急挫逾 2 億美元 市場傳聞頻現操縱 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "知名交易員：比特幣歷史底部信號再現，或仍需經歷數月橫盤以完成築底 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1905.3499755859375,
+    "predicted": 1903.78564453125,
+    "pct_change": -0.08210203242091697,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "BitMine 再度加碼 7,391 枚以太坊、總持倉飆至 580 萬枚！靠質押每年也能躺賺 2.5 億鎂 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)8月12日突然上漲1.17%：市場行情在交易什麼？ - TradingKey",
+          "score": 1
+        },
+        {
+          "title": "某巨鯨近期累計從Binance提取9萬枚ETH，價值約1.7億美元 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "比特幣守 6.37 萬、以太坊小漲1883！恐慌指數續回落至 27、爆倉 1.71 億美元 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
