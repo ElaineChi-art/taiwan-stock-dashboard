@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.69999694824219,
+    "predicted": 106.83011627197266,
+    "pct_change": 0.12194876049864065,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "別把0050當高股息存！全年配息3.06元、殖利率僅2％ 楚狂人：買它是賺價差非現金流| 存股族愛ETF | 股市 - udn.com",
+          "score": 1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股排行榜TOP 20｜0050 元大台灣50、2408 南亞科、2317 鴻海、2303 聯電、6770 力積電 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "0050 元大台灣50 - 0050不只小資零股族大戶更愛！解密 「0.36％族群」竟吃下近45％籌碼 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "【ETF籌碼日報】官股大賣0050，外資、自營商大買0050達55億 - CMoney投資網誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2435.0,
+    "predicted": 2432.120849609375,
+    "pct_change": -0.11824026244866531,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "看好台積電會再漲！「這時」市值衝上3兆美元 外媒曝值得買進關鍵 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "類EMIB概念股有哪些？台積電類EMIB技術、受惠台廠一次看 - 數位時代",
+          "score": 1
+        },
+        {
+          "title": "台積電副總：5.5 倍光罩 CoWoS 進入量產、ABF 載板成記憶體後關鍵瓶頸 - 鏈新聞 ABMedia",
+          "score": 0
+        },
+        {
+          "title": "〈OCP峰會〉台積電CoWoS良率已達99% 2029年量產14倍光罩尺寸 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 262.0,
+    "predicted": 263.8147277832031,
+    "pct_change": 0.6926441920622615,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海AI訂單催油門，外資上修三年獲利展望- 新聞 - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "AI伺服器開啟成長新局 鴻海、夏普邁入第二個10年 - DIGITIMES",
+          "score": 1
+        },
+        {
+          "title": "SpaceX 繞過 Dell 直接向鴻海採購 AI 伺服器！投行點名四大 ODM 台廠受惠 - 鏈新聞 ABMedia",
+          "score": 1
+        },
+        {
+          "title": "EPS調高，目標價卻被打折！杜金龍揭鴻海、台達電、國巨「跌勢內幕」 - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4225.0,
+    "predicted": 4126.13134765625,
+    "pct_change": -2.340086446005917,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "焦點股》聯發科：躍升挪威主權基金第2大持股！帶量強漲逾6％突破季線 - 自由時報",
+          "score": 1
+        },
+        {
+          "title": "挪威主權基金上半年狂賺1,843億美元！台股持股增逾50％ 大買聯發科、國巨最新名單曝光- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "多頭回來了？台股大漲站上46K　台積電2435元、聯發科飆210元 - NOWnews今日新聞",
+          "score": 1
+        },
+        {
+          "title": "聯發科7月營收月減 非手機應用苦撐旺季不旺 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 224.08999633789062,
+    "predicted": 216.95396423339844,
+    "pct_change": -3.1844492039404706,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Neocloud Stocks Rally on Tuesday After NVIDIA’s $500 Billion Pledge. Why TeraWulf, Hut 8, and Galaxy Digital Are Rising - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Trades at 63x Forward Earnings, While Nvidia Trades at 24x. History Says This Is the Better Buy. - fool.com",
+          "score": 1
+        },
+        {
+          "title": "CoreWeave Warns of Difficulty If It Must Shift From Nvidia Chips - Bloomberg.com",
+          "score": -1
+        },
+        {
+          "title": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 327.510009765625,
+    "predicted": 331.5796813964844,
+    "pct_change": 1.2426098468781892,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla signs lease near Jeff Bezos' AI startup amid AI, advanced manufacturing surge - The Business Journals",
+          "score": 1
+        },
+        {
+          "title": "Tesla battery pack falls off truck, burns for hours on I-40 - WREG.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla Cybercab Wins Endorsement From Florida Governor Desantis — ‘Clearly These Things Could Be Very Beneficial’ - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "2 Things That Will Reignite Tesla’s Stock Rally - Barron's",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 482.92999267578125,
+    "predicted": 486.6693115234375,
+    "pct_change": 0.7742983257133649,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Advanced Micro Devices vs. AppLovin: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Trades at 63x Forward Earnings, While Nvidia Trades at 24x. History Says This Is the Better Buy. - fool.com",
+          "score": 1
+        },
+        {
+          "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: ‘I Experienced This Same Play’ Against Intel - Stocktwits",
+          "score": 1
+        },
+        {
+          "title": "AMD earnings send the stock sharply lower. Here's what to know. - marketwatch.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 63690.51171875,
+    "predicted": 64065.21875,
+    "pct_change": 0.5883247302277352,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美國7月通膨放緩 加密貨幣未獲提振 比特幣於63500美元附近震盪 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "分析：比特幣短期持有者佔比持續下降，市場或接近熊市末期 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "Metaplanet 否認賣比特幣：5,014 枚只是左手轉右手，庫存 4.3 萬枚沒少 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣礦商 Riot 轉攻 AI 基建 拿下 Anthropic 大單 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1883.4599609375,
+    "predicted": 1869.80712890625,
+    "pct_change": -0.7248803964196959,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣守6.35萬、以太坊1879美元！CPI降溫恐慌回升至29，爆倉1.76億續走低 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "高盛斥 22.5 億美元收購 Neos：3 檔比特幣、以太幣收益型 ETF 納入麾下 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "富達以太坊ETF擬增質押服務 引發社群報酬爭議 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "ETH 質押率破 34% 激發改革！EIP-8361 擬推「遞減式發行銷毀」，質押達 50% 收益將歸零 - 桑幣區識 Zombit",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
