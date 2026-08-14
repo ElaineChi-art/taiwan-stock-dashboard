@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.4000015258789,
+    "predicted": 105.02204132080078,
+    "pct_change": -1.2950753621398903,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "8月台股ETF交投熱！這4檔日均量突破20萬張 00685L挾量價雙優勢 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "別把0050當高股息存！全年配息3.06元、殖利率僅2％ 楚狂人：買它是賺價差非現金流| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "00685L、00631L、00981A、00991A…正2和主動式ETF瘋買，這2檔今年賺翻倍！達人喊弄清楚車型：別盲目跟車 - businesstoday.com.tw",
+          "score": 1
+        },
+        {
+          "title": "「不是正2」 ETF五雄攜手創高這兩檔主動式ETF飆漲逾雙位數最狂| 2026九合一選舉 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2395.0,
+    "predicted": 2424.855712890625,
+    "pct_change": 1.2465850893789143,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電守平盤電子走堅 台股早盤漲逾300點 - cna.com.tw",
+          "score": 1
+        },
+        {
+          "title": "台積電領軍投資日本晶片業 外企投資總額增至6兆日圓 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "台積電與索尼合作是高招！外媒點出挫敗三星競爭力 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積電配息7元！ 開放外資「領美元股息」將與Sony合資新公司 - 東森電視",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 259.5,
+    "predicted": 260.93951416015625,
+    "pct_change": 0.5547260732779383,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "〈台股開盤〉台積電熄火聯發科、鴻海挺身 漲逾300點衝高至46402點 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "鴻海入主夏普10年前會長町田評價「負面」：獨家創新產品愈來愈少| 全球財經| 全球 - UDN",
+          "score": 0
+        },
+        {
+          "title": "夏普被鴻海買走10年 前會長心酸說出真相 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "鴻海法說會特別點名夏普 預告雙方將有更多合作 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4210.0,
+    "predicted": 4298.3828125,
+    "pct_change": 2.099354216152019,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "〈台股開盤〉台積電熄火聯發科、鴻海挺身 漲逾300點衝高至46402點 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "台股連五日緩漲！今天換台達電、聯發科領頭衝　加權指數再漲300點 - 鏡週刊Mirror Media",
+          "score": 1
+        },
+        {
+          "title": "焦點股》聯發科：躍升挪威主權基金第2大持股！帶量強漲逾6％突破季線 - 自由時報",
+          "score": 1
+        },
+        {
+          "title": "台積電多空拉鋸台股開盤下跌逾百點鴻海、聯發科不濟- 證券 - 工商時報",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 225.3000030517578,
+    "predicted": 216.48377990722656,
+    "pct_change": -3.913103872664357,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Found Another Way to Win From Its $20 Billion Groq Deal - Business Insider",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA GeForce NOW is high-end gaming everywhere without a headache [Video] - 9to5Google",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA GeForce NOW native Linux app leaves beta, Frame Generation gets lower latency - VideoCardz.com",
+          "score": -1
+        },
+        {
+          "title": "IREN Stock Jumps as Microsoft and Nvidia Back Its AI Cloud Push - TradingView",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 339.9599914550781,
+    "predicted": 331.5472717285156,
+    "pct_change": -2.4746205253608924,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla battery pack falls off truck, burns for hours on I-40 - WREG.com",
+          "score": -1
+        },
+        {
+          "title": "Swedish union ends Tesla strike after almost three years - Le Monde.fr",
+          "score": 0
+        },
+        {
+          "title": "Tesla defeats Sweden’s IF Metall union after 1,021-day strike - Electrek",
+          "score": 0
+        },
+        {
+          "title": "Tesla Strike Called Off by Swedish Labor Union After Three Years - bloomberg.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 483.010009765625,
+    "predicted": 493.52154541015625,
+    "pct_change": 2.17625627461258,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Down 15% From Its All-Time High, Is Now the Time to Load Up on AMD Stock? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Adobe vs. Advanced Micro Devices: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "AMD earnings send the stock sharply lower. Here's what to know. - MarketWatch",
+          "score": -1
+        },
+        {
+          "title": "Ex-AMD Exec Says Nvidia Is Using Its Bigger War Chest To Counter AI Gains: ‘I Experienced This Same Play’ Against Intel - Stocktwits",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 62728.03125,
+    "predicted": 64389.91796875,
+    "pct_change": 2.6493525870860166,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "分析：比特幣ADX趨勢強度跌至兩年多新低，波動性回歸信號增強，方向選擇即將到來 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌至63,300美元，監管延遲抵消降息樂觀情緒 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 1
+        },
+        {
+          "title": "鏈上最大比特幣空頭加倉做空，倉位升至1.25億美元 - 富途牛牛",
+          "score": 0
+        },
+        {
+          "title": "美國現貨比特幣ETF買氣回溫 總持有量近月增逾1.7% - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1871.449951171875,
+    "predicted": 1917.71875,
+    "pct_change": 2.472350318487125,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣平盤守 6.35 萬、7 月 PPI 低於預期，標普 500 再創新高 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣守6.35萬、以太坊1879美元！CPI降溫恐慌回升至29，爆倉1.76億續走低 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "24 小時清算超 8600 萬：BTC ETH 多頭慘敗，AKE 空頭遭逼空 - 富途牛牛",
+          "score": 0
+        },
+        {
+          "title": "富達以太坊ETF擬增質押服務 引發社群報酬爭議 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
