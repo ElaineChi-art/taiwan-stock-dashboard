@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 103.0999984741211,
+    "predicted": 105.14166259765625,
+    "pct_change": 1.980275609846522,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050驚現「漲停價」鉅額配對！ 法人棄選股改押指數、權值股兩樣情 - UDN",
+          "score": 1
+        },
+        {
+          "title": "0050驚現「漲停價」鉅額配對！法人棄選股改抱指數 - TVBS新聞網",
+          "score": 1
+        },
+        {
+          "title": "0050上市23年總報酬破2200%！懶錢包回測數據：這月份上漲機率最高| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "0050上市23年總報酬破2200%！懶錢包回測數據：這月份上漲機率最高| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2350.0,
+    "predicted": 2406.276123046875,
+    "pct_change": 2.394728640292553,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電上上籤！吸引科技供應鏈進駐　高雄瘋搶國際數位韌性認證 - 好房網News",
+          "score": 0
+        },
+        {
+          "title": "不只台積電撐場！CNN揭 : 台灣還有「3張王牌」稱霸全球製造供應鏈 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "不只台積電！CNN揭台灣3大冠軍 全球供應鏈都需要 - 三立新聞",
+          "score": 0
+        },
+        {
+          "title": "台積電寶山 F20 廠工安意外 公司完整回應來了 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 245.0,
+    "predicted": 252.75035095214844,
+    "pct_change": 3.163408551897321,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海營收創高、股價卻連3跌，現在能買？專家喊「肉還很多」！群創、鴻準、臻鼎-KY...這檔小金雞更會噴 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "前10大赴陸最賺台企 鴻海囊括4席 工業富聯1家上半年暴賺716億元 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "輝達CPO需求強勁 鴻海砸114億元佈局越南產能 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "鴻海衝 CPO 加碼越南114億 墨國伺服器產能同步擴增 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3845.0,
+    "predicted": 4233.478515625,
+    "pct_change": 10.103472447984394,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台股開高46K 關前拉鋸！南亞科飆553元創新高 聯發科回測4,000元 - UDN",
+          "score": 1
+        },
+        {
+          "title": "SemiAnalysis震撼彈！ 聯發科遭砍單傳聞重擊 股價一度跌4% - 東森電視",
+          "score": -1
+        },
+        {
+          "title": "盤後》大盤重挫近600點！台積電重挫、聯發科軟腳，只有這兩大族群能逃過殺盤？ | 下班經濟學 | 財經 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "SemiAnalysis震撼彈！ 聯發科遭砍單傳聞重擊 股價一度跌4% - Yahoo股市",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 219.74000549316406,
+    "predicted": 220.2161865234375,
+    "pct_change": 0.2167020198278147,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia H200 chips reach China in small shipments, FT reports - Reuters",
+          "score": 0
+        },
+        {
+          "title": "China eases limits on Nvidia H200 chips as AI race escalates - Financial Times",
+          "score": 0
+        },
+        {
+          "title": "Nvidia H200 chips reach China in small shipments, FT reports - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Exclusive | A $21 Billion ‘Kids in Chips’ Startup Is Scooping Up Nvidia Talent - WSJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 336.8699951171875,
+    "predicted": 342.7852478027344,
+    "pct_change": 1.7559452522594439,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "WA high school cracks Top 10 in the latest U.S. News national ranking - The Seattle Times",
+          "score": 1
+        },
+        {
+          "title": "Tesla’s true believers are starting to question their faith in Elon Musk - The Washington Post",
+          "score": 0
+        },
+        {
+          "title": "Tesla Readies August Launch of Cybercab, Its Robotaxi Without a Steering Wheel - The Information",
+          "score": 0
+        },
+        {
+          "title": "Tesla prepares for Cybercab launch in August starting with rides to employees, the Information reports - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 484.3900146484375,
+    "predicted": 498.9220275878906,
+    "pct_change": 3.0000645141292246,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Intel and AMD Fall 4% as 13F Filings Reveal Concentrated Chip Bets - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "A $210 Billion Reason to Buy AMD Stock Here - Barchart.com",
+          "score": 1
+        },
+        {
+          "title": "Cathie Wood's ARK Invest Adds Nvidia Stake, Sells AMD Stock Across Four ETFs - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Rocket Lab - Investing.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 64331.44921875,
+    "predicted": 64205.7578125,
+    "pct_change": -0.19538096495013524,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nike股價探12年新低 較比特幣跌幅更深凸顯風險 - PChome Online 股市",
+          "score": -1
+        },
+        {
+          "title": "美私人信貸壓力創2017年新高 比特幣面臨流動性挑戰 - 財經新聞 - PChome Online 新聞 - PChome Online新聞",
+          "score": 1
+        },
+        {
+          "title": "Binance SNDK合約交易量超越比特幣USDT永續合約，前15合約中10個是TradFi資產 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "數據：比特幣現貨需求將迎來自2 月以來首次轉正，歷史中位漲幅18.1% - news.futunn.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1919.47998046875,
+    "predicted": 1907.5982666015625,
+    "pct_change": -0.6190069179198163,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "以太幣區間震盪 突破 $1,920 有望挑戰 $2,000 關卡 - 財經新聞 - PChome Online 新聞 - PChome Online新聞",
+          "score": 1
+        },
+        {
+          "title": "以太幣區間震盪 突破 $1,920 有望挑戰 $2,000 關卡 - Yahoo",
+          "score": 1
+        },
+        {
+          "title": "25倍槓桿! 黃立成重壓2.6億做多以太幣 距清算線僅剩2%跌幅 - tw.stock.yahoo.com",
+          "score": 0
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) 宣佈其以太幣持有量達 582 萬枚，加密資產及現金總持有量達 114 億美元 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
