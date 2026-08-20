@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 103.80000305175781,
+    "predicted": 106.50849151611328,
+    "pct_change": 2.6093337039739146,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台股跌548點，ETF資金分歧會改變退休配置嗎？-詠晴K線解密 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "2330 台積電 - 台股量縮收復季線外資回頭買超37億、三大法人賣超35.37億元- 股市爆料同學會 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、00878 國泰永續高股息、2327 國巨*、2408 南亞科、3481 群創 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "重量級ETF大換股 來了 累計牽動3.35兆資金 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2375.0,
+    "predicted": 2409.937744140625,
+    "pct_change": 1.4710629111842106,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股開高反彈再戰45K！台積電站回月線 富喬放量急攻漲停 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台積電產能緊俏 傳三星先進晶圓代工趁勢漲價達15% - cna.com.tw",
+          "score": 1
+        },
+        {
+          "title": "三星吃到台積電訂單塞爆紅利！晶圓代工最多漲15％ 台灣客戶漲「這麼多」 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電亞利桑那廠報喜Q2營收占比突破4%創新高- 新聞 - MoneyDJ",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 246.5,
+    "predicted": 250.73507690429688,
+    "pct_change": 1.718083936834432,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海營收創高、股價卻連3跌，現在能買？專家喊「肉還很多」！群創、鴻準、臻鼎-KY...這檔小金雞更會噴 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "輝達CPO需求強勁 鴻海砸114億元佈局越南產能 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "2026鴻海獎學鯨開跑 每人5萬元助清寒生追夢 - UDN",
+          "score": 0
+        },
+        {
+          "title": "2026鴻海獎學鯨開跑 每人5萬元助青年安心追夢 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3700.0,
+    "predicted": 4104.27197265625,
+    "pct_change": 10.92626953125,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "聯發科股價一度下跌逾 4%，這要從 Google與 Marvell 最新簽訂協議談起 - TechNews 科技新報",
+          "score": -1
+        },
+        {
+          "title": "盤後》大盤重挫近600點！台積電重挫、聯發科軟腳，只有這兩大族群能逃過殺盤？ | 下班經濟學| 財經 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "台股收盤漲214點 成交量跌破8千億元 聯發科重摔近4％ - 中時新聞網",
+          "score": 1
+        },
+        {
+          "title": "Google TPU掀搶單大戰！聯發科跌逾3% 分析師曝股價壓力帶 - Yahoo股市",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 217.55999755859375,
+    "predicted": 224.5038604736328,
+    "pct_change": 3.191700217393561,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Cerebras Says Its New Computer Boosts AI Speed Advantage Over Nvidia - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "Nvidia plays matchmaker in Nordics, sources tell CNBC, as AI data center deals boom in region - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Nvidia stock's deep discount creates a 'compelling opportunity,' BofA says - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Not Nvidia, not Micron. This S&P 500 stock is up almost 500% year to date! - Yahoo Finance UK",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 351.1199951171875,
+    "predicted": 345.8141784667969,
+    "pct_change": -1.5111120768328192,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Why China’s Unitree IPO Surge Is Good News for Tesla - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Chinese Robot Developer Unitree Soars 460% On Blockbuster IPO - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "WA high school cracks Top 10 in the latest U.S. News national ranking - The Seattle Times",
+          "score": 1
+        },
+        {
+          "title": "Tesla's Model Y L Is Coming to America. Will It Reignite Sales Growth? - The Motley Fool",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 466.4200134277344,
+    "predicted": 491.1905212402344,
+    "pct_change": 5.3107729298451005,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Intel and AMD Fall 4%, NVIDIA Unchanged as Chip Selloff Defies Bond Yield Relief - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Rocket Lab - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "Micron vs. AMD: Only One AI Stock Looks Like a Better Buy Now - Zacks Investment Research",
+          "score": 1
+        },
+        {
+          "title": "Where Will AMD Stock Be in 5 Years? - The Motley Fool",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 71867.4296875,
+    "predicted": 68407.140625,
+    "pct_change": -4.814822343788166,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣急彈逼近7萬美元 空頭慘遭血洗、逾11萬交易員爆倉 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "Strategy比特幣持倉浮虧縮窄至47.7億美元 - 富途牛牛",
+          "score": 0
+        },
+        {
+          "title": "生技、比特幣雙引擎點火 00983A 盤中勁揚逾5% 主動 ETF 中表現居冠 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "《美股》殖利率挫 生技/比特幣/軟體嗨 費半逆跌-新聞內容-基金 - MoneyDJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2282.389892578125,
+    "predicted": 2159.52490234375,
+    "pct_change": -5.383172727582932,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "以太幣暴漲18%突破2250美元 麻吉大哥大舉加碼多單 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "以太幣區間震盪 突破 ＄1,920 有望挑戰 ＄2,000 關卡 - PChome Online 股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣重返6.4萬、以太坊站穩1900！全網爆倉2.16億鎂、恐慌指數續回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太幣暴漲18%突破2250美元 麻吉大哥大舉加碼多單 - 鉅亨網",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
