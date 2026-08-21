@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 104.6500015258789,
+    "predicted": 103.25067138671875,
+    "pct_change": -1.3371525262845942,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "【ETF籌碼日報】官股買超00981A，外資、自營商賣超00981A達14億 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "0050 元大台灣50 - 0050 換股吃豆腐？數據實測：反著做勝率高達81.8% - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "0050破百元大關！他手握12萬想All in怕「買在高點」 網掀兩派論戰 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP20｜0050 元大台灣50、00981A 主動統一台股增長、2330 台積電、2609 陽明、4958 臻鼎-KY (0821)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2410.0,
+    "predicted": 2423.80517578125,
+    "pct_change": 0.5728288705912863,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電技術再突破！埃米世代完勝三星，先進製程藍圖比較一表看 - 遠見雜誌",
+          "score": 1
+        },
+        {
+          "title": "台積電亞利桑那廠報喜 Q2營收占比突破4%創新高-新聞內容-基金 - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "美國新鮮人獲台積電Offer！年薪320萬擔憂一件事掀熱議 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台股彈回46K關卡！杜金龍賣台積電 轉進布局「2族群」 - 東森電視",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 245.5,
+    "predicted": 247.3539276123047,
+    "pct_change": 0.7551639968654531,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "用 Factory GPT 打造「AI 老師傅」 鴻海拚複製全球工廠經驗 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "蘋果發表會在即 鴻海緊急招工 衝刺iPhone18量產 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "鴻海土城總部中元普渡 董事長劉揚偉率領高層祭拜 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "鴻海物流洪春燕經營地下洗錢 8年內經手高達34億元 - 台視新聞網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3790.0,
+    "predicted": 4006.9033203125,
+    "pct_change": 5.723042752308707,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股太狂了！V轉上漲290點台積電與聯發科領軍、航運記憶體噴出- 證券 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "AMD、Marvell搶進Google TPU 外資力挺聯發科未掉單 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "超微奪單Google 聯發科警戒 博通也面臨訂單遭分食危機 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "算力瓶頸衝向太空 聯發科資深處長梁伯嵩：未來100萬顆H100只是中段班 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 216.85000610351562,
+    "predicted": 220.2703094482422,
+    "pct_change": 1.5772668888438237,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "SOURCES: Poolside Strikes $6 Billion Licensing Deal with Nvidia & Raises $1 Billion for Remaining Company at $12 Billion Valuation - Newcomer | Substack",
+          "score": 1
+        },
+        {
+          "title": "Nvidia denies report it is rolling out China AI chip by year-end - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Nvidia looks well placed to benefit from the next stage of the AI boom - Financial Times",
+          "score": 0
+        },
+        {
+          "title": "Nvidia in Talks With Chip Startup Rebellions for Potential Deal - Bloomberg.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 345.1300048828125,
+    "predicted": 349.3400573730469,
+    "pct_change": 1.2198454004785477,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Model Y L Beats Range Estimates in Real-World Test - Not a Tesla App",
+          "score": 1
+        },
+        {
+          "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada - TechCrunch",
+          "score": 0
+        },
+        {
+          "title": "Waymo has designed a robocar chip to stay ahead of Tesla - The Register",
+          "score": 0
+        },
+        {
+          "title": "Nevada Allows Uber, Tesla And Waymo To Start Paid Robotaxi Service - Engadget",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 469.4599914550781,
+    "predicted": 501.24676513671875,
+    "pct_change": 6.7709228177503284,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Is AMD Catching Up With Nvidia? Here's the Best Stock to Buy Today. - Currently.com",
+          "score": 1
+        },
+        {
+          "title": "Cerebras, Intel, and AMD Shares Fall Ahead of Tonight’s ‘Supernova’ Event - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Rocket Lab - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Slips 4% Despite an MOU With Mexico’s Secihti - TipRanks",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 77847.6015625,
+    "predicted": 72301.8125,
+    "pct_change": -7.123904848947156,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "回來了！比特幣突破 7.95 萬美元，微策略 BTC 儲備扭虧為盈 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "特朗普推動《透明法案》後，比特幣和加密貨幣股價上漲 - TradingView",
+          "score": 1
+        },
+        {
+          "title": "市場重新定價：黃金衝上4500美元，比特幣強勢突破，真正的主線正在從AI轉向「美元與流動性」 - Moomoo",
+          "score": 1
+        },
+        {
+          "title": "【加密貨幣監管迎轉折？】川普催生《CLARITY法案》 比特幣突破7萬美元、概念股齊漲| 優分析 - LINE TODAY",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2396.1298828125,
+    "predicted": 2252.9658203125,
+    "pct_change": -5.974803933915245,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "以太幣暴漲18%突破2250美元 麻吉大哥大舉加碼多單 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "以太幣區間震盪 突破 ＄1,920 有望挑戰 ＄2,000 關卡 - PChome Online 股市",
+          "score": 1
+        },
+        {
+          "title": "昨日比特幣 ETF 淨流入 6.063 億美元，以太坊 ETF 淨流入 2.195 億美元 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "以太坊價格預測：ETH五連陽衝破2300美元！多頭行情還能走多久？ - TradingKey",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
