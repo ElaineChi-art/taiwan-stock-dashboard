@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 103.80000305175781,
+    "predicted": 104.95548248291016,
+    "pct_change": 1.1131786100007983,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "賣房剩餘資金買0050、台積電！黃大米深刻體悟：本大利小利不小獲利更驚人| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "【ETF籌碼日報】官股買超00406A，外資賣超0050達20億 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、2303 聯電、2408 南亞科、00981A 主動統一台股增長、1303 南亞 (0824)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "【8月台股ETF風雲榜】0050、00878慘墊底！ 末段班20名一次看 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2375.0,
+    "predicted": 2388.842041015625,
+    "pct_change": 0.5828227796052632,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "不畏台積電熄火！聯電觸漲停　晶圓代工力積電飆半根 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "1圖懂》台積電EMIB-T卡脖英特爾欣興、景碩、南電...ABF三雄站受惠第1排專家：史詩級行情來了- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "台積電單日成交量創2年多來最低紀錄 台股跌461點收在44762點 - 信傳媒",
+          "score": -1
+        },
+        {
+          "title": "都買台積電！17位億萬富豪持股曝光 「重押這3檔」成共同答案 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 243.5,
+    "predicted": 247.19107055664062,
+    "pct_change": 1.5158400643287988,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "2317 鴻海 - 蘋果秋季發表會腳步將近、摺疊機真的要來了？鴻海、新日興大啖利多？ - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "法說後連跌免驚！杜金龍點名鴻海「重挫就買」 曝大盤V轉訊號 - TVBS新聞網",
+          "score": -1
+        },
+        {
+          "title": "外資喊435元轉身連賣？鴻海財報創同期高股價卻「愈看好愈跌」！9天摔逾9％驚呆投資人 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "鴻海增資子公司近 60 億元 擴大北美 AI 伺服器布局 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3765.0,
+    "predicted": 3897.31640625,
+    "pct_change": 3.5143799800796813,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科近期股價疲弱 股民憂「是不是有點死掉了？」掀網友熱議 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "聯發科、世芯、創意誰受惠？ASIC轉向COT模式台廠卡位戰全面開打- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "聯發科慘跌原因找到了！瑤池金母甩賣轉進「這3檔」981A、991A、407A...9支主動式提款近15億元完整清單1次看- 上市櫃 - 旺得富理財網",
+          "score": 0
+        },
+        {
+          "title": "聯發科、創意、世芯籌資戰火全開 全球ASIC競局亟需銀彈 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 214.72000122070312,
+    "predicted": 216.2616424560547,
+    "pct_change": 0.7179774713986536,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia discusses Perplexity investment at $30 billion-plus valuation, The Information reports - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Nvidia Discusses Perplexity Investment at $30 Billion-Plus Valuation - The Information",
+          "score": 0
+        },
+        {
+          "title": "Nvidia in Talks to Back Jeff Bezos-Funded Perplexity at Over $30 Billion Valuation As AI Startup's Revenue Explodes to $750 Million: Report - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Nvidia Is Spending $6 Billion to Build a Powerful U.S. Alternative to Chinese AI - WSJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 362.8599853515625,
+    "predicted": 346.9865417480469,
+    "pct_change": -4.374536803262116,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Three arrested after Buckman Tesla crash and hourslong search; five guns seized - KATU",
+          "score": -1
+        },
+        {
+          "title": "Tesla's lawyers told the other side that the data the car sends home holds no crash video and no snapshot, so a hacker from Tesla's own bug bounty program took the computer out of the wrecked Model S, read it in a Starbucks, and the jury gave the automaker - Autonocion.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla crash leads to fire and major injuries for driver in Carmel Valley - KSBW",
+          "score": -1
+        },
+        {
+          "title": "Tesla recalls nearly 3M vehicles over doors that may be difficult to open after crashes - Fox Business",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 473.25,
+    "predicted": 485.2916564941406,
+    "pct_change": 2.5444599036747224,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree. - Currently.com",
+          "score": 1
+        },
+        {
+          "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree. - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "AMD Investors Must Be Ready For Major News On Aug. 26 - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 77490.09375,
+    "predicted": 78205.0234375,
+    "pct_change": 0.9226078494710817,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "隨比特幣暴漲 美現貨ETF單周吸金逾19億美元 創10個月新高 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "比特幣多空論戰！機構樂觀看漲，為何 Peter Schiff 堅稱是「假突破」？ - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "橋水基金 Ray Dalio：「美國破產」倒數三年！籲拋售美債、快買黃金與比特幣避險 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "美債危機 3 年內爆發！橋水基金創辦人達里歐：快囤「黃金、比特幣」避險 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2462.52001953125,
+    "predicted": 2518.402099609375,
+    "pct_change": 2.269304599958638,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "ETH/BTC 驚現黃金交叉！歷史三次大漲兩次陷阱，這次能信嗎？ - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "歷經近 500 次清算，麻吉大哥這次靠以太幣多單狂賺 1,250 萬美元 - 鏈新聞 ABMedia",
+          "score": 1
+        },
+        {
+          "title": "比特幣站回7.7萬美元、以太坊漲幅領先！全網爆倉3.9億鎂，恐慌指數續回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太幣暴漲18%突破2250美元 麻吉大哥大舉加碼多單 - news.cnyes.com",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
