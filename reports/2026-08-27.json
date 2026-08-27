@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 104.4000015258789,
+    "predicted": 106.19319915771484,
+    "pct_change": 1.7176222276121669,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050 元大台灣50 - 【台股-8/27盤後解析】 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜2303 聯電、0050 元大台灣50、2408 南亞科、2344 華邦電、2313 華通 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "ETF熱潮持續 元大證券推「50密碼」掀全民討論 - cna.com.tw",
+          "score": 0
+        },
+        {
+          "title": "包攬定期定額冠亞！「這2檔」喜迎連三漲外資共掃進1.3萬張 再撒7億元補貨00403A - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2415.0,
+    "predicted": 2421.65087890625,
+    "pct_change": 0.27539871247412007,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電還會漲？外媒分析1關鍵 有望迎182%飆升 - 東森新聞",
+          "score": 0
+        },
+        {
+          "title": "台積電CoWoS漏氣了？外媒分析師揭良率遇問題「整顆晶片全報廢」：英特爾的好機會| 張大任| 新聞 - 風傳媒",
+          "score": 0
+        },
+        {
+          "title": "終於等到這一刻？外媒揭 : 台積電的HBM封裝良率問題有利於英特爾 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "小米玄戒O3來了！台積電3奈米＋長鑫LPDDR6 牽動全球晶片三大變化 | 大陸政經 | 兩岸 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 246.5,
+    "predicted": 239.97445678710938,
+    "pct_change": -2.647279193870436,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AI驚天轉折！盲買鴻海、廣達大賺時代已死「輝達股價表現落後大盤」全因資金悄悄轉向光、電 - 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "外資買超490億元！主動式ETF還是最愛 鴻海也轉買超終止連8賣 - UDN",
+          "score": 0
+        },
+        {
+          "title": "鴻海集團介紹｜鴻海旗下有哪些公司？從蘋果組裝廠到 AI 伺服器龍頭！ - StockFeel 股感",
+          "score": 0
+        },
+        {
+          "title": "鴻海砸 17 億元美國購地買廠，估擴 AI 製造規模 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3945.0,
+    "predicted": 4021.75390625,
+    "pct_change": 1.9455996514575413,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "盤後快訊》台股攻回45800點！聯發科大漲近6%、多檔漲停，航運三雄反而崩逾6% | 下班經濟學 | 財經 - 風傳媒",
+          "score": 1
+        },
+        {
+          "title": "當股東大勝當員工！聯發科8月分紅傳打85折、平均較2月縮水降至80萬 - 太報 TaiSounds",
+          "score": 0
+        },
+        {
+          "title": "漲價還降規？三星Galaxy S26 FE比前代更貴 處理器改採聯發科 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "Google、聯發科擁抱「先進封裝多元化」 英特爾、台積電再交鋒 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 227.03750610351562,
+    "predicted": 218.8722381591797,
+    "pct_change": -3.596440114442175,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Stock Market Today: Nasdaq Leads Gains As Nvidia Crosses New Buy Point, Gold Miners Mixed (Live Coverage) - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Agrees to Buy Open Source AI Platform Hugging Face For $12.9 Billion - The Information",
+          "score": 1
+        },
+        {
+          "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending - The New York Times",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 354.3999938964844,
+    "predicted": 351.5370178222656,
+    "pct_change": -0.807837506638047,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Now There's Even Less of a Reason to Buy a Tesla Cybertruck - Edmunds",
+          "score": 1
+        },
+        {
+          "title": "Why Tesla has been caught up in a massive car recall in China - BBC",
+          "score": -1
+        },
+        {
+          "title": "China flexes its auto-safety chops with huge recall of Tesla, other cars - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Tesla Might Have Even More Trouble Finding Cybertruck Buyers after Raising the Price by $5000 - Car and Driver",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 472.17999267578125,
+    "predicted": 477.93646240234375,
+    "pct_change": 1.2191261416946855,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "NVIDIA vs. AMD: Only One AI Stock Is a Solid Buy Now - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Slips Despite the Release of ROCm 10 - TipRanks",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Cerebras Systems - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Upgraded To Strong Buy. Here’s Why. - Investor's Business Daily",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 80136.15625,
+    "predicted": 81169.953125,
+    "pct_change": 1.290050488290047,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Bitmine 加碼買進 3.24 萬枚以太幣！Tom Lee：這波大漲「早該來了」 - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "美股開市前，黃金高位跳水，比特幣突破8萬美元！幣圈超10萬人爆倉 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 1
+        },
+        {
+          "title": "比特幣步入「初升段」？CryptoQuant：突破 8.3 萬美元才是「真牛市」 - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "比特幣牛市重置！K33：歷史級軋空加美財政部神助攻，「高海拔症狀可以等等」 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2511.580078125,
+    "predicted": 2528.52587890625,
+    "pct_change": 0.6747067684141194,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "麻吉大哥絕地反攻之路　3天狂賺4億「清算之王」翻身全紀錄 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "Bitmine 加碼買進 3.24 萬枚以太幣！Tom Lee：這波大漲「早該來了」 - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "麻吉大哥沒有輸! 以太幣開25倍槓桿\"3天賺4億\" - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "比特幣守7.8萬大關！以太坊重回2500，全網爆倉「2.58億鎂」恐慌指數回升 - 動區動趨",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
