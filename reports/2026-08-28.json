@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 105.9000015258789,
+    "predicted": 106.19488525390625,
+    "pct_change": 0.27845488553206743,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050 元大台灣50 - 欣興電子驚傳遭搜索！2副總1會計被帶走了- 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜2303 聯電、0050 元大台灣50、2327 國巨*、2449 京元電子、00981A 主動統一台股增長(0828)｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "一周熱門零股／0050、聯電、南亞科 超搶手 - UDN",
+          "score": 0
+        },
+        {
+          "title": "【ETF籌碼日報】官股大賣0050，外資大買0050達44億 - CMoney投資網誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2410.0,
+    "predicted": 2385.130615234375,
+    "pct_change": -1.0319246790715768,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "輝達狂飆8.74%！台積電領軍台股開高一度大漲近590點 衝上46.5K - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台積電分紅開獎！年薪600萬、新人220萬　下班直奔賓士展間 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "「算力即國力」定律即將被改寫！台積電1奈米之後，下個科技戰場是什麼？ - 遠見雜誌",
+          "score": 0
+        },
+        {
+          "title": "進台積電6年換來10種自由！工程師曝心聲：不看CP值但輪班真的累 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 252.0,
+    "predicted": 246.6785888671875,
+    "pct_change": -2.1116710844494047,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "6檔1表看》Google TPU明年衝10萬櫃！鴻海、英業達、仁寶…法人點名它：2027年成長優於同業- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "Google TPU供應鏈拆解：非輝達陣營成形！除了台積電、鴻海、聯發科還有哪些台廠受惠股？ ｜產業熱話 - sinotrade.com.tw",
+          "score": 1
+        },
+        {
+          "title": "公文大腦落地雲林 鴻海智慧治理跨出關鍵一步 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "十年鯨魚回游—鴻海獎學鯨的「翻轉力」與「防墜網」 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3865.0,
+    "predicted": 3824.869384765625,
+    "pct_change": -1.0383082854948253,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "下一檔萬金股？大立光又漲停超車緯穎登千金股季軍 分析師揭：類似聯發科 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "權值股領軍！台股成交量再破兆元 台積電漲至2420元、聯發科勁揚120元 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "漲價還降規？三星Galaxy S26 FE比前代更貴 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "一籃子股票的逆襲！台積電基本面沒有輸，為何 0050 上半年績效還是贏？ - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 217.5500030517578,
+    "predicted": 214.63482666015625,
+    "pct_change": -1.3400029191946305,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia agrees to buy Hugging Face for $12.9 billion, report says - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Problem. - Barron's",
+          "score": 0
+        },
+        {
+          "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion - Ars Technica",
+          "score": 0
+        },
+        {
+          "title": "Nvidia’s $13 Billion Hugging Face Deal: What Businesses Need To Know - Forbes",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 348.75,
+    "predicted": 353.9904479980469,
+    "pct_change": 1.5026374187948028,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Might Have Even More Trouble Finding Cybertruck Buyers after Raising the Price by $5000 - Car and Driver",
+          "score": 0
+        },
+        {
+          "title": "Man Buys $100K Cybertruck. 2 Years Later, He Learns What It’s Worth: ‘I Put 25,000 Miles On It’ - Motor1.com",
+          "score": 0
+        },
+        {
+          "title": "Tesla Increases Wheel and Tire Protection Plan Pricing - Not a Tesla App",
+          "score": 0
+        },
+        {
+          "title": "Tesla's Cybercab Launch Is Next Week. Here's What Tesla Still Needs To Prove - InsideEVs",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 465.5799865722656,
+    "predicted": 490.7052307128906,
+    "pct_change": 5.396547288384173,
+    "news": {
+      "count": 12,
+      "score": 0.5,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia - Barron's",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA Surges 6% as a 70% Growth Forecast Overrides a Memory Margin Warning, AMD and Intel Tick Up - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA vs. AMD: Only One AI Stock Is a Solid Buy Now - TradingView",
+          "score": 1
+        },
+        {
+          "title": "Nutanix’s Rally Has a Bigger Story Than Earnings as AMD’s AI Bet Takes Shape - The Globe and Mail",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 77403.0,
+    "predicted": 80908.25,
+    "pct_change": 4.52857124400863,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "沃什鷹派表態打壓風險偏好！比特幣跌破8萬美元礦企MARA(MARA.US)、Riot(RIOT.US)遭重挫作者智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": -1
+        },
+        {
+          "title": "比特幣衝破 8 萬美元大關 Coinbase 股價連動飆漲近 5% 加密抵押貸款亦助攻 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "Capital B完成2100萬歐元融資，以加速比特幣金融公司戰略 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "方德證券出席 Bitcoin Asia 2026：始於香港，「鏈」接全球一站式資產配置 - Taiwan News",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2428.169921875,
+    "predicted": 2500.22021484375,
+    "pct_change": 2.9672673365920677,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "麻吉大哥絕地反攻之路　3天狂賺4億「清算之王」翻身全紀錄 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "麻吉大哥沒有輸! 以太幣開25倍槓桿\"3天賺4億\" - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "比特幣守7.8萬大關！以太坊重回2500，全網爆倉「2.58億鎂」恐慌指數回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "黃立成以太幣傳「3天狂賺4億」手法曝光 網大讚：清算之王逆襲了 - Yahoo新聞",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
