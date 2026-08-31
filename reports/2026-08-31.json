@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.94999694824219,
+    "predicted": 106.67998504638672,
+    "pct_change": -0.2524655535858869,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050、0052準備換股! 散戶搶搭便車聚焦這五檔個股 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "0050要換股了！「2檔」黑馬搶進、3檔恐遭剔除，想吃豆腐行情小心反被套！ | 下班經濟學 | 財經 - 風傳媒",
+          "score": 0
+        },
+        {
+          "title": "0050換股名單預測出爐！藥華藥有望入選 2檔恐遭踢 - 東森電視",
+          "score": 0
+        },
+        {
+          "title": "【台股ETF五天王】一表看0050、00878、0056 等最愛買什麼？全撞「這2檔」！ - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2420.0,
+    "predicted": 2393.59033203125,
+    "pct_change": -1.09130859375,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電：矽光子成光收發器主流 2027年市占估逾50% - UDN",
+          "score": 0
+        },
+        {
+          "title": "進台積電6年換來10種自由！工程師曝心聲：不看CP值但輪班真的累 - UDN",
+          "score": 0
+        },
+        {
+          "title": "台積電不再獨占SK海力士HBM訂單？傳Intel分杯羹-新聞內容-基金 - MoneyDJ",
+          "score": 0
+        },
+        {
+          "title": "台積電爆滿又漲價！　韓媒爆SK海力士找英特爾代工HBM - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 253.0,
+    "predicted": 246.87686157226562,
+    "pct_change": -2.4202128172863144,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "【個股分析】鴻海：GB/VR 機櫃與 ASIC 訂單驅動鴻海 2026~2027 年獲利創高 - 富果直送",
+          "score": 1
+        },
+        {
+          "title": "鴻海印度尋逾200英畝地建園區 古吉拉特邦成設廠熱點 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "鴻海劉揚偉出席力挺！台灣量子論壇吸10國與會 盼成量子產業樞紐 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "2317 鴻海 - 無良外資的打壓，終究要面對接下來月營業額1兆元的鴻海！ - 股市爆料同學會 - CMoney",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3985.0,
+    "predicted": 3937.1298828125,
+    "pct_change": -1.201257645859473,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "輝達首度砸千億投資台灣公司 認購9成聯發科ECB - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "重磅！輝達投資聯發科35億美元深化雙方合作| 科技產業| 產經 - UDN",
+          "score": 0
+        },
+        {
+          "title": "黃仁勳出手了！輝達首度重金投資台灣公司 認購聯發科35億美元海外可轉債 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "重磅！輝達投資聯發科35億美元深化雙方合作| 全球財經| 全球 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 219.96499633789062,
+    "predicted": 219.2757110595703,
+    "pct_change": -0.31336134830357004,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia to Invest $3.5 Billion in Chipmaker MediaTek - Bloomberg.com",
+          "score": 0
+        },
+        {
+          "title": "Nvidia to invest $3.5 billion in chipmaker MediaTek, expand partnership - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Nvidia just made a $3.5 billion move that could expand its AI empire - MarketWatch",
+          "score": 0
+        },
+        {
+          "title": "Here are Monday's biggest analyst calls: Nvidia, Apple, SpaceX, Dell, Deere, Broadcom, Costco, Redcat & more - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 364.55999755859375,
+    "predicted": 361.4581604003906,
+    "pct_change": -0.8508440802544672,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Chinese automakers are following Tesla’s bet that robots are the next big profit machine - TechCrunch",
+          "score": 1
+        },
+        {
+          "title": "Tesla \"Ambassador\" Melts Down Over \"Horrible\" Robotaxi Ride, Says He Had to Call an Uber After Total Self-Driving Failure - Futurism",
+          "score": 0
+        },
+        {
+          "title": "Why Tesla Stock Stepped on the Gas Monday Morning - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "U.S. Stock Market Movement | Tesla (TSLA.US) rises over 4% as it launches a lower-priced Model 3 variant in Hong Kong and Macau - Moomoo",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 468.25,
+    "predicted": 473.1434020996094,
+    "pct_change": 1.045040491107181,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Cathie Wood Sells $74.5M of AMD Stock, Buys $76M of Nvidia and Broadcom Ahead of AVGO Q3 Earnings - TipRanks",
+          "score": -1
+        },
+        {
+          "title": "Intel vs. AMD: Why the Market Share Number Is Misleading - Barchart.com",
+          "score": 0
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. $AMD Stock Holdings Lowered by Kinetic Partners Management LP - marketbeat.com",
+          "score": 0
+        },
+        {
+          "title": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published - Trefis",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 78638.6328125,
+    "predicted": 79474.3359375,
+    "pct_change": 1.0627131921184174,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "觀點：比特幣反彈動能仍強勁，機構配置與投機槓桿同步上升 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "日本 Metaplanet 押注比特幣策略 股價因赴美設子公司飆漲逾一成 - 蕃新聞",
+          "score": 1
+        },
+        {
+          "title": "別再喊「比特幣是數位黃金」敘事？調查發現：這三大理由才是買入誘因 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "前瑞信風險主管：比特幣最壞時期已過，2027年目標價15萬美元 - Yahoo 財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2467.610107421875,
+    "predicted": 2524.94677734375,
+    "pct_change": 2.323570881373134,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "以太幣(ETHUSD)8月31日突然下跌3.04%：市場行情在交易什麼？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "以太幣突破後於2,400美元上方盤整，被視為山寨幣市場風向球 - BigGo 財經",
+          "score": 1
+        },
+        {
+          "title": "$以太幣 (ETH.CC)$ - Moomoo",
+          "score": 0
+        },
+        {
+          "title": "【即時新聞】Bitmine(BMNR)狂掃以太幣！總資產高達156億美元，距離5%供應量目標僅一步之遙 - CMoney投資網誌",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
