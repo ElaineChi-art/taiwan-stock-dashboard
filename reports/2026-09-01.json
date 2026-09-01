@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 108.44999694824219,
+    "predicted": 104.2377700805664,
+    "pct_change": -3.8840267277149563,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050換股倒數！藥華藥、景碩有望入列　這3檔恐被踢除 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "正二長期一定贏0050？三段回測揭開槓桿ETF的真實代價｜清流君｜豐雲學堂 2026 年 08 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "0056「股息一毛不花全投入」仍落後0050股息用光光！10年真實歷史回測 - UDN",
+          "score": 0
+        },
+        {
+          "title": "0050變台積電ETF？權重18％→58％...前十大成分股「這產業被踢光」 內行揭關鍵：市值型最強修正系統- 基金 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2440.0,
+    "predicted": 2434.82470703125,
+    "pct_change": -0.21210217085040986,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電代工價喊漲10%至15%？AI狂潮推升議價權、回檔成佈局機會 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "陳其邁證實台積電將進駐白埔產業園區 建半導體供應鏈基地 - UDN",
+          "score": 0
+        },
+        {
+          "title": "台積電宣布進駐高雄白埔 打造先進封裝供應鏈聚落 - Taiwan News",
+          "score": 0
+        },
+        {
+          "title": "台積電宣布進駐高雄白埔園區推先進封裝設備供應鏈| 產經 - cna.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 256.0,
+    "predicted": 249.94818115234375,
+    "pct_change": -2.3639917373657227,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "【個股分析】鴻海：GB/VR 機櫃與 ASIC 訂單驅動鴻海 2026~2027 年獲利創高 - 富果直送",
+          "score": 1
+        },
+        {
+          "title": "Google TPU供應鏈拆解：非輝達陣營成形！除了台積電、鴻海、聯發科還有哪些台廠受惠股？ ｜產業熱話 - sinotrade.com.tw",
+          "score": 1
+        },
+        {
+          "title": "台股大漲1.77%創兩個月新高，聯發科漲停、台積電與鴻海同步走強 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "鴻海劉揚偉出席力挺！台灣量子論壇吸10國與會 盼成量子產業樞紐 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4315.0,
+    "predicted": 3979.498779296875,
+    "pct_change": -7.775231070756083,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科漲停領漲 台股盤中勁揚近700點突破46800點 - cna.com.tw",
+          "score": 1
+        },
+        {
+          "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "輝達與聯發科擴大AI系統布局，下一輪預算會流向哪一環-柏宇 KD 獲利模式 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "台灣首例！輝達「準入股」聯發科揭十年產品路線圖合作版圖、模式細節一次看- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 216.8450927734375,
+    "predicted": 216.9649658203125,
+    "pct_change": 0.055280497862243476,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Why Dell’s stock stands to gain from developments at Nvidia and SpaceX - MarketWatch",
+          "score": 1
+        },
+        {
+          "title": "Exclusive | Anthropic Signs $35 Billion Cloud Deal Backed by Nvidia - WSJ",
+          "score": 0
+        },
+        {
+          "title": "Anthropic signs $35 billion cloud deal with Nvidia-backed Lambda, source says - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Nvidia’s Latest Deal Is Even More Confusing Than Usual—Just Don’t Call It ‘Circular Financing’ - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 358.58990478515625,
+    "predicted": 360.3700866699219,
+    "pct_change": 0.49643948728344545,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla Model Y L reportedly faces surge of owner complaints over rear suspension collapse in China - CarNewsChina.com",
+          "score": 1
+        },
+        {
+          "title": "Tesla's European registrations mixed in August, with strong France, Denmark supporting growth - Reuters",
+          "score": 1
+        },
+        {
+          "title": "This 3-Year-Old Tesla Model Y Went 100,000 Miles And Barely Fast-Charged. Here's How The Battery Held Up - insideevs.com",
+          "score": 0
+        },
+        {
+          "title": "Tanzania tells US billionaire Tesla investor Tim Draper he does not own the freshwater island he wants to sell for $7.9 million - Business Insider Africa",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 458.4599914550781,
+    "predicted": 456.13421630859375,
+    "pct_change": -0.5073016598684521,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "AMD: Buy This Post-Earnings Pullback - Seeking Alpha",
+          "score": 1
+        },
+        {
+          "title": "Nvidia RTX Spark Sinks Intel, AMD Stock 4.4% [2026] - tech-insider.org",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Rises on New AI Infrastructure and Supercomputer Collaborations - TipRanks",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 78025.5625,
+    "predicted": 78554.2265625,
+    "pct_change": 0.6775523886803123,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "5000 億清算後機構入場，比特幣能否突破 8.6 萬阻力？ 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 1
+        },
+        {
+          "title": "比特幣 8 月上漲 25%，創 2024 年 11 月以來最佳單月表現 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "幣圈院士：9.1比特幣（BTC）大漲之後進入消化周期 讀懂盤面信號才不會被洗出局 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "別再喊「比特幣是數位黃金」敘事？調查發現：這三大理由才是買入誘因 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2441.699951171875,
+    "predicted": 2419.24267578125,
+    "pct_change": -0.9197393553555507,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣逼近 7.9 萬美元壓力、以太幣站穩 2,470 關卡，市場貪婪情緒續回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)9月1日下跌1.09%：風險因素有哪些？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "比特幣 ETF 迴流 2.17 億鎂！以太坊 ETF 11 連陽創史上第二長 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "麗盈聊幣：9.1比特幣（BTC）和以太坊（ETH）最新行情分析 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
