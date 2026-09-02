@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.80000305175781,
+    "predicted": 104.46672058105469,
+    "pct_change": -2.18472135208869,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "外資反手賣超913億元大舉布空期貨 砍出00981A 5.1萬張、聯電4.5萬張 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "砸1億買0050「帳面爽賺1600萬」！郭哲榮大喊：絕對不會賣 - 東森電視",
+          "score": 1
+        },
+        {
+          "title": "0050 元大台灣50 - 14張0050均價110元！剛買就遇大跌賠6位數網點破：心理素質還不夠- 股市爆料同學會 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "2455 全新 - 9/2 關懷光通訊： 少數量增的版塊- 股市爆料同學會 - CMoney",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2385.0,
+    "predicted": 2413.84375,
+    "pct_change": 1.2093815513626835,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AI需求增速30年未見！台積電設備需求半年暴增90％ - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積電ESMC估2027年底生產 德經處：台德合作延伸至供應鏈 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積電嘉義廠區工安意外1死承包商遭起訴| 社會 - 中央社 CNA",
+          "score": 0
+        },
+        {
+          "title": "台積電嘉科廠383公斤管線墜落奪命 施工包商7人起訴 - udn.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 251.0,
+    "predicted": 245.1393585205078,
+    "pct_change": -2.334916924100473,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "2026年8月台灣汽車市場銷售報告｜民俗月重挫24%！Tesla雙車逆襲、鴻海新電動車首度入榜 - Yahoo - 汽機車",
+          "score": -1
+        },
+        {
+          "title": "【個股分析】鴻海：GB/VR 機櫃與 ASIC 訂單驅動鴻海 2026~2027 年獲利創高 - 富果直送",
+          "score": 1
+        },
+        {
+          "title": "他天天賺30萬！不買「國巨、鴻海」選股3原則說了 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "〈SEMICON〉鴻海劉揚偉：AI需求又大又快 供應商面臨擴產壓力 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4275.0,
+    "predicted": 4044.770263671875,
+    "pct_change": -5.385490908260234,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股大滿貫9月開門紅 台積電、聯發科領漲 將蓄勢挑戰48,218點新高 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "聯發科漲停領漲 台股盤中勁揚近700點突破46800點 - 中央社 CNA",
+          "score": 1
+        },
+        {
+          "title": "輝達砸千億投資聯發科 Alphabet 也加入夥伴行列 台積電、日月光、矽格受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "發行ECB獲輝達Google認購蔡力行：代表對聯發科信心| 產經 - 中央社 CNA",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 217.44000244140625,
+    "predicted": 216.33950805664062,
+    "pct_change": -0.5061140417629346,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Korea’s Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses - SemiAnalysis",
+          "score": 1
+        },
+        {
+          "title": "Nvidia's next act is bigger than selling AI chips: Chart of the Day - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Not just Nvidia: these power and cooling firms are riding the trillion-dollar data centre boom - Reuters",
+          "score": 0
+        },
+        {
+          "title": "What Dell and Nvidia just proved to the AI stock haters - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 356.0899963378906,
+    "predicted": 357.5248107910156,
+    "pct_change": 0.4029359060577252,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Ather Energy’s 130% Stock Surge Leaves Tesla and BYD Behind in 2026 - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "Another Tesla on Autopilot Stopped on Freeway, Driver Died: Report - Gizmodo",
+          "score": 0
+        },
+        {
+          "title": "Tesla Now Uses Grok Think Fast 2.0 With Summer Update - Not a Tesla App",
+          "score": 0
+        },
+        {
+          "title": "Trump Declares Bulk Power 'Emergency'; These Energy Storage Players Benefit - Investor's Business Daily",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 459.6099853515625,
+    "predicted": 461.6516418457031,
+    "pct_change": 0.44421499950200855,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tiger Global Cut Alphabet 45% and Opened an AMD Position. Is It Rotating From AI Platforms to AI Chips? - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "AMD: Buy This Post-Earnings Pullback - Seeking Alpha",
+          "score": 1
+        },
+        {
+          "title": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Rises on New AI Infrastructure and Supercomputer Collaborations - tipranks.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 76714.109375,
+    "predicted": 76953.21875,
+    "pct_change": 0.3116889147877173,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣「辛奇溢價」重現預示續漲？ 分析師：別急著看多 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "不再跟科技股走！比特幣與那斯達克指數脫鉤 與黃金相關性突破50% - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "日本比特幣財庫公司Remixpoint 清倉山寨幣！只留1,506 枚 BTC 單押| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "鉅亨買幣速報- USDC(USDC)24小時成交量超過26.17億美元，NFPrompt Token(NFP)24小時漲幅達65.8% - TradingView",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2381.3798828125,
+    "predicted": 2444.310302734375,
+    "pct_change": 2.6426031552576896,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣逼近7.9 萬美元壓力、以太幣站穩2,470 關卡，市場貪婪情緒續回升| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "BitMINE逼近5%以太幣供應目標 Circle、Coinbase股價齊揚 - PChome Online 股市",
+          "score": 0
+        },
+        {
+          "title": "以太坊巨鯨轉逾4億美元ETH至交易所 市場關注潛在拋售潮 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "麗盈聊幣：9.1比特幣（BTC）和以太坊（ETH）最新行情分析 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
