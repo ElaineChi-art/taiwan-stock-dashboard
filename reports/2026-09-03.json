@@ -1,0 +1,137 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.19999694824219,
+    "predicted": 105.63409423828125,
+    "pct_change": -0.5328650906051691,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2390.0,
+    "predicted": 2446.515869140625,
+    "pct_change": 2.3646807171809625,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 247.5,
+    "predicted": 250.40464782714844,
+    "pct_change": 1.1735950816761365,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4340.0,
+    "predicted": 4299.24755859375,
+    "pct_change": -0.938996345766129,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 224.41000366210938,
+    "predicted": 215.65509033203125,
+    "pct_change": -3.90130261004775,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 357.010009765625,
+    "predicted": 357.4695129394531,
+    "pct_change": 0.12870876481300514,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 457.05999755859375,
+    "predicted": 456.5384826660156,
+    "pct_change": -0.11410206436000085,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 78525.6796875,
+    "predicted": 78279.0078125,
+    "pct_change": -0.3141289269722375,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2419.179931640625,
+    "predicted": 2395.10791015625,
+    "pct_change": -0.9950488249978984,
+    "news": {
+      "count": 0,
+      "score": 0.0,
+      "label": "無資料",
+      "samples": []
+    }
+  }
+]
