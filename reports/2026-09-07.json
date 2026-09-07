@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.9000015258789,
+    "predicted": 108.92125701904297,
+    "pct_change": -0.8905773368942728,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050股價110元直逼新高，定期定額要繼續扣？達人實測39個月狂賺百萬，親揭買法「滾出翻倍利潤」 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "台股大漲775點創近期新高！台積漲50元ETF群飛 這三檔漲停成交爆量 | CTWANT - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "0050逼近歷史前高還能追？知美曝「股價破107元照扣5萬」：連扣39個月獲利116萬 | 存股族愛ETF | 股市 - udn.com",
+          "score": 1
+        },
+        {
+          "title": "0050漲太慢改抱正2？達人點破「單日」2字：它不是0050乘2！ - 上市櫃 - 旺得富理財網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2460.0,
+    "predicted": 2430.734619140625,
+    "pct_change": -1.189649628429878,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "下半年出貨、明年佔比逾5成！台積電矽光子生態系拚了聯電、旺矽、欣銓...5檔最受惠法人目標價完整看- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "AI 沒泡沫！外資喊話 聯電鎖漲停、台積電喊漲準備飛 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台積電漲30元 台股早盤漲逾600點站上47000點 - 中央社 CNA",
+          "score": 1
+        },
+        {
+          "title": "若明天股市崩盤「必買台積電」！外媒點名「3檔」抄底首選 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 256.0,
+    "predicted": 255.0098419189453,
+    "pct_change": -0.3867805004119873,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AI題材快漲完了？鴻海股價波段重挫27% 專家曝市場3觀察重點：只看營收成長已不夠| 張庭維 | 新聞 - storm.mg",
+          "score": -1
+        },
+        {
+          "title": "手中已有45張！陳重銘看好鴻海低估喊加碼 全年營收挑戰衝破10兆 - udn.com",
+          "score": 1
+        },
+        {
+          "title": "鴻海股價委屈了？不敗教主看好「這兩個」引擎喊加碼- 證券 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "AI伺服器出貨動能強勁！鴻海8月營收月減2.61% 仍創史上次高 - Yahoo股市",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4760.0,
+    "predicted": 4471.06591796875,
+    "pct_change": -6.070043740152311,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電攜手聯發科拉高台股！收盤上漲775點 大立光苦吞跌停 - udn.com",
+          "score": 1
+        },
+        {
+          "title": "聯發科TPU大單9月起爬坡！「半導體大廠」全年EPS上看8.8元 CPU需求增、Q4再迎成長動能 - FTNN 新聞網",
+          "score": 1
+        },
+        {
+          "title": "聯發科(2454)發39億美元可轉債，AI營收何時看得到-柏宇 KD 獲利模式 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "談輝達重金入股聯發科 瑞昱邱順建：台灣IC設計走向ASIC是必然趨勢 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 230.36000061035156,
+    "predicted": 221.55848693847656,
+    "pct_change": -3.8207647371743807,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia’s Investment Portfolio Spans Intel to SpaceX. Why It Can Surge. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI - Business Insider",
+          "score": 0
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang Says AGI Has Arrived With OpenAI's GPT-6 Astra - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "U.S., Iran exchange fresh strikes; Nvidia’s Huang on AGI - what’s moving markets - Investing.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 354.0799865722656,
+    "predicted": 368.1925354003906,
+    "pct_change": 3.9856951432765353,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla vs SpaceX: Elon Musk’s Two Companies Are Chasing the Same AI Prize. Only One Is Positioned to Win It - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "China’s EV makers see synergy in their race to beat Tesla in humanoid robotics - SCMP",
+          "score": 1
+        },
+        {
+          "title": "Tesla Sees Dozens of Cybercabs Narrowly Escape Amazon Cargo Jet Crash - eletric-vehicles.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation - Ars Technica",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 477.57000732421875,
+    "predicted": 459.5119323730469,
+    "pct_change": -3.781241425178609,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Prediction: AMD Will Join the $2 Trillion Club in 2030 Amid Historic Growth in This Market - fool.com",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Gets a ‘Strong Buy’ Upgrade: Why It Could Outperform Nvidia - Barron's",
+          "score": 1
+        },
+        {
+          "title": "AMD: Buy This Post-Earnings Pullback - Seeking Alpha",
+          "score": 1
+        },
+        {
+          "title": "Nvidia just sent a strong signal to AMD and Intel investors - thestreet.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 79064.859375,
+    "predicted": 80526.1953125,
+    "pct_change": 1.8482748834965597,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "1 BTC 能買 18 盎司黃金：比特幣黃金比例創 2026 年最高 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "Liquid Network 爆 3.2 億美元安全事故！3,996 枚比特幣遭轉走 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "2026年9月6日-7日區塊鏈24小時最新資訊鏈共識（鏈新聞） - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "Liquid Network 停擺！白帽自稱提走 3.2 億比特幣，LBTC 存取款凍結 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2482.2900390625,
+    "predicted": 2515.86572265625,
+    "pct_change": 1.3526092062324317,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "1confirmation 創辦人：ETH 還有 333 倍潛力！市值有望突破「100 兆美元」 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太坊承諾允許用戶在無需持有ETH的情況下支付Gas費用 - Moomoo",
+          "score": 0
+        },
+        {
+          "title": "Harmony 擬終止 L1 網絡！ONE 將遷往以太坊、項目轉型 AI 影音 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "加密貨幣週報 | 比特幣回落至$80047；非農數據引發$2億爆倉；巨鯨拋售$3.45億枚以太坊 - Moomoo",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
