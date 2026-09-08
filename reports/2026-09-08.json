@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.6500015258789,
+    "predicted": 109.02326202392578,
+    "pct_change": -0.5715818451723467,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "9/8 ETF 三大法人買賣超日榜｜合計買超最多00403A(主動統一升級50)、賣超最多00918(大華優利高填息30)-ETF股長 - cmnews.com.tw",
+          "score": -1
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜0050 元大台灣50、2344 華邦電、2303 聯電、00919 群益台灣精選高息、2408 南亞科(0908)｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "富時指數2026年Q3調整重點整理｜0050、0056成分股換血，藥華藥入列臺灣50、世芯-KY出局 - pocket.tw",
+          "score": 0
+        },
+        {
+          "title": "問就是正2？年化35%超狂！清流君警告：1,000萬恐暴跌只剩100萬，你真捏得住？ - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2470.0,
+    "predicted": 2432.308837890625,
+    "pct_change": -1.5259579801366396,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "下半年出貨、明年佔比逾5成！台積電矽光子生態系拚了聯電、旺矽、欣銓...5檔最受惠法人目標價完整看- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "估台積電股價再飆22％！外媒揭「最佳買進時機」：快上車 - TVBS新聞網",
+          "score": 0
+        },
+        {
+          "title": "台灣「矽盾」恐失效？外媒揭「這國」不必擊敗台積電 只要做到1事就夠了 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積電、ASML攜手推12吋High NA EUV光罩　2031年前建試產線 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 251.5,
+    "predicted": 253.1429443359375,
+    "pct_change": 0.6532581852634195,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海8月營收9218億年增逾 5成　刷歷年次高、同期新高 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "鴻海8月營收創同期新高 AI伺服器需求強勁、Q3表現估優於市場預期 - 優分析UAnalyze",
+          "score": 1
+        },
+        {
+          "title": "賺翻了！鴻海8月營收出爐 創歷史次高、同期新高 - TVBS新聞網",
+          "score": 1
+        },
+        {
+          "title": "8月營收雙雙報喜！鴻海目標價喊327元、狂賺9217億 「這檔」更暴增98％創新高 - Yahoo股市",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4710.0,
+    "predicted": 4464.97802734375,
+    "pct_change": -5.202165024548832,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "熱門股》ASIC霸主背書 聯發科挑戰新高價 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電、聯發科、聯電太狂！法人空單續減看好台股「這時」登上5萬點- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "抱緊台積電、聯發科績效跟著水漲船高 台股四檔ETF寫新高價 - UDN",
+          "score": 1
+        },
+        {
+          "title": "盤勢分析》震盪緩步墊高 挑戰新高需放量 - 自由財經",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 230.36000061035156,
+    "predicted": 222.88018798828125,
+    "pct_change": -3.247010158991203,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Wistron stock falls after $1.47 billion global share sale - qz.com",
+          "score": -1
+        },
+        {
+          "title": "Not Nvidia. Not Micron. This Is My Top AI Infrastructure Stock to Buy Right Now (Hint: It Can Double Within 3 Years) - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale - CNBC",
+          "score": -1
+        },
+        {
+          "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning - Yahoo Finance",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 354.0799865722656,
+    "predicted": 364.3088684082031,
+    "pct_change": 2.888861902351503,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "China’s Car Sales Fall 24% as BYD, Tesla Seek Reprieve Abroad - Bloomberg.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla’s Cybercab has been deployed, and it’s already under investigation - arstechnica.com",
+          "score": 0
+        },
+        {
+          "title": "The state is America’s biggest venture capitalist. Tesla and Solyndra prove it - Fortune",
+          "score": 0
+        },
+        {
+          "title": "Family of 14-year-old found dead in singer D4vd’s Tesla seeks the death penalty - NBC News",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 477.57000732421875,
+    "predicted": 453.88848876953125,
+    "pct_change": -4.958753311870001,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027 - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD and Intel Soared as Nvidia Lagged: Has the AI Trade Changed? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "Amundi Sells 2,271,529 Shares of Advanced Micro Devices, Inc. $AMD - MarketBeat",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 78399.578125,
+    "predicted": 79084.1328125,
+    "pct_change": 0.8731611876897456,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣慘崩36%，隱私幣飆漲213%：年度最大贏家 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "AGM Group與HashBeaver聯合開發用於比特幣挖礦的桌面DePIN節點 - Moomoo",
+          "score": 0
+        },
+        {
+          "title": "比特幣跌向7.8万美元！聯儲局政策與油價壓力升溫 - Yahoo 財經",
+          "score": 0
+        },
+        {
+          "title": "比特幣出現黃金交叉仍跌破 7.9 萬美元！債息、油價與日圓升值夾擊 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2471.010009765625,
+    "predicted": 2499.096923828125,
+    "pct_change": 1.136657235361181,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "以太幣(ETHUSD)9月8日下跌1.04%：關注異動內因 - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "Bitmine 再買 28,086 枚以太坊！連續 66 週增持，逼近「全球 5%」目標 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "項目周刊｜Bitdeer維持比特幣零持倉 Robinhood Chain過去一周位居以太坊生態首位 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "以太坊砍掉「必須持有 ETH 付 gas」！EIP-8141 入列 2027 年 Hegotá 升級 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
