@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.6500015258789,
+    "predicted": 107.0915756225586,
+    "pct_change": -2.3332657252325606,
+    "news": {
+      "count": 12,
+      "score": 0.583,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股8月強漲逾3000點 0050、0056狂吸金定期定額戶數雙創新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "0050股價110元直逼新高，定期定額要繼續扣？達人實測39個月狂賺百萬，親揭買法「滾出翻倍利潤」 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "〈台股盤前要聞〉台指期夜盤突破4萬7、金融指數率先創新高、台灣50指數藥華藥進榜 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "台股8月狂漲3000點！存股族狂扣「這2檔」　戶數雙創新高 - nownews.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2465.0,
+    "predicted": 2420.506591796875,
+    "pct_change": -1.8050064179766734,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電毛利率飆新高助攻股價 亞利桑那州成台廠投資熱點 - 財經新聞 - PChome Online 新聞 - news.pchome.com.tw",
+          "score": 1
+        },
+        {
+          "title": "研調：台積電第2季晶圓代工市占72.5%創新高穩居龍頭 擴大和三星差距 - UDN",
+          "score": 1
+        },
+        {
+          "title": "台積電Q2晶圓代工市占率72.5％再創新高 拉大與三星差距 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電入列！外媒點名現在就買「這3檔」未來會感謝自己 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 252.0,
+    "predicted": 250.7368621826172,
+    "pct_change": -0.5012451656281002,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AI題材快漲完了？鴻海股價波段重挫27% 專家曝市場3觀察重點：只看營收成長已不夠| 張庭維 | 新聞 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "iPhone史上漲最凶！鴻海、臻鼎KY、新日興、雙鴻…首周預購成關鍵，搶看13檔蘋果折疊機概念股 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "CSP 龍頭亞馬遜搶 AI 機櫃 世芯、緯穎、鴻海等協力廠出貨動能強勁 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "鴻海(2317)太委屈，股價250元可以買？選股教練親解「黃金右下角」高勝率選股術：3檔跌深好股出列 - 今周刊",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4625.0,
+    "predicted": 4422.2060546875,
+    "pct_change": -4.384733952702702,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科小金雞意騰強攻語音終端市場 明年營收有望續創新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台股猛漲775點！聯發科、股王信驊領攻 法人看好Q4旺季行情 - PChome Online 股市",
+          "score": 1
+        },
+        {
+          "title": "8月非農意外增加升息壓力遽增 聯發科、國巨、欣興、南亞科等AI，今天大漲先跑一趟!? - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "聯發科AI大戰略結盟Nvidia打天下　盼改寫台供應鏈版圖 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 225.72999572753906,
+    "predicted": 225.25927734375,
+    "pct_change": -0.2085316053242785,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia, Broadcom have 'broadest' ownership among chips; Micron, AMD surge: BofA (NVDA:NASDAQ) - Seeking Alpha",
+          "score": 1
+        },
+        {
+          "title": "Family of Nvidia researcher disputes suicide ruling, petitions AG to halt cremation - NBC Bay Area",
+          "score": -1
+        },
+        {
+          "title": "AGI is here, Nvidia CEO Jensen Huang has declared. Here’s why the market doesn’t care - Fortune",
+          "score": 0
+        },
+        {
+          "title": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 368.1600036621094,
+    "predicted": 372.2593994140625,
+    "pct_change": 1.1134821032095263,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "China’s Car Sales Fall 24% as BYD, Tesla Seek Reprieve Abroad - Bloomberg.com",
+          "score": -1
+        },
+        {
+          "title": "How one woman’s Tesla was remotely controlled – and used to harass her – by an abusive ex-partner - The Guardian",
+          "score": 0
+        },
+        {
+          "title": "Tesla Cybercab draws concern from Texas fire department over lack of steering wheel - NBC News",
+          "score": 0
+        },
+        {
+          "title": "4 Teslas burned at dealership in Corte Madera - SFGATE",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 505.739990234375,
+    "predicted": 467.1957092285156,
+    "pct_change": -7.621363101620025,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "AMD Stock Jumps 6% as CFO Lifts TAM to $3T [2026] - shattered.io",
+          "score": 1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Archer Aviation - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due - Investor's Business Daily",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood Sells Palantir and AMD, Buys Robinhood and Cerebras Stock: Here's What Else Ark Traded - Benzinga",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 79533.6171875,
+    "predicted": 79152.4921875,
+    "pct_change": -0.4791998823610653,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Strategy 商店上架 Air Jordan 比特幣配色喬丹鞋，四天完售 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "分析：比特幣鏈上盈利結構接近牛市早期，但仍存下行風險 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "星國 22 歲青年主謀在美認罪！領跨國集團竊幣洗錢逾 2.45 億美元 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "草爺冤大頭！比特幣套牢千萬、買特斯拉多花11萬 國小女兒還「盜刷」 - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2513.77001953125,
+    "predicted": 2505.63525390625,
+    "pct_change": -0.323608188569172,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "盤中速報 - 以太幣經典大漲9.01%，報8.71美元 - TradingView",
+          "score": 1
+        },
+        {
+          "title": "BitMine 再買 2.8 萬枚 ETH！持倉逼近全球 5%，逾 500 萬枚投入質押 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "比特幣回測 7.82 萬、以太坊守 2477「爆倉 2.52 億鎂」恐慌指數續回落 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "麗盈聊幣：9.9比特幣（BTC）和以太坊（ETH）最新行情分析 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
