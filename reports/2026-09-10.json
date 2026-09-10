@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.1500015258789,
+    "predicted": 106.53120422363281,
+    "pct_change": -2.3992645585306662,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜0050 元大台灣50、2308 台達電、00919 群益台灣精選高息、2303 聯電、009816 凱基台灣TOP50 (0910)｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "00631L 元大台灣50正2 - 38元賣掉後，逢低補庫存開盤價成交兩張 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "0050只有台灣50「有台灣100嗎？」他好奇發問…網解0050＋0051可包150家 - UDN",
+          "score": 0
+        },
+        {
+          "title": "0050寫下史詩級紀錄！ - news.ebc.net.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2450.0,
+    "predicted": 2434.5712890625,
+    "pct_change": -0.6297433035714286,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電營收／8月逾5,148億元創新高 年月雙增 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "名字有光罩就漲停？台積電ASML點火分析師點名這檔「恐漲錯」：真正受惠先看它- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "台積電瘋狂蓋廠還不夠！最大問題曝光 - ec.ltn.com.tw",
+          "score": 0
+        },
+        {
+          "title": "蘋果改寫晶片封裝：A20 Pro攜台積電2奈米登場 棄PoP轉WMCM - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 251.0,
+    "predicted": 250.9690399169922,
+    "pct_change": -0.012334694425423308,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "iPhone史上漲最凶！鴻海、臻鼎KY、新日興、雙鴻…首周預購成關鍵，搶看13檔蘋果折疊機概念股 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "疫情股災重押鴻海300萬最後賺3倍 關鍵藏在「這一步」 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "2317 鴻海 - 大摩看好輝達機櫃平台今年出貨成長翻倍，代工廠緯創優於鴻海、廣達- 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "8月營收雙雙報喜！鴻海目標價喊327元、狂賺9217億 「這檔」更暴增98％創新高 - FTNN 新聞網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4720.0,
+    "predicted": 4666.412109375,
+    "pct_change": -1.1353366657838984,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科8月營收641.83億元　月增32%、年增44%創下新高 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "聯發科逆勢漲回4700元！輝達35億美元投資助攻，現在還能上車嗎？外資最新目標價曝光！ - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "2454 聯發科 - 聯發科8月營收641.83億元月增32%、年增44%創下新高- 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "三大法人買賣超 – 外資買超(2454)聯發科、(3711)日月光投控，投信買超(2303)聯電、(1815)富喬，法人合計賣超503.12億元 - sinotrade.com.tw",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 223.6699981689453,
+    "predicted": 221.57528686523438,
+    "pct_change": -0.9365186752175556,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Michael Burry pulls back on risk, sheds December 2026 Nvidia and Palantir puts amid portfolio-wide cuts - Seeking Alpha",
+          "score": -1
+        },
+        {
+          "title": "Justice Dept. Investigates Nvidia Deal With Groq - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "DOJ probes Nvidia's licensing deal with AI startup Groq, NYT reports - Reuters",
+          "score": 0
+        },
+        {
+          "title": "DOJ Probes Nvidia’s Tie-Up With Groq on Antitrust Concerns - Bloomberg.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 367.80999755859375,
+    "predicted": 371.1221618652344,
+    "pct_change": 0.9005095915352281,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla driver was allegedly drunk in fatal Midtown crash: sources - PIX11",
+          "score": -1
+        },
+        {
+          "title": "Tesla's Stock Falls. It Faces This China Threat. - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Pickup driver seriously injured in crash with construction vehicle near Tesla Gigafactory - KEYE",
+          "score": -1
+        },
+        {
+          "title": "Elon Musk rips ABC News over fatal NYC Tesla crash report - Teslarati",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 521.0999755859375,
+    "predicted": 493.343505859375,
+    "pct_change": -5.326515261366583,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion - Barron's",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Jumps After Unveiling $100,000-Plus AI Workstation for 2027 - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD (NASDAQ:AMD) Stock Jumps 6% as AI Boom Could Expand Its Market Opportunity to US$3 Trillion - stocksdownunder.com",
+          "score": 1
+        },
+        {
+          "title": "Nvidia just sent a strong signal to AMD and Intel investors - thestreet.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 76761.1015625,
+    "predicted": 78020.1171875,
+    "pct_change": 1.6401739935622095,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣(BTCUSD)9月10日下跌1.18%：風險因素有哪些？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "美國失業數據公佈後，比特幣向下小幅插針至77,399美元 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "22歲男靠比特幣竊案暴富！夜店一晚豪撒1590萬 結局恐關20年 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "22歲男子涉社交工程竊2.45億美元比特幣 遭判最重20年 | TVBS - LINE TODAY",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2410.800048828125,
+    "predicted": 2430.427978515625,
+    "pct_change": 0.8141666372141072,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "昨日比特幣ETF淨流出1.2億美元，以太坊ETF淨流入3470萬美元 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "比特幣、以太坊續跌「24h爆倉3.88億鎂」恐慌指數69續回升 油價破百引觀望 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) 宣佈 ETH 持有量達 593 萬枚，加密資產及現金持有總額達 157 億美元 - PChome Online 新聞",
+          "score": 0
+        },
+        {
+          "title": "Tom Lee 點名 Solana、以太坊與 Pepeto 為首選加密貨幣 - n.yam.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
