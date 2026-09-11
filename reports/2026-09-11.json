@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 107.69999694824219,
+    "predicted": 106.93001556396484,
+    "pct_change": -0.7149316676836831,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "00918持有4231張！再砸1440萬加碼431張…Grace：股價持續成長| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜0050 元大台灣50、00631L 元大台灣50正2、00919 群益台灣精選高息、2330 台積電、00878 國泰永續高股息(0911)｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "00631L 元大台灣50正2 - 進場4張 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "0050存股族變心了！他轉抱「小台積」再買1張 直言現在股價「還在半山腰」 . - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2410.0,
+    "predicted": 2425.65283203125,
+    "pct_change": 0.6494951050311204,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "快訊／台股收盤大跌755.64點　台積電跌40元至2410 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "台積電早盤跌35元 台股下挫逾800點 - 中央社 CNA",
+          "score": -1
+        },
+        {
+          "title": "台積電收低40元拉低指數下跌755點 金融撐盤擋不住大盤下探月線 - UDN",
+          "score": -1
+        },
+        {
+          "title": "台積電瘋狂蓋廠還不夠！最大問題曝光 - ec.ltn.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 248.0,
+    "predicted": 246.0422821044922,
+    "pct_change": -0.7894023772208922,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "疫情股災重押鴻海300萬最後賺3倍 關鍵藏在「這一步」 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "鴻海AI轉型雙軌行打造第二成長曲線| 產經 - 非凡新聞台",
+          "score": 1
+        },
+        {
+          "title": "AI晶片靠它連起來！前鴻海戰將組成黑手隊，崴寶毛利率衝上4成！ - 天下雜誌",
+          "score": 0
+        },
+        {
+          "title": "鴻海全球運籌不只物流 「五流」整合打造競爭力 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4585.0,
+    "predicted": 4666.91357421875,
+    "pct_change": 1.786555599100327,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科8月營收641.83億元　月增32%、年增44%創下新高 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "AI ASIC 第4季將放量 法人看好聯發科、創意等受惠 | 市場焦點 | 證券 - money.udn.com",
+          "score": 1
+        },
+        {
+          "title": "高通簽長約奪AWS大單 聯發科、世芯跟進「財務綁定模式」有挑戰 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "台積電、聯發科、川湖、欣興、聯亞、南亞科　專家首選3檔追價 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 218.36000061035156,
+    "predicted": 224.14120483398438,
+    "pct_change": 2.64755642401237,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia CEO Jensen Huang: AI fears designed to generate cybersecurity business - Axios",
+          "score": -1
+        },
+        {
+          "title": "Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "SpaceX Stock Chases 3-Week Winning Streak: CFO Says ‘Very Strong’ Nvidia Alliance Could Fuel 10-GW AI Push - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia and Palantir Expand AI Partnership. What It Means for the Stocks. - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 363.55999755859375,
+    "predicted": 362.69427490234375,
+    "pct_change": -0.23812373805247217,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla’s Electric Semi Could Win From High Diesel Prices - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Tesla’s Drag on XLY Was Softened by Amazon’s Gain; QQQ Felt Almost Nothing - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "House Democrat urges US action over sleeping Tesla drivers - Reuters",
+          "score": 0
+        },
+        {
+          "title": "House Democrat asks regulators to investigate Tesla over sleeping drivers - NBC News",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 503.6000061035156,
+    "predicted": 483.2328796386719,
+    "pct_change": -4.044306238681273,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Has the AI Hype. AMD Has the Valuation. I’d Buy This Stock. - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Rises as CFO Claims Its Addressable Market Could Reach $3 Trillion - Barron's",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock’s 10-Year, 6,800% Rally Was Just the Beginning. Here’s Where AMD Could Be Headed Next - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Archer Aviation - Investing.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 77645.34375,
+    "predicted": 77432.40625,
+    "pct_change": -0.27424374690851955,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣死守 7.8 萬、山寨幣先倒！DOGE 跌逾 5% 、 BNB 與 XRP 同步重挫 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "「8.19」埋伏多單獲利千萬美元聰明錢開啓比特幣4倍空單 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "Blockstream 拒付 Liquid 贖金：這是偷竊不是白帽！ - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣跌至 7.7 萬、實現賣壓卻腰斬！問題可能不是賣家，而是買盤 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2500.31005859375,
+    "predicted": 2480.48974609375,
+    "pct_change": -0.7927141848618384,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "以太幣(ETHUSD)9月11日突然上漲1.52%：你需要關注這些信息 - TradingKey",
+          "score": 1
+        },
+        {
+          "title": "慢霧：ether.fi 提款合約遭駭 15.45 ETH，受害者全是智慧錢包 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "麗盈聊幣：9.11比特幣（BTC）和以太坊（ETH）最新行情分析 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "以太坊機構採用升溫百萬身價可期 XRP挑戰高 - 財經新聞 - PChome Online 新聞 - PChome Online 新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
