@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.9000015258789,
+    "predicted": 108.58211517333984,
+    "pct_change": 1.573539404537541,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股ETF定期定額超夯 0050與0056吸金逾4成再創新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "9/14 ETF 三大法人買賣超日榜｜合計買超最多00990A(主動元大AI新經濟)、賣超最多00406A(主動中信台灣收益)-ETF股長 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、2344 華邦電、2330 台積電、2408 南亞科、00631L 元大台灣50正2 (0914)｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "外資連3賣台股　調節友達、元大台灣50和主動ETF - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2380.0,
+    "predicted": 2420.438720703125,
+    "pct_change": 1.6991059118960083,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電先進製程大擴產 明年計畫曝光 營收將續寫新高 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台積電跌25元至2385　台股跌663點失守46K - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "蘋果新機亮相、台積電8月營收首度突破5字頭、8月CPI再踩紅線 本周大事回顧 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "晶圓代工4雄1表評》台積電、聯電、世界、力積電...金控投顧揭目標價：這檔沒肉了- 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 248.5,
+    "predicted": 246.7525177001953,
+    "pct_change": -0.7032121930803571,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "微軟算力大擴張 鴻海受惠大 廣達、緯穎也沾光 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "iPhone新機接力！AI推動ODM續飆、鴻海前8月破6.5兆 法人看好下半年 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "AI晶片靠它連起來！前鴻海戰將組成黑手隊，崴寶毛利率衝上4成！ - 天下雜誌",
+          "score": 0
+        },
+        {
+          "title": "8月營收1表看》鴻海、緯穎殘酷2選1！散熱奇鋐、雙鴻、富世達…法人推它僅百元- 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4560.0,
+    "predicted": 4464.53857421875,
+    "pct_change": -2.0934523197642543,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Fed 升息預期升溫 台股一度重挫近800點 台積電、聯發科、日月光承壓 - 經濟日報",
+          "score": -1
+        },
+        {
+          "title": "聯發科＋聯電今年噴2倍！10檔「雙聯」ETF 一表看其中2檔賺破100％ 00878也有擠進榜- 基金 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "從手機晶片到 AI 資料中心 聯發科、高通誰能在新戰場拿下優勢？ | 產業熱點 | 產業 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "Google TPU打平成本僅需1年 聯發科、博通ASIC業績有上修空間 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 211.9351043701172,
+    "predicted": 222.89573669433594,
+    "pct_change": 5.171692701307956,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - The Information",
+          "score": -1
+        },
+        {
+          "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Lorentz Solution Jointly Presents with NVIDIA on Automated Large-Scale Chip-Level 3D EM Extraction and Sign-off of Ultra-High-Speed Silicon Photonics and IC/3DIC Designs at 2026 TSMC OIP - Yahoo Finance Singapore",
+          "score": 1
+        },
+        {
+          "title": "JPMorgan double upgraded a data center stock that struck a deal with Nvidia earlier this year - CNBC",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 362.6000061035156,
+    "predicted": 358.2564697265625,
+    "pct_change": -1.1978864599668884,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla Stock Drops as Musk Adds to the Chorus of AI Concern - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Deputy rescues driver from fiery Tesla crash in Santa Clarita - NBC Los Angeles",
+          "score": -1
+        },
+        {
+          "title": "Elon Musk Says Autopilot Wasn’t in Use During Tesla Crash, Slams ‘Legacy Media’ - Yahoo",
+          "score": -1
+        },
+        {
+          "title": "The Tesla Network Is Dead: JPMorgan’s Bombshell Note Reveals Nearly All Robotaxi Billions Flow to TSLA, Not You - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 491.6300048828125,
+    "predicted": 490.33038330078125,
+    "pct_change": -0.2643495248710531,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Chip stocks down: AMD, Nvidia, Intel, and Sandisk lead market selloff after AI bosses call for a pause - fastcompany.com",
+          "score": -1
+        },
+        {
+          "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "Stifel Says Buy AMD Stock, Cites ‘Durability of the EPYC Ramp’ - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 78465.953125,
+    "predicted": 77643.6640625,
+    "pct_change": -1.0479565082068836,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Coinbase Brian Armstrong 放話：比特幣已觸底！1到2年迎來減半上漲 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "Strategy上週未買入比特幣，美元儲備較此前減少1.4億美元 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "比特幣選擇權一年來首度轉多！年底 8 萬、 10 萬美元押注堆至 12.4 億美元 - 區塊客",
+          "score": 0
+        },
+        {
+          "title": "實時更新：受人工智能擔憂影響股市下跌，比特幣小幅上漲，油價飆升 - Moomoo",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2503.570068359375,
+    "predicted": 2498.303955078125,
+    "pct_change": -0.21034415404642373,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "以太幣(ETHUSD)9月14日突然下跌1.09%：市場行情在交易什麼？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "Bitmine 上週再掃貨 2.7 萬枚 ETH！總資產 158 億鎂以太坊持倉逼近「全球 5%」目標 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣守 7.7 萬、以太幣重返 2,500 美元！ETF 資金分化成行情關鍵 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "Vitalik 談永續合約：是強大工具，但很多人只是在賭 - 鏈新聞 ABMedia",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
