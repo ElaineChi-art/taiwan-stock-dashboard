@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.25,
+    "predicted": 108.80854034423828,
+    "pct_change": 2.4080379710477944,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "ETF定期定額308億創新高！ 0050、0056就吸走近半 - 東森電視",
+          "score": 1
+        },
+        {
+          "title": "0050股價110元直逼分拆後新高，現在還能買？10年賺9倍狂勝大盤！下個10年「學一招」墊高財富 - businesstoday.com.tw",
+          "score": 1
+        },
+        {
+          "title": "台股ETF定期定額超夯 0050與0056吸金逾4成再創新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "0050跳槽0052值得嗎？他曝「十年前無腦買」資產已狂翻數倍 內行人揭：完全輾壓0050 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2385.0,
+    "predicted": 2384.906005859375,
+    "pct_change": -0.003941054114255766,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "全台在線吃瓜！台積電工程師劈腿女同事 未婚妻怒PO「抓猴現場」 - 自由時報",
+          "score": 0
+        },
+        {
+          "title": "台積電工程師劈腿女同事！未婚妻怒PO抓猴無碼片　員工號被肉搜 - ETtoday新聞雲",
+          "score": 0
+        },
+        {
+          "title": "台積電工程師偷吃女同事 未婚妻怒PO影片 員編被肉搜 - 東森新聞",
+          "score": 0
+        },
+        {
+          "title": "台積電等3檔個股9/16除息 影響台股指數56.59點 - 中央社 CNA",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 246.5,
+    "predicted": 248.62644958496094,
+    "pct_change": 0.8626570324385142,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AI三巨頭急踩煞車，台股要遭殃了？專家列3理由「免驚」：看好這檔比鴻海更有戲 - Yahoo新聞",
+          "score": 1
+        },
+        {
+          "title": "【個股分析】鴻海：GB/VR 機櫃與 ASIC 訂單驅動鴻海 2026~2027 年獲利創高 - 富果直送",
+          "score": 1
+        },
+        {
+          "title": "2317 鴻海 - AI及手機又遇到產業逆風的鬼故事，外資在台股及鴻海按下暫停鍵- 股市爆料同學會 - cmoney.tw",
+          "score": 0
+        },
+        {
+          "title": "鴻海（2317）不只代工iPhone！從電視旋鈕到AI伺服器的轉型故事-實習大人-林序安 - CMoney投資網誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4430.0,
+    "predicted": 4525.17236328125,
+    "pct_change": 2.14836034494921,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "買晶片付現、客戶90天後才給錢！聯發科、鴻海、廣達等台廠5700億軍備競賽2大隱憂 - 中時新聞網",
+          "score": 0
+        },
+        {
+          "title": "Google TPU打平成本僅需1年 聯發科、博通ASIC業績有上修空間 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "力積電變美光！ 聯發科、聯詠也搶進 謝金河：銅鑼將迎來大變化 - 東森電視",
+          "score": 0
+        },
+        {
+          "title": "聯發科推出旗艦晶片天璣9600 Pro 台積電2奈米打造| 證券 - 中央社 CNA",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 213.0500030517578,
+    "predicted": 214.3209991455078,
+    "pct_change": 0.5965717322431708,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Nvidia Stock Drops. It’s Still the Best Chip Bet in an AI Slowdown. - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Palantir, Nvidia curb AI model use over data fears, The Information reports - Yahoo! Finance Canada",
+          "score": -1
+        },
+        {
+          "title": "Anthropic Data Fears Prompt Nvidia, Palantir and Booz Allen to Restrict Model Use - theinformation.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 358.3699951171875,
+    "predicted": 362.00262451171875,
+    "pct_change": 1.0136533314803253,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "A Stolen Tesla and the Wild High-Speed Chase on the Pacific Beach Boardwalk. - SURFER Magazine",
+          "score": 1
+        },
+        {
+          "title": "Tesla, SpaceX Stocks Rise Overnight: Elon Musk Fuels Merger Speculation, ‘Hints’ At Action Amid ‘Close Collaboration’ - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Gary Black Explains Tesla’s US EV Market Share Surge, Points to Legacy Retreat, Model Y Rejig: ‘It’s Implausible…’ - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla on Autopilot stopped before deadly Mesa crash: Here’s what filing says - AZ Family",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 509.7799987792969,
+    "predicted": 497.09210205078125,
+    "pct_change": -2.4888965355442862,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Chip stocks down: AMD, Nvidia, Intel, and Sandisk lead market selloff after AI bosses call for a pause - Fast Company",
+          "score": -1
+        },
+        {
+          "title": "AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Leads Semiconductor Stocks Lower Amid AI Slowdown Debate - Barchart.com",
+          "score": -1
+        },
+        {
+          "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - 24/7 Wall St.",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 76437.6484375,
+    "predicted": 77534.0546875,
+    "pct_change": 1.4343798800881313,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "分析師：ETH ETF資金流入強勁或因套利策略，而非方向性買盤 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "【21:39 即時新聞】MicroStrategy(MSTR) 跌逾5％／比特幣漲勢暫歇、監管法案進展受挫 - cmoney.tw",
+          "score": -1
+        },
+        {
+          "title": "Google畫出果蠅完整大腦！工程師拿去玩《毀滅戰士》炒比特幣，結果賺1美元 - 數位時代",
+          "score": 1
+        },
+        {
+          "title": "美股異動丨比特幣跌超2%，加密貨幣概念股盤初下挫 - TradingView",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2450.929931640625,
+    "predicted": 2475.8212890625,
+    "pct_change": 1.0155882916331682,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣反彈79000、以太幣衝2,600 美元！全網「爆倉3.4 億鎂」恐慌指數續回升| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "ETHTaipei 2026：Vitalik 談以太坊技術突破，林之晨拋台灣 Crypto Island 藍圖 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "Ethereum、Base 錢包標準談判破裂！兩條AA 路線分家，開發者要忙了| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣、以太幣當現金！超商開放「加密貨幣支付」　加碼送200元 - nownews.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
