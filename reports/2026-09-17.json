@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 108.05000305175781,
+    "predicted": 108.02081298828125,
+    "pct_change": -0.027015328692383243,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "高股息真的能賺？「這檔」狂發208億登配息王創紀錄！141萬人10月領紅包 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "9/17 ETF 三大法人買賣超日榜｜合計買超最多00403A(主動統一升級50)、賣超最多00406A(主動中信台灣收益)-ETF股長 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "0050漲太慢改抱正2？達人點破「單日」2字：它不是0050乘2！ - 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "大盤行情好，買正2賺更快？艾蜜莉示警：別抱存股心態，遇空頭市場恐撐不住 - 商周",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2425.0,
+    "predicted": 2398.13134765625,
+    "pct_change": -1.1079856636597938,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Meta衝自研AI晶片！台積電進補 晶心科同步受惠 - UDN",
+          "score": 1
+        },
+        {
+          "title": "看不到台積電的車尾燈！韓媒嘆三星「又掉一截」 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積電員工爆雙劈偷吃！釣出苦主爆「科技尪激戰3名女同事」　嘆被騙18年：不知開多少次房間 - mirrormedia.mg",
+          "score": 0
+        },
+        {
+          "title": "全台在線吃瓜！台積電工程師劈腿女同事 未婚妻怒PO「抓猴現場」 - news.ltn.com.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 250.5,
+    "predicted": 249.00888061523438,
+    "pct_change": -0.5952572394273952,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美墨談判突延一周！美擬要求AI設備「75%零件北美製」 鴻海等台廠恐受衝擊 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "鴻海攜QUANTRON攻零排放商用車 Gen2平台明年H1亮相 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "鴻海又有新電動車大單！攜手德國品牌打造電動、氫能卡車 - ETtoday車雲",
+          "score": 0
+        },
+        {
+          "title": "夏普攜鴻海搶進AI伺服器 開放接單、27年度開賣-新聞內容-基金 - MoneyDJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4500.0,
+    "predicted": 4501.857421875,
+    "pct_change": 0.041276041666666666,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "愛立信攜手聯發科突破5G定位精準度 加速自駕車、無人機與智慧製造應用 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "全球首例！愛立信攜聯發科突破5G定位精準度 加速自駕車、無人機應用 - UDN",
+          "score": 1
+        },
+        {
+          "title": "愛立信、聯發科完成 5G 定位精準度，加速自駕車、無人機等應用突破 - technews.tw",
+          "score": 1
+        },
+        {
+          "title": "三大法人續賣近214億元！聯發科、記憶體聯手撐盤 台股甩連4跌反彈337點 - money.udn.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 218.9600067138672,
+    "predicted": 214.92811584472656,
+    "pct_change": -1.8413823280565678,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia Gains 1.4% as Flexible Power Targets AI's Grid Bottleneck - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Breakout Watch: Savvy Investors Get Wired Up For This Nvidia, Amazon Partner - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Huawei unveils new chip technologies as Chinese firm steps up the AI race with Nvidia - ABC News - Breaking News, Latest News and Videos",
+          "score": 0
+        },
+        {
+          "title": "China's Huawei says AI chip demand outstrips supply as it steps up Nvidia challenge - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 371.2398986816406,
+    "predicted": 366.61810302734375,
+    "pct_change": -1.2449619964637282,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "At Least Two Transported After Tesla and Ford SUV Crash at La Mesa and El Evado Roads - VVNG",
+          "score": -1
+        },
+        {
+          "title": "Tesla must prove Cybercab is legal to sell, NHTSA says - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Tesla driver charged with murdering 2 in San Jose shows no remorse, prosecutors say - KRON4",
+          "score": 0
+        },
+        {
+          "title": "Strange behavior in court from Pacific Beach stolen Tesla suspect - fox5sandiego.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 536.7150268554688,
+    "predicted": 507.7030944824219,
+    "pct_change": -5.405463033711456,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Jim Cramer on Advanced Micro Devices (AMD): “Buy It” - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Shares Fall 5.6% as AI Development Debate Weighs on Semiconductor Stocks - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Advanced Micro Devices vs. Texas Instruments: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Chip Stocks Tumble as AI Pacing Call Reaches Beyond Memory: Intel Drops 7%, AMD Sinks 6%, NVIDIA Pulls Back - 24/7 Wall St.",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 76436.09375,
+    "predicted": 76638.1328125,
+    "pct_change": 0.26432415968404976,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "PlanB：比特幣價格已低於挖礦成本，後市行情取決於難度能否回升 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "天下晨間新聞：股債收黑，比特幣重挫，市場不問升不升，只問升幾次 - 天下雜誌",
+          "score": -1
+        },
+        {
+          "title": "比特幣盤中疲軟下跌 德州能源消息助礦工股逆勢上揚 - 蕃新聞",
+          "score": -1
+        },
+        {
+          "title": "分析師：比特幣難回熊市了！虧損 UTXO 占比急降 - 動區動趨",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2453.97998046875,
+    "predicted": 2431.144775390625,
+    "pct_change": -0.9305375455329958,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "加密貨幣法案闖關美國參議院失敗！比特幣跌超5%創六月來最大跌幅 以太幣崩逾8.3% - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "比特幣守穩7.65萬鎂、以太坊站回2428，Fed升息市場靜待下一步 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣、以太幣當現金！超商開放「加密貨幣支付」　加碼送200元 - NOWnews今日新聞",
+          "score": 0
+        },
+        {
+          "title": "《清晰法案》闖關失敗！比特幣插針7.49萬 以太幣跌破2400鎂關卡 - Yahoo新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
