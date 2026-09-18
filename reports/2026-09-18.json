@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.8499984741211,
+    "predicted": 108.21900939941406,
+    "pct_change": -1.4847420094332238,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "9/18 ETF 三大法人買賣超日榜｜合計買超最多00403A(主動統一升級50)、賣超最多00918(大華優利高填息30)-ETF股長 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜00919 群益台灣精選高息、0050 元大台灣50、00405A 主動富邦台灣龍耀、00918 大華優利高填息30、009816 凱基台灣TOP50 (0918)｜豐雲學堂2026 年 09 月 - sinotrade.com.tw",
+          "score": 0
+        },
+        {
+          "title": "9/18 0050(元大台灣50) 持股異動｜新增 1 檔-ETF股長 - CMoney投資網誌",
+          "score": 0
+        },
+        {
+          "title": "富時指數2026年Q3調整重點整理｜0050、0056成分股換血，藥華藥入列臺灣50、世芯-KY出局 - pocket.tw",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2460.0,
+    "predicted": 2385.0322265625,
+    "pct_change": -3.0474704649390243,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "快訊／台積電漲25元至2450　台股大漲逾770點、重回47K - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "看不到台積電的車尾燈！韓媒嘆三星「又掉一截」 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "年輕人是不想生，還是不敢生？台積電員工報告揭露的社會危機 - 天下雜誌",
+          "score": 0
+        },
+        {
+          "title": "台積電擁兩大優勢 CoWoS-L穩居先進封裝主流至2028年 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 250.5,
+    "predicted": 242.69483947753906,
+    "pct_change": -3.1158325438965817,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "蘋果有意重返伺服器市場 法人看好鴻海迎大單 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "鴻海成QUANTRON商用車製造夥伴，年底進軍歐洲- 新聞 - MoneyDJ",
+          "score": 0
+        },
+        {
+          "title": "QUANTRON、HyperView結盟攻零排放商用車鴻海成關鍵製造夥伴- 財經新聞 - 玩股網",
+          "score": 0
+        },
+        {
+          "title": "鴻海又有新電動車大單！攜手德國品牌打造電動、氫能卡車 - speed.ettoday.net",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4710.0,
+    "predicted": 4528.83203125,
+    "pct_change": -3.8464536889596603,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "愛立信攜手聯發科突破5G定位精準度 加速自駕車、無人機與智慧製造應用 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "台股一天收復892點、收在全日最高47180點！前兩日跌掉1077點後強彈台積電、聯發科領軍成交量重返兆元 - 放言Fount Media",
+          "score": -1
+        },
+        {
+          "title": "愛立信、聯發科完成 5G 定位精準度，加速自駕車、無人機等應用突破 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "三大法人買賣超 – 外資買超(2454)聯發科、(2408)南亞科，投信買超(3081)聯亞、(2382)廣達，法人合計賣超213.81億元 - sinotrade.com.tw",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 219.33999633789062,
+    "predicted": 214.1933135986328,
+    "pct_change": -2.346440605993906,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "PS3 Emulator RPCS3 Gets Major FPS Boost After NVIDIA Driver Bug Fix - TechPowerUp",
+          "score": 1
+        },
+        {
+          "title": "RPCS3 gets a big performance fix: PlayStation 3 emulator benefits from an up to 25% FPS boost with NVIDIA GPUs - TweakTown",
+          "score": 1
+        },
+        {
+          "title": "RPCS3 gains up to 25% performance on NVIDIA GPUs after workaround for driver bug - VideoCardz.com",
+          "score": 1
+        },
+        {
+          "title": "Jensen Huang says Nvidia will sell twice as many chips next year - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 366.20001220703125,
+    "predicted": 363.1336669921875,
+    "pct_change": -0.8373416473591463,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Billionaire investor Ron Baron on Tesla: The time to buy the stock is now - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Tesla Stock Rises. Inside the EV Maker's Shanghai Gigafactory. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Regulators Grill Tesla Over Cybercab Design - Investor's Business Daily",
+          "score": 0
+        },
+        {
+          "title": "Tesla’s Cybercab Launch Fizzles, Leaving Waymo as the Robotaxi Leader - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 545.0900268554688,
+    "predicted": 504.0654296875,
+    "pct_change": -7.5262057911117255,
+    "news": {
+      "count": 12,
+      "score": 0.583,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Leads Chip Stocks Higher Amid Sector Rebound - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock: Growth Is Catching Up With The Valuation (NASDAQ:AMD) - Seeking Alpha",
+          "score": 1
+        },
+        {
+          "title": "AMD (NASDAQ:AMD) Stock Rises as Piper Sandler’s $600 Target Bets on a New 52-Week High - Stocks Down Under",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Soars 5% on Reports of GPU and CPU Price Increases - TipRanks",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 78080.03125,
+    "predicted": 77312.25,
+    "pct_change": -0.9833260024470085,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "摩根大通看好比特幣跑贏黃金！估ETF規模將達3倍 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣盤中疲軟下跌 德州能源消息助礦工股逆勢上揚 - PChome Online 股市",
+          "score": -1
+        },
+        {
+          "title": "天下晨間新聞：股債收黑，比特幣重挫，市場不問升不升，只問升幾次 - 天下雜誌",
+          "score": -1
+        },
+        {
+          "title": "比特幣突破77,000美元 - 鉅亨網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2504.199951171875,
+    "predicted": 2478.6767578125,
+    "pct_change": -1.0192154722881082,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣 76K 震盪、以太坊攀2,450 美元，Fed 升息後美股反彈、恐慌指數續回升 - blocktempo.com",
+          "score": 1
+        },
+        {
+          "title": "維塔利克 布特林表示 人工智慧對網路安全防禦者有利 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "《清晰法案》闖關失敗！比特幣插針7.49萬 以太幣跌破2400鎂關卡 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "比特幣、以太幣當現金！超商開放「加密貨幣支付」　加碼送200元 - nownews.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
