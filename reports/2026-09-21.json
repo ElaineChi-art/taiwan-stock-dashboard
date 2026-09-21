@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 111.3499984741211,
+    "predicted": 109.1326904296875,
+    "pct_change": -1.9912959809774218,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050 元大台灣50 - 台達電大漲！友達漲停！歷史新高近在眼前？ - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "今年狂賺106%！專家點名10檔高績效ETF 0050慘淪中段班 - TVBS新聞網",
+          "score": 1
+        },
+        {
+          "title": "手握100萬想買0050陷兩難！「等不到低點」他只衝1張 內行人建議：會怕波動就分批投入 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "0050今年狂漲逾66％！網問「現在還能買嗎？」掀熱議 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2480.0,
+    "predicted": 2452.4990234375,
+    "pct_change": -1.1089103452620968,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電藉產能建構無能人能敵市場護城河，本益比仍落後有望上漲 - finance.technews.tw",
+          "score": 1
+        },
+        {
+          "title": "台積電新目標價？魏哲家對蔡力行喊「這句話」 網一聽嗨翻了 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積電要衝5010元？魏哲家同框蔡力行喊「股價趕上聯發科」 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "台積電新目標價「4710元」？魏哲家當蔡力行面喊1句…網笑翻：發哥下來也是趕上 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 250.0,
+    "predicted": 245.76983642578125,
+    "pct_change": -1.6920654296875,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海 EV 版圖橫跨三洲七地 台灣汽車出海新模式成形 | 產業熱點 | 產業 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "高雄再有大廠進駐！消息人士：鴻海砸200億投資伺服器製造- 產業 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "白埔園區動土！台積電鴻海進駐　專家曝：租屋市場先有感 - ETtoday房產雲",
+          "score": 0
+        },
+        {
+          "title": "台積電坐看3000元！鴻海、廣達本益比才10倍？林信富親算「便宜價位」：跌到這數字閉眼買！ - 優分析UAnalyze",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 5010.0,
+    "predicted": 4736.91064453125,
+    "pct_change": -5.4508853386976055,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "巴逆逆減碼聯發科等拉回！長線看好TPU與光通 力勸「別碰台廠記憶體」 - UDN",
+          "score": 1
+        },
+        {
+          "title": "聯發科創歷史新高5010元 外資3天連續買超1195億元 | 信傳媒 - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "全球首例！愛立信攜手聯發科技突破5G定位精準度，加速自駕車、無人機與智慧製造應用 - iThome",
+          "score": 1
+        },
+        {
+          "title": "聯發科為何一舉飆破5000大關！市值突破8兆，AI ASIC量產進入倒數！法人看好到「這時候」 | 下班經濟學 | 財經 - 風傳媒",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 225.27999877929688,
+    "predicted": 216.42312622070312,
+    "pct_change": -3.9314952976676296,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "I Keep Buying Nvidia Over and Over Despite China Concerns, Despite The Tech Selloff - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "NVIDIA GeForce RTX 60-Series Reportedly Slips to 2028, Per New Leak - techpowerup.com",
+          "score": -1
+        },
+        {
+          "title": "Nvidia's Jensen Huang rejects AI extinction warnings as \"doomsday narratives\" - CBS News",
+          "score": 0
+        },
+        {
+          "title": "Stock Market Today: Dow Up As Alphabet Shines, Tech Fund Offers Entry; Oil Dips On Iran Hopes (Live Coverage) - Investor's Business Daily",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 374.2799987792969,
+    "predicted": 364.57958984375,
+    "pct_change": -2.591751888207885,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla (TSLA)’s Autopilot Software Wins Over a Sixth European Country - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla Is Taking $50,000 Roadster Deposits Again. Only Nine Years Later - Motor1.com",
+          "score": 0
+        },
+        {
+          "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Tesla Finally Goes To Trial For Racism In Its Factory - Jalopnik",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 610.6799926757812,
+    "predicted": 543.5477294921875,
+    "pct_change": -10.99303464805588,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Rises 5% as Report Flags 10% Chip Price Increase; NVIDIA and Taiwan Semiconductor Tick Up - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD hits $1 trillion market cap as stock continues 5-day rally - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD vs. Broadcom: The AI Chip Race Is Big Enough for Both. Here's the Better Buy. - The Globe and Mail",
+          "score": 1
+        },
+        {
+          "title": "AMD stock rises on a rumor that could give it a 2027 GPU edge - TradingView",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 85932.7109375,
+    "predicted": 81471.2734375,
+    "pct_change": -5.191780232843885,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "今日最夯 ETF／比特幣價格再度走高 00909漲7.2%高居第一 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "加密貨幣概念股盤前上漲，比特幣創逾七個月新高 - Yahoo 財經",
+          "score": 1
+        },
+        {
+          "title": "比特幣升至8.5萬美元創1月來新高 加密幣寒冬結束？ - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "比特幣觸及 8.5 萬、 Strategy 上週五狂飆 16% 盤前再漲 6%！加密股高 Beta 反彈 - 區塊客",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2739.679931640625,
+    "predicted": 2730.07421875,
+    "pct_change": -0.35061441957830203,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣守8.15萬鎂、以太坊漲2.6%！全網爆倉3.87億鎂、恐慌指數回落 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣強勢突破 8 萬美元、以太坊衝上 $2500！全網 24 小時爆倉 4.7 億鎂 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣飆破 8.6 萬鎂、以太坊衝上 $2750！全網 24 小時爆倉 9.2 億美元 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "虛擬貨幣｜以太幣單日飆5.8%，SEC准試行代幣化證券交易平台 - etnet 經濟通",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
