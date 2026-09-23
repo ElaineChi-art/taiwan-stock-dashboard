@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 112.44999694824219,
+    "predicted": 107.46347045898438,
+    "pct_change": -4.434438972508804,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "今年狂賺106%！專家點名10檔高績效ETF 0050慘淪中段班 - TVBS新聞網",
+          "score": 1
+        },
+        {
+          "title": "台積漲40元台股再站上48K！　ETF群飛股價飛揚成交爆量 | 財經 | CTWANT - CTWANT",
+          "score": 1
+        },
+        {
+          "title": "0050 元大台灣50 - 台達電大漲！友達漲停！歷史新高近在眼前？ - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "台股創歷史新高！外資狂掃權值股 0050、0053同飆天價 - TVBS新聞網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2500.0,
+    "predicted": 2459.88720703125,
+    "pct_change": -1.60451171875,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電狂擴先進封裝！外媒看好帶動「3家公司」起飛 背後吞大紅利 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台股收48157點新高！台積電領736家同樂 指數漲357點 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電訊號來了？ 魏哲家對蔡力行喊「1句話」股民嗨翻：無腦多 - 東森電視",
+          "score": 0
+        },
+        {
+          "title": "台積電新目標價？魏哲家對蔡力行喊「這句話」 網一聽嗨翻了 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 256.0,
+    "predicted": 248.8583526611328,
+    "pct_change": -2.789705991744995,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "〈台股盤後〉台積電、鴻海領漲成功站上4萬8 漲357點收48157點 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "鴻海技術注入！沙國首款自製電動車，三馬達850匹、2.6秒破百 - 地球黃金線",
+          "score": 0
+        },
+        {
+          "title": "鴻海規劃發行無擔保普通公司債不超過600億元 外界推測為正常財務操作 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "高雄再有大廠進駐！消息人士：鴻海砸200億投資伺服器製造- 產業 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 5185.0,
+    "predicted": 4905.7138671875,
+    "pct_change": -5.3864249337029895,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "從手機一路打進Google TPU 聯發科靠ASIC翻轉景氣循環宿命 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "聯發科、高通卡位Googlebook Arm雙雄通吃NB、手機野心浮現 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "聯發科發表最新 AI PC 處理器「天璣 CX C10 Max」，攜手 Google 拓展 Googlebook 市場 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "vivo V80 Lite 10/1 在台開賣 搭載聯發科技天璣 7300e處理器主打超大電池容量 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 227.9499969482422,
+    "predicted": 223.65676879882812,
+    "pct_change": -1.8834078556223333,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia’s Immense Dividend Hike Puts Dividend Growth Stocks in the Spotlight - Morningstar",
+          "score": 1
+        },
+        {
+          "title": "IONQ Stock On Track To Hit Over 1-Month High On Nvidia Superion 256 Deployment, Quantum Error Decoder Breakthrough - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "With new Macs, Apple aims to take on Microsoft, Nvidia in a rush to lower AI costs - Reuters",
+          "score": -1
+        },
+        {
+          "title": "CyberPowerPC sells rigs with NVIDIA RTX 5070 and 5080 Founders Edition GPUs via Walmart, but latter models vanish in a flash - TweakTown",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 386.19989013671875,
+    "predicted": 375.7203674316406,
+    "pct_change": -2.713497070485511,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla stock jumps ahead of highly anticipated Roadster event - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla reopens Roadster reservations – but you'll need $50K - Fox Business",
+          "score": 0
+        },
+        {
+          "title": "Tesla’s Roadster Is 1 Reason Why October Could Be a Different Story for the Stock - Barron's",
+          "score": 0
+        },
+        {
+          "title": "Tesla faces major trial for alleged bias against Black workers, after years of lawsuits - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 616.3499755859375,
+    "predicted": 572.9681396484375,
+    "pct_change": -7.038506961285875,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Meta’s Muse AI Agent Triggers Intel, Chip Stock Rally. AMD Hits $1T Market Cap. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Amd stock hits all-time high at 584.95 USD - Investing.com",
+          "score": 1
+        },
+        {
+          "title": "Why Did AAPL, OKTA, AMD Stocks Jump To 52-Week Highs Today? - TradingView",
+          "score": 1
+        },
+        {
+          "title": "AMD stock soars to new record as semiconductors bounce: Chart of the Day - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 85743.953125,
+    "predicted": 86245.9453125,
+    "pct_change": 0.585454914550279,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "答應 IMF 不再買幣：薩爾瓦多的比特幣儲備卻還在漲 - news.cnyes.com",
+          "score": 1
+        },
+        {
+          "title": "比特幣觸及 8.5 萬、 Strategy 上週五狂飆 16% 盤前再漲 6%！加密股高 Beta 反彈 - blockcast.it",
+          "score": 1
+        },
+        {
+          "title": "歐盟三大金融監管局聯手警告：量子電腦可能撬開加密貨幣的鎖 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣大漲，牛市來了嗎？ - 天下雜誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2717.110107421875,
+    "predicted": 2761.021728515625,
+    "pct_change": 1.6161148925766378,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣守8.15萬鎂、以太坊漲2.6%！全網爆倉3.87億鎂、恐慌指數回落 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉達 598 萬枚，加密資產及現金總值達 171 億美元 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "比特幣守86K關卡、以太坊返2760鎂！XRP強漲4%領先、爆倉2.8億、恐慌續回落 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣ETF昨日淨流入7.147億美元，連續3日超大額流入，以太坊ETF昨日淨流入1.622億美元 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
