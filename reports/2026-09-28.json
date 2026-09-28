@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 112.4000015258789,
+    "predicted": 110.54348754882812,
+    "pct_change": -1.6517028041350503,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050股價逼114元新高、今年漲73%還能買？他押億元喊翻上1.5億…施昇輝：已經錯過的「這樣買吧」！ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "0050、00631L該怎麼配？他問長期看多「為何不全押正二」 網揭真正風險：不是每個人都扛得住 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "0050、00631L到底怎麼選？他認為「現金流」是關鍵 網：低點根本猜不到 - UDN",
+          "score": 0
+        },
+        {
+          "title": "0050 元大台灣50 - 今天來新北市淡水區的「千手千眼觀世音菩薩聖像」走走。 - 股市爆料同學會 - CMoney",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2475.0,
+    "predicted": 2456.419921875,
+    "pct_change": -0.7507102272727273,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電加持！「這大廠」Q2獲利暴增180% 目標價飆至895元 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "獨家》一共10座！嘉科三期起跑 台積電再加碼5座先進封裝廠 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台積電2奈米明年再擴22％！新應材、台特化、達興…法人點3檔特化股：它營收估衝74億 - 上市櫃 - 旺得富理財網",
+          "score": 0
+        },
+        {
+          "title": "輝達、台積電拚AI下一波　艾司摩爾掌門人揭EUV卡命脈 - finance.ettoday.net",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 250.5,
+    "predicted": 252.67245483398438,
+    "pct_change": 0.8672474387163174,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股主動ETF新浪潮！群益00415A 9月30日開募鴻海法說登場AI伺服器全年倍增成長怎麼說？聯準會升息後兩大關卡！PCE＋非農數據牽動11月是否再升｜投資早知道 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "AI訂單多到產能還是不夠！鴻海、廣達、緯創狂籌逾1700億 新平台ASP恐暴增近9成 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "鴻海攻具身智能機器人 旗下富士康攜手阿爾特成立富特康 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "鴻海搶具身智慧量產商機 打造機器人一站式平台 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 5285.0,
+    "predicted": 4876.173828125,
+    "pct_change": -7.735594548249764,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科股價創新高法人仍喊「強力買進」？不怕追高的真正底牌曝光- 證券 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "目標價760元！「聯發科小金雞」EPS挑戰衝25元 100G光收發模組明年放量、光通訊展望樂觀 - FTNN",
+          "score": 1
+        },
+        {
+          "title": "聯發科迎史上最強成長期！　外資力挺喊7300元目標價 - finance.ettoday.net",
+          "score": 1
+        },
+        {
+          "title": "ASIC 商機火熱 聯發科夠利 搶下 Anthropic 與 OpenAI 訂單 外資按讚 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 230.6999969482422,
+    "predicted": 226.3877716064453,
+    "pct_change": -1.869191763693143,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Modders bring Nvidia’s DLSS 5 Neural Rendering to AMD Radeon GPUs — latest build delivers 74% performance boost in just 24 hours, new launcher automates install process - Tom's Hardware",
+          "score": 1
+        },
+        {
+          "title": "China weighs allowing ByteDance, Alibaba to buy new Nvidia chips, The Information reports - Reuters",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever - The New York Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 359.4200134277344,
+    "predicted": 375.57647705078125,
+    "pct_change": 4.4951485781120315,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla warns weather could delay Roadster demo, and the forecast is ugly - Electrek",
+          "score": -1
+        },
+        {
+          "title": "Tesla begins delivering Semi trucks to customers after years of delays - Fox Business",
+          "score": 0
+        },
+        {
+          "title": "Tesla (TSLA) Sets an October 1 Roadster Unveiling. Can the Long-Delayed Car Restore Confidence? - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Tone Deaf Trillionaire Launches Tesla Roadster Into US Market - CleanTechnica",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 605.6500244140625,
+    "predicted": 611.5272216796875,
+    "pct_change": 0.9703949523177033,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AMD Stock Drops 4.5% as Perplexity Puts Agents on Local PCs - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Rises After Introducing New AI Tools from Perplexity - tipranks.com",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA Rises 2% as Board Authorizes Record $150B Buyback Increase; AMD and Broadcom Slip - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Drops 4.5% as Perplexity Puts Agents on Local PCs - TradingView",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 83958.8515625,
+    "predicted": 84481.9375,
+    "pct_change": 0.6230265514179983,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "川普不排除再打伊朗！比特幣 Nasdaq 齊跌、公債殖利率創 2007 新高 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "Bitget 恢復提領將分四批！比特幣9/28 最先開放| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "AI 模型揭露比特幣不法交易 E-GTNet 打擊加密貨幣犯罪網絡 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "YouTube 移除比特幣教育頻道內容審查引發加密社群反彈- 財經新聞 - PChome Online 新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2705.179931640625,
+    "predicted": 2675.091552734375,
+    "pct_change": -1.1122505588011715,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣續守8.3萬鎂、以太坊力守2,688！全網爆倉2.76億鎂、恐慌指數回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "V神描繪以太坊 2030：不再是傳統區塊鏈，加密證明＋鏈下運算全面啟動 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "Vitalik：未來以太坊將從「區塊鏈」轉向「加密世界計算機」 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "Vitalik：明年 Hegota 恐是以太坊最後一次「普通」升級，之後全面轉向密碼學世界電腦 - 鏈新聞 ABMedia",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
