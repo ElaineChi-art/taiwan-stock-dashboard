@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 111.30000305175781,
+    "predicted": 109.62937927246094,
+    "pct_change": -1.5010096437463574,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "外資節後繼續砍股 賣超632億元 大砍元大台50、00406A雙雙超過6萬張最多 - news.cnyes.com",
+          "score": -1
+        },
+        {
+          "title": "ETF法人單日賣超17檔，高股息分化會延續嗎？-詠晴K線解密 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "熱門股：週二(29日)主力買超／賣超前20名個股 - 富聯網",
+          "score": 1
+        },
+        {
+          "title": "0050股價逼114元新高、今年漲73%還能買？他押億元喊翻上1.5億…施昇輝：已經錯過的「這樣買吧」！ - 今周刊",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2475.0,
+    "predicted": 2484.735107421875,
+    "pct_change": 0.3933376736111111,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股第4季買什麼？台積電、富邦金...杜金龍公開4檔口袋名單「一路抱到明年5月」：台塑四寶「這檔」暴賺170% - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "傳台積電擬赴德州設第2園區吳誠文：根留台灣不會改變| 產經 - 中央社 CNA",
+          "score": 0
+        },
+        {
+          "title": "台股明天要小心？美股盤前下挫 記憶體族群、台積電ADR全倒 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台股中秋後首開盤！翻紅收復48K　台積電翻紅漲15元 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 250.5,
+    "predicted": 248.61888122558594,
+    "pct_change": -0.7509456185285679,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Vera Rubin第四季登場！鴻海、廣達、緯創、緯穎再搶AI機櫃大餅- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "鴻海：劉揚偉獲選2026全球製造業百大領袖名列第7 - 中央社 CNA",
+          "score": 0
+        },
+        {
+          "title": "鴻海轉型有成 董座劉揚偉獲選2026全球百大製造業領袖第7名 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "領軍鴻海轉型，劉揚偉國內外接連獲獎- 新聞 - MoneyDJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4910.0,
+    "predicted": 4868.755859375,
+    "pct_change": -0.8400028640529531,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "中秋向下變盤大跌近400點！外資逆勢搶回友達26萬張 聯發科重挫逾7％「誰在倒」…恐怖賣超金額曝光 - 旺得富理財網",
+          "score": -1
+        },
+        {
+          "title": "傳TPU供應鏈有變數？聯發科突重挫7% 達人喊免驚：又開始跳水嚇人 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "駁斥「掉單」鬼故事！ 聯發科說明：不實傳言 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台股2檔「抓去關」新名單　聯發科小金雞達發明起處置到10／6 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 230.13499450683594,
+    "predicted": 229.43746948242188,
+    "pct_change": -0.30309385406978734,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Trump to host Anthropic's Amodei, Nvidia's Huang, other AI execs, as fears mount - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Nvidia vs. AMD: Which AI Chip Stock Has More Room to Run After AMD's Surge Past $1 Trillion? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Pope Leo Says AI Safety Fears Are Not ‘Fake News’ And Criticizes Nvidia’s Billionaire CEO - Forbes",
+          "score": -1
+        },
+        {
+          "title": "Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever - The New York Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 353.8900146484375,
+    "predicted": 362.635498046875,
+    "pct_change": 2.4712433344934768,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla's Q3 deliveries loom large as the Roadster slips again - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Why Tesla Stock Is Still Not a Buy - Barchart.com",
+          "score": 1
+        },
+        {
+          "title": "Tesla delays Roadster 2 event again due to bad weather - TechCrunch",
+          "score": 0
+        },
+        {
+          "title": "Tesla Reportedly Can’t Get the Hands to Work on Its Optimus Robot - Futurism",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 614.6801147460938,
+    "predicted": 623.289794921875,
+    "pct_change": 1.4006765420315663,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Advanced Micro Devices (NASDAQ:AMD) Stock Keeps Buy Rating at Rosenblatt Securities - MarketBeat",
+          "score": 1
+        },
+        {
+          "title": "Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Nvidia vs. AMD: Which AI Chip Stock Has More Room to Run After AMD's Surge Past $1 Trillion? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Bank of America resets AMD price target after major milestone - thestreet.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 83215.96875,
+    "predicted": 83359.265625,
+    "pct_change": 0.1721987704433231,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣本季飆 40% 跑贏黃金！Fidelity：雙底突破確認，10 萬美元在望 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "貪 3% 收益賠 50 顆比特幣本金？苦主控訴 Solv Protocol 限制贖回，急向幣安何一求救 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "Bitget 恢復提領將分四批！比特幣 9/28 最先開放 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "Strategy 重啓連買 BTC，1.5 億回購託底 STRC 逼近面值 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2683.590087890625,
+    "predicted": 2673.141845703125,
+    "pct_change": -0.3893382314477321,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉突破 600 萬枚，加密貨幣、現金及有價證券總值達 172 億美元 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "Remittix 代幣 RTX 將於 11 月 24 日上線 以太坊、XRP 資金流入受關注 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "比特幣守83K、以太坊微漲2700，貪婪指數回落、全網爆倉5.1億鎂 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "麗盈聊幣：9.29比特幣（BTC）和以太坊（ETH）最新行情分析 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
