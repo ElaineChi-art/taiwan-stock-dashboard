@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 112.05000305175781,
+    "predicted": 107.92194366455078,
+    "pct_change": -3.6841225120718737,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050 元大台灣50 - 權證也漲翻惹^^ - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "賺2200萬也不走！郭哲榮喊台股衝10萬點 點名「這幾檔」直接受惠 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "台股Q3震盪收紅 0053創新高 今年來報酬率達78.9％ - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "上周三大法人買超第一名 ETF 是這檔 、大買5.9萬張！ - money.udn.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2480.0,
+    "predicted": 2465.701416015625,
+    "pct_change": -0.5765558058215726,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股第4季買什麼？台積電、富邦金...杜金龍公開4檔口袋名單「一路抱到明年5月」：台塑四寶「這檔」暴賺170% - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "傳台積電擬赴德州設第2園區吳誠文：根留台灣不會改變| 產經 - cna.com.tw",
+          "score": 0
+        },
+        {
+          "title": "台積電法說會前 ASML 預計14日公布第3季財報展望 - UDN",
+          "score": 0
+        },
+        {
+          "title": "滷肉飯隨台積電 在美國鳳凰城軟著陸 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 251.5,
+    "predicted": 244.3158416748047,
+    "pct_change": -2.856524184968315,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "快訊／鴻海分紅獎金今入帳　「史上最大包」起床領破百萬 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "鴻海永續公民獎躍居製造業第2　AI助攻ESG、人才永續同步升級 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "鴻海加碼投資矽光子 子公司接力增資逾4億元 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "從馬達、整機到智慧工廠 鴻海多線布局串起機器人產業鏈 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4920.0,
+    "predicted": 4620.92041015625,
+    "pct_change": -6.07885345210874,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科挫7％外資反喊多！看好TPU、AI ASIC商機 目標價最高7,300元 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "快訊／聯發科失守5000元　台股跌逾180點 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "中秋向下變盤大跌近400點！外資逆勢搶回友達26萬張 聯發科重挫逾7％「誰在倒」…恐怖賣超金額曝光 - 旺得富理財網",
+          "score": -1
+        },
+        {
+          "title": "目標價760元！「聯發科小金雞」EPS挑戰衝25元 100G光收發模組明年放量、光通訊展望樂觀 - FTNN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 230.60000610351562,
+    "predicted": 229.94619750976562,
+    "pct_change": -0.2835249681027794,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "DeepSeek and Huawei are partnering to build open-source AI chip software to cut Nvidia reliance - qz.com",
+          "score": -1
+        },
+        {
+          "title": "CoreWeave Stock Rises After Neocloud Goes Live With New Nvidia Hardware - Barron's",
+          "score": 1
+        },
+        {
+          "title": "DeepSeek and Huawei Target a Key Source of Nvidia’s A.I. Dominance - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "DeepSeek Unveils Huawei AI Chip Tools That May Replace Nvidia’s - Bloomberg.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 348.30999755859375,
+    "predicted": 360.2975769042969,
+    "pct_change": 3.44164090314018,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla Lines Up $30 Billion to Borrow With Spending on Rise - finance.yahoo.com",
+          "score": 1
+        },
+        {
+          "title": "Should You Buy Tesla Stock Before Oct. 2? - finance.yahoo.com",
+          "score": 1
+        },
+        {
+          "title": "Tesla's Q3 deliveries loom large as the Roadster slips again - finance.yahoo.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla Wins FSD Approval in Croatia. Is the Rest of Europe Next? - Barron's",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 601.5100708007812,
+    "predicted": 599.9949951171875,
+    "pct_change": -0.25187868950834896,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "HPE Stock Gains After Securing Its First AMD Helios Order In $1.2B Deal With Vultr - finance.yahoo.com",
+          "score": 1
+        },
+        {
+          "title": "Advanced Micro Devices vs. SK Hynix: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Nvidia and Tesla - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "Should You Buy AMD Stock as the AI-Agent Chip Race Heats Up? - Currently.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 84053.2109375,
+    "predicted": 83348.40625,
+    "pct_change": -0.8385220262722339,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "伊朗戰火下 比特幣逆勢上漲 挑戰傳統避險資產地位 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "CryptoQuant 警告：比特幣短期獲利創 21 個月新高，大回調可能要來 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣若已見底：本輪熊市 267 天、跌 52%，將創最短最淺紀錄 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "黃仁勳欽點資安成AI新戰場！比特幣站上8萬真漲假彈？ - TVBS新聞網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2679.72998046875,
+    "predicted": 2643.315673828125,
+    "pct_change": -1.358879697060196,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣突破 8.5 萬鎂、ETH 重返 $2700！全網爆倉 2.5 億美元，PCE 數據發威 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "Bitmine Immersion Technologies（BMNR）宣佈 ETH 持倉突破 600 萬枚，加密貨幣、現金及有價證券總值達 172 億美元 - money.udn.com",
+          "score": 1
+        },
+        {
+          "title": "搶買以太幣與5層樓透天厝 桃園分署拍賣會10/6登場 - Yahoo新聞",
+          "score": 0
+        },
+        {
+          "title": "AI 模型 Claude 預測 2028 年加密市場：以太坊、Solana 與 Apeing 潛力分析 - PChome Online 新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
