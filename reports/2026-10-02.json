@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 112.80000305175781,
+    "predicted": 109.50970458984375,
+    "pct_change": -2.9169311816457335,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "賺2200萬也不走！郭哲榮喊台股衝10萬點 點名「這幾檔」直接受惠 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "0050賺37%仍猶豫跳槽！他見0056配息、00631L報酬心動 網勸：長期抱得住更重要 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "0050、00631L各半沒意義？ 他問為何不全押正2 內行人全說了 - 東森電視",
+          "score": 0
+        },
+        {
+          "title": "小資族定期定額0050怎麼買？他每月3000元「分3次扣」陷兩難 網一面倒勸：長期幾乎沒有差別 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2500.0,
+    "predicted": 2474.40673828125,
+    "pct_change": -1.02373046875,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股第4季買什麼？台積電、富邦金...杜金龍公開4檔口袋名單「一路抱到明年5月」：台塑四寶「這檔」暴賺170% - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "快訊／美股開盤大漲「費半勁揚384點」！台積電ADR也起飛了 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "費半勁揚台積電ADR漲法人：台股若量能放大有助上攻| 證券 - 中央社 CNA",
+          "score": 1
+        },
+        {
+          "title": "台積電法說前外資唱大戲最新目標價、5大關鍵議題一次看- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 251.0,
+    "predicted": 250.18460083007812,
+    "pct_change": -0.324860227060508,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海AI營收超車iPhone，AI越賣越多，股價卻上不去，真正問題在賺錢模式！ - 優分析UAnalyze",
+          "score": 1
+        },
+        {
+          "title": "鴻海AI智慧醫療進軍長照 3大場域啟動實證 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "夏普雙主軸布局智慧照護 整合鴻海集團資源打造客製化方案 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "祥寶攜手鴻海 讓 AI 走進第一線 | 熱門亮點 | 商情 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4950.0,
+    "predicted": 4823.3642578125,
+    "pct_change": -2.558297821969697,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "不是聯發科！ AISC的它9月大漲137% - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "聯發科(2454)打進三星高階平板，天璣9500能帶來多少出貨-柏宇 KD 獲利模式 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "台積電、鴻海、聯發科都跌！台股反而再創收盤新高48,475點 三大法人同步買超95億元 - 放言Fount Media",
+          "score": 1
+        },
+        {
+          "title": "〈台股盤後〉台積電、聯發科尾盤拉抬 上漲413點收最高48353點 - news.cnyes.com",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 234.42999267578125,
+    "predicted": 225.85162353515625,
+    "pct_change": -3.6592455780557738,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia stock hits new all-time high, market cap at $5.7 trillion - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Dow and NASDAQ rally as NVIDIA hits new intraday high - Fox Business",
+          "score": 1
+        },
+        {
+          "title": "Options Action: Nvidia hits fresh high - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 371.0199890136719,
+    "predicted": 356.2643127441406,
+    "pct_change": -3.977056952849921,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Should You Forget Tesla and Buy These 3 Robotics Stocks Instead? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Tesla reports 486,532 vehicle deliveries for third quarter, topping expectation - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Tesla Semi: Diesel Killer or Giant Cybertruck? - MotorTrend",
+          "score": 0
+        },
+        {
+          "title": "SpaceX Just Got a Little Closer to a Tesla Merger - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 634.2550048828125,
+    "predicted": 612.9370727539062,
+    "pct_change": -3.361097975544558,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Why Did AMD Stock Jump? - Trefis",
+          "score": 1
+        },
+        {
+          "title": "An $8.2 Billion Reason to Buy AMD Stock - Barchart.com",
+          "score": 1
+        },
+        {
+          "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well. - Investor's Business Daily",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 85552.4375,
+    "predicted": 84312.8828125,
+    "pct_change": -1.448882958477951,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣突破 8.7 萬鎂、以太坊站上 $2750！全網爆倉逾 3.6 億美元 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "看好資金回流與監管明朗 花旗將比特幣一年預測調高至 11.3 萬美元 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣攻破 8.5 萬美元賣牆！ETF「Uptober」首日吸金 1.03 億，下一場多空決戰移至 8.7 萬 - news.cnyes.com",
+          "score": 0
+        },
+        {
+          "title": "美國非農爆冷只增 2.9 萬人！Fed 10 月升息機率驟降至 15%，比特幣直逼 8.7 萬美元 - 區塊客",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2701.820068359375,
+    "predicted": 2671.68408203125,
+    "pct_change": -1.115395754182271,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣突破8.5萬鎂、以太坊衝2715鎂！全網爆倉1.88億鎂，恐懼指數續回落 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣突破 8.7 萬鎂、以太坊站上 $2750！全網爆倉逾 3.6 億美元 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太坊基金會推出 zkAPI！付 AI 費用不需暴露身份，Vitalik 二月提案終於上線 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣 Q3 狂漲逾 42% 創 2024 年來最佳！以太幣更飆 71%，歷史最強 Q4 正式開跑 - news.cnyes.com",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
