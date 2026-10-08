@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 116.5,
+    "predicted": 111.71133422851562,
+    "pct_change": -4.110442722304184,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050再見3年前115元！「翻4倍神話」成功達陣 股民狂喜：一路抱到現在賺翻了 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "0050股價116元新高還能買？100萬滾出2500萬，達人「無敵買法」曝光：月扣1萬、2萬能滾出多少錢？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "【ETF誰最賺1】最賺的不是0050？今年台股ETF績效Top20出爐 - Yahoo",
+          "score": 1
+        },
+        {
+          "title": "0050、台積電（2330）讓他3年賺4000萬！卻照常上班：錢好像沒改變什麼 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2585.0,
+    "predicted": 2498.048583984375,
+    "pct_change": -3.363691141803675,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電營收／9月逾5,118億元 創歷年同期新高 優於法人第3季預期 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台積電在亞利桑那州投資創美國史上最大規模，效應引發中國不滿與警告 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "媽媽留20張台積電遺產！　國稅局「查水表」反成神助攻 - ETtoday新聞雲",
+          "score": 0
+        },
+        {
+          "title": "媽過世留20張台積電！兄妹繳不出遺產稅 卡關一年獲利竟翻倍 - 東森電視",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 252.0,
+    "predicted": 247.94192504882812,
+    "pct_change": -1.6103472028459822,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "焦點股》鴻海：9月營收破兆 跳空大漲 - 自由時報",
+          "score": 1
+        },
+        {
+          "title": "輝達創歷史新高 鴻海AI伺服器需求強勁助攻 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "鴻海：富聯裕展科技(河南)取得廠房之使用權資產，計約7996萬人民幣 - 台視全球資訊網",
+          "score": 0
+        },
+        {
+          "title": "鴻海研究院量子計算研究入選FOCS 2026研討會| 科技 - 中央社 CNA",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4835.0,
+    "predicted": 4590.853515625,
+    "pct_change": -5.049565343846949,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科營收洗三溫暖！月衰退13%　Q3營收1680億元超越財測高標 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "2454 聯發科 - 聯發科Q3營收衝1680億元！超越財測高標82.57億前三季創新高- 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "聯發科、友達都在跌！蔡明翰揭1檔明年獲利翻倍 1檔跌破5日均線要快跑 - 三立新聞",
+          "score": 0
+        },
+        {
+          "title": "聯發科：9月營收年增1.97％ Q3營收飛越財測高標 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 235.35000610351562,
+    "predicted": 234.11317443847656,
+    "pct_change": -0.5255286309595667,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Bloomberg.com",
+          "score": -1
+        },
+        {
+          "title": "Nvidia-Backed IPO’s Cratering Demand Sends Warning on AI Funding - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Nvidia Stock Drops. A Big Options Trade Signals Where It Might Go Next. - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Jensen Huang: 'Nvidia was founded because of Windows' - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 371.875,
+    "predicted": 374.9606018066406,
+    "pct_change": 0.829741662289916,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Jim Cramer Says SPCX Could Come to Fruition Long Before Tesla After Goldman Sachs Raises Price Target: 'Real Company With Real Numbers' - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype? - WSJ",
+          "score": 0
+        },
+        {
+          "title": "Tesla is browbeating the EU to approve its ‘Full Self-Driving’ tech. The pressure is working. - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Tesla leaned on Dutch regulator to ease its FSD review, emails show - Electrek",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 632.155029296875,
+    "predicted": 627.0747680664062,
+    "pct_change": -0.803641669373311,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD vs. Marvell Technology: Which AI Chip Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "AMD’s Monster 2026 Rally Gets Fresh Fuel From Lisa Su’s 2027 AI Supply Push - Benzinga",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Rises as CEO Lisa Su Says Chipmaker Will ‘Substantially’ Boost Supply in 2027 - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "AMD CEO Lisa Su just struck another bullish note with the stock on fire - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 80924.3984375,
+    "predicted": 83373.484375,
+    "pct_change": 3.0263875725829363,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣下探8.3萬鎂「全軍覆沒」主流幣齊跌逾2%，貪婪指數回落64、支撐位續守| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "花旗上調 BTC 目標價至 11.3 萬，50 億流入能否支撐？ 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 0
+        },
+        {
+          "title": "釋放比特幣潛力：Hashi 主網集資 5 億美元啟動，Anchorage Digital 助陣 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "數說科技：「感謝上帝賜予比特幣」——為什麼美國基督徒擁抱加密貨幣？ - 端傳媒Initium Media",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2427.27001953125,
+    "predicted": 2505.78173828125,
+    "pct_change": 3.2345688002673074,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣下探8.3萬鎂「全軍覆沒」主流幣齊跌逾2%，貪婪指數回落64、支撐位續守| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "對沖基金大舉放空比特幣以太坊 規模達15.8億美元 - PChome Online 新聞",
+          "score": 0
+        },
+        {
+          "title": "以太坊研究員 Drake：錢包簽章最快數月內恐遭 AI 破解，籲大戶移幣 - 鏈新聞 ABMedia",
+          "score": 0
+        },
+        {
+          "title": "麗盈聊幣：10.6比特幣（BTC）和以太坊（ETH）最新行情分析 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
