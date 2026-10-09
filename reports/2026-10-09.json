@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 116.05000305175781,
+    "predicted": 112.16437530517578,
+    "pct_change": -3.3482357987091627,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050股價116元新高還能買？100萬滾出2500萬，達人「無敵買法」曝光：月扣1萬、2萬能滾出多少錢？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "達人點名2檔ETF！優勢全說了：漲開心跌也安心 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "台股破不破5萬不重要！專家曝「這兩檔」漲開心跌安心 - 三立新聞",
+          "score": -1
+        },
+        {
+          "title": "台股「是否突破5萬點」不重要？理財作家1理由勸：續買0050、0056 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2550.0,
+    "predicted": 2542.911865234375,
+    "pct_change": -0.27796606924019607,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美股收盤／OpenAI營收落差引爆晶片股賣壓 費半和台積電ADR跌逾3% - UDN",
+          "score": -1
+        },
+        {
+          "title": "弊案查扣台積電10張！「醫界成吉思汗」郭守仁低價入手 現值逾2千萬 - 自由健康網",
+          "score": 0
+        },
+        {
+          "title": "台積電CoWoS拚22萬片！日月光等OSAT同步擴軍法人再上修EPS目標價：明年再撒800億美元- 上市櫃 - 旺得富理財網",
+          "score": 0
+        },
+        {
+          "title": "馬斯克否認台積電將參與 Terafab，稱將自建自營 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 249.0,
+    "predicted": 252.276611328125,
+    "pct_change": 1.3159081639056225,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海營收破兆為何股價仍翻黑？專家：AI下半場開始比「誰更會賺」 3類公司更會「收錢」 - 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "鴻海單月營收超過1兆創下台灣公司紀錄 有出貨輝達伺服器和iPhone18的EMS廠營收都創新高 - 信傳媒",
+          "score": 1
+        },
+        {
+          "title": "先讓外資看懂、再讓老臣埋單劉揚偉「強溝通」領鴻海月收破兆| 雜誌 - UDN",
+          "score": 0
+        },
+        {
+          "title": "鴻海研究院量子計算研究入選FOCS 2026研討會| 科技 - 中央社 CNA",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4690.0,
+    "predicted": 4624.3779296875,
+    "pct_change": -1.3991912646588487,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科第三季營收 1,680 億元超財測創新高，ASIC 市場表現受期待 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "看好11月主升段行情衝53,000點！杜金龍「3張麻將牌」當暗示曝台積電、聯發科、大盤長線目標- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "聯發科營收洗三溫暖！月衰退13%　Q3營收1680億元超越財測高標 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "巴逆逆一口氣減碼聯發科等4股票「聯茂今上漲」 網問：國巨要賣呀 - TVBS新聞網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 230.0,
+    "predicted": 234.0935516357422,
+    "pct_change": 1.7798050590183423,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia, Oracle, CoreWeave and other AI stocks sink on OpenAI revenue report - CNBC",
+          "score": -1
+        },
+        {
+          "title": "Why Nvidia (NVDA) Stock Is Trading Lower Today - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Nvidia vs. Broadcom: Which AI Chip Stock Is the Better Buy for the Next 5 Years? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Nvidia’s Subtle Change to How It Counts Cash Flow Has Big Implications for Buybacks - WSJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 382.114990234375,
+    "predicted": 377.82159423828125,
+    "pct_change": -1.1235874293914359,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Drops ‘Self-Driving’ Branding to Appease Europe Regulators - Bloomberg.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla Stock Rises as Elon Musk Asserts Control Over Terafab Chip Project - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Musk Loses Trillionaire Status As SpaceX And Tesla Drop Wipes Out $36 Billion - Forbes",
+          "score": -1
+        },
+        {
+          "title": "They Paid $50,000 and Waited Nine Years. Will Tesla’s Roadster Live Up to the Hype? - WSJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 611.3150024414062,
+    "predicted": 629.3876342773438,
+    "pct_change": 2.956353396164155,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Jumps. How It Can Ride the Meta Muse AI Wave. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Meta Muse popularity lifts AMD stock to fresh highs as AI agents juice CPU sales - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD CEO delivers stark warning on chip market’s future - TheStreet",
+          "score": -1
+        },
+        {
+          "title": "AMD Rallies On Bullish Takes For AI Hardware Sales - Investor's Business Daily",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 82863.421875,
+    "predicted": 83862.9765625,
+    "pct_change": 1.2062676931298282,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣重挫跌破8.1萬美元 加密市場逾11億美元槓桿部位遭清算 - PChome Online 新聞",
+          "score": -1
+        },
+        {
+          "title": "11 億美元爆倉背後：美政府砸盤與機構避險下的 Q4 展望 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 0
+        },
+        {
+          "title": "BTC 回本即遭 7.29 億拋售，FBTC 虧超市場總和 作者 智通財經 - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": 0
+        },
+        {
+          "title": "摩根大通報告：比特幣 ETF 資金回流 數位資產今年吸金 500 億美元 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2488.550048828125,
+    "predicted": 2489.153076171875,
+    "pct_change": 0.024232076185647527,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣下探8.3萬鎂「全軍覆沒」主流幣齊跌逾2%，貪婪指數回落64、支撐位續守| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "AI 將提前破解比特幣？以太坊研究員喊進入「地堡模式」，Vitalik 認同風險但勸：勿恐慌搬錢包 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "以太坊研究員警告 AI 恐在數月內破解 ECDSA，Coinbase 密碼學主管批缺乏證據 - 自由時報",
+          "score": 0
+        },
+        {
+          "title": "對沖基金大舉放空比特幣以太坊 規模達15.8億美元 - PChome Online 新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
