@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 114.80000305175781,
+    "predicted": 113.59891510009766,
+    "pct_change": -1.0462438325185788,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050漲到113元該賣嗎？股民看好衝120元猶豫下車 網反勸繼續抱 - UDN",
+          "score": 1
+        },
+        {
+          "title": "0050股價116元新高還能買？100萬滾出2500萬，達人「無敵買法」曝光：月扣1萬、2萬能滾出多少錢？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "ETF規模暴增10倍！最新人氣Top10出爐：第一名以規模成長1,032.7%奪冠 - 三立新聞",
+          "score": 1
+        },
+        {
+          "title": "台股近來漲勢驚人 0050定期定額還能無腦買？掀網友熱議 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2550.0,
+    "predicted": 2508.674560546875,
+    "pct_change": -1.62060546875,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電領跌！台股一度急挫逾540點 日月光攜手貨櫃三雄、金控雙雄抗空 - UDN",
+          "score": -1
+        },
+        {
+          "title": "台積電利多將出！誰是下一匹黑馬？ - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "台積電在美先進封裝拚2028上半年運轉- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "台積電押寶矽中介層 聯電、力積電跟著發達了 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 249.0,
+    "predicted": 251.26536560058594,
+    "pct_change": 0.9097853817614207,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海花1個半月賣掉5544張臻鼎　獲利26.83億元 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "上市櫃五大天王 9月業績耀眼 鴻海穩居「營收王」 | 市場焦點 | 證券 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "再入選《財星》亞洲百大女性！鴻海楊秋瑾談AI工廠：未來不只自動化，關鍵在人、AI與機器人協作| 魏鑫陽 | 財經 - 風傳媒",
+          "score": 0
+        },
+        {
+          "title": "鴻海處分臻鼎持股 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4690.0,
+    "predicted": 4723.4345703125,
+    "pct_change": 0.712890625,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台積電EPS高出聯發科5成！魏哲家驚曝1句話 揭密台股崩跌真正底氣 - 財經 - 中時新聞網",
+          "score": -1
+        },
+        {
+          "title": "2454 聯發科 - 完了 又要大跌了 - 股市爆料同學會 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "愈跌愈買！聯發科已跌16% 卻有8.6萬散戶撿便宜 分析師看下檔支撐 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "聯發科旗艦AP市佔將反超三星 台積2奈米助攻天璣、三星2奈米Exynos承壓 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 226.6199951171875,
+    "predicted": 227.8565673828125,
+    "pct_change": 0.5456589410769143,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Microsoft reveals Maia 300 AI chip as it works to reduce dependence on Nvidia, AMD - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Microsoft’s Maia 300 isn’t a Nvidia killer – it’s a power play - Fierce Network",
+          "score": 0
+        },
+        {
+          "title": "Nvidia, AMD, Google, and Meta team up on global blueprint for data center design - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 378.9649963378906,
+    "predicted": 382.0513000488281,
+    "pct_change": 0.8144033725441248,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla China-Made EV Sales Rise 5% in September, Extending Growth Streak To 11 Months Despite Global Sales Slump - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla chart watchers eye $400-mark as key level for breakout - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla Chart Watchers Eye $400-Mark as Key Level For Breakout - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "Tesla’s mirrorless Cybercab will give riders a visibility upgrade - Teslarati",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 591.47998046875,
+    "predicted": 624.1640625,
+    "pct_change": 5.525813740195864,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "AMD Stock Fell 6% in Three Sessions After Its Record Close. Here’s What OpenAI’s $20 Billion Revenue Gap Means for the Stock - TIKR.com",
+          "score": 1
+        },
+        {
+          "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood sells $15.8 million of popular semiconductor stock - TheStreet",
+          "score": -1
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 82369.40625,
+    "predicted": 81735.6015625,
+    "pct_change": -0.769466135978126,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣反彈8.4萬鎂、以太坊回升2,546鎂！全網爆倉1.64億鎂、貪婪指數回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "ChatGPT預測比特幣年底衝11.2萬美元 Cardano價格有望翻倍 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "小心！比特幣硬體錢包 Coldcard X 帳號出現釣魚連結，官方稱已啟用離線驗證超八年 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "加密幣榮景 恐回不去了 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2509.5,
+    "predicted": 2504.2763671875,
+    "pct_change": -0.20815432606096831,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣反彈8.4萬鎂、以太坊回升2,546鎂！全網爆倉1.64億鎂、貪婪指數回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太坊RWA 市值一週飆漲逾5.5 億美元遠超競爭平台- 財經新聞 - PChome Online 新聞",
+          "score": 1
+        },
+        {
+          "title": "分析》比特幣站穩8.25萬美元！ETH 重回 2500，全網恐慌指數回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "以太坊徘徊 2500 美元關卡有隱憂 ETF 流出與供給膨脹成關鍵 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
