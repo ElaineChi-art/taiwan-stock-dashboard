@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 108.9000015258789,
+    "predicted": 112.05481719970703,
+    "pct_change": 2.8969840492411905,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050 元大台灣50 - 第四法人無懼外資殺紅眼0050獲淨申購378億元創歷史新高- 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "第四法人無懼外資殺紅眼 0050獲淨申購378億元創歷史新高 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "台股跌了他更敢買！借460萬押00631L正二 網驚：現加碼好抖 - UDN",
+          "score": -1
+        },
+        {
+          "title": "螞蟻雄兵狂掃貨 0050淨申購高達378億元、創歷史新高 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2440.0,
+    "predicted": 2503.189697265625,
+    "pct_change": 2.5897416912141393,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股大跌1800點真正元凶曝光，現在能買？杜金龍：跌2000我就買！台積電聯發科、聯電台達電…權值股教怎麼買 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "美股早盤／科技股續跌 道瓊漲234點 台積電 ADR 大跌4% - 經濟日報",
+          "score": -1
+        },
+        {
+          "title": "【21:51 即時新聞】TSMC 跌5％／台積電法說利多難敵全球AI科技股重挫與升息疑慮 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "台積電第3季獲利逾7630億元創新高 每股純益29.43元 - 中央社 CNA",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 239.5,
+    "predicted": 242.84829711914062,
+    "pct_change": 1.3980363754240606,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "焦點股》鴻海：揮軍OCP引關注 帶量上漲 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "鴻海(2317)股價卡250元被嫌「真的廢」？孫慶龍卻砸880萬大買50張...比買台積電CP值高！最新目標價曝光 - 今周刊",
+          "score": 0
+        },
+        {
+          "title": "鴻海砸逾173億元增資 擴美國AI製造 - 中央社 CNA",
+          "score": 0
+        },
+        {
+          "title": "鴻海科技日首推教育館　應用互動落實兒童體驗啟蒙 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4165.0,
+    "predicted": 4372.62841796875,
+    "pct_change": 4.985076061674669,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "傳字節跳動與聯發科接近達成資料中心晶片供貨協議，有望成第二大客戶 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "焦點股》聯發科：Google TPU雜音不斷！早盤暴跌逾6％ - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "《半導體》聯發科慘遭提款！外資6天狂砍1.8萬張、連7黑摜破季線- 上市櫃 - 旺得富理財網",
+          "score": 0
+        },
+        {
+          "title": "聯發科短期逆風股價有壓！外資：Google TPU v9延一季、出貨要到2028年了| 財經焦點 - 太報 TaiSounds",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 213.1300048828125,
+    "predicted": 220.07904052734375,
+    "pct_change": 3.2604680173268474,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Nvidia stock sinks as chip sell-off deepens on hot inflation data - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Micron, Nvidia and other chip stocks face renewed pressure as AI fears swell - MarketWatch",
+          "score": -1
+        },
+        {
+          "title": "Broadcom vs. Nvidia: If I Could Only Own One for the Next 5 Years, It Would Be This One - The Motley Fool",
+          "score": 0
+        },
+        {
+          "title": "Wall Street is 'tiring of the Bank of Nvidia, the Bank of AMD and the Bank of Broadcom': Baird's Mortonson - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 355.6700134277344,
+    "predicted": 366.61553955078125,
+    "pct_change": 3.0774385553509154,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla driving intermodal surge from Southern California to Houston - Journal of Commerce",
+          "score": 1
+        },
+        {
+          "title": "Tesla driver slams into CHP car, injuring officers investigating fatal I-80 crash - KRON4",
+          "score": -1
+        },
+        {
+          "title": "Tesla Schedules an October 15 Roadster Demonstration After Postponing Its Original October 1 Reveal - Hypebeast",
+          "score": 0
+        },
+        {
+          "title": "Tesla-SpaceX Deal News Possible This Year, Barclays Analyst Says - Bloomberg.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 531.280029296875,
+    "predicted": 580.8290405273438,
+    "pct_change": 9.32634552366755,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Advanced Micro Devices Stock Surges 183% YTD: Time to Hold or Exit? - Zacks Investment Research",
+          "score": 1
+        },
+        {
+          "title": "Nvidia and AMD shares fall as new AI announcements fail to re-energize investors - MarketWatch",
+          "score": -1
+        },
+        {
+          "title": "Why Are Nvidia, AMD and Intel Stocks Falling Today? AI Chip Selloff Deepens - Stocks Down Under",
+          "score": -1
+        },
+        {
+          "title": "Global chip sell-off deepens as South Korean market plunges - Yahoo Finance",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 79992.046875,
+    "predicted": 81566.7109375,
+    "pct_change": 1.9685257772696543,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Coinbase股價今日為何下跌？ 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": -1
+        },
+        {
+          "title": "方舟投資重申比特幣百萬美元目標 微策略看好近期再破十萬 - 蕃新聞",
+          "score": 1
+        },
+        {
+          "title": "通膨陰影籠罩全球 黃金與比特幣成投資組合新雙錨 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "美國9月PPI遠超預期！通膨升溫重擊市場，比特幣再度下探 8 萬美元 - TradingKey",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2335.760009765625,
+    "predicted": 2383.65185546875,
+    "pct_change": 2.050375274124612,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣反彈8.3萬鎂、以太坊站回2500！全網爆倉2.16億鎂，貪婪指數回升至62點 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣跌8.16萬鎂、以太坊失守2,420！CPI爆熱爆倉4.5億鎂，貪婪指數轉中性 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "Coinbase Base 導入「Earn & Borrow」 促進以太坊Layer-2 DeFi 應用 - 財經新聞 - PChome Online 新聞",
+          "score": 0
+        },
+        {
+          "title": "以太坊徘徊 2500 美元關卡有隱憂 ETF 流出與供給膨脹成關鍵 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
