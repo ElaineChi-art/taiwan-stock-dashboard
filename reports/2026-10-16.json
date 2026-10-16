@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.0,
+    "predicted": 111.85840606689453,
+    "pct_change": 2.6223908870592028,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "科技大魔王來了！它上市20年賺逾13倍將1拆8降至30元比0052便宜一半- 基金 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "0050 元大台灣50 - 槓桿型ETF與反向型是什麼？周冠男：資本市場不是賭場，不懂的不要亂碰- 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "0050 元大台灣50 - 強者我朋友套116怎麼辦 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "台股崩、小資族搶零股！0050最搶手　買最多10檔一次看 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2420.0,
+    "predicted": 2526.3544921875,
+    "pct_change": 4.394813726756198,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台積電法說會後股價下跌！　魏哲家首露面「心情不太好」 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "台積電法說會／Q3又新高，魏哲家：獲利能力沒天花板！和馬斯克談Terafab最關鍵條件「晶圓廠必須我們營運」 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "台股漲141點收在47111點 台積電下跌20元收2420元 - 台視新聞網",
+          "score": -1
+        },
+        {
+          "title": "國家隊近50億護盤！台積電仍收低 魏哲家親吐：知道會跌仍心情複雜 - 三立新聞",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 244.0,
+    "predicted": 242.7158966064453,
+    "pct_change": -0.5262718826043802,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股16日反彈站回47000點以上 鴻海止跌股價上漲2.3% - 台灣好新聞",
+          "score": 1
+        },
+        {
+          "title": "三大業者攜鴻海，國產儲能櫃拚明年上半年量產- 新聞 - MoneyDJ",
+          "score": 0
+        },
+        {
+          "title": "鴻海斥資235億元買股權 與三菱電機簽訂策略聯盟 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "鴻海豪砸236億！　取得日本三菱電機汽車設備事業5成股權 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4250.0,
+    "predicted": 4189.16552734375,
+    "pct_change": -1.431399356617647,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科強彈 台股開盤漲逾200點收復47K 台積電跌10元 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "聯發科跌深散戶搶買！　專家示警「大戶撤退」揭低接價位 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "焦點股》聯發科：Google TPU雜音不斷！早盤暴跌逾6％ - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "聯發科亮出挑戰博通「秘密武器」！謝金河直擊Network X 2026揭亮點：台廠AI新應用實力精進 - 今周刊",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 215.89500427246094,
+    "predicted": 220.65802001953125,
+    "pct_change": 2.206172284125368,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Lenders Are Getting Nervous About CoreWeave. I'd Still Buy Nvidia Stock. - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia CEO Huang Says CoreWeave Improving, No Backstop Needed - Bloomberg.com",
+          "score": 0
+        },
+        {
+          "title": "Nvidia: Jensen Can't Spend His Way Out Of This One - Seeking Alpha",
+          "score": 0
+        },
+        {
+          "title": "Nvidia NemoClaw: The Best Inventions of 2026 - Time Magazine",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 368.81500244140625,
+    "predicted": 365.8506164550781,
+    "pct_change": -0.8037595994482567,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Roadster probably won't drive an earnings beat, but the big unveil did achieve 2 things - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla Roadster performs a 'kick flip' flight - Fox Business",
+          "score": 0
+        },
+        {
+          "title": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027 - CNBC",
+          "score": 0
+        },
+        {
+          "title": "View Exterior Photos of the New Tesla Roadster - Car and Driver",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 544.9500122070312,
+    "predicted": 558.5076293945312,
+    "pct_change": 2.487864369906527,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Why AMD’s CUDA-Challenging AI Playbook Makes It the Ultimate Asymmetric Buy. - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia, AMD, Dell sink in global tech rout on AI funding worries - CNBC",
+          "score": -1
+        },
+        {
+          "title": "Advanced Micro Devices vs. Arm: Which Tech Stock Is a Better Buy in 2026? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Sandisk, AMD Stocks Fall as Anthropic Adds to AI Concerns - Barron's",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 81839.453125,
+    "predicted": 82044.2421875,
+    "pct_change": 0.2502326869012787,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Capital B 上半年虧損 7800 萬鎂！比特幣減值 7500 萬，卻狂買 BTC - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "比特幣在創下新高之前可能會先收復20個月的趨勢線 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "新興加密貨幣 Pepeto 募資破千萬美元 分析師看好比特幣衝上 17.5 萬美元 - 蕃新聞",
+          "score": 1
+        },
+        {
+          "title": "比特幣重返 8.2 萬美元，ETH 卻漲得更猛！單日反彈近 4% 、漲幅逾 BTC 三倍 - 區塊客",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2457.719970703125,
+    "predicted": 2453.115478515625,
+    "pct_change": -0.18734812111986496,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣重返 8.2 萬美元，ETH 卻漲得更猛！單日反彈近 4% 、漲幅逾 BTC 三倍 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "比特幣強彈回8.26萬鎂、以太坊收復2,467鎂！爆倉8.4億鎂、貪婪指數回升至63點 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣跌破 8 萬後強彈重返 82,000 美元、以太坊收復 2,400！PPI 利空出盡？ - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "比特幣反彈8.3萬鎂、以太坊站回2500！全網爆倉2.16億鎂，貪婪指數回升至62點 - 動區動趨",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
