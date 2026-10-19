@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 109.0,
+    "predicted": 111.44017791748047,
+    "pct_change": 2.238695337138045,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "00888配1.5元、年化配息率17％！10/27除息倒數，一張3萬5能買？近1年大賺120％，「平替版0050」強在哪？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "0050還能買？分析師揭跌10%進場勝率 定期定額最好與最爛差多少 - UDN",
+          "score": -1
+        },
+        {
+          "title": "0050 元大台灣50 - 快點給我跌- 股市爆料同學會 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "0050長期持有難道不夠…009826有必要買嗎？揭全球ETF資產配置關鍵 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2420.0,
+    "predicted": 2496.284423828125,
+    "pct_change": 3.1522489185175617,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電法說會後股價真的跌 魏哲家：心情不好 - 東森電視",
+          "score": -1
+        },
+        {
+          "title": "魏哲家心情恐不好！台積電下周「大拍賣」專家曝勝率：暴賺50％不會輸- 財經 - 中時新聞網",
+          "score": 1
+        },
+        {
+          "title": "〈台股盤後〉台積電休息 PCB、玻纖布題材強勁 終場漲141點站回4萬7 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "難怪魏哲家早知股價會跌！台積電連兩日遭砍5.6萬張 凶手是「它」 - 三立新聞",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 244.0,
+    "predicted": 245.01779174804688,
+    "pct_change": 0.4171277655929816,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "2317 鴻海 - AI伺服器同業營收衰退，為什麼看多鴻海？ - 股市爆料同學會 - CMoney",
+          "score": -1
+        },
+        {
+          "title": "鴻海將入股三菱電機車用零組件事業、取50%股權 - MoneyDJ",
+          "score": 0
+        },
+        {
+          "title": "鴻海造車延伸到機車領域！預告推出電動三輪 鎖定都會物流領域 - 自由電子報汽車頻道",
+          "score": 0
+        },
+        {
+          "title": "妞妞促郭曾破冰4／鴻海老臣求償6億、選總統未果　「細數郭台銘近年失意」小三趁虛入 - 鏡週刊Mirror Media",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4250.0,
+    "predicted": 4239.904296875,
+    "pct_change": -0.23754595588235294,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "期指夜盤重挫1144點 台積電、聯發科、國巨、南亞科、南亞等AI要賣嗎? - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "費半連跌九天，台積電與聯發科先成資金避風港？-林彥廷看盤室 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "聯發科3500元買進、5500元沒賣！400萬投資人怕獲利回吐 崩潰求解 - UDN",
+          "score": 1
+        },
+        {
+          "title": "AI ASIC掀搶單大戰不只聯發科手握Google再找新客戶「這家」三星、英特爾兩路出擊- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 219.5,
+    "predicted": 223.8396759033203,
+    "pct_change": 1.9770733044739464,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "What Nvidia Knows About Keeping Great Employees That Many Companies Miss - Inc.com",
+          "score": -1
+        },
+        {
+          "title": "Samsung to use TSMC technology for Nvidia's next-generation memory chips, Seoul newspaper reports - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Nvidia reportedly asks Samsung, SK Hynix, Micron to use TSMC 3nm - The Next Web",
+          "score": 0
+        },
+        {
+          "title": "Nvidia Tells Suppliers to Tap TSMC Process for Next-Generation Memory Chips - The Information",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 367.875,
+    "predicted": 367.63043212890625,
+    "pct_change": -0.0664812425671084,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "SpaceX Stock Climbs After Musk Gift Pledge; Analysts Predict Tesla Merger Price - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Federal regulators investigate Tesla crash that injured two officers after driver fell asleep, authorities say - NBC News",
+          "score": -1
+        },
+        {
+          "title": "Explained: Here’s How the Tesla Roadster Flies, Flips, and Sucks - Car and Driver",
+          "score": 0
+        },
+        {
+          "title": "Tesla crashes into Redmond apartment complex, displacing residents - KIRO 7 News Seattle",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 548.6599731445312,
+    "predicted": 565.5037231445312,
+    "pct_change": 3.069979736896703,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Stock Market Today: Dow Up, Nasdaq Rallies; Sandisk Surges As This Biotech Play Tests Entry (Live Coverage) - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "TD Cowen reiterates AMD stock buy rating on AI workload strength - Investing.com",
+          "score": 1
+        },
+        {
+          "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Price Target: Is This Week’s Dip a Chance to Buy the Chipmaker’s Shares? - TipRanks",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 81886.359375,
+    "predicted": 81801.1328125,
+    "pct_change": -0.10407907147233579,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣回升8.23萬鎂、以太坊站上2,414鎂！爆倉2.93億鎂、AI股拋售幣市抗跌 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "穩定幣也能年賺 8%？Michael Saylor 拋「BTC 支撐美元幣」構想，挑戰 USDT 霸主地位？ - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "薩爾瓦多比特幣國庫突破 7800 枚！IMF 貸款限制下仍持續增持 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "德國儲蓄銀行 Sparkassen 開放加密交易！首批上線 BTC 等 5 幣，每筆收 0.99 歐元 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2398.179931640625,
+    "predicted": 2410.14453125,
+    "pct_change": 0.4989033329617544,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "以太幣十月跌一成 分析師仍看漲；新幣 Pepeto 潛力看好 600 倍 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣回升8.23萬鎂、以太坊站上2,414鎂！爆倉2.93億鎂、AI股拋售幣市抗跌 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣重返 8.2 萬美元，ETH 卻漲得更猛！單日反彈近 4% 、漲幅逾 BTC 三倍 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "以太幣十月跌一成 分析師仍看漲；新幣 Pepeto 潛力看好 600 倍 - 商傳媒",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
