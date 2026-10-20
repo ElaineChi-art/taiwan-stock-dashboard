@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 107.25,
+    "predicted": 109.75624084472656,
+    "pct_change": 2.336821300444347,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050股價116元新高還能買？100萬滾出2500萬，達人「無敵買法」曝光：月扣1萬、2萬能滾出多少錢？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "外資大賣超、散戶沒在怕！0050淨申購378億元創歷史新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台股跌不停、ETF卻越買越旺！ 0050狂吸粉11萬、「這檔」人氣逼近百萬 - Yahoo新聞",
+          "score": -1
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜0050 元大台灣50、00919 群益台灣精選高息、0056 元大高股息、00631L 元大台灣50正2、009816 凱基台灣TOP50 (1019)｜豐雲學堂2026 年 10 月 - 永豐金證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2405.0,
+    "predicted": 2459.7265625,
+    "pct_change": 2.2755327442827444,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "外資續砍台股795億！再賣台積電　前十買賣超一次看 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "台股甩尾！台積電力守平盤 指數急拉652點收跌289點 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台股收盤下跌529點再度下探季線 台積電收低15元 - UDN",
+          "score": -1
+        },
+        {
+          "title": "台積電最狂目標價來了！外資喊到5000元 估「這時間」營收獲利翻倍 - 東森電視",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 241.5,
+    "predicted": 238.50381469726562,
+    "pct_change": -1.240656440055642,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "高盛再上調AI伺服器展望 點名鴻海、緯穎等供應鏈受惠 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "台股慘跌529點！台積電跌15元、聯發科、鴻海挫逾1% 台達電淪重災區大跌2.13% - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "鴻海FoxBrain 2.0持續進化 布局VLM、VLA搶攻實體AI商機 - DIGITIMES",
+          "score": 0
+        },
+        {
+          "title": "焦點股》鴻海：買盤點火加持 帶量由綠翻紅 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4150.0,
+    "predicted": 4248.86083984375,
+    "pct_change": 2.3821889118975905,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "韓股重挫逾3%、台股午盤反攻無力！聯發科TPU傳延後出貨 指數跌逾300點 - Newtalk新聞",
+          "score": -1
+        },
+        {
+          "title": "期指夜盤重挫1144點 台積電、聯發科、國巨、南亞科、南亞等AI要賣嗎? - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "AI ASIC掀搶單大戰不只聯發科手握Google再找新客戶「這家」三星、英特爾兩路出擊- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "聯發科TPU v9玻璃基板良率卡關？ 2026年拉貨仍拚高檔 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 215.57000732421875,
+    "predicted": 222.2952117919922,
+    "pct_change": 3.119731056862045,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Amazon’s AI Infrastructure Spending Soars, Resulting In Negative Cash Flow, As Report Claims $5 Billion Of NVIDIA GB300 Rack Deliveries Happened In August Alone - Wccftech",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA's Faster DLSS 5 Model Gets Extracted From NBA 2K27, Modders Report Up to 90% Gains - TechPowerUp",
+          "score": 1
+        },
+        {
+          "title": "EXCLUSIVE: ByteDance, Alibaba, Tencent place over $35 billion worth of Nvidia chip orders - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Nvidia Reportedly Sees Alibaba, ByteDance, Tencent Order $35B In RTX PRO 5500 Chips Amid US Export Curbs - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 371.9739074707031,
+    "predicted": 368.1729431152344,
+    "pct_change": -1.0218362845163047,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Model S With 470,000 Miles Gets a Massive Battery Upgrade, But Software Nearly Derails the Project - Yahoo Autos",
+          "score": 1
+        },
+        {
+          "title": "Explained: Here’s How the Tesla Roadster Flies, Flips, and Sucks - Car and Driver",
+          "score": 0
+        },
+        {
+          "title": "Tesla Earnings Spotlight SpaceX Merger Talk. Here's What Analysts, Musk Say. - Investor's Business Daily",
+          "score": 0
+        },
+        {
+          "title": "Tesla-SpaceX merger is 'not so easy': Analyst - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 537.4500122070312,
+    "predicted": 566.8356323242188,
+    "pct_change": 5.467600604661975,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Is Up Over 140% This Year. I'd Still Buy It Before Its Nov. 3 Report. - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "INTC vs. AMD: Which AI Chip Stock Could Continue to Rally After Today? - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. Q2 earnings spark rally: Can AMD sustain upward momentum? - Traders Union",
+          "score": 1
+        },
+        {
+          "title": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending? - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 82362.0,
+    "predicted": 81182.734375,
+    "pct_change": -1.4318079029163935,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣守 8.1 萬美元，韓股重挫 3.7%，賣權成交達買權 1.5 倍 - 鏈新聞 ABMedia",
+          "score": -1
+        },
+        {
+          "title": "穩定幣也能年賺 8%？Michael Saylor 拋「BTC 支撐美元幣」構想，挑戰 USDT 霸主地位？ - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "孫宇晨罕見看空比特幣：AI 演算法恐 1.5 年內破解私鑰 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "9億資金出逃!比特幣、以太坊要選方向,山寨迎來逢低布局大機會 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2419.280029296875,
+    "predicted": 2391.302734375,
+    "pct_change": -1.1564306150208727,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣8萬美元防線告急，現貨ETF逆勢吸金7,000億韓元創一個月新高 - BigGo 財經",
+          "score": 1
+        },
+        {
+          "title": "9億資金出逃!比特幣、以太坊要選方向,山寨迎來逢低布局大機會 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "以太幣歐元價格站穩 2,137 歐元 匯率波動凸顯跨幣別影響 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "以太坊兌比特幣匯率連五週走弱 凸顯ETH相對BTC弱勢 - PChome Online 新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
