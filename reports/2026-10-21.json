@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 108.1500015258789,
+    "predicted": 109.09479522705078,
+    "pct_change": 0.8735956429420835,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050、00919入列！台股ETF受益人數突破1900萬人大關創新高 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "10/21 ETF 三大法人買賣超日榜｜合計買超最多00919(群益台灣精選高息)、賣超最多00406A(主動中信台灣收益)-ETF股長 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "台股大漲近千點　力拼站回4萬7千點　00415A ETF族群群飛 | 財經 | CTWANT - CTWANT",
+          "score": 1
+        },
+        {
+          "title": "熱門股：週三(21日)主力買超／賣超前20名個股 - 富聯網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2420.0,
+    "predicted": 2475.7724609375,
+    "pct_change": 2.304647146177686,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電股價有望狂飆近3倍！外媒看好「這時」衝破1200美元驚人目標 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電楠梓廠重大工安釀第4死 最後一名傷者搶救昨深夜不治 - UDN",
+          "score": 0
+        },
+        {
+          "title": "期指結算台積電撐尾盤！收漲15元至2420　台股收漲595點 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "不靠台積電、英特爾了？馬斯克晶圓廠碰壁外媒爆改向這國求助- 財經 - 中時新聞網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 250.0,
+    "predicted": 241.35862731933594,
+    "pct_change": -3.4565490722656254,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "輝達發表DSX POD AI工廠 鴻海、台達電等6台廠入列合作夥伴 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "2317 鴻海 - 14天蓋好工廠！黃仁勳釋全新模組化AI工廠設計鴻海鴻佰入列- 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "輝達推DSX POD模組化AI工廠　鴻海集團2027年初交付 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "焦點股》鴻海：買盤點火加持 帶量由綠翻紅 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4140.0,
+    "predicted": 4110.5986328125,
+    "pct_change": -0.7101779513888888,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "半導體產業鏈／聯發科Q3營收創新高！2奈米天璣9600 Pro問世 - 科技島",
+          "score": 1
+        },
+        {
+          "title": "韓股重挫逾3%、台股午盤反攻無力！聯發科TPU傳延後出貨 指數跌逾300點 - Newtalk新聞",
+          "score": -1
+        },
+        {
+          "title": "期指夜盤重挫1144點 台積電、聯發科、國巨、南亞科、南亞等AI要賣嗎? - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "AI ASIC掀搶單大戰不只聯發科手握Google再找新客戶「這家」三星、英特爾兩路出擊- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 218.4499969482422,
+    "predicted": 217.90887451171875,
+    "pct_change": -0.24770997669166678,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia debuts platform for keeping AI agents from going rogue and humanoid robot design at GTC Berlin - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI - Axios",
+          "score": 0
+        },
+        {
+          "title": "NVIDIA (NVDA) is Strengthening AI Conviction Balanced Against Evolving Competitive Risks - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Nvidia announces plug and play Vera Rubin racks that can be shipped on a truck - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 385.19000244140625,
+    "predicted": 375.91900634765625,
+    "pct_change": -2.4068631156023503,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla is pulling further ahead in the US electric vehicle market as high gas prices help demand - Business Insider",
+          "score": 1
+        },
+        {
+          "title": "Tesla Model Y tops Europe sales as brand sets monthly record - Automotive News",
+          "score": 1
+        },
+        {
+          "title": "Dow Jones Futures Rise As SpaceX, Supermicro Revive AI Stocks; Tesla, Meta On Deck - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "SpaceX and Tesla Explore Merger to Create a De Facto Elon Inc. - The New York Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 542.4500122070312,
+    "predicted": 523.8108520507812,
+    "pct_change": -3.436106505079437,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Rises on an Upscaling Partnership with Microsoft’s (MSFT) Xbox - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "Nvidia vs. AMD: Who Can Afford the Next Jump in Research Spending? - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "What Advanced Micro Devices Buyers Were Betting On Before A 137% Rally - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips - 24/7 Wall St.",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 83785.890625,
+    "predicted": 83108.984375,
+    "pct_change": -0.8079000473118143,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "最新消息：比特幣目前比其200周移動平均線高出25% 👀 每次比特幣回調至200周均線附近，都會反彈並創出新高 - Moomoo",
+          "score": 1
+        },
+        {
+          "title": "比特幣回升激勵美股加密貨幣股 微策略漲逾 5% 釋股購幣引關注 - PChome Online 新聞",
+          "score": 1
+        },
+        {
+          "title": "孫宇晨罕見看空比特幣：AI 演算法恐 1.5 年內破解私鑰 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "委內瑞拉變天後的比特幣局勢：價值 600 億美元的驚天財富轉移真相-Alpha's Newsletter - CMoney投資網誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2466.5400390625,
+    "predicted": 2428.126708984375,
+    "pct_change": -1.5573771140859083,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "BitMine再質押16萬枚以太幣，累計突破522萬ETH - BigGo 財經",
+          "score": 1
+        },
+        {
+          "title": "以太幣十月跌一成 分析師仍看漲；新幣 Pepeto 潛力看好 600 倍 - 商傳媒",
+          "score": 1
+        },
+        {
+          "title": "儘管 ETF 資金淨流出，以太幣仍連續第六天自 2,400 美元反彈 - tmgm.com",
+          "score": 0
+        },
+        {
+          "title": "Drift Protocol 駭客將 6100 萬美元以太幣轉入 Tornado Cash - 商傳媒",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
