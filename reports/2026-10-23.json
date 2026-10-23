@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.9000015258789,
+    "predicted": 107.64743041992188,
+    "pct_change": 0.6991851107336302,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050股價116元新高還能買？100萬滾出2500萬，達人「無敵買法」曝光：月扣1萬、2萬能滾出多少錢？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "0050 今年第四度單月破千億元！全年狂攬 7,000 億居「吸金王」 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "元大台灣50(0050)-熱門討論區 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】盤中零股成交量TOP 20｜0050 元大台灣50、00919 群益台灣精選高息、0056 元大高股息、00631L 元大台灣50正2、009816 凱基台灣TOP50 (1019)｜豐雲學堂2026 年 10 月 - 永豐金證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2385.0,
+    "predicted": 2472.822021484375,
+    "pct_change": 3.6822650517557656,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美股收盤》AI支出疑慮升！費半暴跌近7％ 台積電ADR重挫4.5％ - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "費半殺7%、台積電ADR崩4.5%⋯美股大逃殺發生什麼事？Meta引殺機、黃仁勳一句話變利空，台股3天後慘了？ - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "台積電股價有望狂飆近3倍！外媒看好「這時」衝破1200美元驚人目標 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "路透：台積電探尋稀土零組件替代方案，防中國管制衝擊 - TechNews 科技新報",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 245.0,
+    "predicted": 243.59120178222656,
+    "pct_change": -0.5750196807238521,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Meta 調高資本支出下限 鴻海、廣達接單動能升溫 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "鴻海AI伺服器產線再進化 新產品導入拚縮至10週 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "鴻海、廣達、緯創、緯穎、英業達...5檔老AI撿誰才香？法人狠砍價1成仍看漲4成 - 上市櫃 - 旺得富理財網",
+          "score": 0
+        },
+        {
+          "title": "輝達發表DSX POD AI工廠明年初開始交付 鴻海、台達電等6台廠入列合作夥伴 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4010.0,
+    "predicted": 4020.198974609375,
+    "pct_change": 0.2543385189370324,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "聯發科擁利多 花旗挺 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "【跟著主動式ETF買1】不是台積電！00981A、00403A搶買欣興 一年大漲582% - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "聯發科3500元買進、5500元沒賣！400萬投資人怕獲利回吐 崩潰求解 - UDN",
+          "score": 1
+        },
+        {
+          "title": "台股要崩了？陳嘉偉示警：大盤恐下探22500點 曝「唯一獲利方法」 - Yahoo股市",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 213.07000732421875,
+    "predicted": 215.579833984375,
+    "pct_change": 1.177935220294597,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Illegal Nvidia Blackwell Ultra B300 GPUs found inside state-owned China Telecom's network — Nvidia says chip smuggling 'a drop in the bucket,' insists smuggling remains a nonfactor - Tom's Hardware",
+          "score": -1
+        },
+        {
+          "title": "Nvidia is unveiling a shipping-container AI factory as neocloud stocks slide - Quartz",
+          "score": -1
+        },
+        {
+          "title": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout - TradingView",
+          "score": -1
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang says neocloud demand is 'off the charts' but capital is scarce - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 368.7550048828125,
+    "predicted": 371.5927429199219,
+    "pct_change": 0.7695456331531517,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Stock Market News, October 21, 2026: Tesla's Profit Falls as Batteries Prove Barrier to Growth - WSJ",
+          "score": 1
+        },
+        {
+          "title": "How Accounting Helped Tesla Beat Gross Profit Numbers - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Tesla aims to sell Cybercab robotaxis by end of year despite federal probe - Reuters",
+          "score": -1
+        },
+        {
+          "title": "SpaceX and Tesla Explore Merger to Create a De Facto Elon Inc. - The New York Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 518.1400146484375,
+    "predicted": 527.5553588867188,
+    "pct_change": 1.8171428517578674,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7% - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "AMD Slides 8% as Tech Selloff Deepens - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Why Are Nvidia, AMD and Micron Stocks Crashing Today? AI Spending Fears Hit Chips - Stocks Down Under",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Rises on an Upscaling Partnership with Microsoft’s (MSFT) Xbox - TipRanks",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 81835.453125,
+    "predicted": 82275.703125,
+    "pct_change": 0.5379697712769279,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣跌破82,000美元，科技股拋售與油價上漲打壓風險情緒 - Yahoo 財經",
+          "score": 1
+        },
+        {
+          "title": "A16Z 告別 Crypto：幣圈是 AI 時代的落後產能嗎？ - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "Switzerland's First Bitcoin ETF Seen as Good News for European Wealth Clients, Fund Selectors -- Market Talk - 富途牛牛",
+          "score": 0
+        },
+        {
+          "title": "費半重摔 6.7%，美債殖利率終於跌穿 5%，但這可能不是好事 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2409.56005859375,
+    "predicted": 2463.0849609375,
+    "pct_change": 2.221355809449623,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "10月23行情分析：今日為何下跌？BTC、ETH、BNB、SOL、AKE、BMT、REZ、PTB、LUMIA山寨幣操作建議 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "Robinhood Chain 三個月賺 5100 萬美元手續費，以太坊只拿到 6.9 萬？ - 富途牛牛",
+          "score": 1
+        },
+        {
+          "title": "比特幣重挫3.2%至8.15萬、以太坊續走低！全網爆倉「4.7億鎂」恐慌指數回落50 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "鉅亨買幣速報- USDC(USDC)24小時成交量超過17.87億美元，NFPrompt Token(NFP)24小時漲幅達65.8% - TradingView",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
