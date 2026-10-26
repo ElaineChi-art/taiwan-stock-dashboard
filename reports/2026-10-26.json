@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.9000015258789,
+    "predicted": 111.4561538696289,
+    "pct_change": 4.262069484299327,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "散戶大軍越跌越買 10月還沒過完0050再吸千億資金 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "00631L 元大台灣50正2 - 美國生技指數創歷史新高，根據疾管署統計：新冠疫情9/1～9/... - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "台股 ETF 資金流逼近兆元大關！樂觀指數創高，台積電等權值股成焦點-財經焦點情報站 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "整理包／0050 市值型 ETF 王位遭挑戰！006208 一拆八搶市 009804、009816 也來了...四檔買誰好？ - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2385.0,
+    "predicted": 2467.820068359375,
+    "pct_change": 3.4725395538522013,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "現在買台積電，4年後有望漲3倍！外媒試算驚人結果曝光 | 魏甫丞 | 風生活 - 風傳媒",
+          "score": 1
+        },
+        {
+          "title": "蘋果iPhone Duo需求爆發！追加三成訂單 鴻海、台積電、新日興受惠 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "看好台積電再大賺一筆！外媒估2030年驚人市值 股價將漲這麼多 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積工程師舉家赴美過什麼日子？孩子喊2科超輕鬆 家長傻眼憂1事 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 245.0,
+    "predicted": 243.62936401367188,
+    "pct_change": -0.5594432597257653,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "蘋果iPhone Duo需求爆發！追加三成訂單 鴻海、台積電、新日興受惠 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "iPhone Duo螢幕出包 鴻海人士：實際生產未受影響 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "鴻海、NVIDIA 合作多點開花 五大成果秀硬實力 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "鴻海輝達綁做伙秀AI進度　期待月底科技日放大絕！ - 鏡週刊Mirror Media",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4010.0,
+    "predicted": 4054.015869140625,
+    "pct_change": 1.0976525970230673,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股重量級法說會登場！聯發科、台達電、聯電上陣 AI需求能變獲利？ - UDN",
+          "score": 1
+        },
+        {
+          "title": "台股連假後臨補跌壓力！測試45125點半年線，聚焦美股財報與聯發科法說會-財經焦點情報站 - CMoney投資網誌",
+          "score": 0
+        },
+        {
+          "title": "聯發科TPU進度遭質疑！ 花旗法說前送暖：目標上看6800元 - 東森電視",
+          "score": 0
+        },
+        {
+          "title": "晨起散步慢跑 聯發科老董防失智密碼 | 中華日報 - LINE TODAY",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 215.875,
+    "predicted": 216.2060089111328,
+    "pct_change": 0.15333360098798496,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "98% Of Nvidia Analysts Have “Buy” Rating - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering - MarketWatch",
+          "score": 1
+        },
+        {
+          "title": "NVIDIA Cuts HBM4 Speed and NVLink Bandwidth Targets for \"Vera Rubin\" - TechPowerUp",
+          "score": -1
+        },
+        {
+          "title": "Nvidia RTX 20, 30, and 40-series GPUs hacked to remove a half-speed AI throttle — firmware exploit doubles RTX 4090's peak tensor rate, lifts RTX 3090 Ti matrix math up to 80% - Tom's Hardware",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 394.6700134277344,
+    "predicted": 383.5982666015625,
+    "pct_change": -2.805317467626447,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised) - TechCrunch",
+          "score": 1
+        },
+        {
+          "title": "Tesla Stock, Upgraded On SpaceX Prospects, Takes A Run At Resistance - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Tesla stock jumps as Barclays bets a SpaceX takeout bump is coming - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla's upside goes beyond SpaceX merger -- Barclays (TSLA:NASDAQ) - Seeking Alpha",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 530.161376953125,
+    "predicted": 523.9729614257812,
+    "pct_change": -1.167270155157098,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Nvidia, AMD and Broadcom Could Buy Meta Shares as Part of $35 Billion Stock Offering - Moomoo",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Fell 8% in a Day as Lam Research’s Supply Warning Sank Chip Stocks. Here’s Where the Stock Could Go by 2030 - TIKR.com",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Price Prediction: One Growth Opportunity Could Push Shares Much Higher - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "AMD vs. Intel: Only One AI Chip Stock Is a Buy Ahead of Earnings, Says Top Analyst - TipRanks",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 80513.65625,
+    "predicted": 80022.9453125,
+    "pct_change": -0.6094754111977122,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "幣圈院士：10.26比特幣（BTC）五座大山壓頂卻跌不下去 背後那隻看不見的手在做什麼 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "比特幣要漲了？麥當勞烤汁豬排堡限時回歸，幣圈又喊「McRib 指標」 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "隨著油價上漲，比特幣價格仍徘徊在8.5萬美元以下，我為何現在仍在買入比特幣 - 鉅亨號",
+          "score": 1
+        },
+        {
+          "title": "美國中東大撤退！WSJ 曝伊朗「致命謀殺」升階，比特幣閃崩 8 萬美元 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2331.31005859375,
+    "predicted": 2338.141845703125,
+    "pct_change": 0.29304498061900636,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "以太幣價格預測：基金會拋售砸破2,300美元，恐繼續大跌13% - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "以太幣30天內重挫13%，跌幅近比特幣三倍，ETF資金外流達10.8億美元 - BigGo 財經",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETHUSD)10月26日突然下跌1.03%：市場行情在交易什麼？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "以太幣(ETH)股票股價, 市值, 即時行情, 走勢圖, 財報 - Moomoo",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
