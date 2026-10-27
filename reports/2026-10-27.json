@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 106.5999984741211,
+    "predicted": 107.86971282958984,
+    "pct_change": 1.1911016638306933,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "加碼潮擋不住! 10月以來0050與0056吸金1475億元 投資人數雙創新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "0050「扣款日」選錯10年會少賺多少？股海老牛：真正拉開差距是停扣| 存股族愛ETF | 股市 - UDN",
+          "score": 1
+        },
+        {
+          "title": "0050十月未結束已吸金1087億！372萬人持有創新高 資金持續湧入 - UDN",
+          "score": 1
+        },
+        {
+          "title": "震盪擋不住加碼潮 0050、0056投資人數雙創歷史新高 - UDN",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2400.0,
+    "predicted": 2395.16015625,
+    "pct_change": -0.20166015625,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "多空交戰季線 台股收漲54點 台積電收高15元 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "台積電CoWoS傳漲價2成！AI晶片搶產能設備交期拉長至8個月- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "AI巨頭Anthropic上市文件點名台灣！警告台積電供應風險 自爆曾受影響 - UDN",
+          "score": 0
+        },
+        {
+          "title": "AI巨頭最怕什麼？Anthropic點名「台積電」警告台灣2大風險 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 247.5,
+    "predicted": 242.9605255126953,
+    "pct_change": -1.8341311059816918,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "蘋果iPhone Duo需求爆發！追加三成訂單 鴻海、台積電、新日興受惠 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "外資 iPhone Duo 供應吃緊 鴻海受惠 | 經濟日報 - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "鴻海電動車 MODEL A+ 搶先科技日前曝光！可坐七人 MPV 還能越野 - Yahoo - 汽機車",
+          "score": 0
+        },
+        {
+          "title": "2026鴻海科技日預告發表新電動車，Model A+瞄準越野休旅市場？ - 地球黃金線",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3960.0,
+    "predicted": 4086.787109375,
+    "pct_change": 3.201694681186869,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電、聯發科別二選一！杜金龍教你零股買法 這檔大跌買開盤價 - TVBS",
+          "score": -1
+        },
+        {
+          "title": "台股重量級法說會登場！聯發科、台達電、聯電上陣 AI 需求能變獲利？ - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "聯發科TPU進度遭質疑！ 花旗法說前送暖：目標上看6800元 - 東森電視",
+          "score": 0
+        },
+        {
+          "title": "聯發科法說會10/30！股價為何破4000、崩2成墜熊市？鴻海科技日10/30-31…Model A+看點曝光｜今周重磅 - 今周刊",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 217.66000366210938,
+    "predicted": 216.66831970214844,
+    "pct_change": -0.45561147811997926,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia, Intel, Other Major Tech Stocks Surge After Anthropic’s IPO Filing - Forbes",
+          "score": 1
+        },
+        {
+          "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs - TechCrunch",
+          "score": 0
+        },
+        {
+          "title": "Nvidia to invest $3 billion in Meta, expand partnership on Muse - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Jim Cramer Says Nvidia Would Be Criticized for Broadcom’s Anthropic Deal. Here’s Why - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 402.69500732421875,
+    "predicted": 391.792724609375,
+    "pct_change": -2.70732999330833,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Musk declares Tesla Robotaxi win over Waymo, but Waymo still drives 7x more - Electrek",
+          "score": 1
+        },
+        {
+          "title": "Trussville man’s blood alcohol twice legal limit in Mountain Brook Tesla crash that killed 2, prosecutors say - AL.com",
+          "score": -1
+        },
+        {
+          "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised) - TechCrunch",
+          "score": 1
+        },
+        {
+          "title": "Tesla’s AI ambitions take flight as rivals race to keep up - Financial Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 553.8099975585938,
+    "predicted": 510.6704406738281,
+    "pct_change": -7.789595181549862,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia, AMD and Broadcom could buy Meta shares as part of $35 billion stock offering - MarketWatch",
+          "score": 1
+        },
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys Circle Internet Group - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "Price Prediction: The Gap With Nvidia Could Shape AMD’s Next Big Move - 24/7 Wall St.",
+          "score": 0
+        },
+        {
+          "title": "Why Are Chip Stocks Nvidia (NVDA), AMD, and Broadcom (AVGO) Up Today? - TipRanks",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 80202.0078125,
+    "predicted": 80639.0390625,
+    "pct_change": 0.5449131036989897,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯準會決策前夕氣氛凝重 比特幣跌破 8 萬美元關卡 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "專家：比特幣可取代房產儲值功能 單枚上看百萬美元 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "某比特幣巨鯨沉寂5個月後從CEX提走11,330枚BTC，價值約9.03億美元 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "比特幣顯現疲軟跡象，而Ripple的銀行訴訟勝利未能提振XRP - 富途牛牛",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2329.1201171875,
+    "predicted": 2296.8955078125,
+    "pct_change": -1.3835529192849199,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "加密幣五年績效比一比：千元投資比特幣、以太坊回報大公開 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "OpenAI 推翻的 ETH 不是以太坊！「指數時間假說」是什麼？ - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "以太幣跌破 200 日均線 關鍵技術指標失守恐引發下行壓力 - 蕃新聞",
+          "score": 0
+        },
+        {
+          "title": "金色早報丨比特幣近兩月首破50日均線 以太坊上的X100遭持續攻擊 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
