@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 107.25,
+    "predicted": 108.90021514892578,
+    "pct_change": 1.538662143520542,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "再度失守9元大關！「這檔主動式」盤中爆量67萬張、大跌2.51% 槓桿ETF雙雄橫掃36萬張 - FTNN 新聞網",
+          "score": -1
+        },
+        {
+          "title": "元大台灣50 (0050.TW) 股價、新聞、報價和記錄 - Yahoo 財經",
+          "score": 0
+        },
+        {
+          "title": "006208 擬「1 拆 8」搶市！009816 還能投資嗎？0050、006208、009816 績效、成分股與手續費終極對比 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、2344 華邦電、2408 南亞科、1303 南亞、00406A 主動中信台灣收益(1028)｜豐雲學堂2026 年 10 月 - 永豐金證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2415.0,
+    "predicted": 2453.750732421875,
+    "pct_change": 1.604585193452381,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台積電跌10元至2415　台股跌129點來到46906點 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "外資再度賣超台積電 台股盤中大跌979點 聯發科重跌5% | 信傳媒 - LINE TODAY",
+          "score": -1
+        },
+        {
+          "title": "台積電發布重訊！ - 東森新聞",
+          "score": 0
+        },
+        {
+          "title": "父母送10張台積電（2330）！兒子離婚不用分給媳婦 律師曝1例外 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 248.0,
+    "predicted": 247.01475524902344,
+    "pct_change": -0.397276109264743,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海財報吃補 工業富聯Q3獲利創單季新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "研調估全球AI伺服器將突破250萬台 廣達、鴻海、緯穎擠進供應商前五名 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "鴻海今發重訊！ - 東森新聞",
+          "score": 0
+        },
+        {
+          "title": "[U-EV]2026鴻海科技日：可望具四驅與地形通過能力，預告將推全新Model A+跨界電動車款 - U-CAR新聞",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4045.0,
+    "predicted": 3975.14306640625,
+    "pct_change": -1.7269946500309024,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電攜手聯發科領軍攻克季線 台股收盤上漲939點、台積電收高25元 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "外資再度賣超台積電 台股盤中大跌979點 聯發科重跌5% | 信傳媒 - LINE TODAY",
+          "score": -1
+        },
+        {
+          "title": "焦點股》聯發科：Google盤後重摔 衝擊發哥又跌了 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "OPPO新機登台 帶旺聯發科 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 213.97999572753906,
+    "predicted": 217.83033752441406,
+    "pct_change": 1.799393342253191,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Can NVIDIA Stock Jump 50%? - Trefis",
+          "score": 1
+        },
+        {
+          "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Chief Seen as Target of Chinese Spy Plot - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 406.2049865722656,
+    "predicted": 406.8444519042969,
+    "pct_change": 0.15742429393280882,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "South Korean court rejects Tesla owners' lawsuit seeking 'Full Self-Driving' refunds - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Tesla Semi gets a new factory and a record order — now the electric truck must beat diesel on cost - Automotive News",
+          "score": 1
+        },
+        {
+          "title": "South Korean Police Are Cracking Down On Tesla Owners Jailbreaking FSD - InsideEVs",
+          "score": 0
+        },
+        {
+          "title": "Seoul Police Book 80 Tesla Owners Over Imported and Homemade Full Self-Driving Unlock Devices — Now Prosecutors Weigh Charges Carrying Up to Two Years - Yahoo",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 573.0599975585938,
+    "predicted": 542.5404052734375,
+    "pct_change": -5.3257237314031345,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Cathie Wood’s ARK sells AMD stock, buys AeroVironment and Joby - Investing.com",
+          "score": -1
+        },
+        {
+          "title": "AMD, CoreWeave Stocks Drop. Why Microsoft and Google Results Hit the AI Trade. - Barron's",
+          "score": -1
+        },
+        {
+          "title": "Advanced Micro Devices (AMD) Stock Falls After AI Revenue Reset Shakes Demand Outlook - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Not Nvidia. Not AMD. This Is the Best Artificial Intelligence (AI) Stock to Buy in November - The Motley Fool",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 81623.2265625,
+    "predicted": 81179.1953125,
+    "pct_change": -0.5440010995644718,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Mercado Bitcoin 開放 Sui 網路轉帳，450 萬巴西使用者受惠 - BigGo 財經",
+          "score": 1
+        },
+        {
+          "title": "微策略特別股創五個月新高Saylor 設 100 美元門檻續購比特幣- 財經新聞 - PChome Online 新聞",
+          "score": 1
+        },
+        {
+          "title": "Uber 早期投資人喊「比特幣不會再創新高！」美國地產大亨嗆聲：賭 100 萬美元| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "富蘭克林坦伯頓推出兩檔「美股＋比特幣」DRIP ETF：股息自動滾進 BTC，FBEQ 年費 0.09% - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2363.85009765625,
+    "predicted": 2394.62109375,
+    "pct_change": 1.3017321243956774,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯準會維持利率不變後，以太幣上漲1%，Coinbase溢價仍為負值 - www.tmgm.com",
+          "score": 1
+        },
+        {
+          "title": "以太幣(ETHUSD)10月29日突然下跌1.14%：市場行情在交易什麼？ - TradingKey",
+          "score": -1
+        },
+        {
+          "title": "以太幣跌破2,300美元，大戶拋售3.48億美元ETH，分析師看下探2,000美元 - BigGo 財經",
+          "score": 0
+        },
+        {
+          "title": "鉅亨買幣速報- USDC(USDC)24小時成交量超過16.99億美元，NFPrompt Token(NFP)24小時漲幅達65.8% - TradingView",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
