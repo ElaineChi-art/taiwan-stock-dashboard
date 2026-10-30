@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 104.94999694824219,
+    "predicted": 107.02155303955078,
+    "pct_change": 1.97385054935277,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050 元大台灣50 - 今日最夯ETF／台股震盪避險需求升溫！00632R逆勢漲2.3% 爆量17.8萬張- 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "台股大跌撿什麼？0050、0056這樣加碼獲利多5倍！跌幾%進場最划算？達人公開「ETF聰明買法」：抱5年勝率100% - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "台股血洗千點失守4.6萬點！10檔ETF慘淪提款機 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "台股明年六萬二！郭哲榮豪押1億成焦點- 證券 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2370.0,
+    "predicted": 2444.364990234375,
+    "pct_change": 3.137763301028481,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "科技類股持續失血！英特爾早盤暴跌26％ 台積電ADR跌3.5％ - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台積電發布重訊！ - 東森新聞",
+          "score": 0
+        },
+        {
+          "title": "台積電斥資388億元 買下友達中科廠 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "中科豪宅每坪84.2萬創高　台積電再砸388億買廠添話題 - ETtoday房產雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 245.5,
+    "predicted": 246.79922485351562,
+    "pct_change": 0.529215826279277,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "直攻 L4 自駕、強闖 K-Car 市場？鴻海科技日 3 款純電原型概念車亮相！ - Yahoo - 汽機車",
+          "score": 0
+        },
+        {
+          "title": "鴻海今發重訊！ - 東森新聞",
+          "score": 0
+        },
+        {
+          "title": "鴻海明年拚雙位數成長；德州仍有擴建需求- 新聞 - MoneyDJ理財網",
+          "score": 0
+        },
+        {
+          "title": "公股行庫放款被誰卡死？台積電、鴻海竟成「隱形銀行」被當金主調錢？ - 天下雜誌",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3915.0,
+    "predicted": 4056.91943359375,
+    "pct_change": 3.625017460887612,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科法說會》利多狂釋仍會變「法會」？投顧總座看下周一股價：跌深反彈 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "聯發科法說／首款AI加速器9月出貨！Q4估進帳790億、挑戰2218億新高 - TVBS新聞網",
+          "score": 1
+        },
+        {
+          "title": "聯發科跌回3800元、從天價蒸發3成！法說會前為何重挫，「TPU v9良率」疑慮今下午有解嗎？ | 下班經濟學 | 財經 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "聯發科AI ASIC明年營收拚160億美元，第2款後年量產- 新聞 - MoneyDJ理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 206.0399932861328,
+    "predicted": 209.5863494873047,
+    "pct_change": 1.7211979793878962,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "NVDA Stock Drops: Nvidia May Back Data Center Loan For Its Own Customer, Analyst Sees Little Impact From Intel’s Weak Report - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Big Tech ETF slumps as Nvidia and Amazon shares sell off - MarketWatch",
+          "score": -1
+        },
+        {
+          "title": "Nvidia Stock Is Set for Its Worst Month in a Year. Time to Buy the Dip. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Intel Plunges 25% as Weak Outlook and PC Slump Overshadow Earnings Beat; Dell Tumbles 13%, AMD Sinks 10%, NVIDIA Falls 3% - 24/7 Wall St.",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 400.94500732421875,
+    "predicted": 405.86907958984375,
+    "pct_change": 1.2281166184077748,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "South Korean court rejects Tesla owners' lawsuit seeking 'Full Self-Driving' refunds - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Musk’s Favorite Ticker Is Free for Taking in a SpaceX-Tesla Deal - Bloomberg",
+          "score": 0
+        },
+        {
+          "title": "The Case Against a SpaceX and Tesla Merger - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "If You Invest $1,000 in Tesla Today, Here’s What It Could Be Worth by 2030 - 24/7 Wall St.",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 511.9649963378906,
+    "predicted": 526.8051147460938,
+    "pct_change": 2.8986587978387544,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AMD Shares Fall 6.5% as Intel’s Weak PC Market Forecast Raises Semiconductor Demand Concerns - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Outlook: AMD's Meta Deal Boosts AI Growth Prospects - Barchart.com",
+          "score": 1
+        },
+        {
+          "title": "AMD stock falls as Intel's earnings flag PC slump and server supply squeeze - Quartz",
+          "score": -1
+        },
+        {
+          "title": "Advanced Micro Devices, Inc. $AMD Stock: Choreo LLC Boosts Holdings - MarketBeat",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 77405.3984375,
+    "predicted": 78962.4453125,
+    "pct_change": 2.0115481690301196,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美股開盤加密概念股全線下跌，Coinbase跌超12%，MSTR、ABTC跌超11% - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "Strategy 季賺近 200 億美元，比特幣越買越多，每股持幣卻在下降 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "比特幣跌破8萬美元關卡 科技財報與聯準會政策雙重衝擊加密市場 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破7.7萬美元！幣安遭駭引發幣圈震盪總影響估達63億美元- 國際 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2229.610107421875,
+    "predicted": 2249.184814453125,
+    "pct_change": 0.8779430522892843,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "幣安通報資安問題凍結25億美元 比特幣以太幣重挫 | 民視新聞網 - LINE TODAY",
+          "score": -1
+        },
+        {
+          "title": "6 小時爆倉 8 次、 Hyperliquid 帳戶一度只剩 1.5 美元！麻吉大哥數千萬美元獲利全吐回？ - Binance",
+          "score": 1
+        },
+        {
+          "title": "加密市場小幅下跌，資金費率顯示ETH看空情緒升溫，BTC維持中性區間 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破7.7萬美元！以太幣創兩個月新低！未來走勢如何？ - Mitrade",
+          "score": -1
+        }
+      ]
+    }
+  }
+]
