@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 104.0999984741211,
+    "predicted": 107.29217529296875,
+    "pct_change": 3.0664523204976035,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "法人單日賣超ETF破110萬張，0050與高股息還能當退休核心嗎？-詠晴K線解密 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "台達電跌不停！新手股民帳面虧損逾2萬崩潰喊「緊張了」 網友勸：越跌越買 - FTNN 新聞網",
+          "score": -1
+        },
+        {
+          "title": "0050股價116元新高還能買？100萬滾出2500萬，達人「無敵買法」曝光：月扣1萬、2萬能滾出多少錢？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、2330 台積電、00406A 主動中信台灣收益、009816 凱基台灣TOP50、00631L 元大台灣50正2 (1102)｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2330.0,
+    "predicted": 2434.162109375,
+    "pct_change": 4.4704767972103,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台積電「仙人指路」訊號再現？法人看好中長線布局外資回補成反攻關鍵- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "馬斯克態度轉彎？Terafab 傳與台積電重談合作 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "賣廠給台積電只是開始？友達布局玻璃基板試產線切入CoPoS先進封裝添想像- 日報 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "德州廠址已定？傳台積電砸450億美元此處設廠 與三星展開搶人搶資源大戰 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 251.0,
+    "predicted": 248.31143188476562,
+    "pct_change": -1.0711426753921813,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "4萬5失守！鴻海、聯發科難挑大梁 指數收跌291點 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "〈台股盤前要聞〉鴻海AI伺服器機架產能翻倍、聯發科ASIC Q4營收上修至25億美元 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "1圖懂》聯發科、鴻海、台達電...電子3王翻紅台股警報除？老手曝還欠「這隻腳」：43K可能還會來- 上市櫃 - 旺得富理財網",
+          "score": 0
+        },
+        {
+          "title": "攜鴻海加快研發 三菱電機移動：目標IPO - MoneyDJ",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3970.0,
+    "predicted": 4019.238525390625,
+    "pct_change": 1.2402651231895465,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AI巨頭現金流轉負要逃？聯發科、日月光重挫蔡明翰反指「砍資本支出」才危險：英特爾十年前就是例子- 上市櫃 - 旺得富理財網",
+          "score": -1
+        },
+        {
+          "title": "AI訂單點火！聯發科、聯亞獲利看旺法人看好ABF載板| 財經 - Newtalk新聞",
+          "score": 1
+        },
+        {
+          "title": "聯發科蔡力行：請大家買聯發科股票！要有耐心報酬一定驚人 - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "聯發科法說後八家外資搶喊讚 第二家 ASIC 客戶是誰？瑞銀提出二種可能 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 208.02499389648438,
+    "predicted": 208.84458923339844,
+    "pct_change": 0.3939888767990555,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "NVIDIA RTX 50 GPUs Will See A Massive Price Increase In November: RTX 5090s & 5080s Up By Almost $500, 5070 Ti Up $150 & Even RTX 5060 8GB Climbs Another $30 - Wccftech",
+          "score": 1
+        },
+        {
+          "title": "Micron, Nvidia, and AMD lead chip stocks rebound - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Nvidia orders data centre clients to reduce China exposure - Financial Times",
+          "score": 0
+        },
+        {
+          "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 398.29998779296875,
+    "predicted": 399.2223205566406,
+    "pct_change": 0.231567359261706,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Rivian Stock Can Rise More Than 30%. The R2 Isn’t Just for ‘Tesla Switchers.’ - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Tesla's China-made EV sales rise 10.3% y/y in October - Reuters",
+          "score": 1
+        },
+        {
+          "title": "Tesla Robotaxi Adds This New City, Stock Continues Rally - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Tesla Powerwall 3 now boosts heat pumps to store cheap solar as heat - Electrek",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 490.4005126953125,
+    "predicted": 513.3887329101562,
+    "pct_change": 4.68764196197454,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Micron, Nvidia, and AMD lead chip stocks rebound - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Jumps on Major Samsung Chip Manufacturing Breakthrough - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD hits $1 trillion market cap for the first time as stock rides 5-day rally - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Price Forecast: AMD Plunges Over 7% Ahead of Earnings, Risks Further 10% Drop - TradingKey",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 77447.890625,
+    "predicted": 76707.8046875,
+    "pct_change": -0.9555921168769728,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "觀望期中選舉與駭客陰霾襲捲 比特幣跌破7.7萬美元 創1個月新低 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "比特幣恐連五週收黑！期中選舉、蘋果警訊夾殺風險資產| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "Tether揭露持有15萬枚比特幣，市值約3,800億新台幣 - BigGo 財經",
+          "score": 0
+        },
+        {
+          "title": "幣安公布遭駭經過：北韓假面試入侵工程師，借內部 AI 工具拿到錢包權限 - 鏈新聞 ABMedia",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2289.72998046875,
+    "predicted": 2264.566650390625,
+    "pct_change": -1.0989649562510249,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "質押量新高、報酬卻縮水！以太坊殖利率降至 2.6%、Solana 約 6% - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "幣安熱錢包遭駭，20萬630枚以太幣流出，交易所持幣佔比下滑0.36個百分點 - BigGo 財經",
+          "score": -1
+        },
+        {
+          "title": "Bitmine 上週再掃 8,573 枚 ETH！Tom Lee：幣安遭駭後市場跌幅溫和「是牛市訊號」 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "幣安追回遭竊資產 95%，宣布分階段恢復提款 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
