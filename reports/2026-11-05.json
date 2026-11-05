@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 99.8499984741211,
+    "predicted": 105.33037567138672,
+    "pct_change": 5.488610196309635,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050跌破100關卡！小白手握200萬「想做1狂舉」賺暴利 眾人曝慘痛後果 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "0050跌破百元！手握200萬想進場 他猶豫「改買正2」 內行建議：放越久贏面越大 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "0050跌破百元！股票小白手握200萬想All in正二 網曝進場條件 - TVBS新聞網",
+          "score": 0
+        },
+        {
+          "title": "甜甜價來了？「0050」摔2.6%失守百元大關 成交量衝破20萬張 - 三立新聞網SETN.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2260.0,
+    "predicted": 2368.34521484375,
+    "pct_change": 4.794036055033186,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "50大權值股跌停11家！台股重挫1,374點連六黑 台積電收低20元 - UDN",
+          "score": -1
+        },
+        {
+          "title": "美股收盤》道瓊狂漲1569點！費半下挫3％ 台積電ADR跌逾2％ - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "聯發科邀請英特爾前高層 Navid Shahriari 加入，深化與台積電等重要供應鏈夥伴合作 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "聯發科：挖角前英特爾執行副總裁Navid Shahriari 深化與台積電供應鏈合作 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 240.0,
+    "predicted": 247.75535583496094,
+    "pct_change": 3.231398264567057,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海營收／10月為1.3兆元、再創歷史新高 今年挑戰10兆元以上 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "鴻海 挑價內外15% - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "劉揚偉：鴻海要當全球最大量子電腦製造商，商業化至少還要兩年 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "台達電股價慘遭腰斬！ 市值遭鴻海超車 跌出前三大 - 東森電視",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3715.0,
+    "predicted": 3837.060302734375,
+    "pct_change": 3.2856070722577386,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股崩跌1374點失守4萬2！台積電跌20元 聯發科重挫近7% - 壹蘋新聞網",
+          "score": -1
+        },
+        {
+          "title": "目標價900元！「聯發科金雞」EPS上看至30元 光通訊DSP營收占比續增、有線業務旺挹注獲利 - FTNN 新聞網",
+          "score": 1
+        },
+        {
+          "title": "聯發科股價重挫7％、外資連17 日賣超，蔡力行喊買股票，163 倍報酬神話還能信嗎？｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": -1
+        },
+        {
+          "title": "聯發科：挖角前英特爾執行副總裁Navid Shahriari 深化與台積電供應鏈合作 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 185.1199951171875,
+    "predicted": 197.394775390625,
+    "pct_change": 6.630715534357663,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia Stocks Decline 1.35% as $108 Billion Guide Sets the Next Revenue Hurdle - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Nvidia Partner Hon Hai’s Sales Rise 46% Thanks to AI Demand - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "EXCLUSIVE: Nvidia chips pile up in Hong Kong as China withholds import approval - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 343.3900146484375,
+    "predicted": 367.6964416503906,
+    "pct_change": 7.078373268028201,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "High-Horsepower EV Showdown: We Compare the Rivian R2 and Tesla Model Y - Car and Driver",
+          "score": 1
+        },
+        {
+          "title": "SpaceX and Tesla Stocks Tumble After Elon Musk-Backed Candidates Lose in Texas - The New York Times",
+          "score": -1
+        },
+        {
+          "title": "Fremont parents score a win in Tesla's bid to increase emissions near a school - SFGATE",
+          "score": 1
+        },
+        {
+          "title": "EXCLUSIVE: Tesla misled South Korean customers about automated-driving tech, consumer group alleges - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 414.54998779296875,
+    "predicted": 484.60919189453125,
+    "pct_change": 16.900061793404493,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AMD's data center revenue nearly doubles in Q3 and CEO Su expects growth to accelerate - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Buy, Sell Or Hold AMD Stock? - Trefis",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Is Up 170% in 2026. Could Meta Fuel Another Rally? - The Motley Fool",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 75999.796875,
+    "predicted": 77839.21875,
+    "pct_change": 2.420298409514664,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "ChatGPT預測加密貨幣新高：比特幣2027年上看15萬美元 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "比特幣回升突破8萬美元 但監管與資金面陰霾未散 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "比特幣重回 8 萬美元大關 加密市場瞬時清算逾 4 億美元 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "突發：美國比特幣$American Bitcoin (ABTC.US)$ 持有8,427 $比特幣(BTC.CC)... - Moomoo",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2254.2099609375,
+    "predicted": 2294.255615234375,
+    "pct_change": 1.7764828916034279,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣突破 8 萬美元、以太坊站上 $2400！美股開盤後三大指數同步上揚 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣跌破 7.8 萬美元、以太坊下探 $2300！美股盤中全黑、科技與加密概念股齊挫 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣跌破 8 萬美元、以太坊失守 $2400！全網 24 小時爆倉 7.23 億美元、逾 10 萬人被清算 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣深夜失守 7.6 萬、以太坊下探 2200 美元！全網近 4 小時爆倉 8.8 億美元 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
