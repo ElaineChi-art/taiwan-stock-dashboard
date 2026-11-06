@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 97.1500015258789,
+    "predicted": 106.70472717285156,
+    "pct_change": 9.835023671541023,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股失守4萬大關 散戶狂掃0050、00631L單日成交金額創新高 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "別人恐懼我貪婪？台股崩跌後急拉0050爆量逾71萬張、正 2 ETF一度搶到溢價| 財經 - Newtalk新聞",
+          "score": -1
+        },
+        {
+          "title": "0050漲到116.6元沒跑！一路下跌他後悔 網曝「最佳賣點」 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "自我了斷！上市櫃融資暴減565億創單日新高 熱門ETF融資降低 - 自由財經",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2240.0,
+    "predicted": 2325.708740234375,
+    "pct_change": 3.8262830461774553,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "〈台股開盤〉台積電跌停開出、融資斷頭潮湧現 崩跌逾3700點摜破年線 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "不給韓廠賺了？傳台積電考慮進軍先進記憶體晶片可能建新廠或收購| 全球財經| 全球 - UDN",
+          "score": 1
+        },
+        {
+          "title": "台股收盤重挫1873點失守4萬 台積電跌105元收2135元 - 壹蘋新聞網",
+          "score": -1
+        },
+        {
+          "title": "台積電要做AI記憶體？傳應輝達要求研擬生產3D DRAM - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 235.0,
+    "predicted": 241.8558807373047,
+    "pct_change": 2.9173960584275265,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海10月營收飆1.3兆創新高！年增46%　前10月狂收近9兆 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "台股最強印鈔機！鴻海10月營收續寫新高 下週法說會劉揚偉上陣解答引關注 | 鏡週刊 - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "鴻海上月業績飆1.3兆新高- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "鴻海10月營收首破1.3兆元創新高！AI業務意外月減 公司透露3原因 - Newtalk新聞",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3460.0,
+    "predicted": 3735.0517578125,
+    "pct_change": 7.949472769147399,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科開跌停3,115元後強勢拉升！盤中頻頻翻紅 能否逆勢收高？ - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "聯發科挖角英特爾37年封測老將，強攻AI晶片！Navid Shahriari是什麼來頭？ - 數位時代",
+          "score": 0
+        },
+        {
+          "title": "聯發科延攬英特爾37年老臣掌先進封裝 業內曝關鍵 - 中時新聞網",
+          "score": 0
+        },
+        {
+          "title": "聯發科延攬英特爾前主管　深化供應鏈夥伴合作 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 189.4250030517578,
+    "predicted": 196.86752319335938,
+    "pct_change": 3.9290062144372753,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia Boosts Chip Tracking in Southeast Asia to Fight Smuggling - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "Stock Market Today: Dow Pares Losses After Jobs Surprise; Nvidia, AMD Lead Tech Rebound (Live Coverage) - Investor's Business Daily",
+          "score": 0
+        },
+        {
+          "title": "Nvidia CEO called in by lawmakers over ties to alleged Chinese spy - Axios",
+          "score": 0
+        },
+        {
+          "title": "$11.4 million shipment of Nvidia cargo stolen from Oakland, Calif. - ABC7 Bay Area",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 361.1531982421875,
+    "predicted": 364.4429931640625,
+    "pct_change": 0.9109139661194084,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "‘The nail that sticks out gets hammered first’: Elon Musk’s net worth falls $113 billion from Tesla and SpaceX drops - Fortune",
+          "score": -1
+        },
+        {
+          "title": "Chip stocks lead tech rebound as SpaceX, Tesla jump: AlphaCheck - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla's monthly registrations rise across Europe as Chinese rivals gain ground - Reuters",
+          "score": 1
+        },
+        {
+          "title": "A long-term Elon Musk backer is cashing out of Tesla — and cutting its SpaceX exposure - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 444.7550048828125,
+    "predicted": 471.6812438964844,
+    "pct_change": 6.054173357929184,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97% - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD Jumps 8%, Intel and NVIDIA Climb 5% as Chip Stocks Rebound From Worst Sell-Off Since 2020 - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AI meltdown: Nvidia and Qualcomm drop more than 9%, pushing Nasdaq to worst day since April 2025 - CNBC",
+          "score": -1
+        },
+        {
+          "title": "AI Chip Stocks Crash as Nvidia, AMD and Micron Plunge in Historic Selloff - Stocks Down Under",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 75812.0234375,
+    "predicted": 76602.03125,
+    "pct_change": 1.04206137322174,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "摩根資產管理看好比特幣十年年化報酬10%，但真正關鍵在與美股的低相關性 - BigGo 財經",
+          "score": 1
+        },
+        {
+          "title": "比特幣回升至7.6萬美元，現貨ETF單日流出5,800億韓元，7.7萬美元成關鍵分水嶺 - BigGo 財經",
+          "score": 1
+        },
+        {
+          "title": "盤中速報 - 比特幣現金大跌8.15%，報266美元 - TradingView",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破75,000美元 - 鉅亨網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2230.030029296875,
+    "predicted": 2248.6806640625,
+    "pct_change": 0.8363400725821399,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣突破 8 萬美元、以太坊站上 $2400！美股開盤後三大指數同步上揚 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "比特幣跌破 7.8 萬美元、以太坊下探 $2300！美股盤中全黑、科技與加密概念股齊挫 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "比特幣 ETF 止血僅一天！富達撤資 2 億美元，BTC 、 ETH 基金合計失血 5.3 億 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "Anchorage Digital申請CFTC交換交易商註冊 擬推比特幣、以太幣選擇權 - 蕃新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
