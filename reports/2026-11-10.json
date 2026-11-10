@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 97.44999694824219,
+    "predicted": 102.11993408203125,
+    "pct_change": 4.792136767607461,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "0050元大台灣50穩居第一 10月定期定額首站上130萬戶新高 - 中時新聞網",
+          "score": 1
+        },
+        {
+          "title": "台股奔向4萬3千點！漲回千餘點中信00406A成交爆量居冠- 財經新聞 - PChome Online新聞",
+          "score": 1
+        },
+        {
+          "title": "台股震盪越跌越買！0050、0056定期定額人數雙創高，0050短短6天狂吸1440億元| 下班經濟學| 財經 - 風傳媒",
+          "score": -1
+        },
+        {
+          "title": "元大台灣50(0050)持股明細總覽 - 口袋證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2235.0,
+    "predicted": 2301.146728515625,
+    "pct_change": 2.95958516848434,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電10月營收飆5868億元年增近60% 創下歷史新高 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "台積電10月營收創新高，第四季達標還差多少？ - 口袋證券",
+          "score": 1
+        },
+        {
+          "title": "台積電Q3配息調升至每股9元、再創新高 明年4/8發股利 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "台積電10月營收5,868.9億元再創高！AI、2奈米推升Q4開門紅 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 239.0,
+    "predicted": 238.19920349121094,
+    "pct_change": -0.3350613007485617,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AI 伺服器、摺疊手機助攻，高盛看好鴻海 Q4 營收雙增 | 科技新報 - LINE TODAY",
+          "score": 1
+        },
+        {
+          "title": "鴻海(2317) AI伺服器市占衝50%，緯創(3231)等供應鏈受惠？機櫃、資料中心成新戰場｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": 1
+        },
+        {
+          "title": "鴻海集團旗下大廠「今起暫停交易」！證交所：重大訊息待公布 - 三立新聞網SETN.com",
+          "score": 0
+        },
+        {
+          "title": "10月營收慘跌87%！鴻海家族台揚「今起暫停交易」　重大訊息待公布 - ETtoday財經雲",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3725.0,
+    "predicted": 3696.32275390625,
+    "pct_change": -0.7698589555369127,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "聯發科：10月營收月減0.67％ 年增5.77％ - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "聯發科、創意 認購熱 | 權證特區 | 證券 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "2454 聯發科 - 專利審查越慢越好？智慧局長揭英特爾等大廠專利申請延緩5年「內幕」 - 股市爆料同學會 - CMoney",
+          "score": 0
+        },
+        {
+          "title": "台股盤中重登43000點　台積電聯發科領軍 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 167.52000427246094,
+    "predicted": 189.16055297851562,
+    "pct_change": 12.918187771090114,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "'Markets bottom on bad news' maxim rings true as chip stocks rally amid Nvidia scandal - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Nvidia and Jensen Huang face shareholder lawsuit alleging investors were misled about spy affair - AP News",
+          "score": -1
+        },
+        {
+          "title": "Nvidia falls for second day as investors weigh fallout of CEO’s affair with alleged spy - CNBC",
+          "score": -1
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy - The New York Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 375.6700134277344,
+    "predicted": 369.0680236816406,
+    "pct_change": -1.7573906647099846,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla’s China sales crash 66% to lowest level in over four years - Electrek",
+          "score": -1
+        },
+        {
+          "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer - Forbes",
+          "score": -1
+        },
+        {
+          "title": "Owensboro wins Tesla Supercharger voting contest - The Owensboro Times",
+          "score": 1
+        },
+        {
+          "title": "Tesla Cybertruck is EV pickup market's latest casualty - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 515.5501098632812,
+    "predicted": 475.41595458984375,
+    "pct_change": -7.784724414874178,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "NVIDIA Falls 4% as Board Probe of Jensen Huang Weighs on Shares; AMD and Broadcom Gain 3% - 24/7 Wall St.",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now? - The Globe and Mail",
+          "score": 1
+        },
+        {
+          "title": "Lisa Su Expects 80% Revenue Growth in 2027. AMD Stock Is Still a Strong Buy, But It Demands Flawless Execution. - Yahoo Finance",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 72981.640625,
+    "predicted": 74066.3203125,
+    "pct_change": 1.4862363715189502,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Binance Research：全球貨幣緊縮政策放緩或將利多比特幣 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "礦企 MARA 賣 1.36 萬枚比特幣還清貸款，Q3 淨賺 6.34 億美元 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "14家上市公司今年賣出1.2兆日圓比特幣，籌措AI投資銀彈 - BigGo 財經",
+          "score": 0
+        },
+        {
+          "title": "比特幣下探7.4萬美元 後市受二風險考驗 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2019.030029296875,
+    "predicted": 2071.20263671875,
+    "pct_change": 2.584043162549893,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "比特幣守7.5萬鎂、以太坊撐2,128美元，美股AI股全面反彈、恐慌指數續回升 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "BitMine 再買逾 9,500 枚 ETH！距目標僅一步之遙，Tom Lee 看好 AI 與代幣化超級週期 - 區塊客",
+          "score": 1
+        },
+        {
+          "title": "通膨頑固！美國 10 月 CPI 月增 0.4% 超預期，比特幣插針跌破 7.4 萬美元、以太坊下探 $2200 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣(ETH) 持倉量達607 萬枚，加密貨幣以及現金與有價證券總持倉價值達143 億美元- 國際新聞 - PChome Online新聞",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
