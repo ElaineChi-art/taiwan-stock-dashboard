@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 99.69999694824219,
+    "predicted": 99.47761535644531,
+    "pct_change": -0.22305075085641296,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050元大台灣50穩居第一 10月定期定額首站上130萬戶新高 - 中時新聞網",
+          "score": 1
+        },
+        {
+          "title": "00632R 元大台灣50反1 - 避險成功！獲利12840元入袋為安。 - 股市爆料同學會 - CMoney",
+          "score": 1
+        },
+        {
+          "title": "未成年存股趨勢最新發布，19.4%帳戶鎖定台股ETF，元大台灣50奪冠！-財經焦點情報站 - CMoney投資網誌",
+          "score": 0
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、2330 台積電、00878 國泰永續高股息、1802 台玻、1303 南亞 (1111)｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2285.0,
+    "predicted": 2292.740478515625,
+    "pct_change": 0.3387517949945295,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "〈台股盤前要聞〉台積電Q3配息9元同步入股Anthropic與OpenAI、台股連兩日飆漲千點外資卻持續倒貨 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "晶片股自高點跌29%！又是網路泡沫？台積電營收透露不同訊號 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "台股收復4萬3000點關卡 台積電拋10億美元AI投資案利多 - 公視新聞",
+          "score": 1
+        },
+        {
+          "title": "高啟全：台積電不會跨入 DRAM 製造，中國 DRAM 擴廠驚人 2 年時間產能開出 - TechNews 科技新報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 241.5,
+    "predicted": 239.61822509765625,
+    "pct_change": -0.779202858113354,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海財報前瞻／市場期待已高 第三季獲利恐受成本壓抑、第四季獲利率展望更關鍵 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "鴻海早盤跌破240元！法人看好AI伺服器擴產「目標價喊上327元」 - MSN",
+          "score": 1
+        },
+        {
+          "title": "AI 伺服器、摺疊手機助攻，高盛看好鴻海 Q4 營收雙增 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "鴻海(2317) AI伺服器市占衝50%，緯創(3231)等供應鏈受惠？機櫃、資料中心成新戰場｜股市話題｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3830.0,
+    "predicted": 3651.788818359375,
+    "pct_change": -4.653033463201697,
+    "news": {
+      "count": 12,
+      "score": 0.583,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "輝達「內外交迫」傳砍單！AMD、ASIC搶接商機聯發科、世芯有望受惠- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "Google TPU再出招！聯發科、創意誰更賺？官股看這檔明年EPS最高225元 - 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "AI晶片全面點火！創意強攻漲停 世芯、聯發科領軍ASIC大漲 - 聚財網",
+          "score": 1
+        },
+        {
+          "title": "創意、世芯、晶心科10月營收大成長 聯發科成長放緩 | 信傳媒 - LINE TODAY",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 175.7834930419922,
+    "predicted": 182.0623779296875,
+    "pct_change": 3.5719422677505768,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Stock Market Today: Nasdaq Jumps As CoreWeave Surges On Earnings; Nvidia, AMD Shares Bounce (Live Coverage) - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Nvidia stock gets a rare Wall Street downgrade on supply issues - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Watch Nvidia Scandal Raises China Stakes - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "Nvidia Intervened in US Government Probe: Report - Gizmodo",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 393.1300048828125,
+    "predicted": 381.75958251953125,
+    "pct_change": -2.8922804726316023,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Motorcyclist, 24, dies after Tesla crash in West Palm Beach - WPEC",
+          "score": -1
+        },
+        {
+          "title": "Cathie Wood Sells Tesla’s Chinese Rival BYD, Buys $6.3 Million of Air Taxi Stock Archer - Archer Aviation - Benzinga",
+          "score": -1
+        },
+        {
+          "title": "Rest in gaudy peace, Tesla Cybertruck | Column - Tampa Bay Times",
+          "score": 0
+        },
+        {
+          "title": "Finland clears Tesla assisted driving tech after changes - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 554.0916137695312,
+    "predicted": 485.8541564941406,
+    "pct_change": -12.315194018398065,
+    "news": {
+      "count": 12,
+      "score": 0.417,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Could Jump 34%. No, It’s Got Nothing to Do With the Nvidia Turmoil. - Barron's",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Rises On Google Cloud Deal, Wall Street Upgrade - Investor's Business Daily",
+          "score": 1
+        },
+        {
+          "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy. - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins - MarketWatch",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 74175.0625,
+    "predicted": 74810.5859375,
+    "pct_change": 0.856788543319394,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "比特幣究竟怎麼了 漲不動跌不破？ - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "德意志銀行加密託管服務正式上線！支援 BTC、ETH 等五種資產 - 動區動趨",
+          "score": 0
+        },
+        {
+          "title": "James Lavish：比特幣2029年中看50萬美元，保守情境也有30萬美元 - BigGo 財經",
+          "score": 0
+        },
+        {
+          "title": "主要加密貨幣行情，比特幣跌0.22% - etnet 經濟通",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 2073.929931640625,
+    "predicted": 2107.373291015625,
+    "pct_change": 1.6125597526115043,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "新加密貨幣Pepeto募資逾1100萬美元 分析師看漲以太坊挑戰1.5萬 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "Bitmine 財年淨損 63 億美元！ETH 跌 43%、62 億來自評價損失 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "SharpLink Q3 淨利 7.51 億鎂！靠 ETH 帳面增值，股價年內跌 36% - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "憂美國加強監管 比特幣、以太幣跌至逾2個月新低 - Yahoo股市",
+          "score": -1
+        }
+      ]
+    }
+  }
+]
