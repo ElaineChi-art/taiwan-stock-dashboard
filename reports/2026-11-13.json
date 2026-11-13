@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 100.94999694824219,
+    "predicted": 103.00411224365234,
+    "pct_change": 2.034784900947859,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股越跌越敢買！ 0050定期定額扣款衝破130億創紀錄| 財經 - Newtalk新聞",
+          "score": -1
+        },
+        {
+          "title": "元大台灣50正2規模突破3千億元 - UDN",
+          "score": 1
+        },
+        {
+          "title": "11/13 ETF 三大法人買賣超日榜｜合計買超最多00403A(主動統一升級50)、賣超最多00406A(主動中信台灣收益)-ETF股長 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、0056 元大高股息、2454 聯發科、00406A 主動中信台灣收益、1802 台玻(1113)｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2340.0,
+    "predicted": 2306.6376953125,
+    "pct_change": -1.4257395165598292,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台積電喊先進製程需求「永無止境」 AI 成長呈現拋物線攀升 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台積電美日廠前三季合賺563.83億熊本連三季獲利- 產業 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "美銀看好台積電：明年資本開支上看900億美元 先進製程供需持續吃緊 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "2330 台積電 - 台積電（2330）美日新廠持續繳出獲利。13日公布的完整財報... - 股市爆料同學會 - CMoney",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 240.0,
+    "predicted": 236.30209350585938,
+    "pct_change": -1.5407943725585938,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海Q3每股賺5.51元 明年AI機櫃出貨看增高雙位數 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "鴻海前三季 EPS 13.35 元創同期新高，Q4 與明年 AI 機櫃出貨拚高雙位數成長 - 鏈新聞 ABMedia",
+          "score": 1
+        },
+        {
+          "title": "鴻海機櫃產量第1卻非首選！緯創、廣達…外資卻偏好它：潛在上漲空間最大- 上市櫃 - 旺得富理財網",
+          "score": 1
+        },
+        {
+          "title": "〈鴻海法說〉Q3純益775億元季增近3成EPS5.51元創新高 前三季每股賺13.35元 - 鉅亨網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3850.0,
+    "predicted": 3859.251708984375,
+    "pct_change": 0.24030412946428573,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "黃仁勳下台！法人看好ASIC迎商機 聯發科、創意、世芯-KY強勢漲停 - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "【最新消息】聯發科、創意帶動，ASIC 18檔上漲看3檔指標股-起漲K線 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "【創意、世芯、聯發科=下一站萬金股？】台積電320億神操作！點亮ASIC三大天王獲利爆發行情！ - 鉅亨網",
+          "score": 1
+        },
+        {
+          "title": "黃仁勳辭職資金大搬風！聯發科被搶買飆漲停 3千多張排隊等買 - Yahoo股市",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 159.85000610351562,
+    "predicted": 171.0811767578125,
+    "pct_change": 7.026068329971659,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Billionaires Back Jensen Huang—KoGuan Cuts Nvidia Investment Plans, Musk Pays Tribute - Forbes",
+          "score": -1
+        },
+        {
+          "title": "10-Year Treasury yield spikes on hot inflation read, Nvidia leads chip stocks lower: AlphaCheck - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Trump calls Huang saga a 'horrible thing' and 'so sad to see' - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster - CNN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 389.92999267578125,
+    "predicted": 386.3349914550781,
+    "pct_change": -0.9219606822325911,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "Tesla and Cars & Coffee Organizers Sued After Alleged 83-MPH Test Drive Ends in Head-On Crash - Road & Track",
+          "score": -1
+        },
+        {
+          "title": "If You Want to Order a New Tesla Cybertruck, You’re Now Forced to Buy the $112K Cyberbeast - Car and Driver",
+          "score": 1
+        },
+        {
+          "title": "UPDATE: Tesla crash causes $150,000 in property damage - KELOLAND.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 523.3167724609375,
+    "predicted": 508.00860595703125,
+    "pct_change": -2.925219925957736,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "Intel vs AMD: which chip stock wins the AI rotation trade - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "AMD upgraded because it will benefit from Nvidia's 'leadership vacuum' - CNBC",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Soars As It Inks Deal With Google Cloud. How to Play AMD Now. - Barchart.com",
+          "score": 1
+        },
+        {
+          "title": "AMD and Broadcom Stock Get a Boost From Nvidia’s Loss - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 68613.8984375,
+    "predicted": 70736.0625,
+    "pct_change": 3.0929069923538406,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AI股崩盤陰霾未散 標普500逼近新高比特幣承壓 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "美國CPI數據升溫 比特幣未脫頹勢 ETF巨額流出衝擊市場 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "加密市場全線下跌，資金費率顯示BTC、ETH均處於看跌區間 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "升息陰影壓境 比特幣失守7萬美元 美債2年期殖利率四日增近40個基點 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1926.780029296875,
+    "predicted": 2018.213623046875,
+    "pct_change": 4.745409043053356,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "加密市場全線下跌，資金費率顯示BTC、ETH均處於看跌區間 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "快訊｜以太幣跌破 2,000 美元創三個月新低 全網一日爆倉約 7.27 億美元 - 蕃新聞",
+          "score": -1
+        },
+        {
+          "title": "比特幣跌破7萬美元多單慘遭血洗！逾18萬人爆倉、ETF連6日失血- 金融 - 工商時報",
+          "score": 0
+        },
+        {
+          "title": "比特幣深夜再跌破 6.9 萬、ETH 下探 1,900 美元！全網 24 小時爆倉 13.1 億鎂 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
