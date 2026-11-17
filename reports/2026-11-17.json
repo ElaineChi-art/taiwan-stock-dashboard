@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 96.44999694824219,
+    "predicted": 102.5963363647461,
+    "pct_change": 6.372565693083647,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "焦點股》0050：開盤重挫千點 散戶撿鑽石？ - 自由時報",
+          "score": -1
+        },
+        {
+          "title": "台股開盤大跌超過千點 買盤大舉湧入台灣50和正二 - UDN",
+          "score": -1
+        },
+        {
+          "title": "11/17 ETF 三大法人買賣超日榜｜合計買超最多 00988A(主動統一全球創新)、賣超最多 00406A(主動中信台灣收益) - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "台股重挫2635點想抄底？元大投信：過去20年99%股票輸0050 - Yahoo股市",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2215.0,
+    "predicted": 2334.454833984375,
+    "pct_change": 5.392994762274266,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "【即時新聞】最新！美銀重申台積電買進評等，看好擴廠上看600億美元營收貢獻 - CMoney投資網誌",
+          "score": 1
+        },
+        {
+          "title": "美股收盤》輝達財報倒數！主要指數盡墨 台積電ADR重挫6.34％ - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台積電ADR大跌6.3% 台指期反彈154點 - 經濟日報",
+          "score": -1
+        },
+        {
+          "title": "Q3財報五天王台積電最賺- 日報 - 工商時報",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 218.5,
+    "predicted": 228.82403564453125,
+    "pct_change": 4.724959105048627,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "鴻海出貨動能強勁- 日報 - 工商時報",
+          "score": 1
+        },
+        {
+          "title": "廣達營收暴增125％、緯創翻倍，鴻海只成長46％，為何股價最能扛？AI伺服器三雄現在買誰？現金流藏玄機 - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "市場氣氛轉弱 外資調降廣達、鴻海及緯創等 AI 伺服器概念股目標價 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "鴻海攜手索尼簽約 砸15億買下車載相機模組事業 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3795.0,
+    "predicted": 3943.926025390625,
+    "pct_change": 3.924269443758235,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "輝達接班不確定！郭明錤點2公司受惠　「聯發科是最大贏家」 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "郭明錤看好 Google TPU 出貨能見度延伸至 2029 年，輝達換帥不確定性成助力，聯發科最受惠 - INSIDE",
+          "score": 1
+        },
+        {
+          "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "台股重挫952點！AI股還能買誰？法人點名聯發科上看兆元營收| 財經 - Newtalk新聞",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 153.99000549316406,
+    "predicted": 167.5790557861328,
+    "pct_change": 8.824631345033621,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "US authorities interviewed Alice Huang in probe over possible diversion of chips - CNN",
+          "score": -1
+        },
+        {
+          "title": "Jensen Huang started closing the Bank of Nvidia months before he left — here’s what’s still open: Chart of the Day - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Former Nvidia CEO Jensen Huang says he’s open to returning in first statement since resignation - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Madison Huang, Jensen Huang’s Daughter, Became a Powerful Force at Nvidia - The New York Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 380.6499938964844,
+    "predicted": 386.757568359375,
+    "pct_change": 1.6045119035392776,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Stocks Fall 2.8% as SpaceX Merger Talk Turns to Who Buys Whom - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About - WIRED",
+          "score": 0
+        },
+        {
+          "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "Prediction market odds for Tesla-SpaceX merger by April 2027 top 60% - CNBC",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 490.572998046875,
+    "predicted": 520.2127075195312,
+    "pct_change": 6.0418550533073025,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "AMD’s Nvidia Rally Fades: Michael Burry Calls AMD ‘Too Expensive As Eternal Alternative’ - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Is AMD Stock Still a Buy After Its Post-Earnings Jump? - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "Trump’s Tighter Chip Rules Sink AMD and Broadcom, Not Just Nvidia - TIKR.com",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Falls 11.8% as Intel’s PC Warning Triggers Chip Selloff Ahead of Nov. 3 Results - FinanceFeeds",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 63806.16015625,
+    "predicted": 64440.80078125,
+    "pct_change": 0.994638485446981,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "加密恐懼指數跌至13 比特幣自8月高點回落17% 歷史經驗指向緩步復甦 - BigGo 財經",
+          "score": -1
+        },
+        {
+          "title": "比特幣連跌六週創四個月新低 爆倉逾億美元恐探6萬關卡 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "比特幣單月跌逾兩成 美股加密概念股盤前全線重挫 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "比特幣腰斬跌至 6.4 萬美元！灰度喊「進場良機」，揭露幣市暴跌兩大元凶 - 區塊客",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1788.3199462890625,
+    "predicted": 1796.8175048828125,
+    "pct_change": 0.4751699275838901,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "BitMine持幣突破600萬枚、ETF資金持續失血，以太幣徘徊1,820美元附近 - BigGo 財經",
+          "score": 1
+        },
+        {
+          "title": "比特幣下殺6.2 萬創四個月新低、以太坊跌破$1,750！市場極度恐懼| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "加密市場全線下跌，資金費率顯示ETH看空情緒顯著升溫，BTC整體仍處看跌區間 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "幣安駭客透過THORChain洗錢，1.37億美元以太幣流出、23.5億美元贓款仍未清洗 - BigGo 財經",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
