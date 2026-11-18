@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 94.0,
+    "predicted": 99.68878936767578,
+    "pct_change": 6.05190358263381,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "11/18 ETF 三大法人買賣超日榜｜合計買超最多 00988A(主動統一全球創新)、賣超最多 00406A(主動中信台灣收益) - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "台積漲5元台股回彈收在40938點中信00406A成交爆巨量收漲- 財經新聞 - PChome Online 新聞",
+          "score": 1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、0056 元大高股息、00919 群益台灣精選高息、00878 國泰永續高股息、00406A 主動中信台灣收益(1118)｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": 0
+        },
+        {
+          "title": "元大台灣50反1(00632R)成分股、持股明細總覽 - 口袋證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2170.0,
+    "predicted": 2318.645751953125,
+    "pct_change": 6.850034652217742,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "國安基金護盤失敗！台積電震盪115元下跌45元 指數收跌947點 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台積電開始發出漲價通知 明年漲幅最高超過20％ - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "台股回血846點逼近41K　台積電漲40元2210 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "台積電拉回拖累0050跌破百元！法人算出130元目標價分析師預言「這2天」現黃金W底 - 上市櫃 - 旺得富理財網",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 219.0,
+    "predicted": 222.46884155273438,
+    "pct_change": 1.5839459144905823,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海宣布收購Sony半導體車載相機模組事業！斥資72.4億日圓看好ADAS未來發展 - 地球黃金線",
+          "score": 1
+        },
+        {
+          "title": "鴻海重大併購！　72億日圓買下Sony車載相機事業 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "鴻海收購 Sony 半導體車載相機模組事業 - TechNews 科技新報",
+          "score": 0
+        },
+        {
+          "title": "重大併購！鴻海72億吞Sony車載相機事業 智慧車版圖再下一城 - 三立新聞網SETN.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3840.0,
+    "predicted": 3908.482421875,
+    "pct_change": 1.7833964029947917,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "輝達接班不確定！郭明錤點2公司受惠　「聯發科是最大贏家」 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "看好聯發科！第四季拉貨跳升 摩爾投顧蔡慶龍曝「關鍵數字」 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "台股跌回4萬1還沒完！分析師警告恐探3萬8「打第二隻腳」誰才是真正錯殺股？台積電、聯發科、0050最新目標價全解析 - 旺得富理財網",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 152.0500030517578,
+    "predicted": 158.36651611328125,
+    "pct_change": 4.154234090592748,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Cantor Fitzgerald's Nvidia business interests targeted in Democrats' Lutnick probe - CNBC",
+          "score": -1
+        },
+        {
+          "title": "AI chip export controls targeting China gain bipartisan momentum after Nvidia scandal - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Dow slides 400 points, Nasdaq seesaws as Nvidia earnings bounce fizzles: Live updates - CNBC",
+          "score": 0
+        },
+        {
+          "title": "Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang - NPR",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 384.7349853515625,
+    "predicted": 385.1603088378906,
+    "pct_change": 0.11054972968976906,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla Stock Is Still a High-Stakes Bet on the Future. Here’s My Price Target - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About - WIRED",
+          "score": 0
+        },
+        {
+          "title": "Elderly people are buying Teslas for the ‘full self-driving.’ This is a problem - Fast Company",
+          "score": 0
+        },
+        {
+          "title": "'Coming Soon': Elon Musk Hints Tesla Owners Could Put Their Model Ys to Work as Robotaxis Without Driving - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 515.530029296875,
+    "predicted": 533.471435546875,
+    "pct_change": 3.4801864547968355,
+    "news": {
+      "count": 12,
+      "score": 0.333,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD, Broadcom, CoreWeave stocks mixed on Nvidia Q3 earnings beat - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Prediction: These Will Be Nvidia’s and AMD’s Stock Prices by the End of 2027 (Hint: Only 1 Is a Buy). - The Motley Fool",
+          "score": 1
+        },
+        {
+          "title": "AMD Stock Rises Today and Investors Can Thank Nvidia (NVDA) for the Boost - TipRanks",
+          "score": 1
+        },
+        {
+          "title": "Is AMD Stock a Buy Amid the Uncertainty Around Nvidia? - The Motley Fool",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 63128.078125,
+    "predicted": 64318.3828125,
+    "pct_change": 1.8855392447447488,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "比特幣腰斬跌至 6.4 萬美元！灰度喊「進場良機」，揭露幣市暴跌兩大元凶 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "花旗下修比特幣12個月目標價至9.9532萬美元，點名ETF資金外流與需求疲弱 - BigGo 財經",
+          "score": -1
+        },
+        {
+          "title": "11月18日更新： #比特幣ETFs: 1日淨流入：-4,216 $比特幣(BTC.CC)$(-$2.6946億)... - Moomoo",
+          "score": 0
+        },
+        {
+          "title": "比特幣與黃金走勢預測：聯準會會議紀錄公布前，BTC 與 XAU 跌勢延續 - www.tmgm.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1771.550048828125,
+    "predicted": 1800.69677734375,
+    "pct_change": 1.6452670098090354,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "花旗下修比特幣12個月目標價至9.9532萬美元，點名ETF資金外流與需求疲弱 - BigGo 財經",
+          "score": -1
+        },
+        {
+          "title": "以太幣重挫跌破 1,800 美元 鏈上數據曝散戶斷頭與巨鯨逢低建倉分歧 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "以太幣重挫跌破 1,800 美元 鏈上數據曝散戶斷頭與巨鯨逢低建倉分歧 - 商傳媒",
+          "score": -1
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) 宣佈乙太幣 (ETH) 持倉量達 608 萬枚，加密貨幣以及現金與有價證券總持倉價值達 118 億美元 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
