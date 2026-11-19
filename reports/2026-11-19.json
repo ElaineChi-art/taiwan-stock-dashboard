@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 94.0999984741211,
+    "predicted": 99.81097412109375,
+    "pct_change": 6.069049670115839,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "外資屠殺一票ETF！「這檔」慘遭血洗21萬餘張 股價重挫7.01% - 三立新聞網SETN.com",
+          "score": -1
+        },
+        {
+          "title": "台股主動式ETF爆多殺多，統一台股增長單日重挫超過8%-財經焦點情報站 - CMoney投資網誌",
+          "score": -1
+        },
+        {
+          "title": "台股半年漲跌一場空？0050報酬僅1.7％、00918高達35％！同樣買100萬竟差33.6萬...00878、00919賺多少？ - 今周刊",
+          "score": 1
+        },
+        {
+          "title": "【零股排行榜】 盤中零股成交量TOP 20｜0050 元大台灣50、0056 元大高股息、00406A 主動中信台灣收益、00878 國泰永續高股息、00631L 元大台灣50正2 (1119)｜豐雲學堂2026 年 11 月 - 永豐金證券",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2175.0,
+    "predicted": 2289.118896484375,
+    "pct_change": 5.246845815373563,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "輝達柯蕾絲說台積電高層親赴送暖宣布與景碩矽品合作點名多家台廠| 黃仁勳辭輝達| 全球 - udn",
+          "score": 0
+        },
+        {
+          "title": "台積電開始發出漲價通知 明年漲幅最高超過20％ - 自由財經",
+          "score": 0
+        },
+        {
+          "title": "【Follow法人】外資選前先落跑？狠砍台積電181億元 反手搶進鴻海1萬張 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "美國晶片封鎖再升級！外媒揭台積電、三星暫停向部分中國客戶出貨 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 221.0,
+    "predicted": 229.67005920410156,
+    "pct_change": 3.9231037122631505,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "輝達進入「後黃仁勳時代」？鴻海共同聲明：承諾與輝達長期合作 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "鴻海宣布擬砸近15億元 收購索尼半導體車載相機模組事業 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "鴻海：Foxconn EV Technology取得Foxconn System股權，計2000萬美元 - 台視全球資訊網",
+          "score": 0
+        },
+        {
+          "title": "輝達代理CEO喊話擴大與台廠合作 鴻海多路進擊 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3940.0,
+    "predicted": 3963.1552734375,
+    "pct_change": 0.5876972953680203,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Google 壯大搶輝達地盤 TPU 出貨看到2029年 聯發科、博通受惠 - 經濟日報",
+          "score": 1
+        },
+        {
+          "title": "國家隊買盤一夜翻倍！台積電、台達電、聯發科… 10大買賣超「2檔大轉彎」 - 上市櫃 - 旺得富理財網",
+          "score": -1
+        },
+        {
+          "title": "看好聯發科！第四季拉貨跳升 摩爾投顧蔡慶龍曝「關鍵數字」 - 三立新聞網SETN.com",
+          "score": 1
+        },
+        {
+          "title": "AI晶片採購預測「下修近3成」 SemiAnalysis砍聯發科TPU專案出貨預估- 日報 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 149.08999633789062,
+    "predicted": 156.29164123535156,
+    "pct_change": 4.83040114987961,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia, Broadcom, Micron stocks rise leading up to Anthropic's first trade - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "How Nvidia Chips Ended Up Within Reach of China’s Military - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "Nvidia stops shipping US-approved AI chips to China - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Blacklisted Chinese universities procured Nvidia chips, records show - CNN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 378.07000732421875,
+    "predicted": 379.13604736328125,
+    "pct_change": 0.28196895241899045,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tesla’s Cybercab Is the Subscription Hell They Told You Not to Worry About - WIRED",
+          "score": 0
+        },
+        {
+          "title": "Trump’s Financial Disclosure Reveals SpaceX, Tesla, Nvidia Trades - Forbes",
+          "score": 0
+        },
+        {
+          "title": "Tesla Stock Could Be Worth Much More in 2027. Here’s the Number I’m Watching - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "How Much Is the 2027 Tesla Model Y? - Cars.com",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 488.4549865722656,
+    "predicted": 521.7786865234375,
+    "pct_change": 6.822266302371288,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "AMD falls on short-seller report of alleged China exposure - CNBC",
+          "score": -1
+        },
+        {
+          "title": "AMD shares slide as report says China links could invite US scrutiny - Reuters",
+          "score": -1
+        },
+        {
+          "title": "Why Is AMD Stock Rising Overnight? - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "Why AMD Stock Was Plunging on Thursday - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 62681.3984375,
+    "predicted": 63970.1484375,
+    "pct_change": 2.0560326223178005,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "比特幣一度跌至 6.2 萬美元創 8 月以來新低，連續第 6 週下跌 - INSIDE",
+          "score": -1
+        },
+        {
+          "title": "比特幣腰斬跌至 6.4 萬美元！灰度喊「進場良機」，揭露幣市暴跌兩大元凶 - 區塊客",
+          "score": -1
+        },
+        {
+          "title": "11天跌15%，比特幣會跌破6萬美元嗎？這波跌什麼？ - 天下雜誌",
+          "score": -1
+        },
+        {
+          "title": "Hayes 警告：AI 泡沫若破，比特幣恐下探 1 萬美元，但真正的賭注是政府紓困 - BigGo 財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1769.02001953125,
+    "predicted": 1774.8902587890625,
+    "pct_change": 0.3318356600265032,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "以太幣重挫跌破 1,800 美元 鏈上數據曝散戶斷頭與巨鯨逢低建倉分歧 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "麗盈聊幣：11.19比特幣（BTC）和以太坊（ETH）最新行情分析 - 鉅亨網",
+          "score": 0
+        },
+        {
+          "title": "花旗調降比特幣與以太幣目標價直指資金外流與槓桿退場- 財經新聞 - PChome Online 新聞",
+          "score": 0
+        },
+        {
+          "title": "CoinShares 清空所有ETH、大砍半成SOL 持倉！資金轉向回購自家股票| 動區動趨-最具影響力的區塊鏈新聞媒體 - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
