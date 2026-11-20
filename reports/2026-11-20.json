@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 90.19999694824219,
+    "predicted": 96.52490234375,
+    "pct_change": 7.012090476163893,
+    "news": {
+      "count": 12,
+      "score": -0.5,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "外資咬著不放！連5日狠砍「0050」36萬張 股價重挫逾6%失守90元大關 - 三立新聞",
+          "score": -1
+        },
+        {
+          "title": "0050股價破85元！一個半月跌27%已是「甜蜜抄底價」？施昇輝以身作則：找安心標的套滿套好 - 今周刊",
+          "score": -1
+        },
+        {
+          "title": "元大台灣50收在84.45元重挫6.37% 台股盤中一度大跌逾2400點 - 蕃新聞",
+          "score": -1
+        },
+        {
+          "title": "甜甜價來了？0050成交量衝破28萬張 股價重挫5%失守90元 - 三立新聞網SETN.com",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2100.0,
+    "predicted": 2228.515869140625,
+    "pct_change": 6.119803292410714,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "台積電跌破2100元免驚！ 大摩仍看好喊買 目標價3088元 - 東森電視",
+          "score": 1
+        },
+        {
+          "title": "AI拋售未止血！費半、台積電ADR跌逾4％ 那斯達克今年漲幅縮至1％ - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台積電跌破2,000元關卡 多重因素衝擊禁空令雙面刃 - UDN",
+          "score": -1
+        },
+        {
+          "title": "台積電創逾 7 個月新低價，盤中零股交易衝逾 241 億元 - TechNews 科技新報",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 220.5,
+    "predicted": 221.45294189453125,
+    "pct_change": 0.4321731947987528,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海、鈊象 押寶長天期 - 經濟日報",
+          "score": 0
+        },
+        {
+          "title": "鴻海：Foxconn EV Technology取得Foxconn System股權，計2000萬美元 - 台視全球資訊網",
+          "score": 0
+        },
+        {
+          "title": "輝達進入「後黃仁勳時代」？鴻海共同聲明：承諾與輝達長期合作 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "鴻海 目標價看300元 - 工商時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3720.0,
+    "predicted": 3844.2548828125,
+    "pct_change": 3.340185021841398,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "台股跌2353點「史上第三大」！市值蒸發超過7兆元 等於跌掉聯發科+台達電 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "AI ASIC 與 TPU 動能強勁，大摩喊聯發科目標價 6,188 元 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "旺宏賠48%想抱10年！ 聯發科賺57元反想賣 網勸：專心存錢 - 東森電視",
+          "score": 1
+        },
+        {
+          "title": "國家隊買盤一夜翻倍！台積電、台達電、聯發科… 10大買賣超「2檔大轉彎」 - 上市櫃 - 旺得富理財網",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 135.63999938964844,
+    "predicted": 153.47451782226562,
+    "pct_change": 13.148421197927442,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Democrats open probe into Nvidia influence on US Megaspeed investigation - Reuters",
+          "score": -1
+        },
+        {
+          "title": "House Democrats probe whether Nvidia helped halt Commerce chip-smuggling inquiry - Politico",
+          "score": -1
+        },
+        {
+          "title": "Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine - The New York Times",
+          "score": 0
+        },
+        {
+          "title": "Stocks Often Prosper After an Abrupt C.E.O. Exit. Is Nvidia Different? - The New York Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 352.67999267578125,
+    "predicted": 374.7134094238281,
+    "pct_change": 6.247424635823387,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "ISP: Intoxicated woman’s Tesla was in self-driving mode during interstate crash - Fox 59",
+          "score": -1
+        },
+        {
+          "title": "I relocated for a data center job and am living in my Tesla for a month. I feel way happier than I thought. - Business Insider",
+          "score": 0
+        },
+        {
+          "title": "Don’t Sell Tesla Stock. A Merger Is Coming. - Barron's",
+          "score": 0
+        },
+        {
+          "title": "Tesla proposes $3.1 bln Texas polysilicon plant for solar manufacturing - Reuters",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 433.82501220703125,
+    "predicted": 508.245361328125,
+    "pct_change": 17.15446251992005,
+    "news": {
+      "count": 12,
+      "score": -0.333,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Nvidia stock extends 6-day losing streak, as AMD, Broadcom lead chip sector lower - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Who Is Lisa Su? AMD CEO as Shares Fall on a Short Report - The Profile | Polina Pompliano",
+          "score": -1
+        },
+        {
+          "title": "Nvidia and AMD continue to slide as chip stocks weaken - MarketWatch",
+          "score": -1
+        },
+        {
+          "title": "Anthropic stock falls 9% to open first full day of trading amid AI sell-off - CNBC",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 59165.58984375,
+    "predicted": 61564.83984375,
+    "pct_change": 4.05514422544618,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "比特幣兩週崩跌19%逼近6.5萬美元 加密熊市疑慮再起 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "崩盤好事還壞事？「富爸爸窮爸爸」作家清崎：這種貨幣跌愈多買愈多| 全球財經| 全球 - UDN",
+          "score": -1
+        },
+        {
+          "title": "比特幣挖礦企業接連轉型AI資料中心 因為那樣比較賺錢 #電力 (254240) - Cool3c",
+          "score": 1
+        },
+        {
+          "title": "幣股雙殺！比特幣失守 6 萬美元，AI 與半導體遭血洗、Anthropic 上市第二天跌逾 10% - 動區動趨",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1630.1199951171875,
+    "predicted": 1763.07958984375,
+    "pct_change": 8.15642990238913,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "悅盈：11.20比特幣以太坊行情分析 震盪慢跌空頭還有最後一擊？附短線 - 鉅亨網",
+          "score": -1
+        },
+        {
+          "title": "以太幣重挫跌破 1,800 美元 鏈上數據曝散戶斷頭與巨鯨逢低建倉分歧 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "以太幣七週跌掉1,000美元，交易所流入與ETF失血雙重夾擊 - BigGo 財經",
+          "score": -1
+        },
+        {
+          "title": "以太幣價格預測：散戶需求回升仍難抵銷 ETF 資金流出，ETH 走弱 - www.tmgm.com",
+          "score": 1
+        }
+      ]
+    }
+  }
+]
