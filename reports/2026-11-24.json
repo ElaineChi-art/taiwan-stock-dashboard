@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 87.0,
+    "predicted": 94.12989807128906,
+    "pct_change": 8.195285139412716,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "一天賺逾一個月薪水！0050正2等「4檔槓桿ETF」飆漲停 小資族帳上多逾7萬元嗨翻 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "0050開盤就漲停 ! 網友崩潰錯過低點 釣出內行人教一招 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "哲哲狠砸3千萬抄底0050 今亮燈漲停「帳面狂賺341萬」 - TVBS新聞",
+          "score": 1
+        },
+        {
+          "title": "今年ETF首例！元大台灣50反1也驚爆違約交割 總額近四千萬 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2030.0,
+    "predicted": 2219.88916015625,
+    "pct_change": 9.354145820504927,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "台股史上第1！台積電領622家飆漲停 指數收漲3310點 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "黃仁勳辭輝達執行長後 11 天復職，台積電股東人數創新高 - TechNews 科技新報",
+          "score": 1
+        },
+        {
+          "title": "螞蟻雄兵挺台積電戰勝了！3萬多人上周勇敢抄底 今漲停1張最多賺26萬元 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "川普再點名台灣！大讚魏哲家是「天才」 透露台積電德州建廠計畫 - 自由財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 206.0,
+    "predicted": 216.85403442382812,
+    "pct_change": 5.268948749431129,
+    "news": {
+      "count": 12,
+      "score": 0.25,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "86檔「黃仁勳概念股」紅通通 台積電鴻海緯創65檔飆漲停 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "台股爆漲3300點！台積電、聯發科、鴻海全亮燈 近600家飆漲停 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "黃仁勳回歸！鴻海、台積電、聯發科等556檔都漲停 金控總座曝供應鏈鬆口氣 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "鴻海董座出席政院救市會議 高呼「相信黃仁勳眼光」 - 自由時報",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 3685.0,
+    "predicted": 3805.38720703125,
+    "pct_change": 3.2669527009837176,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "郭明錤爆Google砍博通百萬顆TPU 聯發科受惠？ - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "聯發科反彈 攻上漲停 - UDN",
+          "score": 1
+        },
+        {
+          "title": "台股爆漲3300點！台積電、聯發科、鴻海全亮燈 近600家飆漲停 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "世芯-KY、聯發科雙漲停！創意卻跌逾5%　背後原因曝 - ETtoday財經雲",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 152.82220458984375,
+    "predicted": 152.08973693847656,
+    "pct_change": -0.47929399613952817,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia shares soar 30% after board reinstates Jensen Huang under Trump pressure - CNN",
+          "score": 1
+        },
+        {
+          "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened - The Guardian",
+          "score": -1
+        },
+        {
+          "title": "Nvidia surge: What investors should do with the stock and the AI trade now - CNBC",
+          "score": 1
+        },
+        {
+          "title": "Stock market today: Dow gains, S&P 500 and Nasdaq decline as chip stocks tumble, investors test AI appetite - Yahoo Finance",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 381.45001220703125,
+    "predicted": 374.8503723144531,
+    "pct_change": -1.7301454139149912,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Seniors embrace Tesla automated driving technology despite questions about safety - NPR",
+          "score": 0
+        },
+        {
+          "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports - Reuters",
+          "score": 0
+        },
+        {
+          "title": "Tesla’s Robotaxi Business Could Generate $3-4B In Annual Recurring Revenue By 2027-End, Says Seaport Global - Yahoo Finance",
+          "score": 0
+        },
+        {
+          "title": "We are the ‘Tesla’ of ratings, says tiny agency behind private credit boom - Financial Times",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 413.44000244140625,
+    "predicted": 451.8343505859375,
+    "pct_change": 9.28655861015108,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "Why Is AMD Stock Plunging Today Despite Strong Wall Street Buy Ratings? - Benzinga",
+          "score": 1
+        },
+        {
+          "title": "Taiwan Semiconductor Rallies 17% as Jensen Huang's Return to NVIDIA Lifts Chip Stocks; Intel Surges 15%, AMD Jumps 8% - 24/7 Wall St.",
+          "score": 1
+        },
+        {
+          "title": "‘Perfect Timing?’ 13F Filings Show Big Investors Cashed Out of AMD Stock Before the Slide - TipRanks",
+          "score": -1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 59616.37109375,
+    "predicted": 60745.63671875,
+    "pct_change": 1.8942206717416064,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "比特幣算力一年下滑8%，挖礦收益惡化成主因 - BigGo 財經",
+          "score": -1
+        },
+        {
+          "title": "比特幣在 Kraken 短暫跌至 1.7 萬美元，交易所維持交易有效 - TradingView",
+          "score": -1
+        },
+        {
+          "title": "關稅疑慮拖累股市，比特幣跌破6萬美元；Anthropic跌破IPO發行價 - BigGo 財經",
+          "score": 0
+        },
+        {
+          "title": "義大利裕信銀行推比特幣連結票據，漲幅上限鎖定65% - BigGo 財經",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1672.1700439453125,
+    "predicted": 1707.23193359375,
+    "pct_change": 2.0967897239513147,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "超29萬人爆倉！比特幣跌破5.9萬美元、以太坊重挫8% 「數位黃金」失靈？ - Yahoo 財經",
+          "score": -1
+        },
+        {
+          "title": "ETH 崩跌逼出賣壓！BTCS 砍 81% Aave 債務、套現 4,380 萬美元 - 動區動趨",
+          "score": -1
+        },
+        {
+          "title": "Bitmine 再買 7,819 枚 ETH！總持倉突破 608 萬枚，86% 質押賺取 2.45 億鎂年化收益 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "Bitmine Immersion Technologies (BMNR) 宣佈以太幣 (ETH) 持倉量達 609 萬枚，加密貨幣以及現金與有價證券總持倉價值達 111 億美元 - 經濟日報",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
