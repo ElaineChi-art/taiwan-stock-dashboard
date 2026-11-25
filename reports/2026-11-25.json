@@ -1,0 +1,290 @@
+[
+  {
+    "ticker": "0050.TW",
+    "name": "元大台灣50",
+    "market": "tw",
+    "binance": "",
+    "last_close": 95.69999694824219,
+    "predicted": 93.75773620605469,
+    "pct_change": -2.0295306208190795,
+    "news": {
+      "count": 12,
+      "score": 0.167,
+      "label": "偏多 🟢",
+      "samples": [
+        {
+          "title": "0050反1爆近4千萬違約交割！投資達人看傻：明明當天大漲 - ETtoday財經雲",
+          "score": 1
+        },
+        {
+          "title": "0050開盤就漲停 ! 網友崩潰錯過低點 釣出內行人教一招 - 自由財經",
+          "score": 1
+        },
+        {
+          "title": "0050昨才亮燈漲停！今隨台股暴跌 盤中重挫近10% - TVBS新聞",
+          "score": -1
+        },
+        {
+          "title": "台股愈震愈買！0050投資人數突破400萬大關創高 不到半年增逾百萬 - 鉅亨網",
+          "score": 1
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2330.TW",
+    "name": "台積電",
+    "market": "tw",
+    "binance": "",
+    "last_close": 2230.0,
+    "predicted": 2217.471923828125,
+    "pct_change": -0.5617971377522422,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "股災還沒完？台指期夜盤跌1343點 美股盤前台積電ADR跌近5％ 專家建議拉高現金部位、降低槓桿 - 自由財經",
+          "score": -1
+        },
+        {
+          "title": "台積電亞利桑那廠12/4辦擴建典禮 2奈米考慮落腳德州 - Rti 中央廣播電臺",
+          "score": 0
+        },
+        {
+          "title": "台積電變臉、外資一夕變苦主！昨賺3.6兆全吐光 還倒貼800億元 - Yahoo股市",
+          "score": 0
+        },
+        {
+          "title": "竹科女工程師控遭孤立霸凌…被踢出台積電會議 全公司加薪獨漏她怒告 - UDN",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2317.TW",
+    "name": "鴻海",
+    "market": "tw",
+    "binance": "",
+    "last_close": 226.5,
+    "predicted": 217.41012573242188,
+    "pct_change": -4.013189522109547,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "鴻海崩7%、聯發科挫6%！台積電大跌140元至2090元 台股開低暴跌2061點跌破39000點大關 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "86檔「黃仁勳概念股」紅通通 台積電鴻海緯創65檔飆漲停 - Yahoo股市",
+          "score": 1
+        },
+        {
+          "title": "鴻海印度子公司遭聲請破產！彭博爆供應商討4.8億　集團反擊 - ETtoday財經雲",
+          "score": 0
+        },
+        {
+          "title": "鴻海也挫跌停...「最大苦主」郭台銘身價原地蒸發391億元 - Yahoo股市",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "2454.TW",
+    "name": "聯發科",
+    "market": "tw",
+    "binance": "",
+    "last_close": 4050.0,
+    "predicted": 3893.6484375,
+    "pct_change": -3.8605324074074074,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "世芯-KY、聯發科雙漲停！創意卻跌逾5%　背後原因曝 - ETtoday財經雲",
+          "score": -1
+        },
+        {
+          "title": "IC設計大洗牌！世芯、聯發科雙漲停 創意重挫5%失守股后 - 聚財網",
+          "score": -1
+        },
+        {
+          "title": "郭明錤爆Google砍博通百萬顆TPU 聯發科受惠？ - MoneyDJ",
+          "score": 1
+        },
+        {
+          "title": "聯發科2027年不出手機旗艦SoC？ 官方闢謠：一定登場 - DIGITIMES",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "NVDA",
+    "name": "輝達",
+    "market": "us",
+    "binance": "",
+    "last_close": 148.10000610351562,
+    "predicted": 153.27828979492188,
+    "pct_change": 3.4964777029022196,
+    "news": {
+      "count": 12,
+      "score": 0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Tech stock sell-off deepens as AI fears outweigh Huang’s Nvidia return - CNN",
+          "score": -1
+        },
+        {
+          "title": "CoreWeave, Nvidia Credit Risk Hit Fresh Highs as AI Woes Mount - Bloomberg.com",
+          "score": 1
+        },
+        {
+          "title": "Colette Kress Scored a Win Worth Millions From Huang’s Return to Nvidia - Barron's",
+          "score": 1
+        },
+        {
+          "title": "Why Trump wanted Jensen Huang back at the helm of Nvidia - Yahoo Finance",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "name": "特斯拉",
+    "market": "us",
+    "binance": "",
+    "last_close": 379.0,
+    "predicted": 375.52130126953125,
+    "pct_change": -0.9178624618651056,
+    "news": {
+      "count": 12,
+      "score": -0.167,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "Tesla’s FSD Push In Europe Hits Another Snag As EU Reportedly Delays Approval Talks Yet Again – TSLA Stock Falls Premarket - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "Calls for change after woman is injured in Tesla crash during Arlington test drive - WTOP News",
+          "score": -1
+        },
+        {
+          "title": "Musk says Tesla self-driving makes seniors safer, but its fine print says they must watch the road - Fortune",
+          "score": 0
+        },
+        {
+          "title": "Seniors embrace Tesla automated driving technology despite questions about safety - NPR",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "AMD",
+    "name": "超微",
+    "market": "us",
+    "binance": "",
+    "last_close": 401.4700012207031,
+    "predicted": 433.08050537109375,
+    "pct_change": 7.87369020207643,
+    "news": {
+      "count": 12,
+      "score": 0.0,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade - Yahoo Finance",
+          "score": -1
+        },
+        {
+          "title": "AMD Stock Would Need to Rise About 57% to Get Back to Its Record. History Says How Long Past Comebacks Took. - Yahoo Finance",
+          "score": 1
+        },
+        {
+          "title": "What Is Going on With AMD Stock on Wednesday? - Benzinga",
+          "score": 0
+        },
+        {
+          "title": "AMD Stock Shows the Market Has Stopped Making Sense After Huang’s Dramatic Return - Barron's",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "BTC-USD",
+    "name": "比特幣",
+    "market": "crypto",
+    "binance": "BTCUSDT",
+    "last_close": 59689.03125,
+    "predicted": 60772.4375,
+    "pct_change": 1.8150843250618178,
+    "news": {
+      "count": 12,
+      "score": -0.25,
+      "label": "偏空 🔴",
+      "samples": [
+        {
+          "title": "【美股盤前】納指期貨跌逾1%，英偉達、黃金、比特幣齊跌，反彈能否持續？ 作者 Investing.com - Investing.com 香港 - 股市報價& 財經新聞",
+          "score": -1
+        },
+        {
+          "title": "幣安遭駭僅是導火線！21Shares 拆解比特幣深跌主因：需求減弱與 58 億美元連環爆倉 - 桑幣區識 Zombit",
+          "score": -1
+        },
+        {
+          "title": "比特幣在 Kraken 短暫跌至 1.7 萬美元，交易所維持交易有效 - TradingView",
+          "score": -1
+        },
+        {
+          "title": "以為永遠遺失的比特幣竟復活了！近萬個休眠地址八年後重啟轉帳，累計轉出 24.5 萬枚 BTC - 動區動趨",
+          "score": 0
+        }
+      ]
+    }
+  },
+  {
+    "ticker": "ETH-USD",
+    "name": "以太幣",
+    "market": "crypto",
+    "binance": "ETHUSDT",
+    "last_close": 1679.81005859375,
+    "predicted": 1706.3436279296875,
+    "pct_change": 1.5795577125041167,
+    "news": {
+      "count": 12,
+      "score": -0.083,
+      "label": "中性 ⚪",
+      "samples": [
+        {
+          "title": "美擬擴大關稅衝擊市場 以太幣摜破1700美元創波段新低 - Yahoo股市",
+          "score": -1
+        },
+        {
+          "title": "Bitmine 再買 7,819 枚 ETH！總持倉突破 608 萬枚，86% 質押賺取 2.45 億鎂年化收益 - 動區動趨",
+          "score": 1
+        },
+        {
+          "title": "美擬擴大關稅衝擊市場 以太幣摜破1700美元創波段新低 - 商傳媒",
+          "score": -1
+        },
+        {
+          "title": "Bit Digital 拋售近3萬枚以太幣 償還 Galaxy 借款5,000萬美元、槓桿減半 - BigGo 財經",
+          "score": 0
+        }
+      ]
+    }
+  }
+]
